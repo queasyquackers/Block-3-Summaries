@@ -1,0 +1,556 @@
+--- Page 1 ---
+Health Disparities: Closing the Gap through Cultural 
+Competencies
+Doctor- Patient  Relationship Course
+Brookshield Laurent D.O.
+Associate Dean of Population and Public Health
+Associate Professor, Family Medicine
+Executive Director
+Delta Population Health Institute
+at NYIT College of Medicine at Arkansas State University
+--- Page 2 ---
+• Define Health Disparities
+• Explain the contributing factors of health disparities
+• Explain how social determinants of health affect health outcomes
+• Explain how practices in healthcare contribute to health outcomes
+• Explain the role of  cultural beliefs in influencing  health
+• Define and explain the frameworks of cultural competency 
+• Explain the role of cultural competence and humility in addressing the 
+disparity  gaps in health care 
+Objectives
+--- Page 3 ---
+Life long commitment to grow in the 
+discipline of cultural competency to 
+provide quality health care to all persons 
+and to lead communities holistically and 
+with equity 
+Expectations
+--- Page 4 ---
+• Differences in the incidence, prevalence, 
+mortality and burden of disease as well as 
+other adverse health conditions or outcomes 
+that exist among specific population groups
+• Well documented in sub-populations based 
+on socio economic status, education, age, 
+race, ethnicity, geography, disability, gender, 
+sexual orientation
+HEALTH DISPARITIES
+--- Page 7 ---
+Health Disparities within Populations 
+in Rural Counties
+Center for Disease and Control and Prevention 
+2017 Study found people of color and American 
+Indian and Alaskan Native had worse health 
+than Non- Hispanic White counter parts 
+Rural black residents have a higher premature 
+mortality rates than their white or urban black 
+counterparts
+--- Page 9 ---
+Zip Codes Matter
+
+--- Page 10 ---
+Conditions in the environments 
+where people are born, live, learn, 
+work, play, worship, and age that 
+affect a wide range of health, 
+functioning, and quality-of-life 
+outcomes and risks.
+--- Page 11 ---
+County Health Rankings Model
+
+--- Page 12 ---
+Example of Structural 
+Inequities: REDLINING
+
+--- Page 13 ---
+Patterns of racial/ethnic inequities in health and why need to learn more
+• Rates of disease and death elevated for historically marginalized racial 
+group, blacks, Native American, Native Hawaiians  other Pacific Islanders
+• Persistent of racial difference in health even after adjustment for socio 
+economic status
+• Research indicates that across virtually every type of diagnostic and 
+treatment intervention blacks and other minorities receive fewer procedures 
+and poorer-quality medical care than do whites
+Impetus for Research on 
+Health and Race/Ethnicity
+Williams et al. Racism and Health: Evidence and Needed Research. Annual Review of Public Health 2019.40:105-25
+--- Page 14 ---
+LGBTQ+ Health 
+
+--- Page 16 ---
+Institute of Medicine. 2003. Unequal Treatment: 
+Confronting Racial and Ethnic Disparities in Health 
+Care. Washington, DC: The National Academies Press. 
+https://doi.org/10.17226/12875.
+--- Page 17 ---
+Are We Making Progress Toward 
+Eliminating Healthcare 
+Disparities?
+The Agency for Healthcare Research and Quality’s (AHRQ) 
+2021 National Healthcare Disparities and Quality Report 
+finds that since 2000, disparities have narrowed for only 
+about
+• 8% of measures of American Indian and Alaska Native 
+populations, 
+• 2% of measures for Asian populations
+• 3% of measures for Black populations
+• 4% of measures for Hispanic populations
+• 10% of measures of Native Hawaiian/PacificIslander 
+populations
+Adapted from Smedley, PhD, Brian (The Urban Institute)
+How can we accelerate progress toward Healthcare Equity. February 2023. PPT 
+National Academies Science Engineering Medicine
+--- Page 18 ---
+What Factors are Associated with 
+Healthcare Inequity?
+• Separate and inequitable healthcare systems – due to residential 
+segregation, the maldistribution of healthcare resources, health 
+system policies (e.g., limited provider networks)
+• “Tiered” health insurance and differences in provider 
+reimbursement
+• Clinician biases, stereotypes, and prejudice
+• Race-based clinical decision support and algorithms
+• A persistent lack of diversity among healthcare professionals
+Adapted from Smedley, PhD, Brian (The Urban Institute)
+How can we accelerate progress toward Healthcare Equity. February 2023. PPT 
+National Academies Science Engineering Medicine
+--- Page 19 ---
+“Medical Apartheid” – Separate and 
+Inequitable Care for Patients of Color
+(Gangopadhyaya, 2021)
+• Study investigated differences in Black and White patient safety 
+measures using hospital discharge records from 27 states
+• Black patients experienced higher rates of adverse patient safety 
+events on 55% of patient safety measures
+• For 82% of patient safety indicators, Black patients were significantly 
+less likely to be admitted into hospitals classified as “high quality” 
+(i.e., hospitals best at minimizing patient safety risks based on the median 
+value of each patient safety indicator)
+• This same research team found Black patients experience higher 
+rates of hospital- acquired illnesses or injuries related to surgical 
+procedures relative to white patients treated in the same hospital.
+• Within-hospital differences in Black-white adverse patient safety rates 
+remain when comparing Black and white patients with similar 
+coverage types.
+Adapted from Smedley, PhD, Brian (The Urban Institute)
+How can we accelerate progress toward Healthcare Equity. February 2023. PPT 
+National Academies Science Engineering Medicine
+--- Page 20 ---
+Racial Bias Among Healthcare 
+Providers
+• A systematic review of 15 studies measuring implicit bias and health outcomes 
+confirmed that healthcare professionals hold the same level of implicit bias 
+against Black, Latinx, and dark-skinned people as the general population, and 
+that “implicit bias was significantly related to patient–provider interactions, 
+treatment decisions, treatment adherence, and patient health outcomes” (Hall et 
+al., 2015)
+• A systematic review of 37 studies confirmed the substantial evidence of “pro- 
+White or light-skin/anti-Black, Hispanic, American Indian or dark-skin bias” among 
+a variety of healthcare professionals across multiple levels of training and 
+disciplines (Maina et al. 2017)
+Adapted from Smedley, PhD, Brian (The Urban Institute)
+How can we accelerate progress toward Healthcare Equity. February 2023. PPT 
+National Academies Science Engineering Medicine
+--- Page 21 ---
+Negative Patient Descriptors: Documenting Racial Bias in the 
+Electronic Health Record
+(Sun et al., 2022)
+• Researchers analyzed a sample of 40,113 history and physical notes (January 
+2019– October 2020) from 18,459 patients for sentences containing a negative 
+descriptor (for example, resistant or noncompliant) of the patient or the patient’s 
+behavior.
+• Sought to determine the odds of finding at least one negative descriptor as a 
+function of the patient’s race or ethnicity, controlling for sociodemographic and 
+health characteristics [e.g., “refused,” “(not) adherent,” “(not) compliant,” “agitated”].
+• Compared with White patients, Black patients had 2.54 times the odds of having at 
+least one negative descriptor in the history and physical notes.
+• “Our findings raise concerns about stigmatizing language in the EHR and its 
+potential to exacerbate racial and ethnic health care disparities.”
+Adapted from Smedley, PhD, Brian (The Urban Institute)
+How can we accelerate progress toward Healthcare Equity. February 2023. PPT 
+National Academies Science Engineering Medicine
+--- Page 22 ---
+Being the Difference to 
+ADVOCATE AND SAVE  Lives
+Adapted from Smedley, PhD, Brian (The Urban Institute)
+How can we accelerate progress toward Healthcare Equity. February 2023. PPT 
+National Academies Science Engineering Medicine
+--- Page 23 ---
+Health Disparities: Closing the Gap through Cultural 
+Competencies: PART II
+Doctor- Patient  Relationship Course
+Brookshield Laurent D.O.
+Associate Dean of Population and Public Health
+Associate Professor, Family Medicine 
+Executive Director
+Delta Population Health Institute
+at NYIT College of Medicine at Arkansas State University
+--- Page 24 ---
+• Define Health Disparities
+• Explain the contributing factors of health disparities
+• Explain how social determinants of health affect health outcomes
+• Explain how practices in healthcare contribute to health outcomes
+• Define and explain the frameworks of cultural competency 
+• Explain the role of  cultural beliefs in influencing  health
+• Explain the role of cultural competence and humility in addressing 
+the disparity  gaps in health care 
+Objectives
+--- Page 25 ---
+• Culture is considered a central concept inanthropology and 
+sociology  
+• encompassing the range of phenomena that are transmitted through 
+social learning in human societies
+• Reflects the whole of human behavior, including ideas, attitudes; ways 
+to relate with one another, manners of speaking or expression
+• Systems of belief, etiquette, law, morals, entertainment, and education 
+commonly shared among members of a particular group
+• Any individual can identify with one or more culture
+• Culture is NOT synonymous with race 
+Defining Culture
+--- Page 26 ---
+• Not about being “really polite”; although 
+you should be
+• Not just about being able to speak the 
+person’s language, although it can help
+• Not about knowing the stereo types of 
+different cultures
+What is cultural competency?
+--- Page 27 ---
+Demonstration of Cultural 
+Competency 
+According to the NIH 
+• “Cultural competency positively impacts 
+care through service delivery that is 
+“respectful of and responsive to the 
+health beliefs, practices and cultural and 
+linguistic needs of diverse patients”
+
+--- Page 28 ---
+Betancourt et al. Academic Medicine 2010; Concha, M, Villar, M.E., & Azevedo, L, (2014) Health Attitudes and 
+Beliefs Tool Kit, Technical Assistance Network for Children’s Behavioral Health, University of Maryland, 
+Baltimore, MD.
+• Understanding, adapting, and being 
+responsive to individuals from other 
+cultures with different belief systems than 
+own
+• The ability of health professionals to 
+communicate and effectively provide 
+high quality care to patients from 
+diverse sociocultural backgrounds
+Cultural Competence
+--- Page 29 ---
+Josepha Campinha -Bacote, PhD, MAR, PMHCNS -BC, CTN-A, FAAN
+Fisher-Borne, M, Cain, J.M., & Martin, S. L. (2015). From mastery to accountability: Cultural humility as an alternative 
+to cultural competence. Social Work Education, 34 (2), 165-181. doi:10.1080/02615479.2014.977244
+“Cultural Competemility”
+• Reconciling relationship between cultural 
+competency and cultural humility 
+• Critique: Cultural Competency can be seen as 
+acquiring  technical skill; potential for 
+stereotype, lacks in addressing of social justice 
+• Cultural humility: dynamic and life long 
+process focusing on self reflection and 
+personal critique
+Emerging Terms
+--- Page 31 ---
+Cultural Awareness 
+• Self examination
+• In depth exploration 
+of one owns 
+cultural/professional 
+background
+• Recognition of 
+biases/prejudices/
+assumptions
+
+--- Page 32 ---
+• Process of seeking and obtaining sound educational 
+foundation about diverse cultural and ethnic groups
+• Intra cultural variation
+• Avoid stereotypes 
+• Everyone in a culture adhere to various degree of 
+culture
+Cultural Knowledge
+
+--- Page 33 ---
+Clinician must integrate
+• Health related beliefs/cultural values
+• Disease incidence/prevalence
+• Lack of epidemiological data will negatively 
+affect care
+• Treatment efficacy
+Cultural Knowledge
+Campinha-Bacote. The Process of Cultural Competence in the delivery of Health Care Service: A model of 
+Care. Journal of Transcultural Nursing Vol. 13 No. 3 July 2002 181-184
+--- Page 34 ---
+Campinha-Bacote. The Process of Cultural Competence in the delivery of Health Care Service: A model of 
+Care. Journal of Transcultural Nursing Vol. 13 No. 3 July 2002 181-184
+• Ability to collect relevant cultural data 
+regarding the patient’s  presenting problem as 
+well as accurately performing physical 
+assessment with cultural context in mind
+Cultural Skill
+
+--- Page 35 ---
+Picture reference: http://www.answersandinsights.com/truxchange/
+Text reference:. Campinha-Bacote. The Process of Cultural Competence in the delivery of Health Care Service: A model of Care. Journal of 
+Transcultural Nursing Vol. 13 No. 3 July 2002 181-184
+• Process that encourages the health care 
+professional  to directly engage in cross 
+cultural interactions with patients from 
+culturally diverse backgrounds
+• Assessment of linguistic needs
+Cultural Encounters
+
+--- Page 36 ---
+Campinha-Bacote. The Process of Cultural Competence in the delivery of Health Care Service: A model of 
+Care. Journal of Transcultural Nursing Vol. 13 No. 3 July 2002 181-184
+• Motivations of health care provider “to want 
+to”, rather than to “have to” engage in the 
+process of being culturally aware, 
+knowledgeable, skillful and familiar with 
+cultural encounter
+Cultural Desire 
+
+--- Page 37 ---
+• Ask questions in a humble manner
+• (Only if it has something to do with the 
+medical issue or care)
+• Seek self-awareness
+• Suspend judgment
+• Express kindness and compassion
+• Support a safe and welcoming 
+environment 
+• Start where the patient is
+A guide to ‘ASSESS’ how to 
+develop consistent cultural 
+humility
+--- Page 38 ---
+• Culture matters in health care
+• You may not learn about every culture, 
+but you should understand how 
+culture affects communication and 
+health outcomes
+Culture and Health
+--- Page 39 ---
+(NKI. Center for Excellence in Culturally Competent Mental Health, 2014).
+Lead to barriers that may include, but are not 
+limited to:
+Stigmas
+Mistrust 
+Discrimination
+Poor health outcomes
+Higher cost in health care 
+Lack of Cultural Competence: 
+Impact of Clinical Outcome 
+--- Page 40 ---
+Lack of Cultural Competence: Impact of 
+Clinical Outcome 
+©2012–2013 Institute for Leadership in Medicine ⧫ www.TheILM.com
+--- Page 41 ---
+• Healthcare-seeking behavior
+• Perceived causes of illness
+• Understanding of disease 
+process
+• Treatment decisions
+The Influence of Cultural and 
+Social Factors on Health Outcomes
+--- Page 42 ---
+Concha, M, Villar, M.E., & Azevedo, L, (2014) Health Attitudes and Beliefs Tool Kit, Technical Assistance 
+Network for Children’s Behavioral Health, University of Maryland, Baltimore, MD.
+--- Page 44 ---
+Concha, M, Villar, M.E., & Azevedo, L, (2014) Health Attitudes and Beliefs Tool Kit, Technical Assistance Network for Children’s Behavioral 
+Health, University of Maryland, Baltimore, MD.
+--- Page 45 ---
+• Cultural forces are powerful determinants 
+of health-related behavior
+• A lack of knowledge or sensitivity to health 
+beliefs and practices of different cultures 
+can limit one’s ability to provide quality 
+healthcare 
+Culture Awareness in Health Care
+--- Page 46 ---
+Mrs. S 
+33-year-old woman from Pakistan and is Muslim, she presents to the clinic for 
+an evaluation. In her initial office screening, she notes that English is her 
+second language and is proficient in English. She prefers to see female 
+physicians. In the encounter, you come to find that she has a medical history of 
+diabetes. She has not been  taken medications for some time now .
+She complains of vaginal discharge and frequency of urination. 
+After the encounter and lab tests, you discuss the importance of blood sugar 
+control. Provide in-depth education  You re-start her on Insulin.
+Upon her return,  her blood sugars remain elevated. She remains frustrated 
+that her vaginal discharge has not resolved. 
+--- Page 47 ---
+• Perceived Seriousness
+• Dysuria and vaginal discharge
+• Perceived Benefits
+• Caring for Family
+• Not having to deal with the complications of diabetes
+• Perceived Barriers
+• Shame in using insulin
+• Couldn’t eat what she cooks for her family 
+• Self Efficacy
+• Can you do it on your own or do you need professional help?
+• Does the role of  family and spirituality enable self efficacy?
+APPLICATION OF THE 
+HEALTH BELIEF MODEL
+--- Page 48 ---
+Riegelman, Richard K., and Brenda Kirkwood. Public health 101: healthy people - healthy populations. 
+Burlington, MA: Jones & Bartlett Learning, 2015. Print
+• Culture
+• Influence how people make judgement or 
+sense about the world and decisions about 
+behavior
+• Defines: “good , bad, health, unhealthy”
+• Large body type in some cultures signifies wealth 
+and well being
+• Affects daily habits of life
+• Food choice of people groups from the 
+Mediterranean
+Cultures’ effects on Health
+--- Page 50 ---
+Riegelman, Richard K., and Brenda Kirkwood. Public health 101: healthy people - healthy populations. 
+Burlington, MA: Jones & Bartlett Learning, 2015. Print
+• Religion may influence
+• Attitudes in social practices
+• Sexual practices
+• Food 
+• Alcohol: part of religion or prohibited
+• Tobacco
+• Response to symptoms
+• Example: people groups may not prescribe to 
+traditional western medical care as a response to 
+symptoms
+Consideration of Culture and Health 
+--- Page 51 ---
+Riegelman, Richard K., and Brenda Kirkwood. Public health 101: healthy people - healthy populations. 
+Burlington, MA: Jones & Bartlett Learning, 2015. Print
+• Religion/Faith/Spirituality  may influence
+• Types of interventions that are acceptable
+• Blood transfusion
+• Attitudes toward stem cell research
+• Attitudes toward contraception/abortion
+• Certain aspects of end of life treatment
+• Response to disease
+• Role of prayer as an intervention to alter outcome
+Consideration of Culture and Health 
+--- Page 52 ---
+• There are various degrees to which 
+individuals adhere to the norms of their 
+culture
+• Each person may belong to more than one 
+type  culture
+Caveats to Culture
+--- Page 53 ---
+Five Essential Elements of Cultural 
+Competence 
+• Assessing cultural knowledge (avoid 
+stereotypes)
+• Valuing diversity
+• Managing the dynamic of difference
+• Adapting to diversity 
+• Institutionalizing cultural knowledge
+The Continuum. (n.d.). https://ccpep.org/home/what-is-cultural-proficiency/the-continuum/
+Accessed August 6, 2023 
+--- Page 54 ---
+• Developing skill set and framework 
+through a critical consciences of self, 
+other, and the world
+• Posturing oneself as a curious learner
+Approach to Cultural Competency
+--- Page 55 ---
+Tervalon and Murray- Garcia J Health Care Poor Underserved  1998
+• Cultural humility in this context is defined 
+as developing a lifelong commitment 
+towards self evaluation and critique when 
+engaging with patients and communities of 
+a different culture
+Cultural Humility
+--- Page 56 ---
+Source: Cultural Proficiency, A Manual for School Leaders, 2nd Edition by Randall B. Lindsey, Kikanza Nuri 
+Robins, and Raymond D. Terrell
+1. Cultural Destructiveness
+2. Cultural Incapacity 
+3. Cultural Blindness
+4. Cultural Pre-competence
+5. Cultural Competence
+6. Cultural Proficiency
+Cultural Proficiency Continuum
+--- Page 57 ---
+Burney and Paladko 2015 
+--- Page 58 ---
+Source: Cultural Proficiency, A Manual for School Leaders, 2nd Edition by Randall B. Lindsey, Kikanza Nuri 
+Robins, and Raymond D. Terrell
+1. Cultural Destructiveness .  See the difference, stomp it out.  
+Attitudes, policies, and practices that are destructive to cultures 
+and consequently to the individuals within the culture
+2.  Cultural Incapacity.  See the difference, make it wrong.  
+System or individuals in a culture are extremely biased, believe 
+in the superiority of the dominant group and assume a paternal 
+posture toward the so called “ lesser” groups. These systems or 
+individuals are often characterized unrealistic fear of people who 
+are different than the dominant group.
+3. Cultural Blindness.  See the difference, act as if you don’t.  
+Belief that culture make no difference and that all people are the 
+same values and behaviors of the dominant culture are 
+presumed to be universally applicable and beneficial.
+Cultural Proficiency Continuum
+--- Page 59 ---
+Cultural Proficiency Continuum  
+(continued) 
+4. Cultural Pre-competence.  See the differences, respond  inadequately.  
+An awareness of limitation in cross cultural communication and outreach. 
+Individuals or organizations desire to provide fair and equitable treatment with 
+appropriate cultural sensitivity without knowing what is possible or how to 
+proceed
+5.Competence.  See the difference, understand the difference. There is 
+acceptance and respect for difference, continuous expansion of cultural 
+knowledge and resources and variety of adaptations to belief systems, polices, 
+and practices that make it possible to be effective in many cultural contexts.
+6. Cultural Proficiency.  See the difference and respond. Holding culture in 
+high esteem. Seeking to add to the knowledge base of cultural competent 
+practice by conducting research, developing new approaches based on culture 
+and formally and informally increasing the knowledge of others about culture 
+and the dynamic of difference. Advocating for and championing cultural 
+competent practices in all arenas. 
+--- Page 60 ---
+• Elicit patient’s understanding of illness and strategies for 
+identifying different styles of communication 
+• Obtain decision making preferences/role of family 
+members
+• Acknowledge or use of complementary and alternative 
+medicine
+• Acquire skills for negotiating 
+• Use tools to increase  awareness of mistrust, prejudice, 
+impact culture in clinical decision making
+Moving toward Cultural 
+Competency
+--- Page 61 ---
+Understanding of your patient population
+Understand acceptable social behaviors
+Awareness of cultural health beliefs
+Acquiring cultural sensitivity
+Incorporating all of the above in the care of 
+your patient. 
+Required Skills for Cultural 
+Competency
+--- Page 62 ---
+Take the Think Cultural Health Module: 
+Culturally and Linguistically Appropriate 
+Services (CLAS) ( See CPG for 
+instructions) 
+Take the IAT
+PROJECT IMPLICIT SOCIAL ATTITUDES
+--- Page 63 ---
+Seidel’s Guide to Physical examination 8th edition Ch. 2 p 21-29 Cultural Competency
+• Define culture
+• Define cultural competency
+• Explain the role of culture in health
+• Explain how cultural beliefs affect health
+• Explain steps toward cultural proficiency
+Objectives
+--- Page 64 ---
+Lecture Feedback Form:
+https://comresearchdata.nyit.edu/redcap/surveys/?s=HRCY448FWYXREL4R
+Feedback Survey 
