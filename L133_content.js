@@ -16,7 +16,6 @@ export const L133_content = {
     *   **Soma (Cell Body):** Contains organelles.
     *   **Dendrites:** Information receiving (the "ears"). Often have **dendritic spines** (sites of excitatory synapses).
     *   **Symptoms:** Midbrain/hindbrain malformations ("Molar Tooth Sign"), intellectual disability, ataxia.
-    :::
 
 ## Synapses
 *   **Chemical Synapse:**
