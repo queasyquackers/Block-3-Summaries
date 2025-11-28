@@ -43,7 +43,13 @@ const L102_DATA = {
 *   Sidebending and Rotation are **Same** (e.g., F/E Rx Sx).
 *   Maintained by **Short Restrictors** (Rotatores, Intertransversarii).
 *   *Example:* L3 F Rr Sr (Flexed, Rotated Right, Sidebent Right).
-*   **Clinical Note:** Type II dysfunctions are often found at the apex or extremes of Type I curves. Treat Type IIs before Type Is.
+
+:::correlate
+**Type II Dysfunction Characteristics**
+*   **Location:** Often found at the **apex** or extremes of Type I curves.
+*   **Treatment Priority:** Treat Type IIs **before** Type Is.
+*   **Maintenance:** Maintained by short restrictors (Rotatores, Intertransversarii).
+:::
 
 -----
 

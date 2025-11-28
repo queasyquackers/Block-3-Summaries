@@ -1,10 +1,10 @@
 export const L130_content = {
-    id: "L130",
-    title: "L130 - Pathology: Healing and Repair",
-    module: "Pathology",
-    tags: ["Pathology", "Healing", "Repair", "Regeneration", "Scar", "Collagen", "Granulation Tissue", "Wound Healing"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L130",
+  title: "L130 - Pathology: Healing and Repair",
+  module: "Pathology",
+  tags: ["Pathology", "Healing", "Repair", "Regeneration", "Scar", "Collagen", "Granulation Tissue", "Wound Healing"],
+  createdAt: "2024-11-26",
+  summary: `
 # Pathology: Healing and Repair
 
 ## Overview
@@ -35,6 +35,13 @@ export const L130_content = {
 *   **Components:** Glycoproteins (Fibronectin, Laminin) for adhesion; Proteoglycans for hydration.
 *   **Matrix Metalloproteinases (MMPs):** Degrade collagen/ECM during remodeling. Inhibited by TIMPs (Tissue Inhibitors of Metalloproteinases).
 
+:::correlate
+**Scurvy (Vitamin C Deficiency)**
+*   **Pathology:** Vitamin C is a cofactor for **Lysyl Hydroxylase**, essential for collagen cross-linking.
+*   **Defect:** Defective collagen synthesis (especially Type I).
+*   **Symptoms:** Poor wound healing, bleeding gums, easy bruising.
+:::
+
 ## Phases of Cutaneous Wound Healing (Detailed Timeline)
 1.  **Inflammation (0-3 days):**
     *   Clot formation (fibrin, platelets).
@@ -61,81 +68,84 @@ export const L130_content = {
     *   **Wound Contraction:** Mediated by **Myofibroblasts**.
     *   Large scar.
 
+:::correlate
+**Abnormal Scarring: Keloid vs. Hypertrophic Scar**
+*   **Keloid:** Excessive collagen (Type I & III) that extends **beyond** the original wound boundaries. High recurrence rate; genetic predisposition.
+*   **Hypertrophic Scar:** Excessive collagen that remains **confined** to the wound boundaries. Often improves with time.
+:::
+
 ## Complications & Deterrents to Healing
 *   **Infection:** Most common cause of delayed healing.
 *   **Debris in wound:** Foreign objects, dirt, glass, rocks → must be debrided.
-*   **Nutritional Deficiency:** Vitamin C (Scurvy) → defective collagen synthesis. Protein malnutrition.
+*   **Nutritional Deficiency:** Protein malnutrition.
 *   **Obesity:** Impaired healing.
-*   **Vomiting:** Increased abdominal pressure → risk of dehiscence.
-*   **Keloid:** Excessive collagen (Type I & III) extending **beyond** wound boundaries. High recurrence. May run in families.
-*   **Hypertrophic Scar:** Excessive collagen **confined** to wound boundaries.
-*   **Dehiscence:** Rupture of a wound (e.g., abdominal surgery).
+*   **Vomiting:** Increased abdominal pressure → risk of **Dehiscence** (rupture of wound).
 *   **Contracture:** Excessive contraction (e.g., palms, soles, burns).
 `,
-    questions: [
-        {
-            question: "A 45-year-old male undergoes a partial hepatectomy (removal of 60% of the liver). Weeks later, the liver mass has largely been restored. This is an example of regeneration involving which cell type?",
-            options: [
-                "Labile cells",
-                "Stable cells",
-                "Permanent cells",
-                "Stem cells only"
-            ],
-            answer: 1,
-            explanation: "Hepatocytes are stable cells (quiescent) that can re-enter the cell cycle and proliferate in response to injury or tissue loss."
-        },
-        {
-            question: "During the proliferative phase of wound healing, which tissue type is characterized by the presence of new capillaries (angiogenesis), fibroblasts, and loose connective tissue?",
-            options: [
-                "Granulation tissue",
-                "Caseous necrosis",
-                "Keloid",
-                "Mature scar"
-            ],
-            answer: 0,
-            explanation: "Granulation tissue is the hallmark of the proliferative phase, consisting of new blood vessels (angiogenesis), fibroblasts, and inflammatory cells in a loose matrix."
-        },
-        {
-            question: "Which growth factor is considered the most potent fibrogenic agent, stimulating collagen synthesis and inhibiting its degradation?",
-            options: [
-                "VEGF",
-                "PDGF",
-                "TGF-beta",
-                "EGF"
-            ],
-            answer: 2,
-            explanation: "TGF-beta is the most important cytokine for the synthesis and deposition of connective tissue proteins (fibrosis)."
-        },
-        {
-            question: "A patient presents with a raised, irregular scar on their earlobe following a piercing. The scar extends well beyond the original site of injury. What is the diagnosis?",
-            options: [
-                "Hypertrophic scar",
-                "Keloid",
-                "Granuloma",
-                "Dehiscence"
-            ],
-            answer: 1,
-            explanation: "Keloids are characterized by excessive scar tissue formation that grows beyond the boundaries of the original wound. Hypertrophic scars remain confined to the wound."
-        },
-        {
-            question: "In the maturation phase of wound healing, the tensile strength of the wound increases primarily due to the replacement of Type III collagen with which collagen type?",
-            options: [
-                "Type I",
-                "Type II",
-                "Type IV",
-                "Type V"
-            ],
-            answer: 0,
-            explanation: "Type III collagen (immature) is replaced by Type I collagen (mature, high tensile strength) during the remodeling/maturation phase."
-        }
-    ],
-    glossary: [
-        { term: "Granulation Tissue", definition: "New tissue formed during wound healing, characterized by angiogenesis (new vessels) and fibroblast proliferation." },
-        { term: "Angiogenesis", definition: "The formation of new blood vessels from pre-existing vessels, critical for healing and tumor growth." },
-        { term: "Myofibroblast", definition: "A fibroblast with contractile properties (smooth muscle actin) responsible for wound contraction." },
-        { term: "Keloid", definition: "Excessive scar tissue that extends beyond the boundaries of the original wound." },
-        { term: "Dehiscence", definition: "The splitting or bursting open of a wound, often a surgical incision." }
-    ],
+  questions: [
+    {
+      question: "A 45-year-old male undergoes a partial hepatectomy (removal of 60% of the liver). Weeks later, the liver mass has largely been restored. This is an example of regeneration involving which cell type?",
+      options: [
+        "Labile cells",
+        "Stable cells",
+        "Permanent cells",
+        "Stem cells only"
+      ],
+      answer: 1,
+      explanation: "Hepatocytes are stable cells (quiescent) that can re-enter the cell cycle and proliferate in response to injury or tissue loss."
+    },
+    {
+      question: "During the proliferative phase of wound healing, which tissue type is characterized by the presence of new capillaries (angiogenesis), fibroblasts, and loose connective tissue?",
+      options: [
+        "Granulation tissue",
+        "Caseous necrosis",
+        "Keloid",
+        "Mature scar"
+      ],
+      answer: 0,
+      explanation: "Granulation tissue is the hallmark of the proliferative phase, consisting of new blood vessels (angiogenesis), fibroblasts, and inflammatory cells in a loose matrix."
+    },
+    {
+      question: "Which growth factor is considered the most potent fibrogenic agent, stimulating collagen synthesis and inhibiting its degradation?",
+      options: [
+        "VEGF",
+        "PDGF",
+        "TGF-beta",
+        "EGF"
+      ],
+      answer: 2,
+      explanation: "TGF-beta is the most important cytokine for the synthesis and deposition of connective tissue proteins (fibrosis)."
+    },
+    {
+      question: "A patient presents with a raised, irregular scar on their earlobe following a piercing. The scar extends well beyond the original site of injury. What is the diagnosis?",
+      options: [
+        "Hypertrophic scar",
+        "Keloid",
+        "Granuloma",
+        "Dehiscence"
+      ],
+      answer: 1,
+      explanation: "Keloids are characterized by excessive scar tissue formation that grows beyond the boundaries of the original wound. Hypertrophic scars remain confined to the wound."
+    },
+    {
+      question: "In the maturation phase of wound healing, the tensile strength of the wound increases primarily due to the replacement of Type III collagen with which collagen type?",
+      options: [
+        "Type I",
+        "Type II",
+        "Type IV",
+        "Type V"
+      ],
+      answer: 0,
+      explanation: "Type III collagen (immature) is replaced by Type I collagen (mature, high tensile strength) during the remodeling/maturation phase."
+    }
+  ],
+  glossary: [
+    { term: "Granulation Tissue", definition: "New tissue formed during wound healing, characterized by angiogenesis (new vessels) and fibroblast proliferation." },
+    { term: "Angiogenesis", definition: "The formation of new blood vessels from pre-existing vessels, critical for healing and tumor growth." },
+    { term: "Myofibroblast", definition: "A fibroblast with contractile properties (smooth muscle actin) responsible for wound contraction." },
+    { term: "Keloid", definition: "Excessive scar tissue that extends beyond the boundaries of the original wound." },
+    { term: "Dehiscence", definition: "The splitting or bursting open of a wound, often a surgical incision." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",

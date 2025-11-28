@@ -10,7 +10,75 @@ const L113_DATA = {
 **Lecturer:** S. Hoffmann, Ph.D.
 **Session:** Lecture #113
 
------\n\n## Part 1: Sympathetic Innervation\n\n### Pathway\n1.  **Preganglionic Neurons:** Lateral horn of **T1-T2**. Ascend in Sympathetic Chain.\n2.  **Ganglion:** Synapse in **Superior Cervical Ganglion** (C1-C4 level).\n3.  **Postganglionic Neurons:** Follow carotid arteries.\n    *   **Internal Carotid Nerve/Plexus:** To eye (Dilator pupillae, Superior tarsal muscle), forehead sweat glands, lacrimal gland (vasoconstriction).\n    *   **External Carotid Plexus:** To face (Sweat glands, vascular smooth muscle).\n\n### Functions\n*   **Eye:** Dilation of pupil (Mydriasis), elevation of eyelid (Superior tarsal muscle).\n*   **Skin:** Sweating (Sudomotor), Vasoconstriction (Pallor).\n*   **Salivary Glands:** Thick, viscous saliva.\n\n:::clinical\n**Clinical Correlate: Horner's Syndrome**\nLoss of sympathetic innervation to the head (lesion in chain, superior cervical ganglion, or carotid plexus).\n*   **Triad:** **Ptosis** (droopy eyelid), **Miosis** (constricted pupil), **Anhidrosis** (lack of sweating).\n*   **Other:** Flushing (loss of vasoconstriction) on affected side.\n*   *Causes:* Pancoast tumor (lung apex), neck trauma, dissection.\n:::\n\n## Part 2: Parasympathetic Innervation\n\n### The 4 Parasympathetic Ganglia of the Head\n\n#### 1. Ciliary Ganglion\n*   **Preganglionic:** **Oculomotor Nerve (CN III)**.\n*   **Postganglionic:** **Short Ciliary Nerves**.\n*   **Target:** **Sphincter Pupillae** (Constriction), **Ciliary Muscle** (Accommodation).\n*   *Function:* Miosis (constriction), Near vision (lens rounding).\n\n#### 2. Pterygopalatine Ganglion\n*   **Preganglionic:** **Facial Nerve (CN VII)** via **Greater Petrosal Nerve**.\n*   **Postganglionic:** Branches of **V2 (Maxillary)**.\n*   **Target:** **Lacrimal Gland**, Nasal/Palatine Mucosa.\n*   *Function:* Tearing (Lacrimation), Mucus secretion.\n\n#### 3. Submandibular Ganglion\n*   **Preganglionic:** **Facial Nerve (CN VII)** via **Chorda Tympani** $\\rightarrow$ Lingual Nerve.\n*   **Postganglionic:** Direct branches or via Lingual Nerve.\n*   **Target:** **Submandibular** and **Sublingual Glands**.\n*   *Function:* Salivation (watery).\n\n#### 4. Otic Ganglion\n*   **Preganglionic:** **Glossopharyngeal Nerve (CN IX)** via **Lesser Petrosal Nerve**.\n*   **Postganglionic:** **Auriculotemporal Nerve** (branch of V3).\n*   **Target:** **Parotid Gland**.\n*   *Function:* Salivation (watery).\n\n### Vagus Nerve (CN X)\nProvides parasympathetics to the neck (Pharynx, Larynx, Thyroid) via Superior and Recurrent Laryngeal nerves.\n\n:::clinical\n**Clinical Correlate: CN III Palsy**\nDamage to Oculomotor nerve.\n*   **Symptoms:** **Ptosis** (severe, Levator palpebrae), **Mydriasis** (dilated pupil, unopposed sympathetics), **"Down and Out"** eye position.\n*   *Contrast with Horner's:* Horner's has constricted pupil; CN III palsy has dilated pupil.\n:::\n\n:::clinical\n**Clinical Correlate: Frey's Syndrome (Gustatory Sweating)**\nAfter parotid surgery/trauma, regenerating parasympathetic fibers (Auriculotemporal n.) aberrantly innervate sweat glands instead of the parotid.\n*   **Symptom:** Sweating/Redness on cheek when eating (instead of salivating).\n:::\n`,
+-----
+
+## Part 1: Sympathetic Innervation
+
+### Pathway
+1.  **Preganglionic Neurons:** Lateral horn of **T1-T2**. Ascend in Sympathetic Chain.
+2.  **Ganglion:** Synapse in **Superior Cervical Ganglion** (C1-C4 level).
+3.  **Postganglionic Neurons:** Follow carotid arteries.
+    *   **Internal Carotid Nerve/Plexus:** To eye (Dilator pupillae, Superior tarsal muscle), forehead sweat glands, lacrimal gland (vasoconstriction).
+    *   **External Carotid Plexus:** To face (Sweat glands, vascular smooth muscle).
+
+### Functions
+*   **Eye:** Dilation of pupil (Mydriasis), elevation of eyelid (Superior tarsal muscle).
+*   **Skin:** Sweating (Sudomotor), Vasoconstriction (Pallor).
+*   **Salivary Glands:** Thick, viscous saliva.
+
+:::correlate
+**Horner's Syndrome**
+*   **Pathology:** Loss of sympathetic innervation to the head.
+*   **Triad:** **Ptosis** (droopy eyelid), **Miosis** (constricted pupil), **Anhidrosis** (lack of sweating).
+*   **Other:** Flushing (loss of vasoconstriction) on affected side.
+*   **Causes:** Pancoast tumor (lung apex), neck trauma, dissection.
+:::
+
+## Part 2: Parasympathetic Innervation
+
+### The 4 Parasympathetic Ganglia of the Head
+
+#### 1. Ciliary Ganglion
+*   **Preganglionic:** **Oculomotor Nerve (CN III)**.
+*   **Postganglionic:** **Short Ciliary Nerves**.
+*   **Target:** **Sphincter Pupillae** (Constriction), **Ciliary Muscle** (Accommodation).
+*   *Function:* Miosis (constriction), Near vision (lens rounding).
+
+#### 2. Pterygopalatine Ganglion
+*   **Preganglionic:** **Facial Nerve (CN VII)** via **Greater Petrosal Nerve**.
+*   **Postganglionic:** Branches of **V2 (Maxillary)**.
+*   **Target:** **Lacrimal Gland**, Nasal/Palatine Mucosa.
+*   *Function:* Tearing (Lacrimation), Mucus secretion.
+
+#### 3. Submandibular Ganglion
+*   **Preganglionic:** **Facial Nerve (CN VII)** via **Chorda Tympani** $\\rightarrow$ Lingual Nerve.
+*   **Postganglionic:** Direct branches or via Lingual Nerve.
+*   **Target:** **Submandibular** and **Sublingual Glands**.
+*   *Function:* Salivation (watery).
+
+#### 4. Otic Ganglion
+*   **Preganglionic:** **Glossopharyngeal Nerve (CN IX)** via **Lesser Petrosal Nerve**.
+*   **Postganglionic:** **Auriculotemporal Nerve** (branch of V3).
+*   **Target:** **Parotid Gland**.
+*   *Function:* Salivation (watery).
+
+### Vagus Nerve (CN X)
+Provides parasympathetics to the neck (Pharynx, Larynx, Thyroid) via Superior and Recurrent Laryngeal nerves.
+
+:::correlate
+**CN III Palsy**
+*   **Pathology:** Damage to Oculomotor nerve.
+*   **Symptoms:** **Ptosis** (severe, Levator palpebrae), **Mydriasis** (dilated pupil, unopposed sympathetics), **"Down and Out"** eye position.
+*   **Contrast:** Horner's has constricted pupil; CN III palsy has dilated pupil.
+:::
+
+:::correlate
+**Frey's Syndrome (Gustatory Sweating)**
+*   **Pathology:** Aberrant regeneration of parasympathetic fibers (Auriculotemporal n.) after parotid surgery/trauma.
+*   **Mechanism:** Fibers innervate sweat glands instead of the parotid.
+*   **Symptom:** Sweating/Redness on cheek when eating.
+:::
+`,
     questions: [
         {
             id: 'l113-q1',
@@ -121,3 +189,9 @@ const L113_DATA = {
         }
     ]
 };
+
+if (typeof window !== 'undefined' && window.LECTURES_DATA) {
+    window.LECTURES_DATA.push(L113_DATA);
+} else if (typeof module !== 'undefined' && module.exports) {
+    module.exports = L113_DATA;
+}

@@ -1,10 +1,10 @@
 export const L133_content = {
-    id: "L133",
-    title: "L133 - Introduction to the Nervous System",
-    module: "Neuroscience",
-    tags: ["Neuroscience", "Neuron", "Glia", "Synapse", "Myelin", "Astrocytes", "Microglia", "Oligodendrocytes", "Schwann Cells"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L133",
+  title: "L133 - Introduction to the Nervous System",
+  module: "Neuroscience",
+  tags: ["Neuroscience", "Neuron", "Glia", "Synapse", "Myelin", "Astrocytes", "Microglia", "Oligodendrocytes", "Schwann Cells"],
+  createdAt: "2024-11-26",
+  summary: `
 # Introduction to the Nervous System
 
 ## Overview
@@ -15,120 +15,126 @@ export const L133_content = {
 *   **Structure:**
     *   **Soma (Cell Body):** Contains organelles.
     *   **Dendrites:** Information receiving (the "ears"). Often have **dendritic spines** (sites of excitatory synapses).
-        *   *Clinical Correlate:* **Fragile X Syndrome** (FMRP mutation) $\\rightarrow$ increased/immature spines $\\rightarrow$ cognitive disability. **Schizophrenia** $\\rightarrow$ impoverished spines.
-    *   **Axon:** Information sending (the "mouth").
-        *   **Axon Initial Segment:** High density of ion channels for action potential generation.
-        *   **Axon Terminals:** Release neurotransmitters.
-    *   **Primary Cilium:** Sensory antenna.
-        *   *Clinical Correlate:* **Joubert Syndrome** (ALR13B mutation) $\\rightarrow$ cilia defects $\\rightarrow$ midbrain/hindbrain malformations, intellectual disability.
+    *   **Symptoms:** Midbrain/hindbrain malformations ("Molar Tooth Sign"), intellectual disability, ataxia.
+    :::
 
 ## Synapses
 *   **Chemical Synapse:**
     *   Presynaptic axon terminal releases neurotransmitter vesicles into the **synaptic cleft**.
     *   Neurotransmitter binds to receptors on postsynaptic dendrite/spine.
     *   Unidirectional, slower (1-5 ms).
+    :::correlate
+    **Synaptic Proteins & Autism**
+    *   **SHANK3:** Scaffolding protein at postsynaptic density.
+    *   **Mutation:** Associated with **Autism Spectrum Disorder** and Phelan-McDermid syndrome.
+    :::
 *   **Electrical Synapse (Gap Junctions):**
     *   Direct connection via **Connexin** proteins forming channels.
     *   Bidirectional flow of ions and small molecules.
     *   Very fast (<1 ms).
     *   Allows for synchronization of neuronal activity.
-    *   *Clinical Correlate:* Connexin mutations cause ~30 diseases (e.g., deafness, skin disorders).
+    :::correlate
+    **Connexin Mutations**
+    *   Gap junctions are made of **Connexins**.
+    *   Mutations cause ~30 diseases (e.g., Deafness, Skin disorders like Vohwinkel syndrome).
+    :::
 
 ## Glial Cells: Support and Defense
 *   **Astrocytes:**
     *   Structural support at synapses.
-    *   Regulate extracellular ions ($K^+$) and neurotransmitters (Glutamate uptake).
+    *   Regulate extracellular ions (K<sup>+</sup>) and neurotransmitters (Glutamate uptake).
     *   **Blood-Brain Barrier (BBB):** End-feet contact blood vessels to regulate hemodynamics (neurovascular coupling).
     *   **Reactive Astrocytes:** Respond to injury (gliosis/glial scar). Marker: **GFAP** (Glial Fibrillary Acidic Protein).
-    *   *Clinical Correlate:* **Alexander Disease** (GFAP mutation) $\\rightarrow$ leukodystrophy (white matter deficits).
+    :::correlate
+    **Alexander Disease**
+    *   **Cause:** **GFAP** mutation (Astrocytes).
+    *   **Pathology:** Leukodystrophy (white matter deficits), Rosenthal fibers.
+    *   **Symptoms:** Macrocephaly, seizures, developmental delay.
+    :::
 *   **Microglia:**
     *   Immune cells of the CNS (phagocytes).
-    *   Respond to injury/infection by changing shape (ramified $\\rightarrow$ amoeboid) and phagocytosing debris/dying neurons.
+    *   Respond to injury/infection by changing shape (ramified &rarr; amoeboid) and phagocytosing debris/dying neurons.
     *   Release cytokines.
 *   **Oligodendrocytes (CNS):**
     *   Produce **myelin** in the CNS.
     *   One oligo myelinate multiple axon segments.
     *   Marker: **Olig2**.
-    *   *Clinical Correlate:* **Multiple Sclerosis** (demyelination), **Oligodendroglioma** (tumor).
+    :::correlate
+    **Oligodendrocyte Pathologies**
+    *   **Multiple Sclerosis:** Autoimmune demyelination in CNS.
+    *   **Oligodendroglioma:** Tumor derived from oligodendrocytes ("Fried egg" appearance).
+    *   **MOGAD:** Antibody against MOG (Myelin Oligodendrocyte Glycoprotein) &rarr; Inflammation/Demyelination.
+    :::
 *   **Schwann Cells (PNS):**
-    *   Produce myelin in the PNS.
-    *   One Schwann cell myelinates one axon segment.
-    *   *Note:* PNS axons can regenerate (Wallerian degeneration followed by regrowth); CNS axons typically do not.
-
-## Myelin and Nodes of Ranvier
-*   **Myelin:** Insulating layer that increases conduction speed.
-*   **Nodes of Ranvier:** Gaps in myelin with high density of $Na^+$ channels for saltatory conduction.
-*   *Clinical Correlate:* **Pitt-Hopkins Syndrome** (CNTNAP2/CASPR2 mutation) $\\rightarrow$ node dysfunction $\\rightarrow$ autism, epilepsy.
-*   *Clinical Correlate:* **MOGAD** (Myelin Oligodendrocyte Glycoprotein Antibody Disease) $\\rightarrow$ autoimmune attack on myelin.
 
 ## Other Cells
 *   **Ependymal Cells:** Line ventricles, produce CSF.
 *   **Pericytes:** Contractile cells around capillaries, regulate blood flow.
 `,
-    questions: [
-        {
-            question: "A pathologist examines a brain specimen from a patient with a history of severe head trauma. They observe a dense network of cells staining positive for GFAP (Glial Fibrillary Acidic Protein) around the injury site. Which cell type is primarily responsible for this 'glial scar'?",
-            options: [
-                "Microglia",
-                "Oligodendrocytes",
-                "Astrocytes",
-                "Schwann cells"
-            ],
-            answer: 2,
-            explanation: "Astrocytes become reactive following injury (gliosis) and upregulate GFAP, forming a glial scar."
-        },
-        {
-            question: "A child presents with intellectual disability, ataxia, and characteristic midbrain malformations ('molar tooth sign'). Genetic testing reveals a mutation in a gene required for the formation of the primary cilium in neurons. What is the most likely diagnosis?",
-            options: [
-                "Fragile X Syndrome",
-                "Joubert Syndrome",
-                "Alexander Disease",
-                "Multiple Sclerosis"
-            ],
-            answer: 1,
-            explanation: "Joubert syndrome is a ciliopathy caused by mutations in genes like ARL13B, affecting the neuronal primary cilium."
-        },
-        {
-            question: "Which of the following best describes the function of the Node of Ranvier?",
-            options: [
-                "Synthesis of neurotransmitters",
-                "Insulation of the axon to prevent ion leakage",
-                "Regeneration of the action potential via high density of ion channels",
-                "Phagocytosis of cellular debris"
-            ],
-            answer: 2,
-            explanation: "Nodes of Ranvier are gaps in the myelin sheath where voltage-gated ion channels are clustered to regenerate the action potential (saltatory conduction)."
-        },
-        {
-            question: "In contrast to chemical synapses, electrical synapses are characterized by:",
-            options: [
-                "Unidirectional information flow",
-                "Significant synaptic delay (1-5 ms)",
-                "Use of vesicles for transmission",
-                "Bidirectional flow of ions through connexin channels"
-            ],
-            answer: 3,
-            explanation: "Electrical synapses (gap junctions) allow direct, bidirectional, and very fast flow of ions and small molecules between cells."
-        },
-        {
-            question: "A patient is diagnosed with an autoimmune disorder where antibodies attack Myelin Oligodendrocyte Glycoprotein (MOG). Which cell type is the primary target of this attack?",
-            options: [
-                "Schwann cells",
-                "Oligodendrocytes",
-                "Astrocytes",
-                "Microglia"
-            ],
-            answer: 1,
-            explanation: "MOG is a protein found on the surface of oligodendrocytes and their myelin sheaths in the CNS. MOGAD is a demyelinating disease."
-        }
-    ],
-    glossary: [
-        { term: "Dendritic Spine", definition: "Small protrusion on a dendrite that typically receives excitatory input; site of synaptic plasticity." },
-        { term: "Node of Ranvier", definition: "Gap in the myelin sheath of a nerve, between adjacent Schwann cells or oligodendrocytes, where action potentials are regenerated." },
-        { term: "Saltatory Conduction", definition: "Rapid transmission of a nerve impulse along an axon, resulting from the action potential jumping from one node of Ranvier to another." },
-        { term: "Gliosis", definition: "Proliferation or hypertrophy of glial cells (usually astrocytes) in response to damage to the central nervous system." },
-        { term: "Wallerian Degeneration", definition: "Degeneration of the distal portion of an axon and its myelin sheath following injury." }
-    ],
+  questions: [
+    {
+      question: "A pathologist examines a brain specimen from a patient with a history of severe head trauma. They observe a dense network of cells staining positive for GFAP (Glial Fibrillary Acidic Protein) around the injury site. Which cell type is primarily responsible for this 'glial scar'?",
+      options: [
+        "Microglia",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Schwann cells"
+      ],
+      answer: 2,
+      explanation: "Astrocytes become reactive following injury (gliosis) and upregulate GFAP, forming a glial scar."
+    },
+    {
+      question: "A child presents with intellectual disability, ataxia, and characteristic midbrain malformations ('molar tooth sign'). Genetic testing reveals a mutation in a gene required for the formation of the primary cilium in neurons. What is the most likely diagnosis?",
+      options: [
+        "Fragile X Syndrome",
+        "Joubert Syndrome",
+        "Alexander Disease",
+        "Multiple Sclerosis"
+      ],
+      answer: 1,
+      explanation: "Joubert syndrome is a ciliopathy caused by mutations in genes like ARL13B, affecting the neuronal primary cilium."
+    },
+    {
+      question: "Which of the following best describes the function of the Node of Ranvier?",
+      options: [
+        "Synthesis of neurotransmitters",
+        "Insulation of the axon to prevent ion leakage",
+        "Regeneration of the action potential via high density of ion channels",
+        "Phagocytosis of cellular debris"
+      ],
+      answer: 2,
+      explanation: "Nodes of Ranvier are gaps in the myelin sheath where voltage-gated ion channels are clustered to regenerate the action potential (saltatory conduction)."
+    },
+    {
+      question: "In contrast to chemical synapses, electrical synapses are characterized by:",
+      options: [
+        "Unidirectional information flow",
+        "Significant synaptic delay (1-5 ms)",
+        "Use of vesicles for transmission",
+        "Bidirectional flow of ions through connexin channels"
+      ],
+      answer: 3,
+      explanation: "Electrical synapses (gap junctions) allow direct, bidirectional, and very fast flow of ions and small molecules between cells."
+    },
+    {
+      question: "A patient is diagnosed with an autoimmune disorder where antibodies attack Myelin Oligodendrocyte Glycoprotein (MOG). Which cell type is the primary target of this attack?",
+      options: [
+        "Schwann cells",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Microglia"
+      ],
+      answer: 1,
+      explanation: "MOG is a protein found on the surface of oligodendrocytes and their myelin sheaths in the CNS. MOGAD is a demyelinating disease."
+    }
+  ],
+  glossary: [
+    { term: "Dendritic Spine", definition: "Small protrusion on a dendrite that typically receives excitatory input; site of synaptic plasticity." },
+    { term: "Node of Ranvier", definition: "Gap in the myelin sheath of a nerve, between adjacent Schwann cells or oligodendrocytes, where action potentials are regenerated." },
+    { term: "Saltatory Conduction", definition: "Rapid transmission of a nerve impulse along an axon, resulting from the action potential jumping from one node of Ranvier to another." },
+    { term: "Gliosis", definition: "Proliferation or hypertrophy of glial cells (usually astrocytes) in response to damage to the central nervous system." },
+    { term: "Wallerian Degeneration", definition: "Degeneration of the distal portion of an axon and its myelin sheath following injury." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",

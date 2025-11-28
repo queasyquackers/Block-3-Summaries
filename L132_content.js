@@ -1,10 +1,10 @@
 export const L132_content = {
-    id: "L132",
-    title: "L132 - Pathology: Neoplasia (Part 2)",
-    module: "Pathology",
-    tags: ["Pathology", "Neoplasia", "Cancer", "Metastasis", "Oncogenes", "Microbes", "Paraneoplastic"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L132",
+  title: "L132 - Pathology: Neoplasia (Part 2)",
+  module: "Pathology",
+  tags: ["Pathology", "Neoplasia", "Cancer", "Metastasis", "Oncogenes", "Microbes", "Paraneoplastic"],
+  createdAt: "2024-11-26",
+  summary: `
 # Pathology: Neoplasia (Part 2)
 
 ## Part 1: Genetic and Molecular Basis of Cancer
@@ -49,16 +49,27 @@ export const L132_content = {
     *   Triggering apoptosis (induces **BAX**).
 *   **Checkpoints:** Required for G1/S checkpoint, main component of G2/M checkpoint.
 *   **Mechanism:** Homozygous loss (biallelic loss-of-function mutations). Most sporadic cancers require "two hits" (both alleles mutated).
-*   **Li-Fraumeni Syndrome (VERY IMPORTANT):**
-    *   Patients inherit **one mutant p53 allele** → only need **one "hit"** to lose p53 function.
-    *   **25-fold greater chance** of developing malignancy by age 50.
-    *   **Cancers:** Sarcomas, breast cancer, leukemia, brain tumors, adrenal cortex carcinomas.
+*   **Mechanism:** Homozygous loss (biallelic loss-of-function mutations). Most sporadic cancers require "two hits" (both alleles mutated).
+
+:::correlate
+**Li-Fraumeni Syndrome**
+*   **Defect:** Germline mutation in **TP53** (one mutant allele inherited).
+*   **Mechanism:** Only one somatic "hit" needed to lose p53 function (Two-Hit Hypothesis).
+*   **Risk:** 25-fold increased risk of malignancy by age 50.
+*   **Cancers:** **SBLA** (Sarcoma, Breast, Leukemia, Adrenal).
+:::
 
 ### Warburg Effect (Aerobic Glycolysis)
 *   **Definition:** Cancer cells use **glycolysis** even in the presence of ample oxygen (aerobic glycolysis), converting glucose to **lactate** (NOT lactose - typo in some texts!).
 *   **Why?** While inefficient for ATP (2 ATP vs 36 ATP from oxidative phosphorylation), it provides **metabolic intermediates** needed for biosynthesis of cellular components (proteins, lipids, nucleic acids).
-*   **Clinical Use:** PET scans use ¹⁸F-fluorodeoxyglucose to visualize tumors ("glucose hunger").
-*   **Note:** Not cancer-specific - rapidly growing normal cells (embryonic tissues) also use aerobic glycolysis.
+*   **Why?** While inefficient for ATP (2 ATP vs 36 ATP from oxidative phosphorylation), it provides **metabolic intermediates** needed for biosynthesis of cellular components (proteins, lipids, nucleic acids).
+
+:::correlate
+**PET Scans & The Warburg Effect**
+*   **Principle:** Cancer cells exhibit **"Glucose Hunger"** (high glucose uptake) due to aerobic glycolysis.
+*   **Imaging:** **PET Scans** use a glucose analog (**18F-FDG**) to visualize metabolically active tumors.
+*   **Note:** Also highlights normal tissues with high glucose use (brain, heart).
+:::
 
 ## Part 2: Cancer Growth and Metastasis
 *   **Tumor Growth Kinetics:**
@@ -106,70 +117,70 @@ export const L132_content = {
     *   **Hypertrophic Osteoarthropathy:** Clubbing of fingers (Lung cancer).
 *   **Other:** Vascular/hematological changes, nephrotic syndrome, bone/joint/soft tissue changes.
 `,
-    questions: [
-        {
-            question: "Which hallmark of cancer allows tumor cells to divide indefinitely without entering senescence?",
-            options: [
-                "Sustained angiogenesis",
-                "Evasion of apoptosis",
-                "Reactivation of telomerase",
-                "Insensitivity to anti-growth signals"
-            ],
-            answer: 2,
-            explanation: "Reactivation of telomerase maintains telomere length, preventing the cell from reaching the Hayflick limit and allowing for limitless replicative potential (immortality)."
-        },
-        {
-            question: "Which route of metastasis is most characteristic of carcinomas?",
-            options: [
-                "Hematogenous spread",
-                "Lymphatic spread",
-                "Seeding of body cavities",
-                "Perineural invasion"
-            ],
-            answer: 1,
-            explanation: "Carcinomas typically spread via the lymphatics to regional lymph nodes first, whereas sarcomas tend to spread hematogenously."
-        },
-        {
-            question: "A patient with small cell carcinoma of the lung presents with muscle weakness that improves with use. This is likely due to antibodies against:",
-            options: [
-                "Acetylcholine receptors",
-                "Presynaptic voltage-gated calcium channels",
-                "NMDA receptors",
-                "Musk protein"
-            ],
-            answer: 1,
-            explanation: "This describes Lambert-Eaton Myasthenic Syndrome, a paraneoplastic syndrome associated with small cell lung cancer caused by antibodies against presynaptic calcium channels."
-        },
-        {
-            question: "Which oncogenic virus is mechanistically linked to the inhibition of p53 and Rb tumor suppressor proteins via E6 and E7 viral oncoproteins?",
-            options: [
-                "Epstein-Barr Virus (EBV)",
-                "Hepatitis B Virus (HBV)",
-                "Human Papillomavirus (HPV)",
-                "Human T-cell Leukemia Virus (HTLV-1)"
-            ],
-            answer: 2,
-            explanation: "High-risk HPV strains express E6 (degrades p53) and E7 (inhibits Rb), promoting uncontrolled cell division."
-        },
-        {
-            question: "The 'Warburg Effect' in cancer metabolism refers to:",
-            options: [
-                "Increased oxidative phosphorylation",
-                "Shift to aerobic glycolysis",
-                "Increased fatty acid oxidation",
-                "Decreased glucose uptake"
-            ],
-            answer: 1,
-            explanation: "The Warburg Effect is the phenomenon where cancer cells preferentially use glycolysis for energy production even in the presence of ample oxygen (aerobic glycolysis)."
-        }
-    ],
-    glossary: [
-        { term: "Oncogene", definition: "A gene that has the potential to cause cancer. In tumor cells, they are often mutated or expressed at high levels." },
-        { term: "Tumor Suppressor Gene", definition: "A gene that protects a cell from one step on the path to cancer. Loss of function mutations in these genes allow cancer to develop." },
-        { term: "Paraneoplastic Syndrome", definition: "A syndrome (a set of signs and symptoms) that is the consequence of cancer in the body but is not due to the local presence of cancer cells." },
-        { term: "Angiogenesis", definition: "The physiological process through which new blood vessels form from pre-existing vessels, essential for tumor growth beyond a certain size." },
-        { term: "Cachexia", definition: "A complex metabolic syndrome associated with underlying illness (like cancer) characterized by loss of muscle with or without loss of fat mass." }
-    ],
+  questions: [
+    {
+      question: "Which hallmark of cancer allows tumor cells to divide indefinitely without entering senescence?",
+      options: [
+        "Sustained angiogenesis",
+        "Evasion of apoptosis",
+        "Reactivation of telomerase",
+        "Insensitivity to anti-growth signals"
+      ],
+      answer: 2,
+      explanation: "Reactivation of telomerase maintains telomere length, preventing the cell from reaching the Hayflick limit and allowing for limitless replicative potential (immortality)."
+    },
+    {
+      question: "Which route of metastasis is most characteristic of carcinomas?",
+      options: [
+        "Hematogenous spread",
+        "Lymphatic spread",
+        "Seeding of body cavities",
+        "Perineural invasion"
+      ],
+      answer: 1,
+      explanation: "Carcinomas typically spread via the lymphatics to regional lymph nodes first, whereas sarcomas tend to spread hematogenously."
+    },
+    {
+      question: "A patient with small cell carcinoma of the lung presents with muscle weakness that improves with use. This is likely due to antibodies against:",
+      options: [
+        "Acetylcholine receptors",
+        "Presynaptic voltage-gated calcium channels",
+        "NMDA receptors",
+        "Musk protein"
+      ],
+      answer: 1,
+      explanation: "This describes Lambert-Eaton Myasthenic Syndrome, a paraneoplastic syndrome associated with small cell lung cancer caused by antibodies against presynaptic calcium channels."
+    },
+    {
+      question: "Which oncogenic virus is mechanistically linked to the inhibition of p53 and Rb tumor suppressor proteins via E6 and E7 viral oncoproteins?",
+      options: [
+        "Epstein-Barr Virus (EBV)",
+        "Hepatitis B Virus (HBV)",
+        "Human Papillomavirus (HPV)",
+        "Human T-cell Leukemia Virus (HTLV-1)"
+      ],
+      answer: 2,
+      explanation: "High-risk HPV strains express E6 (degrades p53) and E7 (inhibits Rb), promoting uncontrolled cell division."
+    },
+    {
+      question: "The 'Warburg Effect' in cancer metabolism refers to:",
+      options: [
+        "Increased oxidative phosphorylation",
+        "Shift to aerobic glycolysis",
+        "Increased fatty acid oxidation",
+        "Decreased glucose uptake"
+      ],
+      answer: 1,
+      explanation: "The Warburg Effect is the phenomenon where cancer cells preferentially use glycolysis for energy production even in the presence of ample oxygen (aerobic glycolysis)."
+    }
+  ],
+  glossary: [
+    { term: "Oncogene", definition: "A gene that has the potential to cause cancer. In tumor cells, they are often mutated or expressed at high levels." },
+    { term: "Tumor Suppressor Gene", definition: "A gene that protects a cell from one step on the path to cancer. Loss of function mutations in these genes allow cancer to develop." },
+    { term: "Paraneoplastic Syndrome", definition: "A syndrome (a set of signs and symptoms) that is the consequence of cancer in the body but is not due to the local presence of cancer cells." },
+    { term: "Angiogenesis", definition: "The physiological process through which new blood vessels form from pre-existing vessels, essential for tumor growth beyond a certain size." },
+    { term: "Cachexia", definition: "A complex metabolic syndrome associated with underlying illness (like cancer) characterized by loss of muscle with or without loss of fat mass." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",

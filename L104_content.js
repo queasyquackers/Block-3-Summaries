@@ -25,6 +25,12 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
     *   **Nerve:** CN V (Trigeminal).
     *   **Muscles:** Mastication, Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.
     *   **Bone/Cartilage:** Mandible, Malleus, Incus.
+    :::correlate
+    **Cleft Lip & Palate**
+    *   **Cleft Lip:** Failure of fusion between Maxillary and Medial Nasal prominences.
+    *   **Cleft Palate:** Failure of fusion between Palatine shelves.
+    *   Results in abnormal facial appearance and speech defects.
+    :::
 *   **Arch 2 (Hyoid):**
     *   **Nerve:** CN VII (Facial).
     *   **Muscles:** Facial Expression, Stapedius, Stylohyoid, Post. Digastric.
@@ -44,8 +50,14 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
 *   **Pouch 3:** Inferior Parathyroid, Thymus.
 *   **Pouch 4:** Superior Parathyroid, Ultimobranchial body (C-cells).
 
-### Clinical Correlates
-*   **Branchial Cyst/Fistula:** Persistence of the cervical sinus (fusion of Clefts 2-4). Usually anterior to SCM.
+
+
+:::correlate
+**Branchial Cyst / Fistula**
+*   **Cause:** Persistence of the **Cervical Sinus** (fusion of Clefts 2-4).
+*   **Presentation:** Cyst or fistula usually located **anterior to the SCM**.
+*   Internal fistula may open at the palatine tonsil (Pouch 2).
+:::
 
 -----
 
@@ -64,9 +76,13 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
 ### Thyroid Development
 *   Originates from **Foramen Cecum** (between Arch 1 & 3).
 *   Descends via **Thyroglossal Duct**.
-*   **Thyroglossal Duct Cyst:** Midline neck mass, moves with swallowing/tongue protrusion.
-*   **Ectopic Thyroid:** Thyroid tissue along descent path (e.g., Lingual Thyroid).
-*   **Pyramidal Lobe:** Common variant; extension of thyroid tissue up the thyroglossal duct path.
+
+:::correlate
+**Thyroglossal Duct Cyst**
+*   **Cyst:** Midline neck mass that **moves** with swallowing or tongue protrusion.
+*   **Ectopic Thyroid:** Thyroid tissue found along the descent path (e.g., Lingual Thyroid).
+*   **Pyramidal Lobe:** Common variant; extension of thyroid tissue up the duct path.
+:::
 
 ### Placodes (Ectodermal Thickenings)
 *   **Nasal Placode:** Olfactory epithelium (CN I).
@@ -88,7 +104,20 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
     *   **Teeth:** Dentine (Odontoblasts).
     *   **Eye:** Choroid, Sclera, Iris stroma.
     *   **Other:** Melanocytes, Ganglia (CN V, VII, IX, X), Meninges, Adrenal Medulla.
-*   **Treacher Collins Syndrome:** Genetic disorder affecting NCC migration in Arches 1 & 2. Symptoms: Mandibulofacial dysostosis, micrognathia, cleft palate, hearing loss.
+
+:::correlate
+**Treacher Collins Syndrome**
+*   **Cause:** Genetic defect in **Neural Crest Cell** migration (Arches 1 & 2).
+*   **Symptoms:** Mandibulofacial dysostosis, micrognathia (small jaw), cleft palate, hearing loss.
+*   **Key:** Underdevelopment of facial bones (Zygoma, Mandible).
+:::
+
+:::correlate
+**Skull Malformations**
+*   **Craniosynostosis:** Premature closure of sutures/fontanelles -> Deformity.
+*   **Microcephaly:** Abnormal brain development -> Small head -> Mental deficiency.
+*   **Hydrocephalus:** CSF buildup -> Enlarged ventricles -> Head enlargement.
+:::
 
 ### Germ Layer Summary
 *   **Ectoderm:** Epidermis, Brain, Spinal Cord, Placodes.

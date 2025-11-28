@@ -26,10 +26,12 @@ const L127_DATA = {
 *   **Medial Wall:** Frontal, Ethmoid (orbital plate - predominant), Lacrimal.
 *   **Orbital Septum:** Tough fibrous membrane sealing the floor of the orbit.
 
-### Blowout Fractures
-*   **Mechanism:** Pressure to the orbit (e.g., trauma) causes the non-compressible adipose tissue to break through the **thin bone** separating the orbit from adjacent paranasal sinuses.
-*   **Common Sites:** Medial wall (into ethmoidal sinuses) or floor (into maxillary sinus).
-*   **Complications:** Extraocular muscles, nerves, or arteries can be trapped or damaged.
+:::correlate
+**Blowout Fractures**
+*   **Mechanism:** Trauma increases orbital pressure, causing the thin **medial wall** (Ethmoid) or **floor** (Maxilla) to fracture.
+*   **Herniation:** Orbital contents (fat, inferior rectus muscle) herniate into the Ethmoid or Maxillary sinuses.
+*   **Symptoms:** Enophthalmos (sunken eye), diplopia (muscle entrapment), and infraorbital nerve paresthesia.
+:::
 
 ## Part 2: Extraocular Muscles
 
@@ -104,13 +106,20 @@ const L127_DATA = {
     *   **Elevate Abducted Eye:** Superior Rectus.
 
 ### Nerve Lesions
-*   **Oculomotor Nerve (CN III) Lesion:**
-    *   **Ptosis:** Eyelid droops (levator palpebrae superioris not working).
-    *   **"Down and Out":** Eye is abducted (lateral rectus unopposed) and depressed (superior oblique unopposed).
-    *   **Divisions:** Superior (levator, superior rectus) vs. Inferior (inferior oblique, medial rectus, inferior rectus).
-*   **Trochlear Nerve (CN IV) Lesion:**
-    *   **Bielschowsky Sign:** Head tilt to affected side causes elevation of the eye (superior rectus unopposed, superior oblique not working).
-    *   **Cannot depress adducted eye.**
+
+:::correlate
+**Oculomotor Nerve (CN III) Palsy**
+*   **"Down and Out":** Eye is depressed and abducted due to unopposed Superior Oblique (CN IV) and Lateral Rectus (CN VI).
+*   **Ptosis:** Complete drooping of eyelid (loss of Levator Palpebrae Superioris).
+*   **Mydriasis:** Dilated pupil (loss of parasympathetics to sphincter pupillae).
+:::
+
+:::correlate
+**Trochlear Nerve (CN IV) Palsy**
+*   **Deficit:** Paralysis of **Superior Oblique** (cannot depress adducted eye).
+*   **Presentation:** Vertical diplopia, especially when looking down (e.g., reading, going down stairs).
+*   **Bielschowsky Sign:** Patient tilts head **away** from the affected side to compensate for extorsion.
+:::
 `,
     questions: [],
     glossary: [

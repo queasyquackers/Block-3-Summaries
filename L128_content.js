@@ -1,11 +1,11 @@
 
 const L128_DATA = {
-    id: 'l128',
-    title: 'L128 - Pathology of Cellular Adaptation and Cellular Injury',
-    module: 'Pathology',
-    tags: 'Hypertrophy, Hyperplasia, Atrophy, Metaplasia, Necrosis, Apoptosis',
-    createdAt: new Date('2024-11-26'),
-    summary: `# Lecture #128: Pathology of Cellular Adaptation and Cellular Injury
+  id: 'l128',
+  title: 'L128 - Pathology of Cellular Adaptation and Cellular Injury',
+  module: 'Pathology',
+  tags: 'Hypertrophy, Hyperplasia, Atrophy, Metaplasia, Necrosis, Apoptosis',
+  createdAt: new Date('2024-11-26'),
+  summary: `# Lecture #128: Pathology of Cellular Adaptation and Cellular Injury
 
 **Lecturer:** Maria M. Plummer, M.D.
 **Session:** Lecture #128
@@ -35,15 +35,11 @@ Cells are constantly exposed to stress. To survive, they must adapt. If the stre
 *   **Note:** Hyperplasia is controlled; if the signal stops, it stops. This distinguishes it from neoplasia (cancer), though it can be a fertile soil for cancer development.
 *   **Important:** Hyperplasia and hypertrophy can occur **together** in some tissues/organs but usually **not** in skeletal/cardiac muscle and nerve tissue.
 
-:::clinical
-**Clinical Correlate: Benign Prostatic Hyperplasia (BPH)**
-
-An elderly male presents with difficulty urinating (hesitancy, dribbling) and nocturia. This is due to hyperplasia of the prostate glandular and stromal cells, which compresses the urethra.
-
-**Clinical Signs:**
-- Urinary frequency and urgency
-- Weak stream
-- Nocturia
+:::correlate
+**Benign Prostatic Hyperplasia (BPH)**
+*   **Pathology:** Hyperplasia of prostate stromal and glandular cells.
+*   **Presentation:** Elderly male with urinary frequency, urgency, nocturia, and weak stream.
+*   **Mechanism:** Enlarged prostate compresses the urethra, causing bladder outlet obstruction.
 :::
 
 ### Atrophy
@@ -57,10 +53,11 @@ An elderly male presents with difficulty urinating (hesitancy, dribbling) and no
 *   **Cost:** Loss of function (ciliary clearance), which predisposes to infection.
 *   **Barrett's Esophagus:** Squamous to columnar metaplasia in the distal esophagus due to acid reflux (GERD).
 
-:::clinical
-**Clinical Correlate: Barrett's Esophagus**
-
-Chronic acid reflux causes the stratified squamous epithelium of the lower esophagus to change into intestinal-type columnar epithelium (with goblet cells). This is a precursor lesion to esophageal adenocarcinoma.
+:::correlate
+**Barrett's Esophagus**
+*   **Definition:** Metaplasia of distal esophageal mucosa from **Stratified Squamous** to **Intestinal Columnar** (with Goblet cells).
+*   **Cause:** Chronic Acid Reflux (GERD).
+*   **Risk:** Precursor to **Esophageal Adenocarcinoma**.
 :::
 
 -----
@@ -76,16 +73,16 @@ If adaptation fails, injury ensues.
 
 ### Reversible Injury
 *   **Hallmark:** **Cellular swelling** (hydropic change, vacuolar degeneration, edema)
-*   **Cause:** Failure of the **Na+/K+ pump** (ATP depletion) → Na enters cell, water follows → cell swells
+*   **Cause:** Failure of the **Na<sup>+</sup>/K<sup>+</sup> pump** (ATP depletion) &rarr; Na enters cell, water follows &rarr; cell swells
 *   **Note:** This is **reversible** because the plasma membrane pump can be restored if ATP is replenished
 *   **Other sign:** Fatty change (steatosis) in the liver
 
 ### Irreversible Injury (After 20-30 minutes)
 *   **Membrane damage** (plasma, mitochondrial, lysosomal)
 *   **Mitochondrial dysfunction** (inability to generate ATP)
-*   **Increased anaerobic glycolysis** → ↓ glycogen, ↑ lactic acid, ↓ pH (chromatin clumping)
-*   **Failure of Ca²⁺ pump** → Ca enters cell → activates destructive enzymes (phospholipases, proteases, endonucleases, ATPases)
-*   **Result:** Denaturation of proteins, enzymatic digestion, contents leak out → **inflammation**
+*   **Increased anaerobic glycolysis** &rarr; &darr; glycogen, &uarr; lactic acid, &darr; pH (chromatin clumping)
+*   **Failure of Ca<sup>2+</sup> pump** &rarr; Ca enters cell &rarr; activates destructive enzymes (phospholipases, proteases, endonucleases, ATPases)
+*   **Result:** Denaturation of proteins, enzymatic digestion, contents leak out &rarr; **inflammation**
 
 ### Nuclear Changes in Necrosis
 1.  **Pyknosis:** Nuclear shrinkage and increased basophilia.
@@ -171,7 +168,7 @@ Cells may accumulate abnormal amounts of various substances:
 *   **Association:** Aging cells (especially neurons, cardiac myocytes)
 *   **Appearance:** Yellow-brown granules
 *   **Significance:** Marker of free radical injury and lipid peroxidation over time`,
-    questions: `**1. A 60-year-old man with a history of hypertension dies from a stroke. Autopsy reveals a heart weighing 550 grams (normal <350g) with a thickened left ventricular wall. Which of the following cellular adaptations best explains this finding?**
+  questions: `**1. A 60-year-old man with a history of hypertension dies from a stroke. Autopsy reveals a heart weighing 550 grams (normal <350g) with a thickened left ventricular wall. Which of the following cellular adaptations best explains this finding?**
 
 A. Hyperplasia
 B. Hypertrophy
@@ -258,20 +255,20 @@ E. Perforin
 
 **Rationale**: The **intrinsic pathway** is triggered by mitochondrial damage, leading to the leakage of **cytochrome c** into the cytoplasm. Cytochrome c binds to Apaf-1 and activates **Caspase 9**. Fas ligand and TNF are involved in the extrinsic pathway (Caspase 8).
 </details>`,
-    glossary: [
-        { term: "Hypertrophy", definition: "Increase in the size of cells, resulting in an increase in the size of the organ." },
-        { term: "Hyperplasia", definition: "Increase in the number of cells in an organ or tissue." },
-        { term: "Atrophy", definition: "Decrease in cell size and number, leading to a decrease in organ size." },
-        { term: "Metaplasia", definition: "Reversible change in which one adult cell type is replaced by another adult cell type." },
-        { term: "Necrosis", definition: "Pathologic cell death characterized by membrane damage and inflammation." },
-        { term: "Apoptosis", definition: "Programmed cell death that is tightly regulated and does not elicit inflammation." },
-        { term: "Pyknosis", definition: "Nuclear shrinkage and increased basophilia." },
-        { term: "Karyorrhexis", definition: "Fragmentation of the pyknotic nucleus." },
-        { term: "Karyolysis", definition: "Fading of the nucleus due to digestion by DNase." },
-        { term: "Caspase", definition: "Cysteine-aspartic proteases that play a central role in the execution of apoptosis." },
-        { term: "Ischemia", definition: "Reduced blood flow to a tissue." },
-        { term: "Hypoxia", definition: "Deficiency in the amount of oxygen reaching the tissues." }
-    ],
+  glossary: [
+    { term: "Hypertrophy", definition: "Increase in the size of cells, resulting in an increase in the size of the organ." },
+    { term: "Hyperplasia", definition: "Increase in the number of cells in an organ or tissue." },
+    { term: "Atrophy", definition: "Decrease in cell size and number, leading to a decrease in organ size." },
+    { term: "Metaplasia", definition: "Reversible change in which one adult cell type is replaced by another adult cell type." },
+    { term: "Necrosis", definition: "Pathologic cell death characterized by membrane damage and inflammation." },
+    { term: "Apoptosis", definition: "Programmed cell death that is tightly regulated and does not elicit inflammation." },
+    { term: "Pyknosis", definition: "Nuclear shrinkage and increased basophilia." },
+    { term: "Karyorrhexis", definition: "Fragmentation of the pyknotic nucleus." },
+    { term: "Karyolysis", definition: "Fading of the nucleus due to digestion by DNase." },
+    { term: "Caspase", definition: "Cysteine-aspartic proteases that play a central role in the execution of apoptosis." },
+    { term: "Ischemia", definition: "Reduced blood flow to a tissue." },
+    { term: "Hypoxia", definition: "Deficiency in the amount of oxygen reaching the tissues." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",
@@ -353,7 +350,7 @@ E. Perforin
 
 // Append to the global LECTURES_DATA array
 if (typeof window !== 'undefined' && window.LECTURES_DATA) {
-    window.LECTURES_DATA.push(L128_DATA);
+  window.LECTURES_DATA.push(L128_DATA);
 } else if (typeof module !== 'undefined' && module.exports) {
-    module.exports = L128_DATA;
+  module.exports = L128_DATA;
 }

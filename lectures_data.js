@@ -46,7 +46,13 @@ const LECTURES_DATA = [
 *   Sidebending and Rotation are **Same** (e.g., F/E Rx Sx).
 *   Maintained by **Short Restrictors** (Rotatores, Intertransversarii).
 *   *Example:* L3 F Rr Sr (Flexed, Rotated Right, Sidebent Right).
-*   **Clinical Note:** Type II dysfunctions are often found at the apex or extremes of Type I curves. Treat Type IIs before Type Is.
+
+:::correlate
+**Type II Dysfunction Characteristics**
+*   **Location:** Often found at the **apex** or extremes of Type I curves.
+*   **Treatment Priority:** Treat Type IIs **before** Type Is.
+*   **Maintenance:** Maintained by short restrictors (Rotatores, Intertransversarii).
+:::
 
 -----
 
@@ -245,7 +251,19 @@ E. Inhibition
 *   **Composition:** 22 bones fused together + middle ear ossicles (Malleus, Incus, Stapes).
 *   **Divisions:**
     *   **Neurocranium (Brain Case):** Protects the brain (Frontal, Parietal, Temporal, Occipital, Sphenoid, Ethmoid).
+    :::correlate
+    **Epidural Hematoma (Pterion Fracture)**
+    *   **Pterion:** Thinnest part of skull (junction of Frontal, Parietal, Temporal, Sphenoid).
+    *   Overlies the **Middle Meningeal Artery**.
+    *   Trauma causes rupture -> **Epidural Hematoma** (lens-shaped on CT).
+    :::
     *   **Viscerocranium (Facial Skeleton):** Bones of the face (Maxilla, Zygomatic, Mandible, Nasal, Lacrimal, Palatine, Vomer, Inferior Nasal Conchae).
+    :::correlate
+    **Cavernous Sinus Thrombosis**
+    *   **Facial Vein:** Has **no valves**, allowing retrograde blood flow.
+    *   Infection from "Danger Triangle" of face can spread to the **Cavernous Sinus**.
+    *   Can cause thrombosis and palsies of CN III, IV, V1, V2, VI.
+    :::
 
 ### Cervical Vertebrae
 *   **Atlas (C1):** No body. Articulates with Occipital Condyles (Atlanto-occipital joint) -> Allows "Yes" motion (Flexion/Extension).
@@ -257,6 +275,14 @@ E. Inhibition
     *   **Anterior:** Largest; between Frontal and Parietal bones. Closes last (18-24 months).
     *   **Posterior:** Between Parietal and Occipital bones. Closes early (2-3 months).
     *   **Anterolateral (Sphenoidal)** & **Posterolateral (Mastoid)**.
+
+### Fascial Spaces
+:::correlate
+**Retropharyngeal Abscess / Danger Space**
+*   **"Danger Space":** Potential space between alar and prevertebral fascia.
+*   Continuous from skull base to the **Diaphragm**.
+*   Infections can spread inferiorly causing **Mediastinitis**.
+:::
 
 -----
 
@@ -278,7 +304,13 @@ E. Inhibition
 
 ### Endocrine Glands
 *   **Thyroid:** H-shaped, anterior to trachea. Produces T3/T4 (Metabolism) and Calcitonin.
-    *   **Goiter:** Enlargement of the thyroid (Iodine deficiency, Hyper/Hypothyroidism). Can compress trachea/esophagus/recurrent laryngeal nerve.
+    *   **Goiter:** Enlargement of the thyroid (Iodine deficiency, Hyper/Hypothyroidism).
+    :::correlate
+    **Thyroid Pathologies**
+    *   **Goiter:** Enlargement due to iodine deficiency or autoimmune disease.
+    *   **Compression:** Can compress Trachea (dyspnea), Esophagus (dysphagia), or **Recurrent Laryngeal Nerve** (hoarseness).
+    *   **Hyper/Hypothyroidism:** Excess or deficiency of T3/T4.
+    :::
 *   **Parathyroid:** 4 glands (Superior/Inferior) on posterior thyroid. Secrete PTH (Calcium regulation).
 *   **Thymus:** Active in children (T-cell maturation). Atrophies into adipose tissue in adults.
 
@@ -305,9 +337,21 @@ E. Inhibition
 | **XI** | **Accessory** | Jugular Foramen | SCM and Trapezius muscles (Head turning/Shoulder shrugging). |
 | **XII** | **Hypoglossal** | Hypoglossal Canal | Tongue movement (all intrinsic/extrinsic except Palatoglossus). |
 
-### Clinical Correlates
-*   **Bell's Palsy:** CN VII lesion. Unilateral facial paralysis.
-*   **Torticollis:** CN XI or SCM issue. Head tilted to one side.`,
+:::correlate
+**Bell's Palsy (CN VII Lesion)**
+*   Unilateral paralysis of facial muscles (LMN lesion).
+*   Inability to close eye, loss of nasolabial fold, drooping corner of mouth.
+*   Can also affect taste (Ant 2/3) and salivation.
+:::
+
+:::correlate
+**Torticollis (Wry Neck)**
+*   Spasm or contracture of **SCM** (CN XI).
+*   Head tilts **toward** the affected side and rotates **away**.
+*   Can be congenital or due to nerve injury.
+:::
+
+`,
     questions: `**1. A newborn's skull allows for deformation during birth and rapid brain growth postnatally. Which fontanelle is the largest and typically the last to close?**
 
 A. Posterior Fontanelle
@@ -431,6 +475,12 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
     *   **Nerve:** CN V (Trigeminal).
     *   **Muscles:** Mastication, Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.
     *   **Bone/Cartilage:** Mandible, Malleus, Incus.
+    :::correlate
+    **Cleft Lip & Palate**
+    *   **Cleft Lip:** Failure of fusion between Maxillary and Medial Nasal prominences.
+    *   **Cleft Palate:** Failure of fusion between Palatine shelves.
+    *   Results in abnormal facial appearance and speech defects.
+    :::
 *   **Arch 2 (Hyoid):**
     *   **Nerve:** CN VII (Facial).
     *   **Muscles:** Facial Expression, Stapedius, Stylohyoid, Post. Digastric.
@@ -450,8 +500,14 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
 *   **Pouch 3:** Inferior Parathyroid, Thymus.
 *   **Pouch 4:** Superior Parathyroid, Ultimobranchial body (C-cells).
 
-### Clinical Correlates
-*   **Branchial Cyst/Fistula:** Persistence of the cervical sinus (fusion of Clefts 2-4). Usually anterior to SCM.
+
+
+:::correlate
+**Branchial Cyst / Fistula**
+*   **Cause:** Persistence of the **Cervical Sinus** (fusion of Clefts 2-4).
+*   **Presentation:** Cyst or fistula usually located **anterior to the SCM**.
+*   Internal fistula may open at the palatine tonsil (Pouch 2).
+:::
 
 -----
 
@@ -470,9 +526,13 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
 ### Thyroid Development
 *   Originates from **Foramen Cecum** (between Arch 1 & 3).
 *   Descends via **Thyroglossal Duct**.
-*   **Thyroglossal Duct Cyst:** Midline neck mass, moves with swallowing/tongue protrusion.
-*   **Ectopic Thyroid:** Thyroid tissue along descent path (e.g., Lingual Thyroid).
-*   **Pyramidal Lobe:** Common variant; extension of thyroid tissue up the thyroglossal duct path.
+
+:::correlate
+**Thyroglossal Duct Cyst**
+*   **Cyst:** Midline neck mass that **moves** with swallowing or tongue protrusion.
+*   **Ectopic Thyroid:** Thyroid tissue found along the descent path (e.g., Lingual Thyroid).
+*   **Pyramidal Lobe:** Common variant; extension of thyroid tissue up the duct path.
+:::
 
 ### Placodes (Ectodermal Thickenings)
 *   **Nasal Placode:** Olfactory epithelium (CN I).
@@ -494,7 +554,20 @@ The Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Cleft
     *   **Teeth:** Dentine (Odontoblasts).
     *   **Eye:** Choroid, Sclera, Iris stroma.
     *   **Other:** Melanocytes, Ganglia (CN V, VII, IX, X), Meninges, Adrenal Medulla.
-*   **Treacher Collins Syndrome:** Genetic disorder affecting NCC migration in Arches 1 & 2. Symptoms: Mandibulofacial dysostosis, micrognathia, cleft palate, hearing loss.
+
+:::correlate
+**Treacher Collins Syndrome**
+*   **Cause:** Genetic defect in **Neural Crest Cell** migration (Arches 1 & 2).
+*   **Symptoms:** Mandibulofacial dysostosis, micrognathia (small jaw), cleft palate, hearing loss.
+*   **Key:** Underdevelopment of facial bones (Zygoma, Mandible).
+:::
+
+:::correlate
+**Skull Malformations**
+*   **Craniosynostosis:** Premature closure of sutures/fontanelles -> Deformity.
+*   **Microcephaly:** Abnormal brain development -> Small head -> Mental deficiency.
+*   **Hydrocephalus:** CSF buildup -> Enlarged ventricles -> Head enlargement.
+:::
 
 ### Germ Layer Summary
 *   **Ectoderm:** Epidermis, Brain, Spinal Cord, Placodes.
@@ -622,22 +695,37 @@ E. Lateral Plate Mesoderm
 *   **Divisions:**
     *   **Superior:** Superior Rectus, Levator Palpebrae Superioris (LPS).
     *   **Inferior:** Medial Rectus, Inferior Rectus, Inferior Oblique + Parasympathetics to Ciliary Ganglion (Sphincter Pupillae, Ciliary Body).
-*   **Clinical:**
-    *   **Ptosis:** Weak LPS (Superior Division).
-    *   **"Down and Out":** Unopposed Superior Oblique (IV) and Lateral Rectus (VI).
-    *   **Anisocoria (Dilated Pupil):** Parasympathetic loss (Sphincter Pupillae).
+
+:::correlate
+**Oculomotor (CN III) Palsy**
+*   **"Down and Out":** Eye deviates down and out due to unopposed SO and LR.
+*   **Ptosis:** Drooping eyelid (Levator Palpebrae Superioris paralysis).
+*   **Anisocoria:** Dilated pupil (loss of parasympathetics to Sphincter Pupillae).
+:::
 
 ### CN IV: Trochlear Nerve
 *   **Exit:** SOF. *Only CN to exit dorsal brainstem.*
 *   **Innervation:** **Superior Oblique** (SO).
 *   **Function:** Depresses and Abducts eye (Down & Out).
-*   **Clinical:** Eye deviates **Up and In** (Unopposed IO/SR). Patients tilt head *away* from lesion to compensate.
+
+:::correlate
+**Trochlear (CN IV) Palsy**
+*   **Presentation:** Eye deviates **Up and In** (hypertropia).
+*   **Compensation:** Patient tilts head **away** from the lesion to align the eyes.
+*   **Cause:** Trauma (long intracranial course) or ischemia.
+:::
 
 ### CN VI: Abducens Nerve
 *   **Exit:** SOF. Travels inside Cavernous Sinus (most medial, near ICA).
 *   **Innervation:** **Lateral Rectus** (LR).
 *   **Function:** Abducts eye.
-*   **Clinical:** Medial deviation (Esotropia). Vulnerable to cavernous sinus pathology (aneurysm/thrombosis).
+
+:::correlate
+**Abducens (CN VI) Palsy**
+*   **Presentation:** Eye deviates **Medially** (Esotropia).
+*   **Cause:** High intracranial pressure (stretches nerve), Cavernous Sinus pathology (aneurysm).
+*   **Result:** Diplopia (double vision) on lateral gaze.
+:::
 
 -----
 
@@ -662,6 +750,19 @@ E. Lateral Plate Mesoderm
     *   **Sensory:** Auriculotemporal (Temple/Ear), Buccal (Cheek), Lingual (Ant 2/3 Tongue), Inferior Alveolar (Teeth/Chin).
     *   **Motor:** Muscles of Mastication (Temporalis, Masseter, Pterygoids), Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.
 
+:::correlate
+**Trigeminal Neuralgia (Tic Douloureux)**
+*   **Symptoms:** Acute, intense, lancinating pain in V2/V3 distribution.
+*   **Trigger:** Light touch, breeze, chewing.
+*   **Cause:** Often vascular compression of CN V root.
+:::
+
+:::correlate
+**TMJ Disorders**
+*   **Symptoms:** Jaw tenderness, headaches, ear pain (Auriculotemporal n.), locking.
+*   **Cause:** Unbalanced muscle firing (Pterygoids), bruxism, disc displacement.
+:::
+
 ### CN VII: Facial Nerve
 *   **Exit:** Internal Acoustic Meatus -> Facial Canal -> Stylomastoid Foramen.
 *   **Branches:**
@@ -669,7 +770,13 @@ E. Lateral Plate Mesoderm
     *   **Stapedius:** Dampens sound.
     *   **Chorda Tympani:** Taste (Ant 2/3 Tongue) + Submandibular/Sublingual glands.
     *   **Motor Branch:** Muscles of Facial Expression (Temporal, Zygomatic, Buccal, Mandibular, Cervical), Post. Digastric, Stylohyoid.
-*   **Clinical:** **Bell's Palsy** (Peripheral lesion = entire hemiface paralysis).
+
+:::correlate
+**Bell's Palsy (CN VII Lesion)**
+*   **Presentation:** Unilateral facial paralysis (LMN lesion).
+*   **Symptoms:** Inability to close eye, loss of nasolabial fold, drooping mouth.
+*   **Associated:** Hyperacusis (Stapedius), loss of taste (Ant 2/3), dry eye.
+:::
 
 -----
 
@@ -695,16 +802,34 @@ E. Lateral Plate Mesoderm
         *   **Internal:** Sensory to Larynx *above* vocal folds.
         *   **External:** Motor to **Cricothyroid**.
     *   **Recurrent Laryngeal:** Motor to all intrinsic laryngeal muscles (except Cricothyroid); Sensory *below* vocal folds. Loops under Aortic Arch (Left) / Subclavian (Right).
+:::correlate
+**Recurrent Laryngeal Nerve (RLN) Injury**
+*   **Cause:** Thyroid surgery, aortic aneurysm (Left RLN), or tumor.
+*   **Unilateral:** Hoarseness (paralyzed vocal cord).
+*   **Bilateral:** Stridor, respiratory distress (vocal cords cannot abduct).
+:::
 
 ### CN XI: Spinal Accessory Nerve
 *   **Exit:** Jugular Foramen.
 *   **Innervation:** **SCM** and **Trapezius**.
-*   **Clinical:** Shoulder droop, inability to turn head against resistance (Torticollis).
+
+:::correlate
+**Spinal Accessory (CN XI) Lesion**
+*   **Trapezius:** Shoulder droop, inability to shrug.
+*   **SCM:** Weakness in turning head to **opposite** side.
+*   **Torticollis:** Spasm of SCM causing head tilt.
+:::
 
 ### CN XII: Hypoglossal Nerve
 *   **Exit:** Hypoglossal Canal.
 *   **Innervation:** All tongue muscles (Intrinsic/Extrinsic) *except* Palatoglossus (CN X).
-*   **Clinical:** Tongue deviates **towards** the side of the lesion ("Lick your wounds").`,
+
+:::correlate
+**Hypoglossal (CN XII) Lesion**
+*   **Presentation:** Tongue deviates **towards** the side of the lesion.
+*   **Mnemonic:** "Lick your wounds".
+*   **Mechanism:** Unopposed Genioglossus on the healthy side pushes tongue to weak side.
+:::`,
     questions: `**1. A patient presents with an inability to abduct their right eye. When asked to look right, the right eye remains midline. Which nerve is likely affected?**
 
 A. Oculomotor (CN III)
@@ -1330,7 +1455,127 @@ E. A drug binding to an allosteric site to reduce agonist affinity.
 **Lecturer:** J. Bourke, Ph.D.
 **Session:** Lecture #112 (Videos 1-3)
 
------\n\n## Part 1: Olfaction (Smell) - CN I\n\n### Olfactory Nerve (CN I)\n*   **Structure:** Not a true nerve but an extension of the forebrain (Olfactory tract & bulb).\n*   **Pathway:** Receptors in superior nasal mucosa $\\rightarrow$ Cribriform plate (Ethmoid bone) $\\rightarrow$ Olfactory Bulb $\\rightarrow$ Olfactory Tract $\\rightarrow$ Cerebrum (Direct connection, bypasses brainstem).\n*   **Function:** Special Visceral Afferent (SVA) for smell.\n\n:::clinical\n**Clinical Correlate: Anosmia**\nLoss of sense of smell. Can be caused by head trauma (shearing of nerves at cribriform plate), viral infections (COVID-19), or congenital defects. Often leads to loss of flavor perception (food tastes bland).\n:::\n\n## Part 2: Gustation (Taste)\n\n### Taste Innervation\nTaste is a "coupled sense" with smell to produce flavor.\n*   **Anterior 2/3 of Tongue:** **Facial Nerve (CN VII)** via **Chorda Tympani**.\n*   **Posterior 1/3 of Tongue:** **Glossopharyngeal Nerve (CN IX)**.\n*   **Epiglottis/Soft Palate:** **Vagus Nerve (CN X)**.\n\n### Lingual Papillae\n1.  **Filiform:** Most numerous, tactile only, **NO taste buds**.\n2.  **Fungiform:** Mushroom-shaped, scattered.\n3.  **Foliate:** Side ridges.\n4.  **Circumvallate:** V-shape at back of tongue.\n\n:::clinical\n**Clinical Correlate: Ageusia**\nLoss of taste. Can be associated with anosmia, COVID-19, or nerve damage. "Spicy" is not a taste but pain sensation (nociception) carried by CN V (Trigeminal).\n:::\n\n## Part 3: Vision - CN II\n\n### The Eye Layers\n1.  **Fibrous Layer (Outer):**\n    *   **Sclera:** White, tough, attachment for extraocular muscles.\n    *   **Cornea:** Clear, avascular, major refractive power (2/3).\n2.  **Vascular Layer (Uvea - Middle):**\n    *   **Choroid:** Vascular supply.\n    *   **Ciliary Body:** Produces aqueous humor; controls lens shape (Accommodation).\n    *   **Iris:** Controls pupil size.\n        *   *Sphincter Pupillae:* Constricts pupil (Parasympathetic - CN III).\n        *   *Dilator Pupillae:* Dilates pupil (Sympathetic).\n3.  **Neural Layer (Inner):**\n    *   **Retina:** Photoreceptors (Rods/Cones).\n    *   **Macula/Fovea:** Area of highest visual acuity (cones only).\n    *   **Optic Disc:** Blind spot (no photoreceptors), exit of CN II.\n\n### Accommodation (Focusing)\n*   **Distance Vision:** Ciliary muscle relaxes $\\rightarrow$ Zonules tighten $\\rightarrow$ Lens flattens.\n*   **Near Vision:** Ciliary muscle contracts (Parasympathetic) $\\rightarrow$ Zonules loosen $\\rightarrow$ Lens rounds up.\n\n:::clinical\n**Clinical Correlate: Presbyopia**\nAge-related loss of lens elasticity. Lens cannot round up effectively, making near vision difficult (need reading glasses).\n:::\n\n## Part 4: Hearing and Balance - CN VIII\n\n### Vestibulocochlear Nerve (CN VIII)\nExits brainstem at pontomedullary junction $\\rightarrow$ Internal Acoustic Meatus.\n\n### Vestibular System (Balance)\n1.  **Otolith Organs (Linear Acceleration):**\n    *   **Utricle:** Horizontal movement.\n    *   **Saccule:** Vertical movement (Gravity).\n    *   *Mechanism:* Otoliths (crystals) move hair cells in gelatinous matrix.\n2.  **Semicircular Canals (Rotational Acceleration):**\n    *   Anterior, Posterior, Lateral.\n    *   *Mechanism:* Endolymph flow bends cupula in Ampulla.\n\n:::clinical\n**Clinical Correlate: Benign Paroxysmal Positional Vertigo (BPPV)**\nDisplaced otoliths (ear rocks) enter semicircular canals. Causes brief, intense vertigo with head movement. Treated with Epley maneuver.\n:::\n\n### Cochlear System (Hearing)\n*   **Pathway:** Sound $\\rightarrow$ Tympanic Membrane $\\rightarrow$ Ossicles (Malleus, Incus, Stapes) $\\rightarrow$ Oval Window $\\rightarrow$ Perilymph wave in Scala Vestibuli $\\rightarrow$ Cochlear Duct (Organ of Corti) $\\rightarrow$ Hair cell depolarization.\n*   **Organ of Corti:** Sensory organ of hearing sitting on basilar membrane.\n\n:::clinical\n**Clinical Correlate: Hearing Loss**\n*   **Conductive:** Middle/Outer ear problem (e.g., Otitis media, perforated drum). Bone conduction > Air conduction.\n*   **Sensorineural:** Inner ear/Nerve problem (e.g., Presbycusis, noise-induced). Air conduction > Bone conduction (but both reduced).\n*   **Tinnitus:** Ringing in ears, often sign of sensorineural damage.\n:::\n`,
+-----
+
+## Part 1: Olfaction (Smell) - CN I
+
+### Olfactory Nerve (CN I)
+*   **Structure:** Not a true nerve but an extension of the forebrain (Olfactory tract & bulb).
+*   **Pathway:** Receptors in superior nasal mucosa $\\rightarrow$ Cribriform plate (Ethmoid bone) $\\rightarrow$ Olfactory Bulb $\\rightarrow$ Olfactory Tract $\\rightarrow$ Cerebrum (Direct connection, bypasses brainstem).
+*   **Function:** Special Visceral Afferent (SVA) for smell.
+
+:::correlate
+**Anosmia (Loss of Smell)**
+*   **Causes:** Head trauma (shearing of nerves at cribriform plate), viral infections (COVID-19), congenital.
+*   **Result:** Often perceived as loss of taste (flavor).
+*   **Safety:** Inability to detect smoke or gas leaks.
+:::
+
+## Part 2: Gustation (Taste)
+
+### Taste Innervation
+Taste is a "coupled sense" with smell to produce flavor.
+*   **Anterior 2/3 of Tongue:** **Facial Nerve (CN VII)** via **Chorda Tympani**.
+*   **Posterior 1/3 of Tongue:** **Glossopharyngeal Nerve (CN IX)**.
+*   **Epiglottis/Soft Palate:** **Vagus Nerve (CN X)**.
+
+### Lingual Papillae
+1.  **Filiform:** Most numerous, tactile only, **NO taste buds**.
+2.  **Fungiform:** Mushroom-shaped, scattered.
+3.  **Foliate:** Side ridges.
+4.  **Circumvallate:** V-shape at back of tongue.
+
+:::correlate
+**Ageusia (Loss of Taste)**
+*   **Causes:** Nerve damage (CN VII, IX), drug side effects, COVID-19.
+*   **Note:** "Spicy" is not a taste but pain sensation (nociception) carried by CN V.
+:::
+
+## Part 3: Vision - CN II
+
+### The Eye Layers
+1.  **Fibrous Layer (Outer):**
+    *   **Sclera:** White, tough, attachment for extraocular muscles.
+    *   **Cornea:** Clear, avascular, major refractive power (2/3).
+2.  **Vascular Layer (Uvea - Middle):**
+    *   **Choroid:** Vascular supply.
+    *   **Ciliary Body:** Produces aqueous humor; controls lens shape (Accommodation).
+    :::correlate
+    **Glaucoma**
+    *   **Mechanism:** Blockage of Aqueous Humor drainage (Canal of Schlemm).
+    *   **Result:** Increased Intraocular Pressure (IOP) -> Optic Nerve compression -> Blindness.
+    *   **Types:** Open-angle (chronic) vs. Closed-angle (acute emergency).
+    :::
+    *   **Iris:** Controls pupil size.
+        *   *Sphincter Pupillae:* Constricts pupil (Parasympathetic - CN III).
+        *   *Dilator Pupillae:* Dilates pupil (Sympathetic).
+3.  **Neural Layer (Inner):**
+    *   **Retina:** Photoreceptors (Rods/Cones).
+    :::correlate
+    **Retinal Detachment**
+    *   **Pathology:** Separation of Neural Retina from Pigment Epithelium (Choroid).
+    *   **Symptoms:** "Flashes of light" (photopsia), "floaters", curtain-like vision loss.
+    *   **Urgency:** Medical emergency to prevent permanent blindness.
+    :::
+    *   **Macula/Fovea:** Area of highest visual acuity (cones only).
+    *   **Optic Disc:** Blind spot (no photoreceptors), exit of CN II.
+
+### Accommodation (Focusing)
+*   **Distance Vision:** Ciliary muscle relaxes $\\rightarrow$ Zonules tighten $\\rightarrow$ Lens flattens.
+*   **Near Vision:** Ciliary muscle contracts (Parasympathetic) $\\rightarrow$ Zonules loosen $\\rightarrow$ Lens rounds up.
+
+:::correlate
+**Presbyopia**
+*   **Pathology:** Age-related loss of lens elasticity.
+*   **Result:** Lens cannot round up effectively -> Difficulty with **Near Vision**.
+*   **Treatment:** Reading glasses (convex lenses).
+:::
+
+:::correlate
+**Cataracts**
+*   **Pathology:** Clouding of the lens due to protein denaturation/clumping.
+*   **Risk Factors:** Age, UV exposure, Diabetes, Smoking.
+*   **Treatment:** Surgical replacement of lens.
+:::
+
+## Part 4: Hearing and Balance - CN VIII
+
+### Vestibulocochlear Nerve (CN VIII)
+Exits brainstem at pontomedullary junction $\\rightarrow$ Internal Acoustic Meatus.
+
+### Vestibular System (Balance)
+1.  **Otolith Organs (Linear Acceleration):**
+    *   **Utricle:** Horizontal movement.
+    *   **Saccule:** Vertical movement (Gravity).
+    *   *Mechanism:* Otoliths (crystals) move hair cells in gelatinous matrix.
+2.  **Semicircular Canals (Rotational Acceleration):**
+    *   Anterior, Posterior, Lateral.
+    *   *Mechanism:* Endolymph flow bends cupula in Ampulla.
+
+:::correlate
+**Benign Paroxysmal Positional Vertigo (BPPV)**
+*   **Cause:** Displaced otoliths (ear rocks) enter semicircular canals.
+*   **Symptoms:** Brief, intense vertigo triggered by head movement.
+*   **Treatment:** Epley maneuver (repositions otoliths).
+:::
+
+:::correlate
+**Nystagmus**
+*   **Definition:** Involuntary, rhythmic eye movements (Slow phase + Fast phase).
+*   **Cause:** Vestibular imbalance (VOR reflex issue), cerebellar lesion, or congenital.
+*   **Direction:** Named for the **Fast** phase (reset).
+:::
+
+### Cochlear System (Hearing)
+*   **Pathway:** Sound $\\rightarrow$ Tympanic Membrane $\\rightarrow$ Ossicles (Malleus, Incus, Stapes) $\\rightarrow$ Oval Window $\\rightarrow$ Perilymph wave in Scala Vestibuli $\\rightarrow$ Cochlear Duct (Organ of Corti) $\\rightarrow$ Hair cell depolarization.
+*   **Organ of Corti:** Sensory organ of hearing sitting on basilar membrane.
+
+:::correlate
+**Hearing Loss**
+*   **Conductive:** Middle/Outer ear problem (e.g., Otitis media, perforated drum). Bone > Air.
+*   **Sensorineural:** Inner ear/Nerve problem (e.g., Presbycusis, noise-induced). Air > Bone (both reduced).
+*   **Tinnitus:** Ringing in ears, often sign of sensorineural damage.
+:::`,
     questions: [
         {
             id: 'l112-q1',
@@ -1452,7 +1697,75 @@ E. A drug binding to an allosteric site to reduce agonist affinity.
 **Lecturer:** S. Hoffmann, Ph.D.
 **Session:** Lecture #113
 
------\n\n## Part 1: Sympathetic Innervation\n\n### Pathway\n1.  **Preganglionic Neurons:** Lateral horn of **T1-T2**. Ascend in Sympathetic Chain.\n2.  **Ganglion:** Synapse in **Superior Cervical Ganglion** (C1-C4 level).\n3.  **Postganglionic Neurons:** Follow carotid arteries.\n    *   **Internal Carotid Nerve/Plexus:** To eye (Dilator pupillae, Superior tarsal muscle), forehead sweat glands, lacrimal gland (vasoconstriction).\n    *   **External Carotid Plexus:** To face (Sweat glands, vascular smooth muscle).\n\n### Functions\n*   **Eye:** Dilation of pupil (Mydriasis), elevation of eyelid (Superior tarsal muscle).\n*   **Skin:** Sweating (Sudomotor), Vasoconstriction (Pallor).\n*   **Salivary Glands:** Thick, viscous saliva.\n\n:::clinical\n**Clinical Correlate: Horner's Syndrome**\nLoss of sympathetic innervation to the head (lesion in chain, superior cervical ganglion, or carotid plexus).\n*   **Triad:** **Ptosis** (droopy eyelid), **Miosis** (constricted pupil), **Anhidrosis** (lack of sweating).\n*   **Other:** Flushing (loss of vasoconstriction) on affected side.\n*   *Causes:* Pancoast tumor (lung apex), neck trauma, dissection.\n:::\n\n## Part 2: Parasympathetic Innervation\n\n### The 4 Parasympathetic Ganglia of the Head\n\n#### 1. Ciliary Ganglion\n*   **Preganglionic:** **Oculomotor Nerve (CN III)**.\n*   **Postganglionic:** **Short Ciliary Nerves**.\n*   **Target:** **Sphincter Pupillae** (Constriction), **Ciliary Muscle** (Accommodation).\n*   *Function:* Miosis (constriction), Near vision (lens rounding).\n\n#### 2. Pterygopalatine Ganglion\n*   **Preganglionic:** **Facial Nerve (CN VII)** via **Greater Petrosal Nerve**.\n*   **Postganglionic:** Branches of **V2 (Maxillary)**.\n*   **Target:** **Lacrimal Gland**, Nasal/Palatine Mucosa.\n*   *Function:* Tearing (Lacrimation), Mucus secretion.\n\n#### 3. Submandibular Ganglion\n*   **Preganglionic:** **Facial Nerve (CN VII)** via **Chorda Tympani** $\\rightarrow$ Lingual Nerve.\n*   **Postganglionic:** Direct branches or via Lingual Nerve.\n*   **Target:** **Submandibular** and **Sublingual Glands**.\n*   *Function:* Salivation (watery).\n\n#### 4. Otic Ganglion\n*   **Preganglionic:** **Glossopharyngeal Nerve (CN IX)** via **Lesser Petrosal Nerve**.\n*   **Postganglionic:** **Auriculotemporal Nerve** (branch of V3).\n*   **Target:** **Parotid Gland**.\n*   *Function:* Salivation (watery).\n\n### Vagus Nerve (CN X)\nProvides parasympathetics to the neck (Pharynx, Larynx, Thyroid) via Superior and Recurrent Laryngeal nerves.\n\n:::clinical\n**Clinical Correlate: CN III Palsy**\nDamage to Oculomotor nerve.\n*   **Symptoms:** **Ptosis** (severe, Levator palpebrae), **Mydriasis** (dilated pupil, unopposed sympathetics), **"Down and Out"** eye position.\n*   *Contrast with Horner's:* Horner's has constricted pupil; CN III palsy has dilated pupil.\n:::\n\n:::clinical\n**Clinical Correlate: Frey's Syndrome (Gustatory Sweating)**\nAfter parotid surgery/trauma, regenerating parasympathetic fibers (Auriculotemporal n.) aberrantly innervate sweat glands instead of the parotid.\n*   **Symptom:** Sweating/Redness on cheek when eating (instead of salivating).\n:::\n`,
+-----
+
+## Part 1: Sympathetic Innervation
+
+### Pathway
+1.  **Preganglionic Neurons:** Lateral horn of **T1-T2**. Ascend in Sympathetic Chain.
+2.  **Ganglion:** Synapse in **Superior Cervical Ganglion** (C1-C4 level).
+3.  **Postganglionic Neurons:** Follow carotid arteries.
+    *   **Internal Carotid Nerve/Plexus:** To eye (Dilator pupillae, Superior tarsal muscle), forehead sweat glands, lacrimal gland (vasoconstriction).
+    *   **External Carotid Plexus:** To face (Sweat glands, vascular smooth muscle).
+
+### Functions
+*   **Eye:** Dilation of pupil (Mydriasis), elevation of eyelid (Superior tarsal muscle).
+*   **Skin:** Sweating (Sudomotor), Vasoconstriction (Pallor).
+*   **Salivary Glands:** Thick, viscous saliva.
+
+:::correlate
+**Horner's Syndrome**
+*   **Pathology:** Loss of sympathetic innervation to the head.
+*   **Triad:** **Ptosis** (droopy eyelid), **Miosis** (constricted pupil), **Anhidrosis** (lack of sweating).
+*   **Other:** Flushing (loss of vasoconstriction) on affected side.
+*   **Causes:** Pancoast tumor (lung apex), neck trauma, dissection.
+:::
+
+## Part 2: Parasympathetic Innervation
+
+### The 4 Parasympathetic Ganglia of the Head
+
+#### 1. Ciliary Ganglion
+*   **Preganglionic:** **Oculomotor Nerve (CN III)**.
+*   **Postganglionic:** **Short Ciliary Nerves**.
+*   **Target:** **Sphincter Pupillae** (Constriction), **Ciliary Muscle** (Accommodation).
+*   *Function:* Miosis (constriction), Near vision (lens rounding).
+
+#### 2. Pterygopalatine Ganglion
+*   **Preganglionic:** **Facial Nerve (CN VII)** via **Greater Petrosal Nerve**.
+*   **Postganglionic:** Branches of **V2 (Maxillary)**.
+*   **Target:** **Lacrimal Gland**, Nasal/Palatine Mucosa.
+*   *Function:* Tearing (Lacrimation), Mucus secretion.
+
+#### 3. Submandibular Ganglion
+*   **Preganglionic:** **Facial Nerve (CN VII)** via **Chorda Tympani** $\\rightarrow$ Lingual Nerve.
+*   **Postganglionic:** Direct branches or via Lingual Nerve.
+*   **Target:** **Submandibular** and **Sublingual Glands**.
+*   *Function:* Salivation (watery).
+
+#### 4. Otic Ganglion
+*   **Preganglionic:** **Glossopharyngeal Nerve (CN IX)** via **Lesser Petrosal Nerve**.
+*   **Postganglionic:** **Auriculotemporal Nerve** (branch of V3).
+*   **Target:** **Parotid Gland**.
+*   *Function:* Salivation (watery).
+
+### Vagus Nerve (CN X)
+Provides parasympathetics to the neck (Pharynx, Larynx, Thyroid) via Superior and Recurrent Laryngeal nerves.
+
+:::correlate
+**CN III Palsy**
+*   **Pathology:** Damage to Oculomotor nerve.
+*   **Symptoms:** **Ptosis** (severe, Levator palpebrae), **Mydriasis** (dilated pupil, unopposed sympathetics), **"Down and Out"** eye position.
+*   **Contrast:** Horner's has constricted pupil; CN III palsy has dilated pupil.
+:::
+
+:::correlate
+**Frey's Syndrome (Gustatory Sweating)**
+*   **Pathology:** Aberrant regeneration of parasympathetic fibers (Auriculotemporal n.) after parotid surgery/trauma.
+*   **Mechanism:** Fibers innervate sweat glands instead of the parotid.
+*   **Symptom:** Sweating/Redness on cheek when eating.
+:::
+`,
     questions: [
         {
             id: 'l113-q1',
@@ -1574,7 +1887,77 @@ E. A drug binding to an allosteric site to reduce agonist affinity.
 **Lecturer:** S. Rivera-Martinez, D.O.
 **Session:** Lecture #114
 
------\n\n## Part 1: History Taking (GI Complaint)\n\n### Case: Constipation\n*   **Definition:** < 3 bowel movements/week (Physician definition). Patients may define it as straining, hard stools, or incomplete evacuation.\n*   **HPI Key Points:**\n    *   **Onset:** Acute vs. Chronic. In elderly, new onset constipation $\\rightarrow$ Rule out **Colon Cancer**.\n    *   **Associated Symptoms (Red Flags):** Weight loss (>10 lbs), Blood in stool (Hematochezia/Melena), Fever, Nausea/Vomiting, Family History of Colon Cancer.\n    *   **Medications:** Opioids, Calcium Channel Blockers, Iron supplements cause constipation.\n    *   **Social:** Diet (Fiber/Fluid intake), Activity level (Sedentary lifestyle increases risk).\n\n## Part 2: Physical Exam of the Abdomen\n\n### **CRITICAL ORDER OF EXAM**\n1.  **Inspection**\n2.  **Auscultation** (Must be before percussion/palpation to avoid altering bowel sounds)\n3.  **Percussion**\n4.  **Palpation**\n\n### 1. Inspection\n*   **Contour:** Flat, Scaphoid, Protuberant, Distended.\n*   **Skin:**\n    *   **Striae:** Pink/Purple (Cushing's), Silver (Old stretch marks).\n    *   **Dilated Veins:** *Caput Medusae* (Portal Hypertension).\n    *   **Ecchymosis:**\n        *   **Cullen's Sign:** Periumbilical bruising (Hemoperitoneum/Pancreatitis).\n        *   **Grey Turner's Sign:** Flank bruising (Retroperitoneal bleed/Pancreatitis).\n\n### 2. Auscultation\n*   **Bowel Sounds:** Listen with **Diaphragm** in all 4 quadrants.\n    *   *Normal:* 5-34 clicks/gurgles per minute.\n    *   *Hypoactive:* Ileus, Peritonitis, Opioids.\n    *   *Hyperactive:* Diarrhea, Early obstruction, Gastroenteritis.\n    *   *Borborygmi:* Prolonged gurgles (stomach growling).\n*   **Bruits:** Listen with **Bell** over Aorta, Renal, Iliac, and Femoral arteries. (Renal artery stenosis $\\rightarrow$ Secondary HTN).\n\n### 3. Percussion\n*   **Sounds:** **Tympany** (predominates due to gas) vs. **Dullness** (organs, masses, fluid/ascites).\n*   **Liver Span:** Measure at **Right Mid-Clavicular Line (MCL)**. Normal: **6-12 cm**.\n*   **Spleen:** Percuss Traube's space (Left Anterior Axillary Line). Should remain tympanitic on inspiration. Dullness = Splenomegaly.\n*   **CVA Tenderness:** Percuss Costovertebral Angle (posteriorly) for Pyelonephritis.\n\n### 4. Palpation\n*   **Technique:** Light (tenderness, guarding) then Deep (masses, organs). **Examine painful area LAST.**\n*   **Liver:** Hooking technique or Bimanual. Palpate on inspiration.\n*   **Aorta:** Palpate upper abdomen, slightly left of midline. Normal width **< 3 cm**. > 3 cm suggests **AAA** (Abdominal Aortic Aneurysm).\n\n## Part 3: Osteopathic Considerations\n\n### Autonomics\n*   **Sympathetics:**\n    *   **Right Colon (Cecum to Proximal Transverse):** **T10-T11** (Superior Mesenteric Ganglion).\n    *   **Left Colon (Distal Transverse to Rectum):** **T12-L2** (Inferior Mesenteric Ganglion).\n*   **Parasympathetics:**\n    *   **Right Colon:** **Vagus Nerve (CN X)**.\n    *   **Left Colon:** **Pelvic Splanchnic Nerves (S2-S4)**.\n\n### Chapman's Points\n*   **Colon:** Anterior IT Band (Lateral thigh).\n`,
+-----
+
+## Part 1: History Taking (GI Complaint)
+
+### Case: Constipation
+*   **Definition:** < 3 bowel movements/week (Physician definition). Patients may define it as straining, hard stools, or incomplete evacuation.
+*   **HPI Key Points:**
+    *   **Onset:** Acute vs. Chronic. In elderly, new onset constipation $\\rightarrow$ Rule out **Colon Cancer**.
+    *   **Associated Symptoms (Red Flags):** Weight loss (>10 lbs), Blood in stool (Hematochezia/Melena), Fever, Nausea/Vomiting, Family History of Colon Cancer.
+    *   **Medications:** Opioids, Calcium Channel Blockers, Iron supplements cause constipation.
+    *   **Social:** Diet (Fiber/Fluid intake), Activity level (Sedentary lifestyle increases risk).
+
+## Part 2: Physical Exam of the Abdomen
+
+### **CRITICAL ORDER OF EXAM**
+1.  **Inspection**
+2.  **Auscultation** (Must be before percussion/palpation to avoid altering bowel sounds)
+3.  **Percussion**
+4.  **Palpation**
+
+### 1. Inspection
+*   **Contour:** Flat, Scaphoid, Protuberant, Distended.
+*   **Skin:**
+    *   **Striae:** Pink/Purple (Cushing's), Silver (Old stretch marks).
+    :::correlate
+    **Signs of Portal Hypertension**
+    *   **Caput Medusae:** Dilated veins radiating from umbilicus.
+    :::
+    :::correlate
+    **Signs of Retroperitoneal/Intraperitoneal Bleed**
+    *   **Cullen's Sign:** Periumbilical bruising (Hemoperitoneum/Pancreatitis).
+    *   **Grey Turner's Sign:** Flank bruising (Retroperitoneal bleed/Pancreatitis).
+    :::
+
+### 2. Auscultation
+*   **Bowel Sounds:** Listen with **Diaphragm** in all 4 quadrants.
+    *   *Normal:* 5-34 clicks/gurgles per minute.
+    *   *Hypoactive:* Ileus, Peritonitis, Opioids.
+    *   *Hyperactive:* Diarrhea, Early obstruction, Gastroenteritis.
+    *   *Borborygmi:* Prolonged gurgles (stomach growling).
+*   **Bruits:** Listen with **Bell** over Aorta, Renal, Iliac, and Femoral arteries. (Renal artery stenosis $\\rightarrow$ Secondary HTN).
+
+### 3. Percussion
+*   **Sounds:** **Tympany** (predominates due to gas) vs. **Dullness** (organs, masses, fluid/ascites).
+*   **Liver Span:** Measure at **Right Mid-Clavicular Line (MCL)**. Normal: **6-12 cm**.
+*   **Spleen:** Percuss Traube's space (Left Anterior Axillary Line). Should remain tympanitic on inspiration. Dullness = Splenomegaly.
+*   **CVA Tenderness:** Percuss Costovertebral Angle (posteriorly) for Pyelonephritis.
+
+### 4. Palpation
+*   **Technique:** Light (tenderness, guarding) then Deep (masses, organs). **Examine painful area LAST.**
+*   **Liver:** Hooking technique or Bimanual. Palpate on inspiration.
+:::correlate
+**Abdominal Aortic Aneurysm (AAA)**
+*   **Screening:** Palpate upper abdomen, slightly left of midline.
+*   **Normal:** Width < 3 cm.
+*   **Pathology:** Width > 3 cm suggests AAA.
+:::
+
+## Part 3: Osteopathic Considerations
+
+### Autonomics
+*   **Sympathetics:**
+    *   **Right Colon (Cecum to Proximal Transverse):** **T10-T11** (Superior Mesenteric Ganglion).
+    *   **Left Colon (Distal Transverse to Rectum):** **T12-L2** (Inferior Mesenteric Ganglion).
+*   **Parasympathetics:**
+    *   **Right Colon:** **Vagus Nerve (CN X)**.
+    *   **Left Colon:** **Pelvic Splanchnic Nerves (S2-S4)**.
+
+### Chapman's Points
+*   **Colon:** Anterior IT Band (Lateral thigh).
+`,
     questions: [
         {
             id: 'l114-q1',
@@ -2853,27 +3236,26 @@ Penicillins are beta-lactam antibiotics that inhibit bacterial cell wall synthes
 *   **Ascites Assessment:**
     *   **Shifting Dullness:** Percuss supine (tympany central, dull lateral) $\\rightarrow$ Lateral recumbent (dullness shifts to dependent side).
     *   **Fluid Wave:** Requires assistant. Tap flank, feel impulse on opposite side.
-*   **Lloyd's Sign (CVA Tenderness):** Percuss Costovertebral Angle.
-    *   **Positive:** Pain.
-    *   **Indicates:** Pyelonephritis, Nephrolithiasis, Perirenal Abscess.
-*   **Murphy's Sign:** Palpate RUQ under costal margin while patient inspires.
-    *   **Positive:** Sharp pain + **Inspiratory Arrest**.
-    *   **Indicates:** **Acute Cholecystitis**.
-*   **McBurney's Point:** 1/3 distance from ASIS to Umbilicus.
-    *   **Positive:** Point tenderness.
-    *   **Indicates:** **Acute Appendicitis**.
-*   **Rebound Tenderness:** Deep palpation followed by quick release.
-    *   **Positive:** Pain on release > pain on pressure.
-    *   **Indicates:** **Peritoneal Inflammation (Peritonitis)**.
-*   **Rovsing's Sign (Referred Rebound):** Palpate LLQ.
-    *   **Positive:** Pain felt in **RLQ**.
-    *   **Indicates:** Appendicitis.
-*   **Obturator Sign:** Flex hip/knee, internally rotate hip.
-    *   **Positive:** RLQ pain.
-    *   **Indicates:** **Pelvic Appendix** (or abscess) irritating obturator internus.
-*   **Psoas Sign:** Extend right hip (patient on left side) OR Flex right hip against resistance.
-    *   **Positive:** RLQ pain.
-    *   **Indicates:** **Retrocecal Appendix** irritating psoas muscle.
+    *   **Fluid Wave:** Requires assistant. Tap flank, feel impulse on opposite side.
+:::correlate
+**Lloyd's Sign (CVA Tenderness)**
+*   **Technique:** Percuss Costovertebral Angle (posteriorly).
+*   **Positive:** Pain.
+*   **Indicates:** **Pyelonephritis**, Nephrolithiasis, Perirenal Abscess.
+:::
+:::correlate
+**Murphy's Sign (Acute Cholecystitis)**
+*   **Technique:** Palpate RUQ under costal margin while patient inspires.
+*   **Positive:** Sharp pain + **Inspiratory Arrest** (patient stops breathing in due to pain).
+*   **Indicates:** inflamed gallbladder contacting the examining hand.
+:::
+:::correlate
+**Appendicitis Signs**
+*   **McBurney's Point:** Tenderness at 1/3 distance from ASIS to Umbilicus.
+*   **Rovsing's Sign:** Palpation of LLQ causes pain in **RLQ** (Referred Rebound).
+*   **Obturator Sign:** RLQ pain on internal rotation of flexed hip (Pelvic Appendix).
+*   **Psoas Sign:** RLQ pain on extension of right hip (Retrocecal Appendix).
+:::
 
 ## Evaluation of Constipation
 *   **Definition:** < 3 bowel movements/week, straining, hard stools, incomplete evacuation.
@@ -3449,10 +3831,12 @@ Inhibit DNA Gyrase (Topoisomerase II) and Topoisomerase IV. Bactericidal.
 *   **Medial Wall:** Frontal, Ethmoid (orbital plate - predominant), Lacrimal.
 *   **Orbital Septum:** Tough fibrous membrane sealing the floor of the orbit.
 
-### Blowout Fractures
-*   **Mechanism:** Pressure to the orbit (e.g., trauma) causes the non-compressible adipose tissue to break through the **thin bone** separating the orbit from adjacent paranasal sinuses.
-*   **Common Sites:** Medial wall (into ethmoidal sinuses) or floor (into maxillary sinus).
-*   **Complications:** Extraocular muscles, nerves, or arteries can be trapped or damaged.
+:::correlate
+**Blowout Fractures**
+*   **Mechanism:** Trauma increases orbital pressure, causing the thin **medial wall** (Ethmoid) or **floor** (Maxilla) to fracture.
+*   **Herniation:** Orbital contents (fat, inferior rectus muscle) herniate into the Ethmoid or Maxillary sinuses.
+*   **Symptoms:** Enophthalmos (sunken eye), diplopia (muscle entrapment), and infraorbital nerve paresthesia.
+:::
 
 ## Part 2: Extraocular Muscles
 
@@ -3527,13 +3911,20 @@ Inhibit DNA Gyrase (Topoisomerase II) and Topoisomerase IV. Bactericidal.
     *   **Elevate Abducted Eye:** Superior Rectus.
 
 ### Nerve Lesions
-*   **Oculomotor Nerve (CN III) Lesion:**
-    *   **Ptosis:** Eyelid droops (levator palpebrae superioris not working).
-    *   **"Down and Out":** Eye is abducted (lateral rectus unopposed) and depressed (superior oblique unopposed).
-    *   **Divisions:** Superior (levator, superior rectus) vs. Inferior (inferior oblique, medial rectus, inferior rectus).
-*   **Trochlear Nerve (CN IV) Lesion:**
-    *   **Bielschowsky Sign:** Head tilt to affected side causes elevation of the eye (superior rectus unopposed, superior oblique not working).
-    *   **Cannot depress adducted eye.**
+
+:::correlate
+**Oculomotor Nerve (CN III) Palsy**
+*   **"Down and Out":** Eye is depressed and abducted due to unopposed Superior Oblique (CN IV) and Lateral Rectus (CN VI).
+*   **Ptosis:** Complete drooping of eyelid (loss of Levator Palpebrae Superioris).
+*   **Mydriasis:** Dilated pupil (loss of parasympathetics to sphincter pupillae).
+:::
+
+:::correlate
+**Trochlear Nerve (CN IV) Palsy**
+*   **Deficit:** Paralysis of **Superior Oblique** (cannot depress adducted eye).
+*   **Presentation:** Vertical diplopia, especially when looking down (e.g., reading, going down stairs).
+*   **Bielschowsky Sign:** Patient tilts head **away** from the affected side to compensate for extorsion.
+:::
 `,
     questions: [],
     glossary: [
@@ -3545,12 +3936,12 @@ Inhibit DNA Gyrase (Topoisomerase II) and Topoisomerase IV. Bactericidal.
     ]
 },
     {
-    id: 'l128',
-    title: 'L128 - Pathology of Cellular Adaptation and Cellular Injury',
-    module: 'Pathology',
-    tags: 'Hypertrophy, Hyperplasia, Atrophy, Metaplasia, Necrosis, Apoptosis',
-    createdAt: new Date('2024-11-26'),
-    summary: `# Lecture #128: Pathology of Cellular Adaptation and Cellular Injury
+  id: 'l128',
+  title: 'L128 - Pathology of Cellular Adaptation and Cellular Injury',
+  module: 'Pathology',
+  tags: 'Hypertrophy, Hyperplasia, Atrophy, Metaplasia, Necrosis, Apoptosis',
+  createdAt: new Date('2024-11-26'),
+  summary: `# Lecture #128: Pathology of Cellular Adaptation and Cellular Injury
 
 **Lecturer:** Maria M. Plummer, M.D.
 **Session:** Lecture #128
@@ -3580,15 +3971,11 @@ Cells are constantly exposed to stress. To survive, they must adapt. If the stre
 *   **Note:** Hyperplasia is controlled; if the signal stops, it stops. This distinguishes it from neoplasia (cancer), though it can be a fertile soil for cancer development.
 *   **Important:** Hyperplasia and hypertrophy can occur **together** in some tissues/organs but usually **not** in skeletal/cardiac muscle and nerve tissue.
 
-:::clinical
-**Clinical Correlate: Benign Prostatic Hyperplasia (BPH)**
-
-An elderly male presents with difficulty urinating (hesitancy, dribbling) and nocturia. This is due to hyperplasia of the prostate glandular and stromal cells, which compresses the urethra.
-
-**Clinical Signs:**
-- Urinary frequency and urgency
-- Weak stream
-- Nocturia
+:::correlate
+**Benign Prostatic Hyperplasia (BPH)**
+*   **Pathology:** Hyperplasia of prostate stromal and glandular cells.
+*   **Presentation:** Elderly male with urinary frequency, urgency, nocturia, and weak stream.
+*   **Mechanism:** Enlarged prostate compresses the urethra, causing bladder outlet obstruction.
 :::
 
 ### Atrophy
@@ -3602,10 +3989,11 @@ An elderly male presents with difficulty urinating (hesitancy, dribbling) and no
 *   **Cost:** Loss of function (ciliary clearance), which predisposes to infection.
 *   **Barrett's Esophagus:** Squamous to columnar metaplasia in the distal esophagus due to acid reflux (GERD).
 
-:::clinical
-**Clinical Correlate: Barrett's Esophagus**
-
-Chronic acid reflux causes the stratified squamous epithelium of the lower esophagus to change into intestinal-type columnar epithelium (with goblet cells). This is a precursor lesion to esophageal adenocarcinoma.
+:::correlate
+**Barrett's Esophagus**
+*   **Definition:** Metaplasia of distal esophageal mucosa from **Stratified Squamous** to **Intestinal Columnar** (with Goblet cells).
+*   **Cause:** Chronic Acid Reflux (GERD).
+*   **Risk:** Precursor to **Esophageal Adenocarcinoma**.
 :::
 
 -----
@@ -3621,16 +4009,16 @@ If adaptation fails, injury ensues.
 
 ### Reversible Injury
 *   **Hallmark:** **Cellular swelling** (hydropic change, vacuolar degeneration, edema)
-*   **Cause:** Failure of the **Na+/K+ pump** (ATP depletion) → Na enters cell, water follows → cell swells
+*   **Cause:** Failure of the **Na<sup>+</sup>/K<sup>+</sup> pump** (ATP depletion) &rarr; Na enters cell, water follows &rarr; cell swells
 *   **Note:** This is **reversible** because the plasma membrane pump can be restored if ATP is replenished
 *   **Other sign:** Fatty change (steatosis) in the liver
 
 ### Irreversible Injury (After 20-30 minutes)
 *   **Membrane damage** (plasma, mitochondrial, lysosomal)
 *   **Mitochondrial dysfunction** (inability to generate ATP)
-*   **Increased anaerobic glycolysis** → ↓ glycogen, ↑ lactic acid, ↓ pH (chromatin clumping)
-*   **Failure of Ca²⁺ pump** → Ca enters cell → activates destructive enzymes (phospholipases, proteases, endonucleases, ATPases)
-*   **Result:** Denaturation of proteins, enzymatic digestion, contents leak out → **inflammation**
+*   **Increased anaerobic glycolysis** &rarr; &darr; glycogen, &uarr; lactic acid, &darr; pH (chromatin clumping)
+*   **Failure of Ca<sup>2+</sup> pump** &rarr; Ca enters cell &rarr; activates destructive enzymes (phospholipases, proteases, endonucleases, ATPases)
+*   **Result:** Denaturation of proteins, enzymatic digestion, contents leak out &rarr; **inflammation**
 
 ### Nuclear Changes in Necrosis
 1.  **Pyknosis:** Nuclear shrinkage and increased basophilia.
@@ -3716,7 +4104,7 @@ Cells may accumulate abnormal amounts of various substances:
 *   **Association:** Aging cells (especially neurons, cardiac myocytes)
 *   **Appearance:** Yellow-brown granules
 *   **Significance:** Marker of free radical injury and lipid peroxidation over time`,
-    questions: `**1. A 60-year-old man with a history of hypertension dies from a stroke. Autopsy reveals a heart weighing 550 grams (normal <350g) with a thickened left ventricular wall. Which of the following cellular adaptations best explains this finding?**
+  questions: `**1. A 60-year-old man with a history of hypertension dies from a stroke. Autopsy reveals a heart weighing 550 grams (normal <350g) with a thickened left ventricular wall. Which of the following cellular adaptations best explains this finding?**
 
 A. Hyperplasia
 B. Hypertrophy
@@ -3803,20 +4191,20 @@ E. Perforin
 
 **Rationale**: The **intrinsic pathway** is triggered by mitochondrial damage, leading to the leakage of **cytochrome c** into the cytoplasm. Cytochrome c binds to Apaf-1 and activates **Caspase 9**. Fas ligand and TNF are involved in the extrinsic pathway (Caspase 8).
 </details>`,
-    glossary: [
-        { term: "Hypertrophy", definition: "Increase in the size of cells, resulting in an increase in the size of the organ." },
-        { term: "Hyperplasia", definition: "Increase in the number of cells in an organ or tissue." },
-        { term: "Atrophy", definition: "Decrease in cell size and number, leading to a decrease in organ size." },
-        { term: "Metaplasia", definition: "Reversible change in which one adult cell type is replaced by another adult cell type." },
-        { term: "Necrosis", definition: "Pathologic cell death characterized by membrane damage and inflammation." },
-        { term: "Apoptosis", definition: "Programmed cell death that is tightly regulated and does not elicit inflammation." },
-        { term: "Pyknosis", definition: "Nuclear shrinkage and increased basophilia." },
-        { term: "Karyorrhexis", definition: "Fragmentation of the pyknotic nucleus." },
-        { term: "Karyolysis", definition: "Fading of the nucleus due to digestion by DNase." },
-        { term: "Caspase", definition: "Cysteine-aspartic proteases that play a central role in the execution of apoptosis." },
-        { term: "Ischemia", definition: "Reduced blood flow to a tissue." },
-        { term: "Hypoxia", definition: "Deficiency in the amount of oxygen reaching the tissues." }
-    ],
+  glossary: [
+    { term: "Hypertrophy", definition: "Increase in the size of cells, resulting in an increase in the size of the organ." },
+    { term: "Hyperplasia", definition: "Increase in the number of cells in an organ or tissue." },
+    { term: "Atrophy", definition: "Decrease in cell size and number, leading to a decrease in organ size." },
+    { term: "Metaplasia", definition: "Reversible change in which one adult cell type is replaced by another adult cell type." },
+    { term: "Necrosis", definition: "Pathologic cell death characterized by membrane damage and inflammation." },
+    { term: "Apoptosis", definition: "Programmed cell death that is tightly regulated and does not elicit inflammation." },
+    { term: "Pyknosis", definition: "Nuclear shrinkage and increased basophilia." },
+    { term: "Karyorrhexis", definition: "Fragmentation of the pyknotic nucleus." },
+    { term: "Karyolysis", definition: "Fading of the nucleus due to digestion by DNase." },
+    { term: "Caspase", definition: "Cysteine-aspartic proteases that play a central role in the execution of apoptosis." },
+    { term: "Ischemia", definition: "Reduced blood flow to a tissue." },
+    { term: "Hypoxia", definition: "Deficiency in the amount of oxygen reaching the tissues." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",
@@ -3896,12 +4284,12 @@ E. Perforin
   ]
 },
     {
-    id: "L129",
-    title: "L129 - Pathology: Inflammation",
-    module: "Pathology",
-    tags: ["Pathology", "Inflammation", "Acute Inflammation", "Chronic Inflammation", "Mediators", "Cytokines", "Complement", "Phagocytosis"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L129",
+  title: "L129 - Pathology: Inflammation",
+  module: "Pathology",
+  tags: ["Pathology", "Inflammation", "Acute Inflammation", "Chronic Inflammation", "Mediators", "Cytokines", "Complement", "Phagocytosis"],
+  createdAt: "2024-11-26",
+  summary: `
 # Pathology: Inflammation
 
 ## Overview
@@ -3910,7 +4298,7 @@ E. Perforin
     1.  **Rubor (Redness):** Vasodilation (Histamine, NO, Prostaglandins).
     2.  **Calor (Heat):** Increased blood flow (Vasodilation).
     3.  **Tumor (Swelling):** Edema/Permeability (Histamine, Leukotrienes).
-    4.  **Dolor (Pain):** Prostaglandins (PGE2), Bradykinin.
+    4.  **Dolor (Pain):** Prostaglandins (PGE<sub>2</sub>), Bradykinin.
     5.  **Functio Laesa:** Loss of function.
 
 ## Acute Inflammation
@@ -3924,13 +4312,31 @@ E. Perforin
     1.  **Margination:** Leukocytes move to the vessel wall.
     2.  **Rolling:** Weak adhesion via **Selectins** (L-selectin on WBC, E/P-selectin on Endothelium). Mediated by TNF/IL-1.
     3.  **Adhesion:** Firm attachment via **Integrins** (on WBC) binding to ICAM/VCAM (on Endothelium).
+    :::correlate
+    **Leukocyte Adhesion Deficiency (LAD)**
+    *   **Defect:** Autosomal Recessive defect in **Integrins** (CD18 subunit).
+    *   **Clinical:** Delayed separation of umbilical cord, increased circulating neutrophils (leukocytosis), but **NO pus** formation at infection sites (neutrophils can't exit vessels).
+    :::
     4.  **Transmigration (Diapedesis):** Crossing the endothelium (PECAM-1/CD31).
-    5.  **Chemotaxis:** Migration toward injury along a chemical gradient (C5a, LTB4, IL-8, Bacterial products).
+    5.  **Chemotaxis:** Migration toward injury along a chemical gradient (C5a, LTB<sub>4</sub>, IL-8, Bacterial products).
 *   **Phagocytosis:**
     1.  **Recognition:** Opsonization (C3b, IgG) coats microbes for recognition.
     2.  **Engulfment:** Formation of phagosome.
+    :::correlate
+    **Chediak-Higashi Syndrome**
+    *   **Defect:** Microtubule polymerization defect (LYST gene).
+    *   **Pathology:** Impaired **phagolysosome fusion**.
+    *   **Clinical:** Recurrent pyogenic infections, partial albinism, peripheral neuropathy.
+    *   **Smear:** Giant granules in neutrophils.
+    :::
     3.  **Killing:**
-        *   **Oxygen-Dependent:** NADPH Oxidase $\\rightarrow$ Superoxide $\\rightarrow$ H2O2 $\\rightarrow$ **HOCl (Bleach)** via **Myeloperoxidase (MPO)**.
+        *   **Oxygen-Dependent:** NADPH Oxidase &rarr; Superoxide &rarr; H<sub>2</sub>O<sub>2</sub> &rarr; **HOCl (Bleach)** via **Myeloperoxidase (MPO)**.
+        :::correlate
+        **Chronic Granulomatous Disease (CGD)**
+        *   **Defect:** **NADPH Oxidase** deficiency (X-linked or AR).
+        *   **Pathology:** Inability to generate respiratory burst (superoxide).
+        *   **Clinical:** Recurrent infections with **Catalase (+)** organisms (e.g., *S. aureus*, *Pseudomonas*, *Aspergillus*).
+        :::
         *   **Oxygen-Independent:** Lysozyme, Major Basic Protein (Eosinophils).
 
 ## Timing of Inflammation
@@ -3946,8 +4352,8 @@ E. Perforin
 
 ## Chemical Mediators
 *   **Histamine:** Mast cells. Vasodilation, Permeability.
-*   **Prostaglandins:** Vasodilation, Pain (PGE2), Fever.
-*   **Leukotrienes:** Vasoconstriction, Bronchospasm, Permeability (LTC4, LTD4, LTE4), Chemotaxis (LTB4).
+*   **Prostaglandins:** Vasodilation, Pain (PGE<sub>2</sub>), Fever.
+*   **Leukotrienes:** Vasoconstriction, Bronchospasm, Permeability (LTC<sub>4</sub>, LTD<sub>4</sub>, LTE<sub>4</sub>), Chemotaxis (LTB<sub>4</sub>).
 *   **Cytokines (TNF, IL-1):** Systemic effects (Fever, Acute Phase Reactants), Endothelial activation.
 *   **Complement System:**
     *   **C3a, C5a:** Anaphylatoxins (Histamine release).
@@ -3961,7 +4367,7 @@ E. Perforin
 *   **Cells:** **Macrophages**, Lymphocytes, Plasma Cells, **Eosinophils** (allergies, asthma, parasites).
 *   **Key Point:** Think **neutrophils** for acute, **mononuclear cells** (lymphocytes, macrophages) for chronic.
 *   **Granulomatous Inflammation:**
-    *   **Mechanism:** Macrophages present antigen to helper T cells → IL-2 → TH1 cells secrete **IFN-gamma** → Activates Macrophages → Epithelioid Histiocytes & Giant Cells.
+    *   **Mechanism:** Macrophages present antigen to helper T cells &rarr; IL-2 &rarr; TH1 cells secrete **IFN-gamma** &rarr; Activates Macrophages &rarr; Epithelioid Histiocytes & Giant Cells.
     *   **Purpose:** Attempt to contain offending agent difficult to eradicate (e.g., Mycobacterium tuberculosis).
     *   **Caseating (Necrotizing):** TB, Fungal infections.
     *   **Non-Caseating:** Sarcoidosis, Foreign body.
@@ -3973,76 +4379,71 @@ E. Perforin
     *   30-40% Lymphocytes (mostly T cells)
     *   1-2% Monocytes, Eosinophils, Basophils
 *   **Note:** Most lymphocytes in blood are T cells, but you cannot distinguish T vs B by microscopy alone (need CD markers/flow cytometry).
-
-## Clinical Correlates
-*   **Chronic Granulomatous Disease (CGD):** NADPH Oxidase deficiency. Susceptible to Catalase (+) organisms.
-*   **Chediak-Higashi Syndrome:** Microtubule defect. Impaired phagolysosome fusion.
-*   **Leukocyte Adhesion Deficiency (LAD):** Integrin defect. Delayed separation of umbilical cord, no pus.
 `,
-    questions: [
-        {
-            question: "A patient presents with a swollen, red, and painful finger after a splinter injury. Which mediator is primarily responsible for the pain associated with this inflammation?",
-            options: [
-                "Histamine",
-                "C3b",
-                "Bradykinin",
-                "Interleukin-1"
-            ],
-            answer: 2,
-            explanation: "Bradykinin and Prostaglandins (specifically PGE2) are the primary mediators responsible for pain (dolor) in acute inflammation."
-        },
-        {
-            question: "In the process of leukocyte recruitment, which molecule is primarily responsible for the 'rolling' interaction between leukocytes and endothelial cells?",
-            options: [
-                "Integrins",
-                "Selectins",
-                "ICAM-1",
-                "PECAM-1"
-            ],
-            answer: 1,
-            explanation: "Selectins (L-selectin, E-selectin, P-selectin) mediate the weak, transient interactions that cause leukocytes to 'roll' along the endothelium."
-        },
-        {
-            question: "A child with recurrent bacterial infections is found to have a defect in the NADPH oxidase enzyme. This defect impairs which step of the inflammatory response?",
-            options: [
-                "Chemotaxis",
-                "Opsonization",
-                "Phagocytic engulfment",
-                "Intracellular microbial killing"
-            ],
-            answer: 3,
-            explanation: "NADPH oxidase is essential for the respiratory burst that generates reactive oxygen species (superoxide) used for intracellular killing of microbes. Deficiency leads to Chronic Granulomatous Disease (CGD)."
-        },
-        {
-            question: "Which of the following is a characteristic feature of chronic inflammation but NOT acute inflammation?",
-            options: [
-                "Neutrophil infiltration",
-                "Edema",
-                "Granuloma formation",
-                "Vasodilation"
-            ],
-            answer: 2,
-            explanation: "Granuloma formation is a specific type of chronic inflammation characterized by aggregates of activated macrophages (epithelioid cells), often with giant cells and lymphocytes."
-        },
-        {
-            question: "What is the primary function of C3b in the complement cascade?",
-            options: [
-                "Chemotaxis",
-                "Vasodilation",
-                "Opsonization",
-                "Cell lysis (MAC formation)"
-            ],
-            answer: 2,
-            explanation: "C3b acts as an opsonin, coating microbes to enhance their recognition and phagocytosis by leukocytes expressing C3b receptors."
-        }
-    ],
-    glossary: [
-        { term: "Exudate", definition: "Fluid with high protein and cellular content that leaks out of vessels due to increased permeability in inflammation." },
-        { term: "Transudate", definition: "Fluid with low protein and cellular content caused by hydrostatic/oncotic pressure imbalance, not inflammation." },
-        { term: "Opsonization", definition: "The process of coating a pathogen with proteins (opsonins like C3b, IgG) to facilitate phagocytosis." },
-        { term: "Chemotaxis", definition: "Movement of cells along a chemical gradient toward a site of injury or infection." },
-        { term: "Granuloma", definition: "A focal collection of activated macrophages (epithelioid cells) surrounded by lymphocytes, seen in chronic inflammation." }
-    ],
+  questions: [
+    {
+      question: "A patient presents with a swollen, red, and painful finger after a splinter injury. Which mediator is primarily responsible for the pain associated with this inflammation?",
+      options: [
+        "Histamine",
+        "C3b",
+        "Bradykinin",
+        "Interleukin-1"
+      ],
+      answer: 2,
+      explanation: "Bradykinin and Prostaglandins (specifically PGE2) are the primary mediators responsible for pain (dolor) in acute inflammation."
+    },
+    {
+      question: "In the process of leukocyte recruitment, which molecule is primarily responsible for the 'rolling' interaction between leukocytes and endothelial cells?",
+      options: [
+        "Integrins",
+        "Selectins",
+        "ICAM-1",
+        "PECAM-1"
+      ],
+      answer: 1,
+      explanation: "Selectins (L-selectin, E-selectin, P-selectin) mediate the weak, transient interactions that cause leukocytes to 'roll' along the endothelium."
+    },
+    {
+      question: "A child with recurrent bacterial infections is found to have a defect in the NADPH oxidase enzyme. This defect impairs which step of the inflammatory response?",
+      options: [
+        "Chemotaxis",
+        "Opsonization",
+        "Phagocytic engulfment",
+        "Intracellular microbial killing"
+      ],
+      answer: 3,
+      explanation: "NADPH oxidase is essential for the respiratory burst that generates reactive oxygen species (superoxide) used for intracellular killing of microbes. Deficiency leads to Chronic Granulomatous Disease (CGD)."
+    },
+    {
+      question: "Which of the following is a characteristic feature of chronic inflammation but NOT acute inflammation?",
+      options: [
+        "Neutrophil infiltration",
+        "Edema",
+        "Granuloma formation",
+        "Vasodilation"
+      ],
+      answer: 2,
+      explanation: "Granuloma formation is a specific type of chronic inflammation characterized by aggregates of activated macrophages (epithelioid cells), often with giant cells and lymphocytes."
+    },
+    {
+      question: "What is the primary function of C3b in the complement cascade?",
+      options: [
+        "Chemotaxis",
+        "Vasodilation",
+        "Opsonization",
+        "Cell lysis (MAC formation)"
+      ],
+      answer: 2,
+      explanation: "C3b acts as an opsonin, coating microbes to enhance their recognition and phagocytosis by leukocytes expressing C3b receptors."
+    }
+  ],
+  glossary: [
+    { term: "Exudate", definition: "Fluid with high protein and cellular content that leaks out of vessels due to increased permeability in inflammation." },
+    { term: "Transudate", definition: "Fluid with low protein and cellular content caused by hydrostatic/oncotic pressure imbalance, not inflammation." },
+    { term: "Opsonization", definition: "The process of coating a pathogen with proteins (opsonins like C3b, IgG) to facilitate phagocytosis." },
+    { term: "Chemotaxis", definition: "Movement of cells along a chemical gradient toward a site of injury or infection." },
+    { term: "Granuloma", definition: "A focal collection of activated macrophages (epithelioid cells) surrounded by lymphocytes, seen in chronic inflammation." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",
@@ -4122,12 +4523,12 @@ E. Perforin
   ]
 },
     {
-    id: "L130",
-    title: "L130 - Pathology: Healing and Repair",
-    module: "Pathology",
-    tags: ["Pathology", "Healing", "Repair", "Regeneration", "Scar", "Collagen", "Granulation Tissue", "Wound Healing"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L130",
+  title: "L130 - Pathology: Healing and Repair",
+  module: "Pathology",
+  tags: ["Pathology", "Healing", "Repair", "Regeneration", "Scar", "Collagen", "Granulation Tissue", "Wound Healing"],
+  createdAt: "2024-11-26",
+  summary: `
 # Pathology: Healing and Repair
 
 ## Overview
@@ -4158,6 +4559,13 @@ E. Perforin
 *   **Components:** Glycoproteins (Fibronectin, Laminin) for adhesion; Proteoglycans for hydration.
 *   **Matrix Metalloproteinases (MMPs):** Degrade collagen/ECM during remodeling. Inhibited by TIMPs (Tissue Inhibitors of Metalloproteinases).
 
+:::correlate
+**Scurvy (Vitamin C Deficiency)**
+*   **Pathology:** Vitamin C is a cofactor for **Lysyl Hydroxylase**, essential for collagen cross-linking.
+*   **Defect:** Defective collagen synthesis (especially Type I).
+*   **Symptoms:** Poor wound healing, bleeding gums, easy bruising.
+:::
+
 ## Phases of Cutaneous Wound Healing (Detailed Timeline)
 1.  **Inflammation (0-3 days):**
     *   Clot formation (fibrin, platelets).
@@ -4184,81 +4592,84 @@ E. Perforin
     *   **Wound Contraction:** Mediated by **Myofibroblasts**.
     *   Large scar.
 
+:::correlate
+**Abnormal Scarring: Keloid vs. Hypertrophic Scar**
+*   **Keloid:** Excessive collagen (Type I & III) that extends **beyond** the original wound boundaries. High recurrence rate; genetic predisposition.
+*   **Hypertrophic Scar:** Excessive collagen that remains **confined** to the wound boundaries. Often improves with time.
+:::
+
 ## Complications & Deterrents to Healing
 *   **Infection:** Most common cause of delayed healing.
 *   **Debris in wound:** Foreign objects, dirt, glass, rocks → must be debrided.
-*   **Nutritional Deficiency:** Vitamin C (Scurvy) → defective collagen synthesis. Protein malnutrition.
+*   **Nutritional Deficiency:** Protein malnutrition.
 *   **Obesity:** Impaired healing.
-*   **Vomiting:** Increased abdominal pressure → risk of dehiscence.
-*   **Keloid:** Excessive collagen (Type I & III) extending **beyond** wound boundaries. High recurrence. May run in families.
-*   **Hypertrophic Scar:** Excessive collagen **confined** to wound boundaries.
-*   **Dehiscence:** Rupture of a wound (e.g., abdominal surgery).
+*   **Vomiting:** Increased abdominal pressure → risk of **Dehiscence** (rupture of wound).
 *   **Contracture:** Excessive contraction (e.g., palms, soles, burns).
 `,
-    questions: [
-        {
-            question: "A 45-year-old male undergoes a partial hepatectomy (removal of 60% of the liver). Weeks later, the liver mass has largely been restored. This is an example of regeneration involving which cell type?",
-            options: [
-                "Labile cells",
-                "Stable cells",
-                "Permanent cells",
-                "Stem cells only"
-            ],
-            answer: 1,
-            explanation: "Hepatocytes are stable cells (quiescent) that can re-enter the cell cycle and proliferate in response to injury or tissue loss."
-        },
-        {
-            question: "During the proliferative phase of wound healing, which tissue type is characterized by the presence of new capillaries (angiogenesis), fibroblasts, and loose connective tissue?",
-            options: [
-                "Granulation tissue",
-                "Caseous necrosis",
-                "Keloid",
-                "Mature scar"
-            ],
-            answer: 0,
-            explanation: "Granulation tissue is the hallmark of the proliferative phase, consisting of new blood vessels (angiogenesis), fibroblasts, and inflammatory cells in a loose matrix."
-        },
-        {
-            question: "Which growth factor is considered the most potent fibrogenic agent, stimulating collagen synthesis and inhibiting its degradation?",
-            options: [
-                "VEGF",
-                "PDGF",
-                "TGF-beta",
-                "EGF"
-            ],
-            answer: 2,
-            explanation: "TGF-beta is the most important cytokine for the synthesis and deposition of connective tissue proteins (fibrosis)."
-        },
-        {
-            question: "A patient presents with a raised, irregular scar on their earlobe following a piercing. The scar extends well beyond the original site of injury. What is the diagnosis?",
-            options: [
-                "Hypertrophic scar",
-                "Keloid",
-                "Granuloma",
-                "Dehiscence"
-            ],
-            answer: 1,
-            explanation: "Keloids are characterized by excessive scar tissue formation that grows beyond the boundaries of the original wound. Hypertrophic scars remain confined to the wound."
-        },
-        {
-            question: "In the maturation phase of wound healing, the tensile strength of the wound increases primarily due to the replacement of Type III collagen with which collagen type?",
-            options: [
-                "Type I",
-                "Type II",
-                "Type IV",
-                "Type V"
-            ],
-            answer: 0,
-            explanation: "Type III collagen (immature) is replaced by Type I collagen (mature, high tensile strength) during the remodeling/maturation phase."
-        }
-    ],
-    glossary: [
-        { term: "Granulation Tissue", definition: "New tissue formed during wound healing, characterized by angiogenesis (new vessels) and fibroblast proliferation." },
-        { term: "Angiogenesis", definition: "The formation of new blood vessels from pre-existing vessels, critical for healing and tumor growth." },
-        { term: "Myofibroblast", definition: "A fibroblast with contractile properties (smooth muscle actin) responsible for wound contraction." },
-        { term: "Keloid", definition: "Excessive scar tissue that extends beyond the boundaries of the original wound." },
-        { term: "Dehiscence", definition: "The splitting or bursting open of a wound, often a surgical incision." }
-    ],
+  questions: [
+    {
+      question: "A 45-year-old male undergoes a partial hepatectomy (removal of 60% of the liver). Weeks later, the liver mass has largely been restored. This is an example of regeneration involving which cell type?",
+      options: [
+        "Labile cells",
+        "Stable cells",
+        "Permanent cells",
+        "Stem cells only"
+      ],
+      answer: 1,
+      explanation: "Hepatocytes are stable cells (quiescent) that can re-enter the cell cycle and proliferate in response to injury or tissue loss."
+    },
+    {
+      question: "During the proliferative phase of wound healing, which tissue type is characterized by the presence of new capillaries (angiogenesis), fibroblasts, and loose connective tissue?",
+      options: [
+        "Granulation tissue",
+        "Caseous necrosis",
+        "Keloid",
+        "Mature scar"
+      ],
+      answer: 0,
+      explanation: "Granulation tissue is the hallmark of the proliferative phase, consisting of new blood vessels (angiogenesis), fibroblasts, and inflammatory cells in a loose matrix."
+    },
+    {
+      question: "Which growth factor is considered the most potent fibrogenic agent, stimulating collagen synthesis and inhibiting its degradation?",
+      options: [
+        "VEGF",
+        "PDGF",
+        "TGF-beta",
+        "EGF"
+      ],
+      answer: 2,
+      explanation: "TGF-beta is the most important cytokine for the synthesis and deposition of connective tissue proteins (fibrosis)."
+    },
+    {
+      question: "A patient presents with a raised, irregular scar on their earlobe following a piercing. The scar extends well beyond the original site of injury. What is the diagnosis?",
+      options: [
+        "Hypertrophic scar",
+        "Keloid",
+        "Granuloma",
+        "Dehiscence"
+      ],
+      answer: 1,
+      explanation: "Keloids are characterized by excessive scar tissue formation that grows beyond the boundaries of the original wound. Hypertrophic scars remain confined to the wound."
+    },
+    {
+      question: "In the maturation phase of wound healing, the tensile strength of the wound increases primarily due to the replacement of Type III collagen with which collagen type?",
+      options: [
+        "Type I",
+        "Type II",
+        "Type IV",
+        "Type V"
+      ],
+      answer: 0,
+      explanation: "Type III collagen (immature) is replaced by Type I collagen (mature, high tensile strength) during the remodeling/maturation phase."
+    }
+  ],
+  glossary: [
+    { term: "Granulation Tissue", definition: "New tissue formed during wound healing, characterized by angiogenesis (new vessels) and fibroblast proliferation." },
+    { term: "Angiogenesis", definition: "The formation of new blood vessels from pre-existing vessels, critical for healing and tumor growth." },
+    { term: "Myofibroblast", definition: "A fibroblast with contractile properties (smooth muscle actin) responsible for wound contraction." },
+    { term: "Keloid", definition: "Excessive scar tissue that extends beyond the boundaries of the original wound." },
+    { term: "Dehiscence", definition: "The splitting or bursting open of a wound, often a surgical incision." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",
@@ -4544,12 +4955,12 @@ E. Perforin
   ]
 },
     {
-    id: "L132",
-    title: "L132 - Pathology: Neoplasia (Part 2)",
-    module: "Pathology",
-    tags: ["Pathology", "Neoplasia", "Cancer", "Metastasis", "Oncogenes", "Microbes", "Paraneoplastic"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L132",
+  title: "L132 - Pathology: Neoplasia (Part 2)",
+  module: "Pathology",
+  tags: ["Pathology", "Neoplasia", "Cancer", "Metastasis", "Oncogenes", "Microbes", "Paraneoplastic"],
+  createdAt: "2024-11-26",
+  summary: `
 # Pathology: Neoplasia (Part 2)
 
 ## Part 1: Genetic and Molecular Basis of Cancer
@@ -4594,16 +5005,27 @@ E. Perforin
     *   Triggering apoptosis (induces **BAX**).
 *   **Checkpoints:** Required for G1/S checkpoint, main component of G2/M checkpoint.
 *   **Mechanism:** Homozygous loss (biallelic loss-of-function mutations). Most sporadic cancers require "two hits" (both alleles mutated).
-*   **Li-Fraumeni Syndrome (VERY IMPORTANT):**
-    *   Patients inherit **one mutant p53 allele** → only need **one "hit"** to lose p53 function.
-    *   **25-fold greater chance** of developing malignancy by age 50.
-    *   **Cancers:** Sarcomas, breast cancer, leukemia, brain tumors, adrenal cortex carcinomas.
+*   **Mechanism:** Homozygous loss (biallelic loss-of-function mutations). Most sporadic cancers require "two hits" (both alleles mutated).
+
+:::correlate
+**Li-Fraumeni Syndrome**
+*   **Defect:** Germline mutation in **TP53** (one mutant allele inherited).
+*   **Mechanism:** Only one somatic "hit" needed to lose p53 function (Two-Hit Hypothesis).
+*   **Risk:** 25-fold increased risk of malignancy by age 50.
+*   **Cancers:** **SBLA** (Sarcoma, Breast, Leukemia, Adrenal).
+:::
 
 ### Warburg Effect (Aerobic Glycolysis)
 *   **Definition:** Cancer cells use **glycolysis** even in the presence of ample oxygen (aerobic glycolysis), converting glucose to **lactate** (NOT lactose - typo in some texts!).
 *   **Why?** While inefficient for ATP (2 ATP vs 36 ATP from oxidative phosphorylation), it provides **metabolic intermediates** needed for biosynthesis of cellular components (proteins, lipids, nucleic acids).
-*   **Clinical Use:** PET scans use ¹⁸F-fluorodeoxyglucose to visualize tumors ("glucose hunger").
-*   **Note:** Not cancer-specific - rapidly growing normal cells (embryonic tissues) also use aerobic glycolysis.
+*   **Why?** While inefficient for ATP (2 ATP vs 36 ATP from oxidative phosphorylation), it provides **metabolic intermediates** needed for biosynthesis of cellular components (proteins, lipids, nucleic acids).
+
+:::correlate
+**PET Scans & The Warburg Effect**
+*   **Principle:** Cancer cells exhibit **"Glucose Hunger"** (high glucose uptake) due to aerobic glycolysis.
+*   **Imaging:** **PET Scans** use a glucose analog (**18F-FDG**) to visualize metabolically active tumors.
+*   **Note:** Also highlights normal tissues with high glucose use (brain, heart).
+:::
 
 ## Part 2: Cancer Growth and Metastasis
 *   **Tumor Growth Kinetics:**
@@ -4651,70 +5073,70 @@ E. Perforin
     *   **Hypertrophic Osteoarthropathy:** Clubbing of fingers (Lung cancer).
 *   **Other:** Vascular/hematological changes, nephrotic syndrome, bone/joint/soft tissue changes.
 `,
-    questions: [
-        {
-            question: "Which hallmark of cancer allows tumor cells to divide indefinitely without entering senescence?",
-            options: [
-                "Sustained angiogenesis",
-                "Evasion of apoptosis",
-                "Reactivation of telomerase",
-                "Insensitivity to anti-growth signals"
-            ],
-            answer: 2,
-            explanation: "Reactivation of telomerase maintains telomere length, preventing the cell from reaching the Hayflick limit and allowing for limitless replicative potential (immortality)."
-        },
-        {
-            question: "Which route of metastasis is most characteristic of carcinomas?",
-            options: [
-                "Hematogenous spread",
-                "Lymphatic spread",
-                "Seeding of body cavities",
-                "Perineural invasion"
-            ],
-            answer: 1,
-            explanation: "Carcinomas typically spread via the lymphatics to regional lymph nodes first, whereas sarcomas tend to spread hematogenously."
-        },
-        {
-            question: "A patient with small cell carcinoma of the lung presents with muscle weakness that improves with use. This is likely due to antibodies against:",
-            options: [
-                "Acetylcholine receptors",
-                "Presynaptic voltage-gated calcium channels",
-                "NMDA receptors",
-                "Musk protein"
-            ],
-            answer: 1,
-            explanation: "This describes Lambert-Eaton Myasthenic Syndrome, a paraneoplastic syndrome associated with small cell lung cancer caused by antibodies against presynaptic calcium channels."
-        },
-        {
-            question: "Which oncogenic virus is mechanistically linked to the inhibition of p53 and Rb tumor suppressor proteins via E6 and E7 viral oncoproteins?",
-            options: [
-                "Epstein-Barr Virus (EBV)",
-                "Hepatitis B Virus (HBV)",
-                "Human Papillomavirus (HPV)",
-                "Human T-cell Leukemia Virus (HTLV-1)"
-            ],
-            answer: 2,
-            explanation: "High-risk HPV strains express E6 (degrades p53) and E7 (inhibits Rb), promoting uncontrolled cell division."
-        },
-        {
-            question: "The 'Warburg Effect' in cancer metabolism refers to:",
-            options: [
-                "Increased oxidative phosphorylation",
-                "Shift to aerobic glycolysis",
-                "Increased fatty acid oxidation",
-                "Decreased glucose uptake"
-            ],
-            answer: 1,
-            explanation: "The Warburg Effect is the phenomenon where cancer cells preferentially use glycolysis for energy production even in the presence of ample oxygen (aerobic glycolysis)."
-        }
-    ],
-    glossary: [
-        { term: "Oncogene", definition: "A gene that has the potential to cause cancer. In tumor cells, they are often mutated or expressed at high levels." },
-        { term: "Tumor Suppressor Gene", definition: "A gene that protects a cell from one step on the path to cancer. Loss of function mutations in these genes allow cancer to develop." },
-        { term: "Paraneoplastic Syndrome", definition: "A syndrome (a set of signs and symptoms) that is the consequence of cancer in the body but is not due to the local presence of cancer cells." },
-        { term: "Angiogenesis", definition: "The physiological process through which new blood vessels form from pre-existing vessels, essential for tumor growth beyond a certain size." },
-        { term: "Cachexia", definition: "A complex metabolic syndrome associated with underlying illness (like cancer) characterized by loss of muscle with or without loss of fat mass." }
-    ],
+  questions: [
+    {
+      question: "Which hallmark of cancer allows tumor cells to divide indefinitely without entering senescence?",
+      options: [
+        "Sustained angiogenesis",
+        "Evasion of apoptosis",
+        "Reactivation of telomerase",
+        "Insensitivity to anti-growth signals"
+      ],
+      answer: 2,
+      explanation: "Reactivation of telomerase maintains telomere length, preventing the cell from reaching the Hayflick limit and allowing for limitless replicative potential (immortality)."
+    },
+    {
+      question: "Which route of metastasis is most characteristic of carcinomas?",
+      options: [
+        "Hematogenous spread",
+        "Lymphatic spread",
+        "Seeding of body cavities",
+        "Perineural invasion"
+      ],
+      answer: 1,
+      explanation: "Carcinomas typically spread via the lymphatics to regional lymph nodes first, whereas sarcomas tend to spread hematogenously."
+    },
+    {
+      question: "A patient with small cell carcinoma of the lung presents with muscle weakness that improves with use. This is likely due to antibodies against:",
+      options: [
+        "Acetylcholine receptors",
+        "Presynaptic voltage-gated calcium channels",
+        "NMDA receptors",
+        "Musk protein"
+      ],
+      answer: 1,
+      explanation: "This describes Lambert-Eaton Myasthenic Syndrome, a paraneoplastic syndrome associated with small cell lung cancer caused by antibodies against presynaptic calcium channels."
+    },
+    {
+      question: "Which oncogenic virus is mechanistically linked to the inhibition of p53 and Rb tumor suppressor proteins via E6 and E7 viral oncoproteins?",
+      options: [
+        "Epstein-Barr Virus (EBV)",
+        "Hepatitis B Virus (HBV)",
+        "Human Papillomavirus (HPV)",
+        "Human T-cell Leukemia Virus (HTLV-1)"
+      ],
+      answer: 2,
+      explanation: "High-risk HPV strains express E6 (degrades p53) and E7 (inhibits Rb), promoting uncontrolled cell division."
+    },
+    {
+      question: "The 'Warburg Effect' in cancer metabolism refers to:",
+      options: [
+        "Increased oxidative phosphorylation",
+        "Shift to aerobic glycolysis",
+        "Increased fatty acid oxidation",
+        "Decreased glucose uptake"
+      ],
+      answer: 1,
+      explanation: "The Warburg Effect is the phenomenon where cancer cells preferentially use glycolysis for energy production even in the presence of ample oxygen (aerobic glycolysis)."
+    }
+  ],
+  glossary: [
+    { term: "Oncogene", definition: "A gene that has the potential to cause cancer. In tumor cells, they are often mutated or expressed at high levels." },
+    { term: "Tumor Suppressor Gene", definition: "A gene that protects a cell from one step on the path to cancer. Loss of function mutations in these genes allow cancer to develop." },
+    { term: "Paraneoplastic Syndrome", definition: "A syndrome (a set of signs and symptoms) that is the consequence of cancer in the body but is not due to the local presence of cancer cells." },
+    { term: "Angiogenesis", definition: "The physiological process through which new blood vessels form from pre-existing vessels, essential for tumor growth beyond a certain size." },
+    { term: "Cachexia", definition: "A complex metabolic syndrome associated with underlying illness (like cancer) characterized by loss of muscle with or without loss of fat mass." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",
@@ -4794,12 +5216,12 @@ E. Perforin
   ]
 },
     {
-    id: "L133",
-    title: "L133 - Introduction to the Nervous System",
-    module: "Neuroscience",
-    tags: ["Neuroscience", "Neuron", "Glia", "Synapse", "Myelin", "Astrocytes", "Microglia", "Oligodendrocytes", "Schwann Cells"],
-    createdAt: "2024-11-26",
-    summary: `
+  id: "L133",
+  title: "L133 - Introduction to the Nervous System",
+  module: "Neuroscience",
+  tags: ["Neuroscience", "Neuron", "Glia", "Synapse", "Myelin", "Astrocytes", "Microglia", "Oligodendrocytes", "Schwann Cells"],
+  createdAt: "2024-11-26",
+  summary: `
 # Introduction to the Nervous System
 
 ## Overview
@@ -4810,120 +5232,126 @@ E. Perforin
 *   **Structure:**
     *   **Soma (Cell Body):** Contains organelles.
     *   **Dendrites:** Information receiving (the "ears"). Often have **dendritic spines** (sites of excitatory synapses).
-        *   *Clinical Correlate:* **Fragile X Syndrome** (FMRP mutation) $\\rightarrow$ increased/immature spines $\\rightarrow$ cognitive disability. **Schizophrenia** $\\rightarrow$ impoverished spines.
-    *   **Axon:** Information sending (the "mouth").
-        *   **Axon Initial Segment:** High density of ion channels for action potential generation.
-        *   **Axon Terminals:** Release neurotransmitters.
-    *   **Primary Cilium:** Sensory antenna.
-        *   *Clinical Correlate:* **Joubert Syndrome** (ALR13B mutation) $\\rightarrow$ cilia defects $\\rightarrow$ midbrain/hindbrain malformations, intellectual disability.
+    *   **Symptoms:** Midbrain/hindbrain malformations ("Molar Tooth Sign"), intellectual disability, ataxia.
+    :::
 
 ## Synapses
 *   **Chemical Synapse:**
     *   Presynaptic axon terminal releases neurotransmitter vesicles into the **synaptic cleft**.
     *   Neurotransmitter binds to receptors on postsynaptic dendrite/spine.
     *   Unidirectional, slower (1-5 ms).
+    :::correlate
+    **Synaptic Proteins & Autism**
+    *   **SHANK3:** Scaffolding protein at postsynaptic density.
+    *   **Mutation:** Associated with **Autism Spectrum Disorder** and Phelan-McDermid syndrome.
+    :::
 *   **Electrical Synapse (Gap Junctions):**
     *   Direct connection via **Connexin** proteins forming channels.
     *   Bidirectional flow of ions and small molecules.
     *   Very fast (<1 ms).
     *   Allows for synchronization of neuronal activity.
-    *   *Clinical Correlate:* Connexin mutations cause ~30 diseases (e.g., deafness, skin disorders).
+    :::correlate
+    **Connexin Mutations**
+    *   Gap junctions are made of **Connexins**.
+    *   Mutations cause ~30 diseases (e.g., Deafness, Skin disorders like Vohwinkel syndrome).
+    :::
 
 ## Glial Cells: Support and Defense
 *   **Astrocytes:**
     *   Structural support at synapses.
-    *   Regulate extracellular ions ($K^+$) and neurotransmitters (Glutamate uptake).
+    *   Regulate extracellular ions (K<sup>+</sup>) and neurotransmitters (Glutamate uptake).
     *   **Blood-Brain Barrier (BBB):** End-feet contact blood vessels to regulate hemodynamics (neurovascular coupling).
     *   **Reactive Astrocytes:** Respond to injury (gliosis/glial scar). Marker: **GFAP** (Glial Fibrillary Acidic Protein).
-    *   *Clinical Correlate:* **Alexander Disease** (GFAP mutation) $\\rightarrow$ leukodystrophy (white matter deficits).
+    :::correlate
+    **Alexander Disease**
+    *   **Cause:** **GFAP** mutation (Astrocytes).
+    *   **Pathology:** Leukodystrophy (white matter deficits), Rosenthal fibers.
+    *   **Symptoms:** Macrocephaly, seizures, developmental delay.
+    :::
 *   **Microglia:**
     *   Immune cells of the CNS (phagocytes).
-    *   Respond to injury/infection by changing shape (ramified $\\rightarrow$ amoeboid) and phagocytosing debris/dying neurons.
+    *   Respond to injury/infection by changing shape (ramified &rarr; amoeboid) and phagocytosing debris/dying neurons.
     *   Release cytokines.
 *   **Oligodendrocytes (CNS):**
     *   Produce **myelin** in the CNS.
     *   One oligo myelinate multiple axon segments.
     *   Marker: **Olig2**.
-    *   *Clinical Correlate:* **Multiple Sclerosis** (demyelination), **Oligodendroglioma** (tumor).
+    :::correlate
+    **Oligodendrocyte Pathologies**
+    *   **Multiple Sclerosis:** Autoimmune demyelination in CNS.
+    *   **Oligodendroglioma:** Tumor derived from oligodendrocytes ("Fried egg" appearance).
+    *   **MOGAD:** Antibody against MOG (Myelin Oligodendrocyte Glycoprotein) &rarr; Inflammation/Demyelination.
+    :::
 *   **Schwann Cells (PNS):**
-    *   Produce myelin in the PNS.
-    *   One Schwann cell myelinates one axon segment.
-    *   *Note:* PNS axons can regenerate (Wallerian degeneration followed by regrowth); CNS axons typically do not.
-
-## Myelin and Nodes of Ranvier
-*   **Myelin:** Insulating layer that increases conduction speed.
-*   **Nodes of Ranvier:** Gaps in myelin with high density of $Na^+$ channels for saltatory conduction.
-*   *Clinical Correlate:* **Pitt-Hopkins Syndrome** (CNTNAP2/CASPR2 mutation) $\\rightarrow$ node dysfunction $\\rightarrow$ autism, epilepsy.
-*   *Clinical Correlate:* **MOGAD** (Myelin Oligodendrocyte Glycoprotein Antibody Disease) $\\rightarrow$ autoimmune attack on myelin.
 
 ## Other Cells
 *   **Ependymal Cells:** Line ventricles, produce CSF.
 *   **Pericytes:** Contractile cells around capillaries, regulate blood flow.
 `,
-    questions: [
-        {
-            question: "A pathologist examines a brain specimen from a patient with a history of severe head trauma. They observe a dense network of cells staining positive for GFAP (Glial Fibrillary Acidic Protein) around the injury site. Which cell type is primarily responsible for this 'glial scar'?",
-            options: [
-                "Microglia",
-                "Oligodendrocytes",
-                "Astrocytes",
-                "Schwann cells"
-            ],
-            answer: 2,
-            explanation: "Astrocytes become reactive following injury (gliosis) and upregulate GFAP, forming a glial scar."
-        },
-        {
-            question: "A child presents with intellectual disability, ataxia, and characteristic midbrain malformations ('molar tooth sign'). Genetic testing reveals a mutation in a gene required for the formation of the primary cilium in neurons. What is the most likely diagnosis?",
-            options: [
-                "Fragile X Syndrome",
-                "Joubert Syndrome",
-                "Alexander Disease",
-                "Multiple Sclerosis"
-            ],
-            answer: 1,
-            explanation: "Joubert syndrome is a ciliopathy caused by mutations in genes like ARL13B, affecting the neuronal primary cilium."
-        },
-        {
-            question: "Which of the following best describes the function of the Node of Ranvier?",
-            options: [
-                "Synthesis of neurotransmitters",
-                "Insulation of the axon to prevent ion leakage",
-                "Regeneration of the action potential via high density of ion channels",
-                "Phagocytosis of cellular debris"
-            ],
-            answer: 2,
-            explanation: "Nodes of Ranvier are gaps in the myelin sheath where voltage-gated ion channels are clustered to regenerate the action potential (saltatory conduction)."
-        },
-        {
-            question: "In contrast to chemical synapses, electrical synapses are characterized by:",
-            options: [
-                "Unidirectional information flow",
-                "Significant synaptic delay (1-5 ms)",
-                "Use of vesicles for transmission",
-                "Bidirectional flow of ions through connexin channels"
-            ],
-            answer: 3,
-            explanation: "Electrical synapses (gap junctions) allow direct, bidirectional, and very fast flow of ions and small molecules between cells."
-        },
-        {
-            question: "A patient is diagnosed with an autoimmune disorder where antibodies attack Myelin Oligodendrocyte Glycoprotein (MOG). Which cell type is the primary target of this attack?",
-            options: [
-                "Schwann cells",
-                "Oligodendrocytes",
-                "Astrocytes",
-                "Microglia"
-            ],
-            answer: 1,
-            explanation: "MOG is a protein found on the surface of oligodendrocytes and their myelin sheaths in the CNS. MOGAD is a demyelinating disease."
-        }
-    ],
-    glossary: [
-        { term: "Dendritic Spine", definition: "Small protrusion on a dendrite that typically receives excitatory input; site of synaptic plasticity." },
-        { term: "Node of Ranvier", definition: "Gap in the myelin sheath of a nerve, between adjacent Schwann cells or oligodendrocytes, where action potentials are regenerated." },
-        { term: "Saltatory Conduction", definition: "Rapid transmission of a nerve impulse along an axon, resulting from the action potential jumping from one node of Ranvier to another." },
-        { term: "Gliosis", definition: "Proliferation or hypertrophy of glial cells (usually astrocytes) in response to damage to the central nervous system." },
-        { term: "Wallerian Degeneration", definition: "Degeneration of the distal portion of an axon and its myelin sheath following injury." }
-    ],
+  questions: [
+    {
+      question: "A pathologist examines a brain specimen from a patient with a history of severe head trauma. They observe a dense network of cells staining positive for GFAP (Glial Fibrillary Acidic Protein) around the injury site. Which cell type is primarily responsible for this 'glial scar'?",
+      options: [
+        "Microglia",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Schwann cells"
+      ],
+      answer: 2,
+      explanation: "Astrocytes become reactive following injury (gliosis) and upregulate GFAP, forming a glial scar."
+    },
+    {
+      question: "A child presents with intellectual disability, ataxia, and characteristic midbrain malformations ('molar tooth sign'). Genetic testing reveals a mutation in a gene required for the formation of the primary cilium in neurons. What is the most likely diagnosis?",
+      options: [
+        "Fragile X Syndrome",
+        "Joubert Syndrome",
+        "Alexander Disease",
+        "Multiple Sclerosis"
+      ],
+      answer: 1,
+      explanation: "Joubert syndrome is a ciliopathy caused by mutations in genes like ARL13B, affecting the neuronal primary cilium."
+    },
+    {
+      question: "Which of the following best describes the function of the Node of Ranvier?",
+      options: [
+        "Synthesis of neurotransmitters",
+        "Insulation of the axon to prevent ion leakage",
+        "Regeneration of the action potential via high density of ion channels",
+        "Phagocytosis of cellular debris"
+      ],
+      answer: 2,
+      explanation: "Nodes of Ranvier are gaps in the myelin sheath where voltage-gated ion channels are clustered to regenerate the action potential (saltatory conduction)."
+    },
+    {
+      question: "In contrast to chemical synapses, electrical synapses are characterized by:",
+      options: [
+        "Unidirectional information flow",
+        "Significant synaptic delay (1-5 ms)",
+        "Use of vesicles for transmission",
+        "Bidirectional flow of ions through connexin channels"
+      ],
+      answer: 3,
+      explanation: "Electrical synapses (gap junctions) allow direct, bidirectional, and very fast flow of ions and small molecules between cells."
+    },
+    {
+      question: "A patient is diagnosed with an autoimmune disorder where antibodies attack Myelin Oligodendrocyte Glycoprotein (MOG). Which cell type is the primary target of this attack?",
+      options: [
+        "Schwann cells",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Microglia"
+      ],
+      answer: 1,
+      explanation: "MOG is a protein found on the surface of oligodendrocytes and their myelin sheaths in the CNS. MOGAD is a demyelinating disease."
+    }
+  ],
+  glossary: [
+    { term: "Dendritic Spine", definition: "Small protrusion on a dendrite that typically receives excitatory input; site of synaptic plasticity." },
+    { term: "Node of Ranvier", definition: "Gap in the myelin sheath of a nerve, between adjacent Schwann cells or oligodendrocytes, where action potentials are regenerated." },
+    { term: "Saltatory Conduction", definition: "Rapid transmission of a nerve impulse along an axon, resulting from the action potential jumping from one node of Ranvier to another." },
+    { term: "Gliosis", definition: "Proliferation or hypertrophy of glial cells (usually astrocytes) in response to damage to the central nervous system." },
+    { term: "Wallerian Degeneration", definition: "Degeneration of the distal portion of an axon and its myelin sheath following injury." }
+  ],
   "mnemonics": [
     {
       "heading": "Card #1",
@@ -5001,6 +5429,1080 @@ E. Perforin
       "meaning": "Acetylcholine"
     }
   ]
+},
+    {
+    id: "L134",
+    title: "L134 - Epidemiology I",
+    module: "Epidemiology/Public Health",
+    tags: ["Epidemiology", "Incidence", "Prevalence", "Screening", "Sensitivity", "Specificity", "PPV", "NPV", "Bias", "Prevention"],
+    createdAt: "2024-11-28",
+    summary: `
+# Epidemiology I
+
+## Basic Epidemiological Measures
+*   **Epidemiology:** Study of patterns, causes, and effects of health and disease in populations.
+*   **Count:** Simplest measure. Number of cases (e.g., "2 people have Ebola"). Significant for rare diseases, less meaningful for common ones (e.g., allergies).
+*   **Rate:** Ratio with time in the denominator. Elements: Disease frequency, Unit size of population, Time period.
+
+## Incidence vs. Prevalence
+*   **Incidence Rate:** Number of **NEW** cases during a specified time in a population **at risk**.
+    *   **Measure of Risk:** Tells you the probability of getting the disease.
+    *   **Denominator:** Must exclude those who already have the disease or are not at risk (e.g., exclude women who had a hysterectomy for uterine cancer rates).
+    *   **Person-Years:** Used when follow-up time varies between individuals.
+*   **Prevalence Rate:** Number of **EXISTING** cases (new + old) at a specific time divided by the **total population**.
+    *   **Measure of Burden:** Indicates the extent of the health problem.
+    *   **Relationship:** **Prevalence = Incidence &times; Duration**.
+    *   **Factors Affecting Prevalence:**
+        *   **Increase:** New cases (Incidence), longer duration (improved survival without cure).
+        *   **Decrease:** Cure, Death (short duration).
+        *   *Note:* Improved treatment that prevents death but doesn't cure will **increase** prevalence.
+
+## Disease Occurrence Patterns
+*   **Endemic:** Habitual presence of a disease within a given geographic area (expected rate).
+*   **Epidemic:** Occurrence of disease in a community or region clearly in excess of normal expectancy.
+*   **Pandemic:** An epidemic that spreads worldwide (multiple countries/continents).
+
+## Types of Rates
+*   **Crude Rate:** Simple division (Total cases / Total population). Does not account for demographics.
+*   **Specific Rate:** Stratified by a specific characteristic (e.g., Age-specific rate, Sex-specific rate).
+*   **Adjusted Rate:** Mathematically transformed to remove the effect of differences in population composition (e.g., Age-adjusted rate) to allow comparison between populations with different demographics.
+
+## Disease Prevention
+*   **Primary Prevention:** Preventing the **initial development** of disease (e.g., **Vaccination**).
+*   **Secondary Prevention:** **Early detection** of existing disease to reduce severity/complications (e.g., **Screening** mammogram).
+*   **Tertiary Prevention:** Reducing the **impact** of disease; treatment/rehabilitation (e.g., Chemotherapy, PT).
+
+## Screening
+*   **Definition:** Identification of unrecognized disease by administering a test. Classifies people as likely or unlikely to have disease.
+*   **Reliability (Precision):** Consistency of results on repeated trials. (Can be reliable but wrong).
+*   **Validity (Accuracy):** Ability of the test to measure what it is supposed to measure (True Positive/Negative).
+
+### Screening Metrics (The 2x2 Table)
+
+| Test Result | Disease Present | Disease Absent |
+| :--- | :---: | :---: |
+| **Test Positive** | True Positive (TP) | False Positive (FP) |
+| **Test Negative** | False Negative (FN) | True Negative (TN) |
+
+*   **Sensitivity:** Ability to correctly identify those **WITH** the disease.
+    *   Formula: **TP / (TP + FN)**
+    *   "SNOUT": Highly **S**e**N**sitive test rules **OUT** disease (few false negatives). Used for screening.
+*   **Specificity:** Ability to correctly identify those **WITHOUT** the disease.
+    *   Formula: **TN / (TN + FP)**
+    *   "SPIN": Highly **SP**ecific test rules **IN** disease (few false positives). Used for confirmation.
+*   **Positive Predictive Value (PPV):** Probability that a person with a positive test **actually has** the disease.
+    *   Formula: **TP / (TP + FP)**
+    *   *Dependent on Prevalence:* Higher prevalence &rarr; Higher PPV.
+*   **Negative Predictive Value (NPV):** Probability that a person with a negative test **actually does not** have the disease.
+    *   Formula: **TN / (TN + FN)**
+    *   *Dependent on Prevalence:* Lower prevalence &rarr; Higher NPV.
+
+## Survival Analysis
+*   **5-Year Survival Rate:** Percentage of patients alive 5 years after diagnosis (common in cancer).
+*   **Kaplan-Meier Curve:** Graphical representation of survival over time.
+
+### Screening Biases
+*   **Lead Time Bias:** Early detection makes it look like survival is longer, but the patient just knew about the disease longer (death occurs at the same time).
+*   **Length Bias:** Screening tends to detect slowly progressing (less aggressive) cases with a longer preclinical phase, making it look like screening improves survival compared to aggressive, rapidly fatal cases that present clinically.
+`,
+    questions: [
+        {
+            question: "A new treatment for a chronic disease prevents death but does not cure the disease. What will happen to the incidence and prevalence of this disease?",
+            options: [
+                "Incidence increases, Prevalence increases",
+                "Incidence stays the same, Prevalence increases",
+                "Incidence decreases, Prevalence stays the same",
+                "Incidence stays the same, Prevalence decreases",
+                "Both Incidence and Prevalence decrease"
+            ],
+            answer: 1,
+            explanation: "Incidence (new cases) is unaffected by treatment of existing cases. However, since patients are living longer with the disease (increased duration) and not being cured, the pool of existing cases (Prevalence) increases. Prevalence = Incidence × Duration."
+        },
+        {
+            question: "A screening test for a rare disease is used in a population. A patient tests positive and asks, 'What are the chances I actually have this disease?' Which value best answers this question?",
+            options: [
+                "Sensitivity",
+                "Specificity",
+                "Positive Predictive Value (PPV)",
+                "Negative Predictive Value (NPV)",
+                "Likelihood Ratio"
+            ],
+            answer: 2,
+            explanation: "Positive Predictive Value (PPV) answers the question: 'Given a positive test result, what is the probability of having the disease?' Note that for rare diseases (low prevalence), PPV can be low even with high sensitivity/specificity."
+        },
+        {
+            question: "Which of the following is an example of Secondary Prevention?",
+            options: [
+                "Administering the HPV vaccine to adolescents",
+                "Physical therapy for a stroke patient",
+                "Colonoscopy to detect polyps in a 50-year-old man",
+                "Prescribing antibiotics for strep throat",
+                "Educating a community about the dangers of smoking"
+            ],
+            answer: 2,
+            explanation: "Secondary prevention involves early detection of disease or precursors (screening). Colonoscopy detects polyps (precursors) or early cancer. Vaccination is Primary (prevention of onset). PT and Antibiotics are Tertiary (treatment/rehabilitation)."
+        },
+        {
+            question: "Two studies compare survival rates for a cancer. Study A uses a screening program, while Study B relies on clinical diagnosis. Study A shows longer survival times, but patients in both studies die at the same age. This discrepancy is best explained by:",
+            options: [
+                "Selection Bias",
+                "Length Bias",
+                "Lead Time Bias",
+                "Confounding",
+                "Observer Bias"
+            ],
+            answer: 2,
+            explanation: "Lead Time Bias occurs when screening detects disease earlier than clinical presentation, increasing the apparent 'survival time' (time from diagnosis to death) without actually changing the time of death or course of the disease."
+        },
+        {
+            question: "To calculate the incidence rate of ovarian cancer in a population, which group must be excluded from the denominator?",
+            options: [
+                "Women over age 65",
+                "Women with a family history of ovarian cancer",
+                "Women who have had a bilateral oophorectomy (removal of ovaries)",
+                "Women currently taking oral contraceptives",
+                "Women who have never been pregnant"
+            ],
+            answer: 2,
+            explanation: "The denominator for incidence rate must only include the population **at risk**. Women who have had their ovaries removed (bilateral oophorectomy) are not at risk for ovarian cancer and must be excluded."
+        }
+    ],
+    glossary: [
+        { term: "Incidence Rate", definition: "The number of new cases of a disease that occur during a specified period of time in a population at risk for developing the disease." },
+        { term: "Prevalence Rate", definition: "The number of affected persons present in the population at a specific time divided by the number of persons in the population at that time." },
+        { term: "Endemic", definition: "The habitual presence of a disease within a given geographic area." },
+        { term: "Epidemic", definition: "The occurrence in a community or region of a group of illnesses of similar nature, clearly in excess of normal expectancy." },
+        { term: "Pandemic", definition: "An epidemic that spreads over several countries or continents, usually affecting a large number of people." },
+        { term: "Sensitivity", definition: "The ability of a test to correctly identify those who have the disease (True Positives / (True Positives + False Negatives))." },
+        { term: "Specificity", definition: "The ability of a test to correctly identify those who do not have the disease (True Negatives / (True Negatives + False Positives))." },
+        { term: "Lead Time Bias", definition: "Bias where early detection by screening makes survival appear longer because diagnosis was made earlier, even if the time of death is unchanged." },
+        { term: "Length Bias", definition: "Bias where screening is more likely to detect slowly progressing cases (longer preclinical phase) than rapidly progressive ones, overestimating the benefit of screening." }
+    ],
+    mnemonics: [
+        {
+            "heading": "Sensitivity vs Specificity",
+            "mnemonic": "**SNOUT** and **SPIN**",
+            "meaning": "**S**e**N**sitive tests rule **OUT** (High Sensitivity = Low FN). **SP**ecific tests rule **IN** (High Specificity = Low FP)."
+        }
+    ]
+},
+    {
+    id: "L135",
+    title: "L135 - Epidemiology II",
+    module: "Epidemiology/Public Health",
+    tags: ["Epidemiology", "Study Design", "Case Control", "Cohort", "RCT", "Odds Ratio", "Relative Risk", "Confounding", "Bias"],
+    createdAt: "2024-11-28",
+    summary: `
+# Epidemiology II
+
+## Study Designs Overview
+*   Each study design has **benefits and limitations**.
+*   **Measures vary** depending on the design.
+*   Selection depends on: Disease rarity, Exposure rarity, Timeframe, Resources.
+
+## Cross-Sectional Study
+*   **Design:** One-time snapshot at a single time point.
+*   **Purpose:** Assess **prevalence** of variables, diseases, and risk factors.
+*   **Limitations:** 
+    *   No element of time → Cannot calculate **risk** or **incidence**.
+    *   Cannot infer causality (temporal relationship unclear).
+*   **Example:** Survey a general population asking about cold status and hat usage, then look for associations.
+
+## Case-Control Study
+*   **Design:** Select groups based on **disease status** (Cases vs. Controls).
+    *   **Cases:** Have the disease.
+    *   **Controls:** Free from disease.
+*   **Process:** Look backward (retrospective) to identify **past exposures**.
+*   **Measure:** **Odds Ratio (OR)**
+    *   Formula: **OR = (Odds of exposure in diseased) / (Odds of exposure in healthy)** = **(a/c) / (b/d)** = **ad/bc**
+    *   Interpretation: OR > 1 = increased risk; OR = 1 = no association; OR < 1 = protective.
+
+### Selecting Controls
+*   **General Population Controls:** Random digit dialing, residence lists (now difficult due to privacy/lack of landlines).
+*   **Hospital/Clinic Controls:** Easier access, similar health-seeking behavior, but may not represent general population.
+*   **Matched Controls:** Friends, spouses, siblings (requires special statistical methods).
+
+### Case-Control Study: Strengths
+*   **Good for rare diseases** (efficient to find cases first).
+*   **Good for diseases with long latency** (can study what happened in the past).
+*   **Can evaluate multiple risk factors** for one disease.
+
+### Case-Control Study: Weaknesses
+*   **Poor for rare exposures** (most people will say "no").
+*   **Retrospective → vulnerable to recall bias** (people may not accurately remember exposures).
+*   **Hard to infer temporal relationship** (exposure may have occurred after disease).
+
+## Cohort Study
+*   **Design:** Select groups based on **exposure status** (Exposed vs. Unexposed).
+*   **Hallmark:** **Everyone is disease-free at baseline**.
+*   **Process:** Follow forward in time to see who develops disease.
+*   **Types:**
+    *   **Prospective:** Follow participants in real-time.
+    *   **Retrospective:** Use existing medical records (imaginary "time travel" back to baseline).
+*   **Measure:** **Relative Risk (RR)**
+    *   Formula: **RR = (Incidence in exposed) / (Incidence in unexposed)**
+    *   Interpretation: RR > 1 = increased risk; RR = 1 = no association; RR < 1 = protective.
+*   **Additional Measures:**
+    *   **Attributable Risk (AR):** (Incidence in exposed) - (Incidence in unexposed) (subtraction, not division).
+
+### Cohort Study: Strengths
+*   **Good for rare exposures** (can find and follow exposed individuals).
+*   **Retrospective cohort good for diseases with long latency** (read through records efficiently).
+*   **Can evaluate multiple outcomes** from one exposure.
+*   **Clear temporal relationship** (especially prospective).
+*   **Less vulnerable to bias** (especially prospective).
+
+### Cohort Study: Weaknesses
+*   **Poor for rare diseases** (may not observe enough cases).
+*   **Prospective studies:** Expensive, time-consuming, not practical for long latency.
+*   **Retrospective studies:** Poor exposure information (records not designed for research).
+
+## Randomized Controlled Trial (RCT)
+*   **Gold Standard** for establishing causality.
+*   **Design:** **Randomize** subjects to exposure (treatment) or placebo groups.
+*   **Key Features:**
+    *   **Placebo:** Makes groups as comparable as possible.
+    *   **Blinding:** 
+        *   **Single-blind:** Subjects don't know their group.
+        *   **Double-blind:** Neither subjects nor investigators know.
+    *   **Purpose:** Minimize bias from self-selection and expectation.
+*   **Measure:** **Relative Risk (RR)** (same as cohort).
+*   **Required for:** New drug approval, recommending new procedures.
+
+## Statistical Significance
+*   **P-value:** p < 0.05 generally considered significant.
+*   **95% Confidence Interval (CI):**
+    *   For ratios (OR, RR): **Null value = 1** (not zero).
+    *   If CI **includes 1** → Not statistically significant.
+    *   If CI **excludes 1** → Statistically significant.
+
+## Confounding
+*   **Definition:** An alternate explanation for an observed association between exposure and disease.
+*   **Example:** Hat wearers get fewer colds, but they also wear scarves. The scarf (not the hat) might be protective → Scarf is a **confounder**.
+*   **Detection:** Stratify by suspected confounder (e.g., gender, age).
+*   **Characteristic:** After stratification, the measure (OR/RR) is **similar in all strata** but different from the crude (composite) measure.
+*   **Solution:** Stratification or regression analysis.
+
+## Effect Modification (Interaction)
+*   **Definition:** An exposure behaves **differently in different groups**.
+*   **Example:** Smoking increases heart attack risk **much more in males** than females.
+*   **Detection:** Stratify by the modifier (e.g., gender).
+*   **Characteristic:** After stratification, the measure (OR/RR) is **different across strata**.
+*   **Solution:** Report stratified results separately (not combine).
+
+### Confounding vs. Effect Modification
+
+| Characteristic | Confounding | Effect Modification |
+| :--- | :--- | :--- |
+| **Definition** | Alternate explanation | Exposure acts differently in subgroups |
+| **Stratified Results** | Similar across strata | Different across strata |
+| **Action** | Control for it (stratify/adjust) | Report separately by strata |
+
+## Bias
+*   **Definition:** Systematic error in study design/conduct leading to incorrect estimates.
+*   **Cannot be fixed** with statistics after data collection.
+*   **Occurs in all study types** (experimental, cohort, case-control).
+
+### Types of Bias
+*   **Selection Bias:** Procedures used to select subjects lead to a particular result.
+    *   Example: Studying physical activity and Parkinson's by recruiting from an exercise clinic (all are exercisers).
+*   **Recall Bias:** People with disease remember/report exposures differently.
+    *   May over-report (searching for explanation) or under-report (guilt).
+    *   Solutions: Use sick controls, standardize questionnaires, mask subjects.
+`,
+    questions: [
+        {
+            question: "A researcher wants to study the association between a rare occupational exposure (working with asbestos) and lung cancer. Which study design is most appropriate?",
+            options: [
+                "Cross-sectional study",
+                "Case-control study",
+                "Prospective cohort study",
+                "Randomized controlled trial",
+                "Ecological study"
+            ],
+            answer: 2,
+            explanation: "A cohort study is best for rare exposures. By recruiting workers exposed to asbestos (rare exposure) and following them over time, you can efficiently assess lung cancer incidence. A case-control study would be better for rare diseases, not rare exposures."
+        },
+        {
+            question: "In a case-control study of smoking and myocardial infarction, the odds ratio is calculated to be 2.5 with a 95% CI of 1.8-3.5. What is the correct interpretation?",
+            options: [
+                "Smoking decreases the risk of MI",
+                "There is no association between smoking and MI",
+                "Patients with MI are 2.5 times as likely to have been smokers compared to controls",
+                "The result is not statistically significant",
+                "2.5% of MI patients were smokers"
+            ],
+            answer: 2,
+            explanation: "An OR of 2.5 means MI patients are 2.5 times as likely to have been smokers compared to healthy controls. The 95% CI excludes 1, indicating statistical significance. OR > 1 indicates increased odds of exposure (smoking) in the diseased group."
+        },
+        {
+            question: "A study finds that coffee consumption is associated with reduced risk of Parkinson's disease. However, when stratified by gender, the relative risk is 0.4 in males but 0.9 in females. This is an example of:",
+            options: [
+                "Confounding by gender",
+                "Selection bias",
+                "Effect modification by gender",
+                "Recall bias",
+                "Lead time bias"
+            ],
+            answer: 2,
+            explanation: "Effect modification (interaction) occurs when an exposure behaves differently in different subgroups. Here, coffee's protective effect is much stronger in males (RR=0.4) than females (RR=0.9). If it were confounding, the RR would be similar in both strata after stratification."
+        },
+        {
+            question: "Which of the following is a major advantage of a randomized controlled trial over an observational cohort study?",
+            options: [
+                "Less expensive to conduct",
+                "Better for studying rare diseases",
+                "Eliminates selection bias through randomization",
+                "Easier to recruit participants",
+                "Can study multiple exposures simultaneously"
+            ],
+            answer: 2,
+            explanation: "RCTs use randomization to assign exposure, which minimizes selection bias and confounding by distributing known and unknown confounders equally between groups. RCTs are typically more expensive, not better for rare diseases, and study fewer exposures than cohort studies."
+        },
+        {
+            question: "A researcher studying the association between diet and heart disease recruits all participants from a cardiology clinic. This study is most susceptible to:",
+            options: [
+                "Recall bias",
+                "Selection bias",
+                "Lead time bias",
+                "Effect modification",
+                "Confounding"
+            ],
+            answer: 1,
+            explanation: "Selection bias occurs when the method of selecting subjects leads to a non-representative sample. Recruiting from a cardiology clinic means participants are likely to have cardiovascular issues or risk factors, making them unrepresentative of the general population regarding diet and heart disease."
+        }
+    ],
+    glossary: [
+        { term: "Case-Control Study", definition: "A study design that selects participants based on disease status (cases have the disease, controls do not) and looks backward to assess past exposures." },
+        { term: "Cohort Study", definition: "A study design that selects participants based on exposure status (all are disease-free at baseline) and follows them forward in time to see who develops the disease." },
+        { term: "Odds Ratio (OR)", definition: "A measure of association used in case-control studies, calculated as the odds of exposure in diseased individuals divided by the odds of exposure in healthy individuals." },
+        { term: "Relative Risk (RR)", definition: "A measure of association used in cohort studies and RCTs, calculated as the incidence rate in the exposed group divided by the incidence rate in the unexposed group." },
+        { term: "Confounding", definition: "An alternate explanation for an observed association, where a third variable is associated with both the exposure and the outcome, distorting the true relationship." },
+        { term: "Effect Modification", definition: "A phenomenon where an exposure has different effects in different subgroups of the population (also called interaction)." },
+        { term: "Selection Bias", definition: "Bias that results from the procedures used to select subjects, leading to a non-representative sample." },
+        { term: "Recall Bias", definition: "Bias where individuals with disease remember or report past exposures differently than those without disease." },
+        { term: "Attributable Risk", definition: "The difference in incidence rates between exposed and unexposed groups, representing the additional risk attributable to the exposure." }
+    ],
+    mnemonics: [
+        {
+            "heading": "Study Design Selection",
+            "mnemonic": "**RARE Disease = CASE-control; RARE Exposure = COHORT**",
+            "meaning": "Case-control studies are efficient for rare diseases (find cases first). Cohort studies are efficient for rare exposures (find exposed individuals first)."
+        },
+        {
+            "heading": "Confounding vs Effect Modification",
+            "mnemonic": "**Confounding = SAME after stratification; Effect modification = DIFFERENT after stratification**",
+            "meaning": "If stratified results are similar, it's confounding. If stratified results differ, it's effect modification."
+        }
+    ]
+},
+    {
+    id: "L136",
+    title: "L136 - Overview of Gross Divisions of the CNS",
+    module: "Neuroscience/Neuroanatomy",
+    tags: ["CNS", "PNS", "Brain", "Cerebrum", "Brainstem", "Cerebellum", "Spinal Cord", "Lobes", "Gray Matter", "White Matter"],
+    createdAt: "2024-11-28",
+    summary: `
+# Overview of Gross Divisions of the CNS
+
+## Central vs. Peripheral Nervous System
+
+### CNS (Central Nervous System)
+*   **Components:** Brain + Spinal Cord
+*   **Brain subdivisions:**
+    *   **Forebrain:** Cerebrum (cerebral hemispheres) + Diencephalon (thalamus, hypothalamus)
+    *   **Cerebellum:** Underneath the cerebrum, behind the brainstem
+    *   **Brainstem:** Midbrain, Pons, Medulla (connects forebrain to spinal cord)
+
+### PNS (Peripheral Nervous System)
+*   **Components:** Nerves (cranial & spinal) + Ganglia
+*   **Nerves:** Bundles of axons connecting CNS to periphery
+*   **Ganglia:** Clusters of cell bodies outside the CNS
+    *   Sensory ganglia (e.g., Dorsal Root Ganglia - DRG)
+    *   Autonomic ganglia (sympathetic, parasympathetic)
+    *   **Exception:** **Basal Ganglia** (also called Basal Nuclei) - Located in CNS, not PNS
+
+## Gray vs. White Matter
+
+| Feature | Gray Matter | White Matter |
+| :--- | :--- | :--- |
+| **Color** | Grayish/darker (natural) | Whitish/lighter (natural) |
+| **Components** | Cell bodies + Dendrites | Myelinated axons |
+| **CNS Terminology** | Cortex, Nucleus/Nuclei, (Basal Ganglia*) | Tract, Fasciculus, Lemniscus, Peduncle, Capsule |
+
+*   **Gray Matter in CNS:**
+    *   **Cortex:** Outer layer of cerebrum and cerebellum
+    *   **Nucleus/Nuclei:** Deep clusters of neurons
+*   **White Matter in CNS:**
+    *   **Tract, Fasciculus, Lemniscus:** Bundles of axons
+    *   **Peduncle:** "Stalk" connecting structures
+    *   **Capsule:** White matter surrounding nuclei
+
+## Major Brain Structures
+
+### Cerebrum (Cerebral Hemispheres)
+*   **Features:** Bilaterally symmetric, two hemispheres separated by **longitudinal fissure**
+*   **Surface:** Folded with **gyri** (ridges) and **sulci** (grooves)
+*   **Major Landmarks:**
+    *   **Central Sulcus:** Separates frontal and parietal lobes
+    *   **Lateral Sulcus (Sylvian Fissure):** Separates temporal lobe
+    *   **Transverse Fissure:** Separates cerebrum from cerebellum
+
+### Lobes of the Cerebrum
+
+#### Frontal Lobe
+*   **Location:** Anterior to central sulcus
+*   **Functions:**
+    *   **Planning & Executive Function**
+    *   **Primary Motor Cortex (Precentral Gyrus):** Controls voluntary movement
+    *   **Prefrontal Cortex:** Personality, inhibition, impulse control
+
+:::correlate
+**Phineas Gage Case (Prefrontal Cortex Damage)**
+*   Railroad worker who survived a metal bar penetrating through his prefrontal cortex.
+*   Survived >10 years but experienced profound personality changes.
+*   Lost impulse control and inhibition, becoming "a different person" according to family.
+*   Helped define the role of the prefrontal cortex in personality and executive function.
+:::
+
+#### Parietal Lobe
+*   **Location:** Posterior to central sulcus
+*   **Functions:**
+    *   **Primary Somatosensory Cortex (Postcentral Gyrus):** Receives sensory information from entire body
+    *   **Sensory Association Area:** Spatial awareness
+
+#### Occipital Lobe
+*   **Location:** Posterior (back) of brain
+*   **Function:**
+    *   **Primary Visual Cortex:** Located along calcarine sulcus
+
+#### Temporal Lobe
+*   **Location:** Inferior to lateral sulcus
+*   **Functions:**
+    *   **Primary Auditory Cortex:** Hearing
+    *   **Memory, Language comprehension**
+
+### Diencephalon
+*   **Location:** Deep within forebrain, between cerebral hemispheres
+*   **Components:**
+    *   **Thalamus:** Relay station for sensory information
+    *   **Hypothalamus:** Regulates homeostasis, autonomic functions, hormones
+
+### Brainstem
+*   **Location:** Connects forebrain to spinal cord, anterior to cerebellum
+*   **Three Parts:**
+    *   **Midbrain:** Superior, has two bumps (superior/inferior colliculi)
+    *   **Pons:** Middle, large "belly"
+    *   **Medulla:** Inferior, skinny, connects to spinal cord
+*   **Functions:** Cranial nerves, vital functions (breathing, heart rate), relay pathways
+
+### Cerebellum
+*   **Location:** Posterior to brainstem, inferior to cerebrum
+*   **Features:** Two cerebellar hemispheres
+*   **Functions:** Coordination, balance, motor learning
+
+### Spinal Cord
+*   **Location:** Extends from medulla through vertebral column
+*   **Function:** Relay between brain and body, spinal reflexes
+
+## Key Gyri
+
+| Gyrus | Location | Function |
+| :--- | :--- | :--- |
+| **Precentral Gyrus** | Frontal lobe, anterior to central sulcus | Primary Motor Cortex (voluntary movement) |
+| **Postcentral Gyrus** | Parietal lobe, posterior to central sulcus | Primary Somatosensory Cortex (touch, pain, temperature) |
+`,
+    questions: [
+        {
+            question: "A patient presents with difficulty initiating voluntary movements of the right hand. Which brain structure is most likely affected?",
+            options: [
+                "Right precentral gyrus",
+                "Left precentral gyrus",
+                "Right postcentral gyrus",
+                "Left postcentral gyrus",
+                "Right prefrontal cortex"
+            ],
+            answer: 1,
+            explanation: "The primary motor cortex is located in the precentral gyrus. Motor pathways cross (decussate), so the left precentral gyrus controls the right side of the body. Damage to the left precentral gyrus would impair voluntary movement of the right hand."
+        },
+        {
+            question: "Which of the following structures is considered part of the CNS, despite its name suggesting it should be in the PNS?",
+            options: [
+                "Dorsal root ganglia",
+                "Basal ganglia",
+                "Sympathetic ganglia",
+                "Spinal nerves",
+                "Cranial nerves"
+            ],
+            answer: 1,
+            explanation: "Basal ganglia (also called basal nuclei) are located within the CNS (deep in the cerebral hemispheres), making them an exception to the rule that ganglia are PNS structures. Dorsal root ganglia and sympathetic ganglia are part of the PNS."
+        },
+        {
+            question: "A stroke affecting the area posterior to the central sulcus would most likely result in:",
+            options: [
+                "Loss of voluntary movement",
+                "Loss of sensation (touch, pain, temperature)",
+                "Personality changes",
+                "Visual deficits",
+                "Hearing loss"
+            ],
+            answer: 1,
+            explanation: "The postcentral gyrus (posterior to the central sulcus) contains the primary somatosensory cortex, which receives sensory information from the body. Damage here would result in loss of sensation. Loss of voluntary movement would result from precentral gyrus (motor cortex) damage."
+        },
+        {
+            question: "Which component of the brainstem is characterized by a large 'belly' appearance and serves as a relay station between the cerebrum and cerebellum?",
+            options: [
+                "Midbrain",
+                "Pons",
+                "Medulla",
+                "Thalamus",
+                "Diencephalon"
+            ],
+            answer: 1,
+            explanation: "The pons is the middle portion of the brainstem and has a characteristic large, bulging 'belly' appearance. It serves as a relay station and contains nuclei important for connecting the cerebrum and cerebellum."
+        },
+        {
+            question: "White matter in the CNS differs from gray matter primarily because white matter:",
+            options: [
+                "Contains cell bodies and dendrites",
+                "Contains myelinated axons",
+                "Is located only in the cortex",
+                "Contains unmyelinated neurons",
+                "Is found only in the peripheral nervous system"
+            ],
+            answer: 1,
+            explanation: "White matter consists of myelinated axons (the myelin's high fat content gives it a white appearance), while gray matter contains cell bodies and dendrites. White matter forms tracts that connect different brain regions."
+        }
+    ],
+    glossary: [
+        { term: "Central Nervous System (CNS)", definition: "The brain and spinal cord." },
+        { term: "Peripheral Nervous System (PNS)", definition: "All nervous tissue outside the CNS, including nerves and ganglia." },
+        { term: "Gray Matter", definition: "Neural tissue containing cell bodies and dendrites; appears darker than white matter." },
+        { term: "White Matter", definition: "Neural tissue containing myelinated axons; appears lighter due to high fat content of myelin." },
+        { term: "Gyrus (plural: Gyri)", definition: "Ridge or elevated fold on the surface of the cerebrum." },
+        { term: "Sulcus (plural: Sulci)", definition: "Groove or depression on the surface of the cerebrum." },
+        { term: "Central Sulcus", definition: "Major landmark separating the frontal lobe from the parietal lobe." },
+        { term: "Precentral Gyrus", definition: "Location of the primary motor cortex in the frontal lobe." },
+        { term: "Postcentral Gyrus", definition: "Location of the primary somatosensory cortex in the parietal lobe." },
+        { term: "Brainstem", definition: "Midbrain, pons, and medulla; connects the forebrain to the spinal cord." },
+        { term: "Diencephalon", definition: "Deep brain structure including the thalamus and hypothalamus." },
+        { term: "Basal Ganglia", definition: "Group of nuclei deep in the cerebral hemispheres; part of CNS despite 'ganglia' terminology." }
+    ],
+    mnemonics: [
+        {
+            "heading": "Motor vs. Sensory Cortex",
+            "mnemonic": "**PRE**central = **PRE**pare to move; **POST**central = **POST**-touch sensation",
+            "meaning": "Precentral gyrus = Primary Motor Cortex (controls movement). Postcentral gyrus = Primary Somatosensory Cortex (receives sensation)."
+        },
+        {
+            "heading": "Brainstem Parts (Superior to Inferior)",
+            "mnemonic": "**M**y **P**rofessor **M**akes = **M**idbrain, **P**ons, **M**edulla",
+            "meaning": "The three parts of the brainstem from top to bottom."
+        }
+    ]
+},
+    {
+    id: "L137",
+    title: "L137 - Physiology: Neurons and Synapse",
+    module: "Neuroscience/Neurophysiology",
+    tags: ["Neuron", "Action Potential", "Resting Membrane Potential", "Ion Channels", "Synapse", "Voltage-Gated Channels", "Neurotransmitters"],
+    createdAt: "2024-11-28",
+    summary: `
+# Physiology: Neurons and Synapse
+
+## Resting Membrane Potential
+
+*   **Definition:** The voltage across the neuronal membrane at rest (no stimulation)
+*   **Typical Value:** ~**-65 mV** (hyperpolarized, negative inside relative to outside)
+*   **Factors Determining RMP:**
+
+### 1. Na<sup>+</sup>/K<sup>+</sup> ATPase Pump
+*   **Function:** Actively pumps 3 Na<sup>+</sup> **out** and 2 K<sup>+</sup> **in**
+*   **Effect:** Net loss of positive charge inside &rarr; Makes cell more negative
+*   **Energy:** Requires ATP
+
+### 2. Leak Channels
+*   **K<sup>+</sup> Leak Channels:** Always open, allow K<sup>+</sup> to flow **out** (down concentration gradient)
+*   **Na<sup>+</sup> Leak Channels:** Always open, allow Na<sup>+</sup> to flow **in**
+*   **Key Point:** **40× more K<sup>+</sup> leak channels than Na<sup>+</sup> leak channels**
+*   **Net Effect:** More K<sup>+</sup> leaves than Na<sup>+</sup> enters &rarr; Hyperpolarization
+
+### 3. Ion Concentration Gradients
+
+| Ion | Inside Cell | Outside Cell | Direction of Flow |
+| :--- | :---: | :---: | :--- |
+| **K<sup>+</sup>** | High (~100 mM) | Low (~5 mM) | Out |
+| **Na<sup>+</sup>** | Low (~15 mM) | High (~145 mM) | In |
+| **Cl<sup>-</sup>** | Low | High | In |
+| **Ca<sup>2+</sup>** | Very Low | High | In |
+
+*   **Nernst Equation:** Calculates equilibrium potential for a single ion
+    *   E<sub>K</sub> ≈ **-80 mV**
+    *   E<sub>Na</sub> ≈ **+60 mV**
+*   **Goldman-Hodgkin-Katz (GHK) Equation:** Accounts for multiple ions and their permeabilities &rarr; RMP ≈ -65 mV
+
+## Action Potential
+
+*   **Definition:** Rapid, transient reversal of membrane potential
+*   **All-or-None:** Once threshold is reached, AP fires completely
+*   **Threshold:** ~**-55 mV**
+
+### Phases of Action Potential
+
+#### 1. Resting State
+*   Membrane at -65 mV
+*   Voltage-gated Na<sup>+</sup> and K<sup>+</sup> channels **closed**
+
+#### 2. Depolarization (Rising Phase)
+*   **Trigger:** Stimulus brings membrane to threshold (-55 mV)
+*   **Voltage-Gated Na<sup>+</sup> Channels Open:** Na<sup>+</sup> rushes **in**
+*   **Positive Feedback:** Depolarization &rarr; more Na<sup>+</sup> channels open &rarr; more depolarization
+*   **Peak:** Membrane reaches ~**+40 mV**
+
+#### 3. Repolarization (Falling Phase)
+*   **Voltage-Gated Na<sup>+</sup> Channels Inactivate:** Na<sup>+</sup> influx stops
+*   **Voltage-Gated K<sup>+</sup> Channels Open:** K<sup>+</sup> rushes **out**
+*   **Result:** Membrane returns toward resting potential
+
+#### 4. Hyperpolarization (Undershoot)
+*   **K<sup>+</sup> channels slow to close:** More K<sup>+</sup> leaves than needed
+*   **Membrane briefly more negative than RMP** (~-70 to -80 mV)
+*   **Returns to -65 mV** as K<sup>+</sup> channels close
+
+### Refractory Periods
+*   **Absolute Refractory Period:** 
+    *   Na<sup>+</sup> channels inactivated (cannot fire another AP)
+    *   Ensures unidirectional propagation
+*   **Relative Refractory Period:** 
+    *   Na<sup>+</sup> channels recovering, K<sup>+</sup> channels still open
+    *   Stronger stimulus needed to fire AP
+
+## Ion Channels
+
+### Voltage-Gated Channels
+*   **Activation:** Open in response to membrane depolarization
+*   **Types:**
+    *   **Voltage-Gated Na<sup>+</sup> Channels:** Responsible for depolarization
+        *   **States:** Closed (rest) &rarr; Open (activated) &rarr; Inactivated
+    *   **Voltage-Gated K<sup>+</sup> Channels:** Responsible for repolarization
+        *   Open more slowly than Na<sup>+</sup> channels
+
+### Ligand-Gated Channels
+*   **Activation:** Open when neurotransmitter binds
+*   **Location:** Typically at synapses
+*   **Examples:** Ionotropic receptors (e.g., nicotinic ACh receptors, NMDA receptors)
+
+## Clinical Correlates
+
+### Ion Channel Toxins
+
+:::correlate
+**Tetrodotoxin (TTX) - Voltage-Gated Na<sup>+</sup> Channel Blocker**
+*   **Source:** Pufferfish (fugu)
+*   **Mechanism:** Blocks voltage-gated Na<sup>+</sup> channels &rarr; prevents action potentials
+*   **Effects:** 
+    *   Small amounts: Tingling, numbness (sensory neuron block)
+    *   Large amounts: Limb weakness, respiratory failure, cardiac arrest &rarr; death
+:::
+
+:::correlate
+**Saxitoxin - Voltage-Gated Na<sup>+</sup> Channel Blocker**
+*   **Source:** Shellfish (from microbes)
+*   **Mechanism:** Similar to TTX - blocks Na<sup>+</sup> channels
+*   **Effects:** Similar to TTX poisoning
+:::
+
+:::correlate
+**Dendrotoxin - Voltage-Gated K<sup>+</sup> Channel Blocker**
+*   **Source:** Green mamba snake venom
+*   **Mechanism:** Blocks voltage-gated K<sup>+</sup> channels &rarr; prevents repolarization
+*   **Effects:** Prolongs action potentials, disrupts neural function, can cause death
+:::
+
+### Therapeutic Applications
+
+:::correlate
+**Lidocaine - Local Anesthetic (Na<sup>+</sup> Channel Blocker)**
+*   **Mechanism:** Blocks voltage-gated Na<sup>+</sup> channels in peripheral sensory neurons
+*   **Uses:** Dental procedures, topical pain relief creams (4%), patches for back pain
+*   **Effect:** Prevents pain signals from reaching CNS
+:::
+
+:::correlate
+**Jourenvax (Suzetrigine) - Selective Na<sub>V</sub>1.8 Blocker**
+*   **FDA Approved:** 2024
+*   **Target:** Na<sub>V</sub>1.8 voltage-gated Na<sup>+</sup> channels (specific to dorsal root ganglion neurons)
+*   **Advantage:** Blocks peripheral pain signals without affecting CNS (avoids sensory/motor deficits)
+*   **Uses:** Post-surgical pain (abdominal surgery, bunion surgery)
+*   **Significance:** Alternative to opiates for pain management
+:::
+
+### Genetic Pain Syndromes
+
+:::correlate
+**Na<sub>V</sub>1.8 Gain-of-Function Mutations**
+*   **Inherited Primary Erythromelalgia (IEM):** Activating mutation &rarr; too many action potentials &rarr; abnormal pain signals
+    *   **Symptoms:** Intermittent red, hot, painful extremities (especially lower)
+*   **Familial Episodic Pain Syndrome:** Na<sub>V</sub>1.7 channel mutation
+    *   **Symptoms:** Episodic intense pain
+:::
+
+## Action Potential Propagation
+
+*   **Continuous Conduction:** Unmyelinated axons
+    *   AP regenerated at each point along axon
+    *   **Slow** (~1 m/s)
+*   **Saltatory Conduction:** Myelinated axons
+    *   AP "jumps" between Nodes of Ranvier
+    *   **Fast** (~100 m/s)
+`,
+    questions: [
+        {
+            question: "A toxin that blocks voltage-gated K<sup>+</sup> channels is administered to a neuron. What effect would this have on action potentials?",
+            options: [
+                "Action potentials would fail to depolarize",
+                "Action potentials would have prolonged repolarization",
+                "Action potentials would have increased amplitude",
+                "Action potentials would occur spontaneously without stimulation",
+                "No effect on action potentials"
+            ],
+            answer: 1,
+            explanation: "Voltage-gated K<sup>+</sup> channels are responsible for repolarization during an action potential. Blocking them would prevent or delay K<sup>+</sup> efflux, prolonging the repolarization phase and extending the duration of the action potential."
+        },
+        {
+            question: "Why is the resting membrane potential of a neuron closer to the equilibrium potential for K<sup>+</sup> (-80 mV) than Na<sup>+</sup> (+60 mV)?",
+            options: [
+                "The Na<sup>+</sup>/K<sup>+</sup> ATPase pumps more Na<sup>+</sup> out than K<sup>+</sup> in",
+                "There are 40 times more K<sup>+</sup> leak channels than Na<sup>+</sup> leak channels",
+                "Na<sup>+</sup> concentration is higher outside the cell",
+                "K<sup>+</sup> concentration is higher inside the cell",
+                "Voltage-gated Na<sup>+</sup> channels are closed at rest"
+            ],
+            answer: 1,
+            explanation: "The resting membrane potential is determined primarily by the relative permeabilities to different ions. Since there are 40× more K<sup>+</sup> leak channels open at rest compared to Na<sup>+</sup> leak channels, the membrane is much more permeable to K<sup>+</sup>, pulling the RMP closer to E<sub>K</sub> (-80 mV)."
+        },
+        {
+            question: "A patient receives lidocaine injection before a dental procedure. What is the mechanism of pain relief?",
+            options: [
+                "Lidocaine activates inhibitory neurons in the CNS",
+                "Lidocaine blocks voltage-gated Na<sup>+</sup> channels in peripheral sensory neurons",
+                "Lidocaine blocks voltage-gated K<sup>+</sup> channels",
+                "Lidocaine enhances GABA transmission",
+                "Lidocaine blocks Ca<sup>2+</sup> channels at the synapse"
+            ],
+            answer: 1,
+            explanation: "Lidocaine is a local anesthetic that blocks voltage-gated Na<sup>+</sup> channels in peripheral sensory neurons. This prevents action potential generation and propagation, blocking pain signals from reaching the CNS."
+        },
+        {
+            question: "During the absolute refractory period of an action potential, why is it impossible to generate another action potential?",
+            options: [
+                "All K<sup>+</sup> channels are open",
+                "Voltage-gated Na<sup>+</sup> channels are in the inactivated state",
+                "The membrane is hyperpolarized beyond threshold",
+                "The Na<sup>+</sup>/K<sup>+</sup> ATPase is not functioning",
+                "Voltage-gated Ca<sup>2+</sup> channels are inactivated"
+            ],
+            answer: 1,
+            explanation: "During the absolute refractory period, voltage-gated Na<sup>+</sup> channels are in the inactivated state and cannot be opened regardless of stimulus strength. They must first return to the closed (resting) state before another action potential can be generated."
+        },
+        {
+            question: "Jourenvax (Suzetrigine) is a selective blocker of which ion channel subtype, making it useful for post-surgical pain without CNS side effects?",
+            options: [
+                "Na<sub>V</sub>1.7 channels found throughout the nervous system",
+                "Na<sub>V</sub>1.8 channels specific to dorsal root ganglion neurons",
+                "Ca<sub>V</sub>2.1 channels in presynaptic terminals",
+                "K<sub>V</sub>1.1 channels in all neurons",
+                "HCN channels in cardiac pacemaker cells"
+            ],
+            answer: 1,
+            explanation: "Jourenvax specifically targets Na<sub>V</sub>1.8 voltage-gated sodium channels, which are expressed in dorsal root ganglion (DRG) neurons but not in CNS neurons. This selectivity allows it to block peripheral pain signals without causing sensory or motor deficits from CNS Na<sup>+</sup> channel blockade."
+        }
+    ],
+    glossary: [
+        { term: "Resting Membrane Potential (RMP)", definition: "The voltage across the neuronal membrane at rest, typically around -65 mV in CNS neurons." },
+        { term: "Action Potential", definition: "A rapid, transient, all-or-none reversal of membrane potential that propagates along an axon." },
+        { term: "Threshold", definition: "The membrane potential (~-55 mV) at which voltage-gated Na<sup>+</sup> channels open, triggering an action potential." },
+        { term: "Depolarization", definition: "Movement of membrane potential toward less negative (or positive) values." },
+        { term: "Repolarization", definition: "Return of membrane potential toward resting value after depolarization." },
+        { term: "Hyperpolarization", definition: "Movement of membrane potential to more negative values than resting potential." },
+        { term: "Absolute Refractory Period", definition: "Time period during which a second action potential cannot be generated, regardless of stimulus strength, due to Na<sup>+</sup> channel inactivation." },
+        { term: "Relative Refractory Period", definition: "Time period after absolute refractory period during which a stronger-than-normal stimulus is required to generate an action potential." },
+        { term: "Nernst Equation", definition: "Formula that calculates the equilibrium potential for a single ion based on its concentration gradient." },
+        { term: "Saltatory Conduction", definition: "Rapid propagation of action potentials in myelinated axons by 'jumping' between Nodes of Ranvier." }
+    ],
+    mnemonics: [
+        {
+            "heading": "Na<sup>+</sup>/K<sup>+</sup> ATPase",
+            "mnemonic": "**3 out, 2 in** (Sodium Kicks Na out)",
+            "meaning": "The pump moves 3 Na<sup>+</sup> out and 2 K<sup>+</sup> in, creating a net loss of positive charge inside the cell."
+        },
+        {
+            "heading": "Ion Flow Direction",
+            "mnemonic": "**K Out, Na In** (KONI)",
+            "meaning": "K<sup>+</sup> wants to leave the cell (high inside), Na<sup>+</sup> wants to enter (high outside)."
+        }
+    ]
+},
+    {
+    id: "L138",
+    title: "L138 - Principles of Neurochemistry",
+    module: "Neuroscience/Neurochemistry",
+    tags: ["Neurotransmitters", "Glutamate", "GABA", "Acetylcholine", "Dopamine", "Synaptic Transmission", "Astrocytes", "Receptors"],
+    createdAt: "2024-11-28",
+    summary: `
+# Principles of Neurochemistry
+
+## Cell Types in the Brain
+
+*   **Neurons:** Conduct electrical signals
+*   **Astrocytes:** Provide metabolic support, recycle neurotransmitters, clear waste
+*   **Oligodendrocytes:** Produce myelin (insulate axons)
+*   **Microglia:** Resident immune cells
+*   **Endothelial cells:** Form blood-brain barrier
+
+### Division of Labor
+*   **Neurons:** Spend most energy on signaling
+*   **Astrocytes:** Do most metabolic work, supply energy substrates, recycle neurotransmitters
+*   **Key Concept:** Neurons cannot survive without astrocyte support
+
+## Astrocyte-Neuron Metabolic Coupling
+
+### Astrocyte-Neuron Lactate Shuttle
+*   **Function:** Astrocytes provide **lactate** as the major metabolic fuel for neurons
+*   **Process:**
+    1. Astrocytes perform glycolysis &rarr; produce lactate
+    2. Lactate shuttled to neurons via **monocarboxylate transporters**
+    3. Neurons use lactate in Krebs cycle for ATP production
+*   **Importance:** Essential during low blood glucose or ischemia (stroke)
+    *   Astrocytes use glycogen stores to supply neurons with lactate
+
+### Glutamate-Glutamine Cycle
+*   **Function:** Recycle glutamate and GABA neurotransmitters
+*   **Process:**
+    1. Neurons release glutamate or GABA at synapse
+    2. Astrocytes take up glutamate (via **excitatory amino acid transporters**) or GABA (via **GABA transporters**)
+    3. Astrocytes convert both to **glutamine**
+    4. Glutamine released and taken up by neurons
+    5. Neurons convert glutamine &rarr; glutamate (or glutamate &rarr; GABA)
+    6. Package into vesicles for release
+
+## Types of Synapses
+
+### Electrical Synapse
+*   **Mechanism:** Direct connection via **gap junctions**
+*   **Features:**
+    *   Action potentials and ions travel directly from one neuron to another
+    *   **Super fast** (no synaptic delay)
+    *   Bidirectional
+*   **Structure:** Gap junctional channels connect cytoplasm of two cells
+
+### Chemical Synapse
+*   **Mechanism:** Communication via **neurotransmitters**
+*   **Process:**
+    1. Action potential arrives at presynaptic terminal
+    2. **Voltage-gated Ca<sup>2+</sup> channels** open
+    3. Ca<sup>2+</sup> influx triggers vesicle fusion
+    4. Neurotransmitters released into **synaptic cleft**
+    5. Neurotransmitters bind to postsynaptic receptors
+    6. Ion channels open or G-protein signaling activated
+*   **Features:**
+    *   Slower (synaptic delay)
+    *   Unidirectional
+    *   **Modifiable** (plasticity)
+
+### Vesicle Types
+*   **Clear vesicles:** Small molecule neurotransmitters (glutamate, GABA, ACh)
+*   **Dense-core vesicles:** Neuropeptides
+
+## Major Neurotransmitters
+
+### Glutamate - Primary Excitatory Neurotransmitter
+
+*   **Most abundant** neurotransmitter in brain
+*   **Distribution:** Glutamatergic neurons scattered throughout brain
+*   **Effect:** Depolarization (excitation)
+
+#### Glutamate Receptors
+
+| Receptor Type | Class | Function |
+| :--- | :--- | :--- |
+| **AMPA** | Ionotropic | Fast excitatory transmission (Na<sup>+</sup>, K<sup>+</sup> influx) |
+| **Kainate** | Ionotropic | Fast excitatory transmission |
+| **NMDA** | Ionotropic | **Coincidence detector**, synaptic plasticity, learning & memory |
+| **mGluR (8 subtypes)** | Metabotropic | G-protein coupled, slower modulation |
+
+#### NMDA Receptor - Coincidence Detector
+*   **Three Requirements to Open:**
+    1. **Glutamate** (or aspartate) binding
+    2. **Co-ligand** (glycine or D-serine, often from astrocytes) binding
+    3. **Depolarization** to remove Mg<sup>2+</sup> block from channel pore
+*   **Function:** Detects when multiple signals occur close in time
+*   **Role:** Synaptic plasticity, learning, memory formation
+*   **Saying:** "Neurons that fire together wire together"
+
+#### Clinical Correlates
+
+:::correlate
+**Glutamate-Related Disorders**
+*   **Excessive Glutamate:** Can lead to epilepsy and seizures
+*   **NMDA Receptor Mutations:** Associated with epilepsy, schizophrenia, neurodevelopmental disorders
+*   **Ketamine and Alcohol:** Block glutamatergic signaling &rarr; depressive/sedative effects
+:::
+
+### GABA - Primary Inhibitory Neurotransmitter
+
+*   **Second most abundant** neurotransmitter in brain
+*   **Distribution:** GABAergic neurons scattered throughout brain
+*   **Synthesis:** Glutamate &rarr; GABA (via **glutamic acid decarboxylase**, GAD)
+*   **Degradation:** GABA &rarr; Glutamate (via **GABA transaminase**)
+*   **Effect:** Hyperpolarization (inhibition)
+
+#### GABA Receptors
+*   **GABA<sub>A</sub>** (Ionotropic): 
+    *   Ligand-gated Cl<sup>-</sup> channel
+    *   Requires 2 GABA molecules to open
+    *   Cl<sup>-</sup> influx &rarr; hyperpolarization &rarr; **fast inhibition**
+*   **GABA<sub>B</sub>** (Metabotropic): G-protein coupled, slower modulation
+
+#### Clinical Correlates
+
+:::correlate
+**GABA-Enhancing Drugs**
+*   **Ethanol (Alcohol):** Enhances GABA<sub>A</sub> receptor activity &rarr; increased inhibition
+*   **Benzodiazepines:** Potentiate GABA<sub>A</sub> receptors &rarr; anxiolytic, sedative effects
+:::
+
+:::correlate
+**Huntington's Disease**
+*   **Pathology:** Loss of GABAergic neurons in striatum (movement control center)
+*   **Result:** Decreased inhibitory signaling &rarr; uncontrollable movements (chorea)
+*   **Note:** These striatal neurons also express dopamine receptors
+:::
+
+### Acetylcholine (ACh)
+
+*   **Locations:**
+    *   **Neuromuscular junction:** Voluntary muscle contraction
+    *   **Autonomic nervous system:** Parasympathetic neurotransmitter, preganglionic sympathetic
+    *   **Enteric nervous system:** Intestinal muscle contraction, epithelial secretions
+    *   **CNS:** Learning and memory
+
+#### ACh Synthesis & Degradation
+*   **Synthesis:** Choline + Acetyl-CoA &rarr; ACh (via **choline acetyltransferase**, ChAT)
+    *   Cholinergic neurons are **ChAT-positive**
+*   **Degradation:** ACh &rarr; Acetate + Choline (via **acetylcholinesterase**, AChE)
+    *   Choline is recycled back into presynaptic terminal
+
+:::correlate
+**Alzheimer's Disease**
+*   **Pathology:** Decreased ChAT-positive cells (cholinergic neurons) in brain
+*   **Result:** Reduced cholinergic signaling &rarr; contributes to memory and learning deficits
+*   **Treatment Approach:** Acetylcholinesterase inhibitors (e.g., donepezil) to increase ACh levels
+:::
+
+### Monoamine Neurotransmitters
+
+*   **Examples:** Dopamine, Norepinephrine, Serotonin
+*   **Distribution:** Clustered in specific **nuclei** (anatomical nuclei = groups of cell bodies with similar neurochemistry)
+*   **Note:** Unlike glutamatergic/GABAergic neurons (scattered throughout brain), monoaminergic neurons are localized
+
+:::correlate
+**Parkinson's Disease**
+*   **Pathology:** Loss of dopaminergic neurons in **substantia nigra**
+*   **Result:** Decreased dopamine signaling &rarr; motor symptoms (tremor, rigidity, bradykinesia)
+:::
+
+## Excitatory vs. Inhibitory Balance
+
+*   **Glutamate & GABA** represent the excitatory-inhibitory balance in the brain
+*   **Proper balance** is essential for normal brain function
+*   **Imbalance** contributes to neurological and psychiatric disorders
+`,
+    questions: [
+        {
+            question: "A patient with Alzheimer's disease is prescribed an acetylcholinesterase inhibitor. What is the mechanism by which this medication aims to improve cognitive function?",
+            options: [
+                "Increases synthesis of acetylcholine",
+                "Prevents degradation of acetylcholine, increasing its availability in the synapse",
+                "Blocks GABA receptors to increase excitation",
+                "Enhances glutamate signaling via NMDA receptors",
+                "Increases dopamine production in the substantia nigra"
+            ],
+            answer: 1,
+            explanation: "Acetylcholinesterase inhibitors block the enzyme that breaks down acetylcholine (ACh &rarr; Acetate + Choline). By preventing degradation, more ACh remains in the synapse, prolonging its action. This helps compensate for the loss of cholinergic neurons in Alzheimer's disease."
+        },
+        {
+            question: "What makes NMDA receptors unique as 'coincidence detectors' important for learning and memory?",
+            options: [
+                "They only respond to very high concentrations of glutamate",
+                "They require glutamate binding, co-ligand binding, AND depolarization to open",
+                "They are located only in the hippocampus",
+                "They allow Cl- influx instead of Na+",
+                "They never inactivate once opened"
+            ],
+            answer: 1,
+            explanation: "NMDA receptors require THREE conditions to open: (1) glutamate (or aspartate) binding, (2) glycine or D-serine (co-ligand) binding, and (3) depolarization to remove the Mg<sup>2+</sup> block. This means they only activate when the postsynaptic neuron receives both the neurotransmitter signal AND is already somewhat depolarized, detecting coincident signals critical for synaptic plasticity."
+        },
+        {
+            question: "During ischemia (stroke), astrocytes play a critical role in supporting neuronal survival. Which metabolic substrate do astrocytes provide to neurons under these conditions?",
+            options: [
+                "Glucose from blood vessels",
+                "Lactate from glycogen stores",
+                "Acetyl-CoA for direct ATP production",
+                "Glutamate for energy metabolism",
+                "Fatty acids for beta-oxidation"
+            ],
+            answer: 1,
+            explanation: "The astrocyte-neuron lactate shuttle provides lactate as the major metabolic fuel for neurons. During ischemia when blood supply is stopped, astrocytes use their glycogen stores to produce lactate via glycolysis, then shuttle it to neurons via monocarboxylate transporters. Neurons use this lactate in the Krebs cycle for ATP production."
+        },
+        {
+            question: "A patient with Huntington's disease exhibits uncontrollable involuntary movements. This is primarily due to loss of which type of neuron in the striatum?",
+            options: [
+                "Dopaminergic neurons",
+                "Glutamatergic neurons",
+                "GABAergic neurons",
+                "Cholinergic neurons",
+                "Serotonergic neurons"
+            ],
+            answer: 2,
+            explanation: "Huntington's disease causes loss of GABAergic neurons in the striatum. Since GABA is inhibitory, loss of these neurons reduces inhibitory signaling in movement control circuits, leading to uncontrollable movements (chorea). These striatal neurons also express dopamine receptors."
+        },
+        {
+            question: "Benzodiazepines (e.g., diazepam) exert their anxiolytic effects by potentiating which neurotransmitter receptor?",
+            options: [
+                "NMDA receptors",
+                "GABA<sub>A</sub> receptors",
+                "AMPA receptors",
+                "Nicotinic ACh receptors",
+                "Dopamine D2 receptors"
+            ],
+            answer: 1,
+            explanation: "Benzodiazepines enhance the activity of GABA<sub>A</sub> receptors, which are Cl<sup>-</sup> channels. By potentiating GABA<sub>A</sub> receptor activity, benzodiazepines increase inhibitory signaling throughout the brain, producing anxiolytic (anti-anxiety), sedative, and muscle relaxant effects."
+        }
+    ],
+    glossary: [
+        { term: "Astrocyte-Neuron Lactate Shuttle", definition: "Metabolic pathway where astrocytes produce lactate from glycolysis and shuttle it to neurons as their primary energy substrate." },
+        { term: "Glutamate-Glutamine Cycle", definition: "Recycling pathway where astrocytes take up glutamate/GABA, convert them to glutamine, and return glutamine to neurons for neurotransmitter synthesis." },
+        { term: "Gap Junction", definition: "Channel connecting cytoplasm of two cells, allowing direct passage of ions and small molecules; forms electrical synapses." },
+        { term: "Synaptic Cleft", definition: "Narrow space (~20-40 nm) between presynaptic and postsynaptic membranes at a chemical synapse." },
+        { term: "NMDA Receptor", definition: "Glutamate-gated ion channel requiring glutamate, co-ligand (glycine/D-serine), and depolarization to open; critical for synaptic plasticity." },
+        { term: "Glutamic Acid Decarboxylase (GAD)", definition: "Enzyme that converts glutamate to GABA; marker for GABAergic neurons." },
+        { term: "Choline Acetyltransferase (ChAT)", definition: "Enzyme that synthesizes acetylcholine from choline and acetyl-CoA; marker for cholinergic neurons." },
+        { term: "Acetylcholinesterase (AChE)", definition: "Enzyme that degrades acetylcholine to acetate and choline, terminating cholinergic signaling." },
+        { term: "Monoamine", definition: "Class of neurotransmitters with one amine group, including dopamine, norepinephrine, and serotonin." }
+    ],
+    mnemonics: [
+        {
+            "heading": "Glutamate vs. GABA",
+            "mnemonic": "**GLU**tamate = **G**ets **L**ouder (**U**p, excitatory); **GABA** = **G**ets **A**lways **B**roader, **A**ttenuation (inhibitory)",
+            "meaning": "Glutamate excites neurons (depolarization), GABA inhibits neurons (hyperpolarization)."
+        },
+        {
+            "heading": "NMDA Receptor Requirements",
+            "mnemonic": "**3 G's**: **G**lutamate + **G**lycine + **G**et depolarized",
+            "meaning": "NMDA receptors need glutamate binding, glycine (co-ligand) binding, and depolarization (to remove Mg<sup>2+</sup> block)."
+        }
+    ]
 },
 ];
 

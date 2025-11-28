@@ -10,7 +10,127 @@ const L112_DATA = {
 **Lecturer:** J. Bourke, Ph.D.
 **Session:** Lecture #112 (Videos 1-3)
 
------\n\n## Part 1: Olfaction (Smell) - CN I\n\n### Olfactory Nerve (CN I)\n*   **Structure:** Not a true nerve but an extension of the forebrain (Olfactory tract & bulb).\n*   **Pathway:** Receptors in superior nasal mucosa $\\rightarrow$ Cribriform plate (Ethmoid bone) $\\rightarrow$ Olfactory Bulb $\\rightarrow$ Olfactory Tract $\\rightarrow$ Cerebrum (Direct connection, bypasses brainstem).\n*   **Function:** Special Visceral Afferent (SVA) for smell.\n\n:::clinical\n**Clinical Correlate: Anosmia**\nLoss of sense of smell. Can be caused by head trauma (shearing of nerves at cribriform plate), viral infections (COVID-19), or congenital defects. Often leads to loss of flavor perception (food tastes bland).\n:::\n\n## Part 2: Gustation (Taste)\n\n### Taste Innervation\nTaste is a "coupled sense" with smell to produce flavor.\n*   **Anterior 2/3 of Tongue:** **Facial Nerve (CN VII)** via **Chorda Tympani**.\n*   **Posterior 1/3 of Tongue:** **Glossopharyngeal Nerve (CN IX)**.\n*   **Epiglottis/Soft Palate:** **Vagus Nerve (CN X)**.\n\n### Lingual Papillae\n1.  **Filiform:** Most numerous, tactile only, **NO taste buds**.\n2.  **Fungiform:** Mushroom-shaped, scattered.\n3.  **Foliate:** Side ridges.\n4.  **Circumvallate:** V-shape at back of tongue.\n\n:::clinical\n**Clinical Correlate: Ageusia**\nLoss of taste. Can be associated with anosmia, COVID-19, or nerve damage. "Spicy" is not a taste but pain sensation (nociception) carried by CN V (Trigeminal).\n:::\n\n## Part 3: Vision - CN II\n\n### The Eye Layers\n1.  **Fibrous Layer (Outer):**\n    *   **Sclera:** White, tough, attachment for extraocular muscles.\n    *   **Cornea:** Clear, avascular, major refractive power (2/3).\n2.  **Vascular Layer (Uvea - Middle):**\n    *   **Choroid:** Vascular supply.\n    *   **Ciliary Body:** Produces aqueous humor; controls lens shape (Accommodation).\n    *   **Iris:** Controls pupil size.\n        *   *Sphincter Pupillae:* Constricts pupil (Parasympathetic - CN III).\n        *   *Dilator Pupillae:* Dilates pupil (Sympathetic).\n3.  **Neural Layer (Inner):**\n    *   **Retina:** Photoreceptors (Rods/Cones).\n    *   **Macula/Fovea:** Area of highest visual acuity (cones only).\n    *   **Optic Disc:** Blind spot (no photoreceptors), exit of CN II.\n\n### Accommodation (Focusing)\n*   **Distance Vision:** Ciliary muscle relaxes $\\rightarrow$ Zonules tighten $\\rightarrow$ Lens flattens.\n*   **Near Vision:** Ciliary muscle contracts (Parasympathetic) $\\rightarrow$ Zonules loosen $\\rightarrow$ Lens rounds up.\n\n:::clinical\n**Clinical Correlate: Presbyopia**\nAge-related loss of lens elasticity. Lens cannot round up effectively, making near vision difficult (need reading glasses).\n:::\n\n## Part 4: Hearing and Balance - CN VIII\n\n### Vestibulocochlear Nerve (CN VIII)\nExits brainstem at pontomedullary junction $\\rightarrow$ Internal Acoustic Meatus.\n\n### Vestibular System (Balance)\n1.  **Otolith Organs (Linear Acceleration):**\n    *   **Utricle:** Horizontal movement.\n    *   **Saccule:** Vertical movement (Gravity).\n    *   *Mechanism:* Otoliths (crystals) move hair cells in gelatinous matrix.\n2.  **Semicircular Canals (Rotational Acceleration):**\n    *   Anterior, Posterior, Lateral.\n    *   *Mechanism:* Endolymph flow bends cupula in Ampulla.\n\n:::clinical\n**Clinical Correlate: Benign Paroxysmal Positional Vertigo (BPPV)**\nDisplaced otoliths (ear rocks) enter semicircular canals. Causes brief, intense vertigo with head movement. Treated with Epley maneuver.\n:::\n\n### Cochlear System (Hearing)\n*   **Pathway:** Sound $\\rightarrow$ Tympanic Membrane $\\rightarrow$ Ossicles (Malleus, Incus, Stapes) $\\rightarrow$ Oval Window $\\rightarrow$ Perilymph wave in Scala Vestibuli $\\rightarrow$ Cochlear Duct (Organ of Corti) $\\rightarrow$ Hair cell depolarization.\n*   **Organ of Corti:** Sensory organ of hearing sitting on basilar membrane.\n\n:::clinical\n**Clinical Correlate: Hearing Loss**\n*   **Conductive:** Middle/Outer ear problem (e.g., Otitis media, perforated drum). Bone conduction > Air conduction.\n*   **Sensorineural:** Inner ear/Nerve problem (e.g., Presbycusis, noise-induced). Air conduction > Bone conduction (but both reduced).\n*   **Tinnitus:** Ringing in ears, often sign of sensorineural damage.\n:::\n`,
+-----
+
+## Part 1: Olfaction (Smell) - CN I
+
+### Olfactory Nerve (CN I)
+*   **Structure:** Not a true nerve but an extension of the forebrain (Olfactory tract & bulb).
+*   **Pathway:** Receptors in superior nasal mucosa $\\rightarrow$ Cribriform plate (Ethmoid bone) $\\rightarrow$ Olfactory Bulb $\\rightarrow$ Olfactory Tract $\\rightarrow$ Cerebrum (Direct connection, bypasses brainstem).
+*   **Function:** Special Visceral Afferent (SVA) for smell.
+
+:::correlate
+**Anosmia (Loss of Smell)**
+*   **Causes:** Head trauma (shearing of nerves at cribriform plate), viral infections (COVID-19), congenital.
+*   **Result:** Often perceived as loss of taste (flavor).
+*   **Safety:** Inability to detect smoke or gas leaks.
+:::
+
+## Part 2: Gustation (Taste)
+
+### Taste Innervation
+Taste is a "coupled sense" with smell to produce flavor.
+*   **Anterior 2/3 of Tongue:** **Facial Nerve (CN VII)** via **Chorda Tympani**.
+*   **Posterior 1/3 of Tongue:** **Glossopharyngeal Nerve (CN IX)**.
+*   **Epiglottis/Soft Palate:** **Vagus Nerve (CN X)**.
+
+### Lingual Papillae
+1.  **Filiform:** Most numerous, tactile only, **NO taste buds**.
+2.  **Fungiform:** Mushroom-shaped, scattered.
+3.  **Foliate:** Side ridges.
+4.  **Circumvallate:** V-shape at back of tongue.
+
+:::correlate
+**Ageusia (Loss of Taste)**
+*   **Causes:** Nerve damage (CN VII, IX), drug side effects, COVID-19.
+*   **Note:** "Spicy" is not a taste but pain sensation (nociception) carried by CN V.
+:::
+
+## Part 3: Vision - CN II
+
+### The Eye Layers
+1.  **Fibrous Layer (Outer):**
+    *   **Sclera:** White, tough, attachment for extraocular muscles.
+    *   **Cornea:** Clear, avascular, major refractive power (2/3).
+2.  **Vascular Layer (Uvea - Middle):**
+    *   **Choroid:** Vascular supply.
+    *   **Ciliary Body:** Produces aqueous humor; controls lens shape (Accommodation).
+    :::correlate
+    **Glaucoma**
+    *   **Mechanism:** Blockage of Aqueous Humor drainage (Canal of Schlemm).
+    *   **Result:** Increased Intraocular Pressure (IOP) -> Optic Nerve compression -> Blindness.
+    *   **Types:** Open-angle (chronic) vs. Closed-angle (acute emergency).
+    :::
+    *   **Iris:** Controls pupil size.
+        *   *Sphincter Pupillae:* Constricts pupil (Parasympathetic - CN III).
+        *   *Dilator Pupillae:* Dilates pupil (Sympathetic).
+3.  **Neural Layer (Inner):**
+    *   **Retina:** Photoreceptors (Rods/Cones).
+    :::correlate
+    **Retinal Detachment**
+    *   **Pathology:** Separation of Neural Retina from Pigment Epithelium (Choroid).
+    *   **Symptoms:** "Flashes of light" (photopsia), "floaters", curtain-like vision loss.
+    *   **Urgency:** Medical emergency to prevent permanent blindness.
+    :::
+    *   **Macula/Fovea:** Area of highest visual acuity (cones only).
+    *   **Optic Disc:** Blind spot (no photoreceptors), exit of CN II.
+
+### Accommodation (Focusing)
+*   **Distance Vision:** Ciliary muscle relaxes $\\rightarrow$ Zonules tighten $\\rightarrow$ Lens flattens.
+*   **Near Vision:** Ciliary muscle contracts (Parasympathetic) $\\rightarrow$ Zonules loosen $\\rightarrow$ Lens rounds up.
+
+:::correlate
+**Presbyopia**
+*   **Pathology:** Age-related loss of lens elasticity.
+*   **Result:** Lens cannot round up effectively -> Difficulty with **Near Vision**.
+*   **Treatment:** Reading glasses (convex lenses).
+:::
+
+:::correlate
+**Cataracts**
+*   **Pathology:** Clouding of the lens due to protein denaturation/clumping.
+*   **Risk Factors:** Age, UV exposure, Diabetes, Smoking.
+*   **Treatment:** Surgical replacement of lens.
+:::
+
+## Part 4: Hearing and Balance - CN VIII
+
+### Vestibulocochlear Nerve (CN VIII)
+Exits brainstem at pontomedullary junction $\\rightarrow$ Internal Acoustic Meatus.
+
+### Vestibular System (Balance)
+1.  **Otolith Organs (Linear Acceleration):**
+    *   **Utricle:** Horizontal movement.
+    *   **Saccule:** Vertical movement (Gravity).
+    *   *Mechanism:* Otoliths (crystals) move hair cells in gelatinous matrix.
+2.  **Semicircular Canals (Rotational Acceleration):**
+    *   Anterior, Posterior, Lateral.
+    *   *Mechanism:* Endolymph flow bends cupula in Ampulla.
+
+:::correlate
+**Benign Paroxysmal Positional Vertigo (BPPV)**
+*   **Cause:** Displaced otoliths (ear rocks) enter semicircular canals.
+*   **Symptoms:** Brief, intense vertigo triggered by head movement.
+*   **Treatment:** Epley maneuver (repositions otoliths).
+:::
+
+:::correlate
+**Nystagmus**
+*   **Definition:** Involuntary, rhythmic eye movements (Slow phase + Fast phase).
+*   **Cause:** Vestibular imbalance (VOR reflex issue), cerebellar lesion, or congenital.
+*   **Direction:** Named for the **Fast** phase (reset).
+:::
+
+### Cochlear System (Hearing)
+*   **Pathway:** Sound $\\rightarrow$ Tympanic Membrane $\\rightarrow$ Ossicles (Malleus, Incus, Stapes) $\\rightarrow$ Oval Window $\\rightarrow$ Perilymph wave in Scala Vestibuli $\\rightarrow$ Cochlear Duct (Organ of Corti) $\\rightarrow$ Hair cell depolarization.
+*   **Organ of Corti:** Sensory organ of hearing sitting on basilar membrane.
+
+:::correlate
+**Hearing Loss**
+*   **Conductive:** Middle/Outer ear problem (e.g., Otitis media, perforated drum). Bone > Air.
+*   **Sensorineural:** Inner ear/Nerve problem (e.g., Presbycusis, noise-induced). Air > Bone (both reduced).
+*   **Tinnitus:** Ringing in ears, often sign of sensorineural damage.
+:::`,
     questions: [
         {
             id: 'l112-q1',
@@ -121,3 +241,9 @@ const L112_DATA = {
         }
     ]
 };
+
+if (typeof window !== 'undefined' && window.LECTURES_DATA) {
+    window.LECTURES_DATA.push(L112_DATA);
+} else if (typeof module !== 'undefined' && module.exports) {
+    module.exports = L112_DATA;
+}

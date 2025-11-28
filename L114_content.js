@@ -10,7 +10,77 @@ const L114_DATA = {
 **Lecturer:** S. Rivera-Martinez, D.O.
 **Session:** Lecture #114
 
------\n\n## Part 1: History Taking (GI Complaint)\n\n### Case: Constipation\n*   **Definition:** < 3 bowel movements/week (Physician definition). Patients may define it as straining, hard stools, or incomplete evacuation.\n*   **HPI Key Points:**\n    *   **Onset:** Acute vs. Chronic. In elderly, new onset constipation $\\rightarrow$ Rule out **Colon Cancer**.\n    *   **Associated Symptoms (Red Flags):** Weight loss (>10 lbs), Blood in stool (Hematochezia/Melena), Fever, Nausea/Vomiting, Family History of Colon Cancer.\n    *   **Medications:** Opioids, Calcium Channel Blockers, Iron supplements cause constipation.\n    *   **Social:** Diet (Fiber/Fluid intake), Activity level (Sedentary lifestyle increases risk).\n\n## Part 2: Physical Exam of the Abdomen\n\n### **CRITICAL ORDER OF EXAM**\n1.  **Inspection**\n2.  **Auscultation** (Must be before percussion/palpation to avoid altering bowel sounds)\n3.  **Percussion**\n4.  **Palpation**\n\n### 1. Inspection\n*   **Contour:** Flat, Scaphoid, Protuberant, Distended.\n*   **Skin:**\n    *   **Striae:** Pink/Purple (Cushing's), Silver (Old stretch marks).\n    *   **Dilated Veins:** *Caput Medusae* (Portal Hypertension).\n    *   **Ecchymosis:**\n        *   **Cullen's Sign:** Periumbilical bruising (Hemoperitoneum/Pancreatitis).\n        *   **Grey Turner's Sign:** Flank bruising (Retroperitoneal bleed/Pancreatitis).\n\n### 2. Auscultation\n*   **Bowel Sounds:** Listen with **Diaphragm** in all 4 quadrants.\n    *   *Normal:* 5-34 clicks/gurgles per minute.\n    *   *Hypoactive:* Ileus, Peritonitis, Opioids.\n    *   *Hyperactive:* Diarrhea, Early obstruction, Gastroenteritis.\n    *   *Borborygmi:* Prolonged gurgles (stomach growling).\n*   **Bruits:** Listen with **Bell** over Aorta, Renal, Iliac, and Femoral arteries. (Renal artery stenosis $\\rightarrow$ Secondary HTN).\n\n### 3. Percussion\n*   **Sounds:** **Tympany** (predominates due to gas) vs. **Dullness** (organs, masses, fluid/ascites).\n*   **Liver Span:** Measure at **Right Mid-Clavicular Line (MCL)**. Normal: **6-12 cm**.\n*   **Spleen:** Percuss Traube's space (Left Anterior Axillary Line). Should remain tympanitic on inspiration. Dullness = Splenomegaly.\n*   **CVA Tenderness:** Percuss Costovertebral Angle (posteriorly) for Pyelonephritis.\n\n### 4. Palpation\n*   **Technique:** Light (tenderness, guarding) then Deep (masses, organs). **Examine painful area LAST.**\n*   **Liver:** Hooking technique or Bimanual. Palpate on inspiration.\n*   **Aorta:** Palpate upper abdomen, slightly left of midline. Normal width **< 3 cm**. > 3 cm suggests **AAA** (Abdominal Aortic Aneurysm).\n\n## Part 3: Osteopathic Considerations\n\n### Autonomics\n*   **Sympathetics:**\n    *   **Right Colon (Cecum to Proximal Transverse):** **T10-T11** (Superior Mesenteric Ganglion).\n    *   **Left Colon (Distal Transverse to Rectum):** **T12-L2** (Inferior Mesenteric Ganglion).\n*   **Parasympathetics:**\n    *   **Right Colon:** **Vagus Nerve (CN X)**.\n    *   **Left Colon:** **Pelvic Splanchnic Nerves (S2-S4)**.\n\n### Chapman's Points\n*   **Colon:** Anterior IT Band (Lateral thigh).\n`,
+-----
+
+## Part 1: History Taking (GI Complaint)
+
+### Case: Constipation
+*   **Definition:** < 3 bowel movements/week (Physician definition). Patients may define it as straining, hard stools, or incomplete evacuation.
+*   **HPI Key Points:**
+    *   **Onset:** Acute vs. Chronic. In elderly, new onset constipation $\\rightarrow$ Rule out **Colon Cancer**.
+    *   **Associated Symptoms (Red Flags):** Weight loss (>10 lbs), Blood in stool (Hematochezia/Melena), Fever, Nausea/Vomiting, Family History of Colon Cancer.
+    *   **Medications:** Opioids, Calcium Channel Blockers, Iron supplements cause constipation.
+    *   **Social:** Diet (Fiber/Fluid intake), Activity level (Sedentary lifestyle increases risk).
+
+## Part 2: Physical Exam of the Abdomen
+
+### **CRITICAL ORDER OF EXAM**
+1.  **Inspection**
+2.  **Auscultation** (Must be before percussion/palpation to avoid altering bowel sounds)
+3.  **Percussion**
+4.  **Palpation**
+
+### 1. Inspection
+*   **Contour:** Flat, Scaphoid, Protuberant, Distended.
+*   **Skin:**
+    *   **Striae:** Pink/Purple (Cushing's), Silver (Old stretch marks).
+    :::correlate
+    **Signs of Portal Hypertension**
+    *   **Caput Medusae:** Dilated veins radiating from umbilicus.
+    :::
+    :::correlate
+    **Signs of Retroperitoneal/Intraperitoneal Bleed**
+    *   **Cullen's Sign:** Periumbilical bruising (Hemoperitoneum/Pancreatitis).
+    *   **Grey Turner's Sign:** Flank bruising (Retroperitoneal bleed/Pancreatitis).
+    :::
+
+### 2. Auscultation
+*   **Bowel Sounds:** Listen with **Diaphragm** in all 4 quadrants.
+    *   *Normal:* 5-34 clicks/gurgles per minute.
+    *   *Hypoactive:* Ileus, Peritonitis, Opioids.
+    *   *Hyperactive:* Diarrhea, Early obstruction, Gastroenteritis.
+    *   *Borborygmi:* Prolonged gurgles (stomach growling).
+*   **Bruits:** Listen with **Bell** over Aorta, Renal, Iliac, and Femoral arteries. (Renal artery stenosis $\\rightarrow$ Secondary HTN).
+
+### 3. Percussion
+*   **Sounds:** **Tympany** (predominates due to gas) vs. **Dullness** (organs, masses, fluid/ascites).
+*   **Liver Span:** Measure at **Right Mid-Clavicular Line (MCL)**. Normal: **6-12 cm**.
+*   **Spleen:** Percuss Traube's space (Left Anterior Axillary Line). Should remain tympanitic on inspiration. Dullness = Splenomegaly.
+*   **CVA Tenderness:** Percuss Costovertebral Angle (posteriorly) for Pyelonephritis.
+
+### 4. Palpation
+*   **Technique:** Light (tenderness, guarding) then Deep (masses, organs). **Examine painful area LAST.**
+*   **Liver:** Hooking technique or Bimanual. Palpate on inspiration.
+:::correlate
+**Abdominal Aortic Aneurysm (AAA)**
+*   **Screening:** Palpate upper abdomen, slightly left of midline.
+*   **Normal:** Width < 3 cm.
+*   **Pathology:** Width > 3 cm suggests AAA.
+:::
+
+## Part 3: Osteopathic Considerations
+
+### Autonomics
+*   **Sympathetics:**
+    *   **Right Colon (Cecum to Proximal Transverse):** **T10-T11** (Superior Mesenteric Ganglion).
+    *   **Left Colon (Distal Transverse to Rectum):** **T12-L2** (Inferior Mesenteric Ganglion).
+*   **Parasympathetics:**
+    *   **Right Colon:** **Vagus Nerve (CN X)**.
+    *   **Left Colon:** **Pelvic Splanchnic Nerves (S2-S4)**.
+
+### Chapman's Points
+*   **Colon:** Anterior IT Band (Lateral thigh).
+`,
     questions: [
         {
             id: 'l114-q1',
@@ -105,3 +175,9 @@ const L114_DATA = {
         }
     ]
 };
+
+if (typeof window !== 'undefined' && window.LECTURES_DATA) {
+    window.LECTURES_DATA.push(L114_DATA);
+} else if (typeof module !== 'undefined' && module.exports) {
+    module.exports = L114_DATA;
+}

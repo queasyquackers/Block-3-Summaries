@@ -25,22 +25,37 @@ const L105_DATA = {
 *   **Divisions:**
     *   **Superior:** Superior Rectus, Levator Palpebrae Superioris (LPS).
     *   **Inferior:** Medial Rectus, Inferior Rectus, Inferior Oblique + Parasympathetics to Ciliary Ganglion (Sphincter Pupillae, Ciliary Body).
-*   **Clinical:**
-    *   **Ptosis:** Weak LPS (Superior Division).
-    *   **"Down and Out":** Unopposed Superior Oblique (IV) and Lateral Rectus (VI).
-    *   **Anisocoria (Dilated Pupil):** Parasympathetic loss (Sphincter Pupillae).
+
+:::correlate
+**Oculomotor (CN III) Palsy**
+*   **"Down and Out":** Eye deviates down and out due to unopposed SO and LR.
+*   **Ptosis:** Drooping eyelid (Levator Palpebrae Superioris paralysis).
+*   **Anisocoria:** Dilated pupil (loss of parasympathetics to Sphincter Pupillae).
+:::
 
 ### CN IV: Trochlear Nerve
 *   **Exit:** SOF. *Only CN to exit dorsal brainstem.*
 *   **Innervation:** **Superior Oblique** (SO).
 *   **Function:** Depresses and Abducts eye (Down & Out).
-*   **Clinical:** Eye deviates **Up and In** (Unopposed IO/SR). Patients tilt head *away* from lesion to compensate.
+
+:::correlate
+**Trochlear (CN IV) Palsy**
+*   **Presentation:** Eye deviates **Up and In** (hypertropia).
+*   **Compensation:** Patient tilts head **away** from the lesion to align the eyes.
+*   **Cause:** Trauma (long intracranial course) or ischemia.
+:::
 
 ### CN VI: Abducens Nerve
 *   **Exit:** SOF. Travels inside Cavernous Sinus (most medial, near ICA).
 *   **Innervation:** **Lateral Rectus** (LR).
 *   **Function:** Abducts eye.
-*   **Clinical:** Medial deviation (Esotropia). Vulnerable to cavernous sinus pathology (aneurysm/thrombosis).
+
+:::correlate
+**Abducens (CN VI) Palsy**
+*   **Presentation:** Eye deviates **Medially** (Esotropia).
+*   **Cause:** High intracranial pressure (stretches nerve), Cavernous Sinus pathology (aneurysm).
+*   **Result:** Diplopia (double vision) on lateral gaze.
+:::
 
 -----
 
@@ -65,6 +80,19 @@ const L105_DATA = {
     *   **Sensory:** Auriculotemporal (Temple/Ear), Buccal (Cheek), Lingual (Ant 2/3 Tongue), Inferior Alveolar (Teeth/Chin).
     *   **Motor:** Muscles of Mastication (Temporalis, Masseter, Pterygoids), Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.
 
+:::correlate
+**Trigeminal Neuralgia (Tic Douloureux)**
+*   **Symptoms:** Acute, intense, lancinating pain in V2/V3 distribution.
+*   **Trigger:** Light touch, breeze, chewing.
+*   **Cause:** Often vascular compression of CN V root.
+:::
+
+:::correlate
+**TMJ Disorders**
+*   **Symptoms:** Jaw tenderness, headaches, ear pain (Auriculotemporal n.), locking.
+*   **Cause:** Unbalanced muscle firing (Pterygoids), bruxism, disc displacement.
+:::
+
 ### CN VII: Facial Nerve
 *   **Exit:** Internal Acoustic Meatus -> Facial Canal -> Stylomastoid Foramen.
 *   **Branches:**
@@ -72,7 +100,13 @@ const L105_DATA = {
     *   **Stapedius:** Dampens sound.
     *   **Chorda Tympani:** Taste (Ant 2/3 Tongue) + Submandibular/Sublingual glands.
     *   **Motor Branch:** Muscles of Facial Expression (Temporal, Zygomatic, Buccal, Mandibular, Cervical), Post. Digastric, Stylohyoid.
-*   **Clinical:** **Bell's Palsy** (Peripheral lesion = entire hemiface paralysis).
+
+:::correlate
+**Bell's Palsy (CN VII Lesion)**
+*   **Presentation:** Unilateral facial paralysis (LMN lesion).
+*   **Symptoms:** Inability to close eye, loss of nasolabial fold, drooping mouth.
+*   **Associated:** Hyperacusis (Stapedius), loss of taste (Ant 2/3), dry eye.
+:::
 
 -----
 
@@ -98,16 +132,34 @@ const L105_DATA = {
         *   **Internal:** Sensory to Larynx *above* vocal folds.
         *   **External:** Motor to **Cricothyroid**.
     *   **Recurrent Laryngeal:** Motor to all intrinsic laryngeal muscles (except Cricothyroid); Sensory *below* vocal folds. Loops under Aortic Arch (Left) / Subclavian (Right).
+:::correlate
+**Recurrent Laryngeal Nerve (RLN) Injury**
+*   **Cause:** Thyroid surgery, aortic aneurysm (Left RLN), or tumor.
+*   **Unilateral:** Hoarseness (paralyzed vocal cord).
+*   **Bilateral:** Stridor, respiratory distress (vocal cords cannot abduct).
+:::
 
 ### CN XI: Spinal Accessory Nerve
 *   **Exit:** Jugular Foramen.
 *   **Innervation:** **SCM** and **Trapezius**.
-*   **Clinical:** Shoulder droop, inability to turn head against resistance (Torticollis).
+
+:::correlate
+**Spinal Accessory (CN XI) Lesion**
+*   **Trapezius:** Shoulder droop, inability to shrug.
+*   **SCM:** Weakness in turning head to **opposite** side.
+*   **Torticollis:** Spasm of SCM causing head tilt.
+:::
 
 ### CN XII: Hypoglossal Nerve
 *   **Exit:** Hypoglossal Canal.
 *   **Innervation:** All tongue muscles (Intrinsic/Extrinsic) *except* Palatoglossus (CN X).
-*   **Clinical:** Tongue deviates **towards** the side of the lesion ("Lick your wounds").`,
+
+:::correlate
+**Hypoglossal (CN XII) Lesion**
+*   **Presentation:** Tongue deviates **towards** the side of the lesion.
+*   **Mnemonic:** "Lick your wounds".
+*   **Mechanism:** Unopposed Genioglossus on the healthy side pushes tongue to weak side.
+:::`,
     questions: `**1. A patient presents with an inability to abduct their right eye. When asked to look right, the right eye remains midline. Which nerve is likely affected?**
 
 A. Oculomotor (CN III)

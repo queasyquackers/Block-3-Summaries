@@ -620,7 +620,7 @@ function renderMarkdown(html) {
 
             tableHtml += '<tr class="' + (isDark ? 'hover:bg-dark-surface' : 'hover:bg-solarized-base2/30') + ' transition-colors duration-200">';
             cells.forEach(cell => {
-                const formatted = cell.trim().replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-solarized-base01 dark:text-dark-text">$1</strong>').replace(/<br>/g, '<br/>');
+                const formatted = cell.trim().replace(/<br>/g, '<br/>');
                 tableHtml += '<td class="px-6 py-4 text-base leading-relaxed font-serif ' + (isDark ? 'text-dark-muted' : 'text-solarized-base00') + '">' + formatted + '</td>';
             });
             tableHtml += '</tr>';
@@ -652,7 +652,7 @@ function renderMarkdown(html) {
                     processedContent += '<ul class="list-disc list-outside ml-6 space-y-2 marker:' + (isDark ? 'text-red-400' : 'text-red-700') + '">';
                     inList = true;
                 }
-                const itemText = line.replace(/^[\*\-]\s*/, '').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                const itemText = line.replace(/^[\*\-]\s*/, '');
                 processedContent += '<li class="text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '">' + itemText + '</li>';
             } else {
                 if (inList) {
@@ -675,8 +675,7 @@ function renderMarkdown(html) {
         let itemsHtml = '';
         items.forEach(item => {
             const cleaned = item.replace(/^\*\s*/, '').trim();
-            const formatted = cleaned.replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-solarized-base01 dark:text-dark-text">$1</strong>');
-            itemsHtml += '<div class="flex gap-3 items-start"><span class="mt-2 w-1.5 h-1.5 rounded-full flex-shrink-0 ' + (isDark ? 'bg-dark-accent' : 'bg-solarized-cyan') + '"></span><span class="text-solarized-base00 dark:text-dark-muted">' + formatted + '</span></div>';
+            itemsHtml += '<div class="flex gap-3 items-start"><span class="mt-2 w-1.5 h-1.5 rounded-full flex-shrink-0 ' + (isDark ? 'bg-dark-accent' : 'bg-solarized-cyan') + '"></span><span class="text-solarized-base00 dark:text-dark-muted">' + cleaned + '</span></div>';
         });
         return '<details class="my-8 group"><summary class="cursor-pointer px-6 py-4 rounded-xl border ' + (isDark ? 'bg-dark-surface/50 border-dark-border hover:bg-dark-surface text-dark-accent' : 'bg-solarized-blue/5 border-solarized-blue/20 hover:bg-solarized-blue/10 text-solarized-blue') + ' transition-all duration-300 flex items-center gap-3 font-bold text-sm list-none font-sans shadow-sm"><svg class="w-5 h-5 flex-shrink-0 transition-transform duration-200 group-open:rotate-90" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span>Slides ' + label + '</span></summary><div class="mt-4 ml-2 pl-6 border-l-2 border-solarized-base1/20 dark:border-dark-border text-base font-serif leading-relaxed space-y-3 slide-up">' + itemsHtml + '</div></details>';
     });
@@ -688,7 +687,7 @@ function renderMarkdown(html) {
     html = html.replace(/^# (.*$)/gm, '<h1 class="text-4xl font-bold mb-4 pb-4 border-b-2 ' + (isDark ? 'border-dark-border text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500' : 'border-solarized-base1/20 text-transparent bg-clip-text bg-gradient-to-r from-solarized-blue to-solarized-cyan') + ' font-sans text-left">$1</h1>');
 
     // H2 (Poppy Block Style - Centered, Block, 4 Dots)
-    html = html.replace(/^## (.*$)/gm, '<div class="my-16 p-8 rounded-2xl ' + (isDark ? 'bg-dark-surface shadow-lg border border-dark-border' : 'bg-white shadow-xl border border-white/50') + ' text-center transform hover:scale-[1.02] transition-transform duration-300"><div class="flex justify-center gap-2 mb-4"><div class="w-1.5 h-1.5 rounded-full ' + (isDark ? 'bg-violet-400' : 'bg-solarized-blue') + '"></div><div class="w-1.5 h-1.5 rounded-full ' + (isDark ? 'bg-violet-400' : 'bg-solarized-blue') + '"></div><div class="w-1.5 h-1.5 rounded-full ' + (isDark ? 'bg-violet-400' : 'bg-solarized-blue') + '"></div><div class="w-1.5 h-1.5 rounded-full ' + (isDark ? 'bg-violet-400' : 'bg-solarized-blue') + '"></div></div><h2 class="text-3xl font-black ' + (isDark ? 'text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500' : 'text-transparent bg-clip-text bg-gradient-to-r from-solarized-cyan to-solarized-blue') + ' font-display tracking-tight">$1</h2></div>');
+    html = html.replace(/^## (.*$)/gm, '<div class="my-16 p-8 rounded-2xl ' + (isDark ? 'bg-dark-surface shadow-lg border border-dark-border' : 'bg-white shadow-xl border border-white/50') + ' text-center transform hover:scale-[1.02] transition-transform duration-300"><div class="flex justify-center gap-2 mb-4"><div class="w-1.5 h-1.5 rounded-full bg-red-500"></div><div class="w-1.5 h-1.5 rounded-full bg-yellow-500"></div><div class="w-1.5 h-1.5 rounded-full bg-green-500"></div><div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div></div><h2 class="text-3xl font-black ' + (isDark ? 'text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-indigo-500' : 'text-transparent bg-clip-text bg-gradient-to-r from-solarized-cyan to-solarized-blue') + ' font-display tracking-tight">$1</h2></div>');
 
     // H3 (Subsections)
     html = html.replace(/^### (.*$)/gm, '<h3 class="text-2xl font-bold mt-8 mb-4 ' + (isDark ? 'text-dark-accent' : 'text-solarized-blue') + ' font-sans flex items-center gap-2 text-left"><span class="w-2 h-8 rounded-full ' + (isDark ? 'bg-dark-accent' : 'bg-solarized-blue') + '"></span>$1</h3>');
@@ -696,9 +695,9 @@ function renderMarkdown(html) {
     // H4 (Sub-subsections)
     html = html.replace(/^#### (.*$)/gm, '<h4 class="text-xl font-bold mt-6 mb-3 ' + (isDark ? 'text-dark-text' : 'text-solarized-base01') + ' font-sans flex items-center gap-2 text-left"><span class="w-1.5 h-1.5 rounded-full ' + (isDark ? 'bg-dark-muted' : 'bg-solarized-base1') + '"></span>$1</h4>');
 
-    // HR (4 Dots with lines)
-    html = html.replace(/^\*\*\*$/gm, '<div class="flex items-center justify-center gap-4 my-12"><div class="h-px w-24 ' + (isDark ? 'bg-dark-border' : 'bg-solarized-base1/20') + '"></div><div class="flex gap-2"><div class="w-1.5 h-1.5 rounded-full bg-red-500"></div><div class="w-1.5 h-1.5 rounded-full bg-yellow-500"></div><div class="w-1.5 h-1.5 rounded-full bg-green-500"></div><div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div></div><div class="h-px w-24 ' + (isDark ? 'bg-dark-border' : 'bg-solarized-base1/20') + '"></div></div>');
-    html = html.replace(/^---$/gm, '<div class="flex items-center justify-center gap-4 my-12"><div class="h-px w-24 ' + (isDark ? 'bg-dark-border' : 'bg-solarized-base1/20') + '"></div><div class="flex gap-2"><div class="w-1.5 h-1.5 rounded-full bg-red-500"></div><div class="w-1.5 h-1.5 rounded-full bg-yellow-500"></div><div class="w-1.5 h-1.5 rounded-full bg-green-500"></div><div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div></div><div class="h-px w-24 ' + (isDark ? 'bg-dark-border' : 'bg-solarized-base1/20') + '"></div></div>');
+    // HR (Hidden)
+    html = html.replace(/^\*{3,}$/gm, '');
+    html = html.replace(/^-{3,}$/gm, '');
 
     // Blockquotes
     html = html.replace(/^> (.*$)/gm, '<div class="my-8 pl-8 pr-6 py-6 border-l-4 ' + (isDark ? 'border-dark-accent bg-dark-surface/50' : 'border-solarized-yellow bg-solarized-yellow/10') + ' rounded-r-xl italic text-xl font-serif ' + (isDark ? 'text-dark-text' : 'text-solarized-base01') + ' shadow-sm relative"><span class="absolute top-2 left-2 text-4xl opacity-20 font-serif">"</span>$1</div>');

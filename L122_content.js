@@ -24,27 +24,26 @@ export const L122_content = {
 *   **Ascites Assessment:**
     *   **Shifting Dullness:** Percuss supine (tympany central, dull lateral) $\\rightarrow$ Lateral recumbent (dullness shifts to dependent side).
     *   **Fluid Wave:** Requires assistant. Tap flank, feel impulse on opposite side.
-*   **Lloyd's Sign (CVA Tenderness):** Percuss Costovertebral Angle.
-    *   **Positive:** Pain.
-    *   **Indicates:** Pyelonephritis, Nephrolithiasis, Perirenal Abscess.
-*   **Murphy's Sign:** Palpate RUQ under costal margin while patient inspires.
-    *   **Positive:** Sharp pain + **Inspiratory Arrest**.
-    *   **Indicates:** **Acute Cholecystitis**.
-*   **McBurney's Point:** 1/3 distance from ASIS to Umbilicus.
-    *   **Positive:** Point tenderness.
-    *   **Indicates:** **Acute Appendicitis**.
-*   **Rebound Tenderness:** Deep palpation followed by quick release.
-    *   **Positive:** Pain on release > pain on pressure.
-    *   **Indicates:** **Peritoneal Inflammation (Peritonitis)**.
-*   **Rovsing's Sign (Referred Rebound):** Palpate LLQ.
-    *   **Positive:** Pain felt in **RLQ**.
-    *   **Indicates:** Appendicitis.
-*   **Obturator Sign:** Flex hip/knee, internally rotate hip.
-    *   **Positive:** RLQ pain.
-    *   **Indicates:** **Pelvic Appendix** (or abscess) irritating obturator internus.
-*   **Psoas Sign:** Extend right hip (patient on left side) OR Flex right hip against resistance.
-    *   **Positive:** RLQ pain.
-    *   **Indicates:** **Retrocecal Appendix** irritating psoas muscle.
+    *   **Fluid Wave:** Requires assistant. Tap flank, feel impulse on opposite side.
+:::correlate
+**Lloyd's Sign (CVA Tenderness)**
+*   **Technique:** Percuss Costovertebral Angle (posteriorly).
+*   **Positive:** Pain.
+*   **Indicates:** **Pyelonephritis**, Nephrolithiasis, Perirenal Abscess.
+:::
+:::correlate
+**Murphy's Sign (Acute Cholecystitis)**
+*   **Technique:** Palpate RUQ under costal margin while patient inspires.
+*   **Positive:** Sharp pain + **Inspiratory Arrest** (patient stops breathing in due to pain).
+*   **Indicates:** inflamed gallbladder contacting the examining hand.
+:::
+:::correlate
+**Appendicitis Signs**
+*   **McBurney's Point:** Tenderness at 1/3 distance from ASIS to Umbilicus.
+*   **Rovsing's Sign:** Palpation of LLQ causes pain in **RLQ** (Referred Rebound).
+*   **Obturator Sign:** RLQ pain on internal rotation of flexed hip (Pelvic Appendix).
+*   **Psoas Sign:** RLQ pain on extension of right hip (Retrocecal Appendix).
+:::
 
 ## Evaluation of Constipation
 *   **Definition:** < 3 bowel movements/week, straining, hard stools, incomplete evacuation.

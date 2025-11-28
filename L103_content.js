@@ -23,7 +23,19 @@ const L103_DATA = {
 *   **Composition:** 22 bones fused together + middle ear ossicles (Malleus, Incus, Stapes).
 *   **Divisions:**
     *   **Neurocranium (Brain Case):** Protects the brain (Frontal, Parietal, Temporal, Occipital, Sphenoid, Ethmoid).
+    :::correlate
+    **Epidural Hematoma (Pterion Fracture)**
+    *   **Pterion:** Thinnest part of skull (junction of Frontal, Parietal, Temporal, Sphenoid).
+    *   Overlies the **Middle Meningeal Artery**.
+    *   Trauma causes rupture -> **Epidural Hematoma** (lens-shaped on CT).
+    :::
     *   **Viscerocranium (Facial Skeleton):** Bones of the face (Maxilla, Zygomatic, Mandible, Nasal, Lacrimal, Palatine, Vomer, Inferior Nasal Conchae).
+    :::correlate
+    **Cavernous Sinus Thrombosis**
+    *   **Facial Vein:** Has **no valves**, allowing retrograde blood flow.
+    *   Infection from "Danger Triangle" of face can spread to the **Cavernous Sinus**.
+    *   Can cause thrombosis and palsies of CN III, IV, V1, V2, VI.
+    :::
 
 ### Cervical Vertebrae
 *   **Atlas (C1):** No body. Articulates with Occipital Condyles (Atlanto-occipital joint) -> Allows "Yes" motion (Flexion/Extension).
@@ -35,6 +47,14 @@ const L103_DATA = {
     *   **Anterior:** Largest; between Frontal and Parietal bones. Closes last (18-24 months).
     *   **Posterior:** Between Parietal and Occipital bones. Closes early (2-3 months).
     *   **Anterolateral (Sphenoidal)** & **Posterolateral (Mastoid)**.
+
+### Fascial Spaces
+:::correlate
+**Retropharyngeal Abscess / Danger Space**
+*   **"Danger Space":** Potential space between alar and prevertebral fascia.
+*   Continuous from skull base to the **Diaphragm**.
+*   Infections can spread inferiorly causing **Mediastinitis**.
+:::
 
 -----
 
@@ -56,7 +76,13 @@ const L103_DATA = {
 
 ### Endocrine Glands
 *   **Thyroid:** H-shaped, anterior to trachea. Produces T3/T4 (Metabolism) and Calcitonin.
-    *   **Goiter:** Enlargement of the thyroid (Iodine deficiency, Hyper/Hypothyroidism). Can compress trachea/esophagus/recurrent laryngeal nerve.
+    *   **Goiter:** Enlargement of the thyroid (Iodine deficiency, Hyper/Hypothyroidism).
+    :::correlate
+    **Thyroid Pathologies**
+    *   **Goiter:** Enlargement due to iodine deficiency or autoimmune disease.
+    *   **Compression:** Can compress Trachea (dyspnea), Esophagus (dysphagia), or **Recurrent Laryngeal Nerve** (hoarseness).
+    *   **Hyper/Hypothyroidism:** Excess or deficiency of T3/T4.
+    :::
 *   **Parathyroid:** 4 glands (Superior/Inferior) on posterior thyroid. Secrete PTH (Calcium regulation).
 *   **Thymus:** Active in children (T-cell maturation). Atrophies into adipose tissue in adults.
 
@@ -83,9 +109,21 @@ const L103_DATA = {
 | **XI** | **Accessory** | Jugular Foramen | SCM and Trapezius muscles (Head turning/Shoulder shrugging). |
 | **XII** | **Hypoglossal** | Hypoglossal Canal | Tongue movement (all intrinsic/extrinsic except Palatoglossus). |
 
-### Clinical Correlates
-*   **Bell's Palsy:** CN VII lesion. Unilateral facial paralysis.
-*   **Torticollis:** CN XI or SCM issue. Head tilted to one side.`,
+:::correlate
+**Bell's Palsy (CN VII Lesion)**
+*   Unilateral paralysis of facial muscles (LMN lesion).
+*   Inability to close eye, loss of nasolabial fold, drooping corner of mouth.
+*   Can also affect taste (Ant 2/3) and salivation.
+:::
+
+:::correlate
+**Torticollis (Wry Neck)**
+*   Spasm or contracture of **SCM** (CN XI).
+*   Head tilts **toward** the affected side and rotates **away**.
+*   Can be congenital or due to nerve injury.
+:::
+
+`,
     questions: `**1. A newborn's skull allows for deformation during birth and rapid brain growth postnatally. Which fontanelle is the largest and typically the last to close?**
 
 A. Posterior Fontanelle
