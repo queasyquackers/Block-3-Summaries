@@ -761,94 +761,38 @@ function updateWelcomeMessage() {
 
     // Add Footer
     const welcomeScreen = document.getElementById('welcomeScreen');
-    if (welcomeScreen) {
-        // Ensure relative positioning for absolute footer
-        if (!welcomeScreen.classList.contains('relative')) {
-            welcomeScreen.classList.add('relative');
-        }
-
-        if (!document.getElementById('qh-footer')) {
-            const footer = document.createElement('div');
-            footer.id = 'qh-footer';
-            footer.className = 'absolute bottom-4 left-0 right-0 text-center text-xs font-sans opacity-40 tracking-widest uppercase pointer-events-none';
-            footer.textContent = 'Created by QH';
-            welcomeScreen.appendChild(footer);
-        }
+    if (welcomeScreen && !document.getElementById('qh-footer')) {
+        const footer = document.createElement('div');
+        footer.id = 'qh-footer';
+        footer.className = 'absolute bottom-4 text-xs font-sans opacity-40 tracking-widest uppercase';
+        footer.textContent = 'Created by QH';
+        welcomeScreen.appendChild(footer);
     }
 
-    // Antigravity Effect (Particle Trail)
-    if (welcomeScreen && !document.getElementById('antigravity-canvas')) {
-        const canvas = document.createElement('canvas');
-        canvas.id = 'antigravity-canvas';
-        canvas.style.position = 'absolute';
-        canvas.style.top = '0';
-        canvas.style.left = '0';
-        canvas.style.width = '100%';
-        canvas.style.height = '100%';
-        canvas.style.pointerEvents = 'none'; // Let clicks pass through
-        canvas.style.zIndex = '0'; // Behind content but visible
-        welcomeScreen.insertBefore(canvas, welcomeScreen.firstChild);
+    // Antigravity Effect
+    if (welcomeScreen) {
+        const card = welcomeScreen.querySelector('.bg-white'); // Target the card
+        if (card) {
+            document.addEventListener('mousemove', (e) => {
+                if (welcomeScreen.classList.contains('hidden')) return;
 
-        const ctx = canvas.getContext('2d');
-        let particles = [];
-        let mouse = { x: 0, y: 0 };
+                const x = e.clientX;
+                const y = e.clientY;
+                const rect = card.getBoundingClientRect();
+                const cardX = rect.left + rect.width / 2;
+                const cardY = rect.top + rect.height / 2;
 
-        const resize = () => {
-            canvas.width = welcomeScreen.offsetWidth;
-            canvas.height = welcomeScreen.offsetHeight;
-        };
-        window.addEventListener('resize', resize);
-        resize();
+                const angleX = (y - cardY) / 25;
+                const angleY = (cardX - x) / 25;
 
-        welcomeScreen.addEventListener('mousemove', (e) => {
-            const rect = welcomeScreen.getBoundingClientRect();
-            mouse.x = e.clientX - rect.left;
-            mouse.y = e.clientY - rect.top;
+                card.style.transform = `rotateX(${angleX}deg) rotateY(${angleY}deg) scale(1.02)`;
+                card.style.transition = 'transform 0.1s ease-out';
+            });
 
-            // Create particles on move
-            for (let i = 0; i < 2; i++) {
-                particles.push(new Particle(mouse.x, mouse.y));
-            }
-        });
-
-        class Particle {
-            constructor(x, y) {
-                this.x = x;
-                this.y = y;
-                this.size = Math.random() * 3 + 1; // Tiny circles
-                this.speedX = Math.random() * 2 - 1;
-                this.speedY = Math.random() * 2 - 1;
-                this.color = isDark ? 'rgba(100, 100, 255, 0.5)' : 'rgba(0, 0, 0, 0.2)';
-                this.life = 100;
-            }
-            update() {
-                this.x += this.speedX;
-                this.y += this.speedY;
-                this.life -= 2;
-                if (this.life < 0) this.life = 0;
-            }
-            draw() {
-                ctx.fillStyle = this.color;
-                ctx.beginPath();
-                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-                ctx.fill();
-            }
+            document.addEventListener('mouseleave', () => {
+                card.style.transform = 'rotateX(0) rotateY(0) scale(1)';
+                card.style.transition = 'transform 0.5s ease-out';
+            });
         }
-
-        function animate() {
-            if (welcomeScreen.classList.contains('hidden')) return; // Stop if hidden
-
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            for (let i = 0; i < particles.length; i++) {
-                particles[i].update();
-                particles[i].draw();
-                if (particles[i].life <= 0) {
-                    particles.splice(i, 1);
-                    i--;
-                }
-            }
-            requestAnimationFrame(animate);
-        }
-        animate();
     }
 }
