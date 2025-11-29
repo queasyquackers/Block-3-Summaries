@@ -557,9 +557,97 @@ function renderTabContent() {
             document.getElementById('tocToggle').classList.add('hidden');
         } else if (activeTab === 'high-yield') {
             const pdfPath = selectedLecture.highYieldPdf || `L${selectedLecture.id.replace(/\D/g, '')}_HighYield_Render.pdf`;
-            contentDiv.innerHTML = `<iframe src="${pdfPath}" class="w-full h-[800px] rounded-xl border ${isDark ? 'border-dark-border' : 'border-solarized-base1/20'}"></iframe>`;
+
+            // Container for PDF pages
+            contentDiv.innerHTML = `
+                <div id="pdfContainer" class="flex flex-col items-center gap-4 w-full">
+                    <div id="pdfLoading" class="flex flex-col items-center justify-center py-20">
+                        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-solarized-blue dark:border-dark-accent mb-4"></div>
+                        <p class="text-lg font-sans text-solarized-base1 dark:text-dark-muted">Loading High Yield PDF...</p>
+                    </div>
+                </div>
+            `;
+
             tocDiv.classList.add('hidden');
             document.getElementById('tocToggle').classList.add('hidden');
+
+            // Render PDF using PDF.js
+            if (window.pdfjsLib) {
+                // Ensure worker is set
+                if (!window.pdfjsLib.GlobalWorkerOptions.workerSrc) {
+                    window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+                }
+
+                (async () => {
+                    const container = document.getElementById('pdfContainer');
+                    const loading = document.getElementById('pdfLoading');
+
+                    if (!container || !loading) return;
+
+                    try {
+                        const loadingTask = pdfjsLib.getDocument(pdfPath);
+                        const pdf = await loadingTask.promise;
+
+                        if (activeTab !== 'high-yield') return;
+
+                        if (loading && loading.parentNode) loading.remove();
+
+                        for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                            if (activeTab !== 'high-yield') return;
+
+                            const page = await pdf.getPage(pageNum);
+
+                            // Calculate scale to fit container width (max 1000px usually good for readability)
+                            // We render at high quality (scale 2) and let CSS downscale
+                            const viewport = page.getViewport({ scale: 2.0 });
+
+                            const canvas = document.createElement('canvas');
+                            const context = canvas.getContext('2d');
+
+                            canvas.height = viewport.height;
+                            canvas.width = viewport.width;
+
+                            // CSS styling for responsiveness
+                            canvas.style.width = '100%';
+                            canvas.style.maxWidth = '100%';
+                            canvas.style.height = 'auto';
+                            canvas.className = `rounded-xl shadow-lg border ${isDark ? 'border-dark-border' : 'border-solarized-base1/20'}`;
+
+                            // Re-query container to ensure we are still attached or check existence
+                            const currentContainer = document.getElementById('pdfContainer');
+                            if (currentContainer) {
+                                currentContainer.appendChild(canvas);
+                            }
+
+                            const renderContext = {
+                                canvasContext: context,
+                                viewport: viewport
+                            };
+
+                            await page.render(renderContext).promise;
+                        }
+                    } catch (error) {
+                        if (activeTab !== 'high-yield') return;
+                        console.error('Error rendering PDF:', error);
+                        const currentContainer = document.getElementById('pdfContainer');
+                        if (currentContainer) {
+                            // Fallback to iframe if PDF.js fails (common on local file:// due to CORS)
+                            const isLocal = window.location.protocol === 'file:';
+                            const fallbackMessage = isLocal ?
+                                '' :
+                                '<p class="text-xs text-center opacity-60 mb-2 text-red-400">In-site rendering failed. Using native viewer.</p>';
+
+                            currentContainer.innerHTML = `
+                                ${fallbackMessage}
+                                <iframe src="${pdfPath}" class="w-full h-[800px] rounded-xl border ${isDark ? 'border-dark-border' : 'border-solarized-base1/20'}"></iframe>
+                            `;
+                        }
+                    }
+                })();
+            } else {
+                console.error('PDF.js library not loaded');
+                contentDiv.innerHTML += `<div class="text-center text-red-500 mt-4">PDF.js library not loaded. Please refresh the page.</div>`;
+            }
         }
     } catch (e) {
         console.error('Error rendering tab content:', e);
