@@ -10,7 +10,7 @@ const LECTURES_DATA = [
     createdAt: new Date('2024-11-26'),
     summary: `# Lecture #102: OMM: Lab 11 Prep Lecture - Lumbar Diagnosis, Lumbar Soft Tissue
 
-**Lecturer:** J. Mancini, DO, PhD, FAWM
+**Lecturer:** J. Mancini, DO, Ph.D., FAWM
 **Session:** Lecture #102
 
 -----
@@ -5229,7 +5229,7 @@ E. Perforin
     createdAt: "2024-11-26",
     summary: `# Lecture #133: Introduction to the Nervous System
 
-**Lecturer:** Unknown Lecturer
+**Lecturer:** Raddy L. Ramos, Ph.D.
 **Session:** Lecture #133
 
 -----
@@ -5447,7 +5447,7 @@ E. Perforin
     createdAt: "2024-11-28",
     summary: `# Lecture #134: Epidemiology I
 
-**Lecturer:** Unknown Lecturer
+**Lecturer:** Bhuma Krishnamachari, Ph.D.
 **Session:** Lecture #134
 
 -----
@@ -5607,7 +5607,7 @@ E. Perforin
     createdAt: "2024-11-28",
     summary: `# Lecture #135: Epidemiology II
 
-**Lecturer:** Unknown Lecturer
+**Lecturer:** Bhuma Krishnamachari, Ph.D.
 **Session:** Lecture #135
 
 -----
@@ -6030,7 +6030,7 @@ E. Perforin
     createdAt: "2024-11-28",
     summary: `# Lecture #137: Physiology: Neurons and Synapse
 
-**Lecturer:** Unknown Lecturer
+**Lecturer:** Raddy L. Ramos, Ph.D.
 **Session:** Lecture #137
 
 -----
@@ -6276,7 +6276,7 @@ E. Perforin
     createdAt: "2024-11-28",
     summary: `# Lecture #138: Principles of Neurochemistry
 
-**Lecturer:** Unknown Lecturer
+**Lecturer:** Vladimir Grubisic, M.D. Ph.D.
 **Session:** Lecture #138
 
 -----
