@@ -5277,6 +5277,12 @@ E. Perforin
     *   **Blood-Brain Barrier (BBB):** End-feet contact blood vessels to regulate hemodynamics (neurovascular coupling).
     *   **Reactive Astrocytes:** Respond to injury (gliosis/glial scar). Marker: **GFAP** (Glial Fibrillary Acidic Protein).
     :::correlate
+    **Stroke (Cerebrovascular Accident)**
+    *   **Types:** Ischemic (blockage) vs. Hemorrhagic (rupture).
+    *   **Mechanism:** Excitotoxicity (excess Glutamate) leads to neuronal death.
+    *   **Glial Role:** Astrocytes swell/scar (gliosis); Microglia phagocytose debris.
+    :::
+    :::correlate
     **Alexander Disease**
     *   **Cause:** **GFAP** mutation (Astrocytes).
     *   **Pathology:** Leukodystrophy (white matter deficits), Rosenthal fibers.
