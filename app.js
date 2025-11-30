@@ -735,12 +735,12 @@ function renderMarkdown(html) {
 
         lines.forEach(line => {
             line = line.trim();
-            if (line.startsWith('*') || line.startsWith('-')) {
+            if (/^[\*\-]\s/.test(line)) {
                 if (!inList) {
                     processedContent += '<ul class="list-disc list-outside ml-6 space-y-2 marker:' + (isDark ? 'text-red-400' : 'text-red-700') + '">';
                     inList = true;
                 }
-                const itemText = line.replace(/^[\*\-]\s*/, '');
+                const itemText = line.replace(/^[\*\-]\s*/, '').replace(/\*\*(.*?)\*\*/g, '<strong class="font-bold text-solarized-base01 dark:text-dark-text">$1</strong>');
                 processedContent += '<li class="text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '">' + itemText + '</li>';
             } else {
                 if (inList) {
@@ -748,7 +748,8 @@ function renderMarkdown(html) {
                     inList = false;
                 }
                 if (line.length > 0) {
-                    processedContent += '<p class="mb-2 text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '">' + line + '</p>';
+                    const processedLine = line.replace(/^[\s\*]+|[\s\*]+$/g, '');
+                    processedContent += '<p class="mb-2 text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '"><strong class="font-bold text-solarized-base01 dark:text-dark-text">' + processedLine + '</strong></p>';
                 }
             }
         });

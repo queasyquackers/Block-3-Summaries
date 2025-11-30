@@ -239,7 +239,82 @@ def get_image_hashes(reader):
     recurring_images = {img for img, count in image_counts.items() if count > (len(sample_pages) * 0.5)}
     return recurring_images
 
-def generate_high_yield(pdf_path, output_path, dry_run=False):
+
+def analyze_transcript(transcript_path):
+    """
+    Analyzes transcript for high yield concepts based on:
+    1. Repetition
+    2. Explicit emphasis ("need to know", "important")
+    3. Clinical correlates
+    4. Examples
+    """
+    if not os.path.exists(transcript_path):
+        return [], []
+
+    try:
+        with open(transcript_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except:
+        return [], []
+
+    # Remove timestamps and line numbers (simple SRT parsing)
+    text_content = re.sub(r'\d+\n\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}\n', '', content)
+    text_content = text_content.replace('\n', ' ')
+    lower_content = text_content.lower()
+
+    # 1. Repetition (Bigrams/Trigrams)
+    words = re.findall(r'\b[a-zA-Z]{4,}\b', lower_content)
+    # Filter common stop words (basic list)
+    stop_words = {"this", "that", "with", "from", "have", "what", "your", "will", "they", "there", "about", "which", "when", "then", "some", "just", "like", "these", "those", "because", "actually", "basically", "really", "right", "okay", "going", "think", "know", "here", "very", "much", "well", "make", "look", "where", "kind", "sort", "mean", "does", "done", "used", "using", "into", "onto", "also", "even", "most", "more", "less", "least", "good", "bad", "high", "low", "first", "last", "next", "back", "front", "side", "part", "whole", "show", "seen", "said", "says", "tell", "told", "talk", "call", "called", "name", "named", "want", "need", "take", "give", "get", "got", "put", "set", "let", "see", "saw", "come", "came", "go", "went", "do", "did", "be", "is", "are", "was", "were", "has", "had", "can", "could", "would", "should", "may", "might", "must", "and", "or", "but", "so", "if", "as", "of", "at", "by", "for", "in", "on", "to", "up", "out", "off", "over", "under", "again", "then", "than", "now", "how", "why", "who", "whom", "whose"}
+    
+    filtered_words = [w for w in words if w not in stop_words]
+    word_counts = Counter(filtered_words)
+    
+    # Get top repeated concepts (top 20)
+    repeated_concepts = [word for word, count in word_counts.most_common(20)]
+
+    # 2. Explicit Emphasis
+    emphasis_patterns = [
+        r"need to know", r"must know", r"important to remember", r"key point", 
+        r"exam question", r"test question", r"high yield", r"don't forget",
+        r"pay attention", r"critical"
+    ]
+    
+    emphasis_hits = []
+    for pattern in emphasis_patterns:
+        matches = re.finditer(pattern, lower_content)
+        for match in matches:
+            # Extract context (surrounding text)
+            start = max(0, match.start() - 50)
+            end = min(len(lower_content), match.end() + 100)
+            emphasis_hits.append(lower_content[start:end])
+
+    # 3. Clinical Correlates
+    clinical_patterns = [
+        r"clinical correlate", r"syndrome", r"disease", r"disorder", r"patient",
+        r"symptoms", r"diagnosis", r"treatment", r"pathology"
+    ]
+    clinical_hits = []
+    for pattern in clinical_patterns:
+         matches = re.finditer(pattern, lower_content)
+         for match in matches:
+             start = max(0, match.start() - 50)
+             end = min(len(lower_content), match.end() + 100)
+             clinical_hits.append(lower_content[start:end])
+
+    # Extract keywords from hits to use for slide boosting
+    boost_keywords = set(repeated_concepts)
+    
+    # Extract nouns/key terms from emphasis and clinical hits (simple heuristic)
+    for hit in emphasis_hits + clinical_hits:
+        hit_words = re.findall(r'\b[a-zA-Z]{5,}\b', hit)
+        for w in hit_words:
+            if w not in stop_words:
+                boost_keywords.add(w)
+
+    return list(boost_keywords), emphasis_hits + clinical_hits
+
+def generate_high_yield(pdf_path, output_path, transcript_path=None, dry_run=False):
     print(f"Processing {pdf_path}...")
     reader = pypdf.PdfReader(pdf_path)
     writer = pypdf.PdfWriter()
@@ -247,7 +322,18 @@ def generate_high_yield(pdf_path, output_path, dry_run=False):
     dynamic_keywords, force_include_pages = find_summary_and_objectives(reader)
     recurring_images = get_image_hashes(reader)
     
-    if dynamic_keywords: print(f"Found dynamic keywords: {dynamic_keywords}")
+    transcript_keywords = []
+    transcript_hits = []
+    if transcript_path:
+        print(f"Analyzing transcript: {transcript_path}")
+        transcript_keywords, transcript_hits = analyze_transcript(transcript_path)
+        print(f"Found {len(transcript_keywords)} transcript keywords and {len(transcript_hits)} high-yield segments.")
+        if dynamic_keywords:
+            dynamic_keywords.extend(transcript_keywords)
+        else:
+            dynamic_keywords = transcript_keywords
+
+    if dynamic_keywords: print(f"Found dynamic keywords (Total): {len(dynamic_keywords)}")
     if force_include_pages: print(f"Force including pages: {force_include_pages}")
     if recurring_images: print(f"Ignoring recurring images: {recurring_images}")
     
@@ -352,9 +438,11 @@ def generate_high_yield(pdf_path, output_path, dry_run=False):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python generate_high_yield.py <input_pdf> <output_pdf>")
+        print("Usage: python generate_high_yield.py <input_pdf> <output_pdf> [transcript_path]")
         sys.exit(1)
     input_pdf = sys.argv[1]
     output_pdf = sys.argv[2]
+    transcript_path = sys.argv[3] if len(sys.argv) > 3 else None
     dry_run = output_pdf == "dry_run"
-    generate_high_yield(input_pdf, output_pdf, dry_run)
+    generate_high_yield(input_pdf, output_pdf, transcript_path, dry_run)
+

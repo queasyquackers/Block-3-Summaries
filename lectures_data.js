@@ -271,7 +271,7 @@ E. Inhibition
 
 ### Lacrimal Apparatus
 *   **Pathway:** Lacrimal Gland (Tears) -> Eye Surface -> Lacrimal Puncta -> Canaliculi -> Lacrimal Sac -> **Nasolacrimal Duct** -> Inferior Meatus of Nasal Cavity.
-*   *Clinical Note:* This connection is why you get a runny nose ("sniffles") when you cry.
+*   **Clinical Note:** This connection is why you get a runny nose ("sniffles") when you cry.
 
 ### Endocrine Glands
 *   **Thyroid:** H-shaped, anterior to trachea. Produces T3/T4 (Metabolism) and Calcitonin.
@@ -890,7 +890,7 @@ E. Left CN IX
 1.  **Life Expectancy (2010-2020):**
     *   Highest: Asian/Pacific Islander.
     *   Lowest: Black population.
-    *   *Note:* The gap has widened post-pandemic.
+    *   **Note:** The gap has widened post-pandemic.
 2.  **Maternal & Child Health:**
     *   **Preterm Births & Low Birth Weight:** Highest rates in Black populations, followed by Native Hawaiian/Pacific Islanders and American Indian/Alaskan Natives.
     *   **Maternal Mortality:** Black women have the highest pregnancy-related mortality (40.8 per 100k), followed by American Indian/Alaskan Natives (29.7).
@@ -1138,7 +1138,7 @@ E. Self-Efficacy
 
 ### Receptor Dynamics & Regulation
 *   **Desensitization:** Decreased response despite continued presence of drug.
-    *   *Mechanism:* Phosphorylation, uncoupling from G-proteins.
+    *   **Mechanism:** Phosphorylation, uncoupling from G-proteins.
 *   **Downregulation:** Decrease in receptor *number* (internalization/degradation).
     *   *Result:* **Tolerance** / **Tachyphylaxis** (rapid tolerance).
 *   **Resensitization:** Recovery of receptors after drug withdrawal.
@@ -1271,7 +1271,7 @@ E. A drug binding to an allosteric site to reduce agonist affinity.
 **Lecturer:** L. Goldstein
 **Session:** Lectures #109-110
 
------\n\n## Part 1: Absorption and Distribution (L109)\n\n### Absorption\n*   **Definition:** Movement of drug from site of administration into the central circulation.\n*   **Mechanisms of Permeation:**\n    1.  **Passive Diffusion:** Most common. Driven by concentration gradient (high to low). Depends on lipid solubility (lipid-water partition coefficient).\n        *   *Fick's Law:* Rate $\\propto$ (Area $\\times$ Permeability $\\times$ Concentration Gradient) / Thickness.\n    2.  **Carrier-Mediated Transport:**\n        *   **Facilitated Diffusion:** Down gradient, no energy, saturable (e.g., SLC family).\n        *   **Active Transport:** Against gradient, requires energy (ATP), saturable (e.g., ABC superfamily, P-glycoprotein).\n    3.  **Paracellular Transport:** Between cells (small polar molecules).\n\n### pH and Ionization (Henderson-Hasselbalch)\n*   **Key Concept:** Only **non-ionized** (uncharged) forms cross lipid membranes readily.\n*   **Weak Acids (HA $\\rightleftharpoons$ H$^+$ + A$^-$):**\n    *   Protonated form (HA) is non-ionized $\\rightarrow$ crosses membrane.\n    *   Accumulate in basic environments (ion trapping).\n*   **Weak Bases (BH$^+$ $\\rightleftharpoons$ H$^+$ + B):**\n    *   Protonated form (BH$^+$) is ionized $\\rightarrow$ does NOT cross.\n    *   Non-protonated form (B) crosses.\n    *   Accumulate in acidic environments.\n*   **Clinical Application (Ion Trapping):**\n    *   **Salicylate (Aspirin) Toxicity:** Weak acid. Alkalinize urine (increase pH) with bicarbonate $\\rightarrow$ traps drug in urine (A$^-$ form) $\\rightarrow$ increases excretion.\n\n### Bioavailability (F)\n*   **Definition:** Fraction of administered dose reaching systemic circulation unchanged.\n*   **IV Administration:** F = 100% (1.0).\n*   **Oral Administration:** F < 100% due to incomplete absorption and **First-Pass Effect**.\n*   **First-Pass Effect:** Metabolism of drug by gut wall and liver *before* reaching systemic circulation. Reduces bioavailability.\n\n### Distribution\n*   **Determinants:** Blood flow, capillary permeability, tissue volume, protein binding.\n*   **Protein Binding:**\n    *   **Albumin:** Major carrier for acidic drugs.\n    *   **Alpha-1-acid glycoprotein:** Binds basic drugs.\n    *   *Clinical Significance:* Only **free** (unbound) drug is active, metabolized, and excreted. Hypoalbuminemia $\\rightarrow$ increased free drug $\\rightarrow$ potential toxicity.\n*   **Redistribution:**\n    *   Mechanism for termination of action of highly lipid-soluble drugs (e.g., Thiopental).\n    *   Rapidly enters highly perfused organs (Brain) $\\rightarrow$ Effect.\n    *   Redistributes to less perfused tissues (Muscle, Fat) $\\rightarrow$ Termination of effect (plasma levels drop).\n\n-----\n\n## Part 2: Metabolism and Excretion (L110)\n\n### Metabolism (Biotransformation)\n*   **Goal:** Convert lipophilic drugs to hydrophilic metabolites for excretion.\n*   **Site:** Primarily liver (SER); also gut, kidney, lung.\n\n#### Phase I Reactions (Functionalization)\n*   **Reactions:** Oxidation, Reduction, Hydrolysis.\n*   **Enzymes:** **Cytochrome P450 (CYP)** system (Microsomal mixed-function oxidases).\n    *   Requires: NADPH, Oxygen, Heme.\n    *   **CYP3A4:** Metabolizes ~50% of drugs.\n    *   **CYP2D6:** Significant genetic polymorphism.\n*   **Outcome:** Usually inactivation, but can produce active metabolites (prodrugs) or toxic metabolites.\n\n#### Phase II Reactions (Conjugation)\n*   **Reactions:** Glucuronidation (most common), Sulfation, Acetylation, Glutathione conjugation.\n*   **Enzymes:** Transferases (e.g., UGT - UDP-glucuronosyltransferase).\n*   **Outcome:** Highly polar, inactive conjugates $\\rightarrow$ Excreted in urine/bile.\n*   *Note:* Phase II can occur without Phase I.\n\n### Factors Affecting Metabolism\n1.  **Enzyme Induction:**\n    *   Increased enzyme synthesis $\\rightarrow$ Increased metabolism $\\rightarrow$ Decreased drug effect.\n    *   *Examples:* Rifampin, Carbamazepine, St. John's Wort.\n2.  **Enzyme Inhibition:**\n    *   Decreased enzyme activity $\\rightarrow$ Decreased metabolism $\\rightarrow$ Increased drug levels (Toxicity).\n    *   *Examples:* Cimetidine, Ketoconazole, Grapefruit juice (CYP3A4).\n3.  **Pharmacogenomics:**\n    *   **Poor Metabolizers:** Risk of toxicity (active drug) or failure (prodrug).\n    *   **Ultra-rapid Metabolizers:** Risk of failure (active drug) or toxicity (prodrug).\n    *   *Example:* Acetylation (Fast vs. Slow acetylators - Isoniazid).\n\n### Excretion\n*   **Renal Excretion (Major):**\n    1.  **Glomerular Filtration:** Free drug only. Passive.\n    2.  **Active Tubular Secretion:** Proximal tubule. Carriers (OAT, OCT). Saturable.\n    3.  **Passive Tubular Reabsorption:** Distal tubule. Lipophilic drugs reabsorbed. Polar drugs excreted.\n*   **Clearance (CL):** Volume of blood cleared of drug per unit time.\n    *   **Creatinine Clearance (CrCl):** Estimates GFR. Used to adjust dosing in renal impairment.\n*   **Biliary Excretion & Enterohepatic Circulation:**\n    *   Drug/Metabolite secreted into bile $\\rightarrow$ Intestine.\n    *   Gut bacteria cleave conjugate $\\rightarrow$ Free drug reabsorbed $\\rightarrow$ Prolongs duration of action.\n\n### Special Populations\n*   **Neonates:** Immature liver/kidney function $\\rightarrow$ Reduced metabolism/excretion $\\rightarrow$ Toxicity risk (e.g., Gray Baby Syndrome - Chloramphenicol).\n*   **Elderly:** Decreased muscle mass (normal Creatinine but low GFR), reduced blood flow, polypharmacy.\n`,
+-----\n\n## Part 1: Absorption and Distribution (L109)\n\n### Absorption\n*   **Definition:** Movement of drug from site of administration into the central circulation.\n*   **Mechanisms of Permeation:**\n    1.  **Passive Diffusion:** Most common. Driven by concentration gradient (high to low). Depends on lipid solubility (lipid-water partition coefficient).\n        *   *Fick's Law:* Rate $\\propto$ (Area $\\times$ Permeability $\\times$ Concentration Gradient) / Thickness.\n    2.  **Carrier-Mediated Transport:**\n        *   **Facilitated Diffusion:** Down gradient, no energy, saturable (e.g., SLC family).\n        *   **Active Transport:** Against gradient, requires energy (ATP), saturable (e.g., ABC superfamily, P-glycoprotein).\n    3.  **Paracellular Transport:** Between cells (small polar molecules).\n\n### pH and Ionization (Henderson-Hasselbalch)\n*   **Key Concept:** Only **non-ionized** (uncharged) forms cross lipid membranes readily.\n*   **Weak Acids (HA $\\rightleftharpoons$ H$^+$ + A$^-$):**\n    *   Protonated form (HA) is non-ionized $\\rightarrow$ crosses membrane.\n    *   Accumulate in basic environments (ion trapping).\n*   **Weak Bases (BH$^+$ $\\rightleftharpoons$ H$^+$ + B):**\n    *   Protonated form (BH$^+$) is ionized $\\rightarrow$ does NOT cross.\n    *   Non-protonated form (B) crosses.\n    *   Accumulate in acidic environments.\n*   **Clinical Application (Ion Trapping):**\n    *   **Salicylate (Aspirin) Toxicity:** Weak acid. Alkalinize urine (increase pH) with bicarbonate $\\rightarrow$ traps drug in urine (A$^-$ form) $\\rightarrow$ increases excretion.\n\n### Bioavailability (F)\n*   **Definition:** Fraction of administered dose reaching systemic circulation unchanged.\n*   **IV Administration:** F = 100% (1.0).\n*   **Oral Administration:** F < 100% due to incomplete absorption and **First-Pass Effect**.\n*   **First-Pass Effect:** Metabolism of drug by gut wall and liver *before* reaching systemic circulation. Reduces bioavailability.\n\n### Distribution\n*   **Determinants:** Blood flow, capillary permeability, tissue volume, protein binding.\n*   **Protein Binding:**\n    *   **Albumin:** Major carrier for acidic drugs.\n    *   **Alpha-1-acid glycoprotein:** Binds basic drugs.\n    *   *Clinical Significance:* Only **free** (unbound) drug is active, metabolized, and excreted. Hypoalbuminemia $\\rightarrow$ increased free drug $\\rightarrow$ potential toxicity.\n*   **Redistribution:**\n    *   Mechanism for termination of action of highly lipid-soluble drugs (e.g., Thiopental).\n    *   Rapidly enters highly perfused organs (Brain) $\\rightarrow$ Effect.\n    *   Redistributes to less perfused tissues (Muscle, Fat) $\\rightarrow$ Termination of effect (plasma levels drop).\n\n-----\n\n## Part 2: Metabolism and Excretion (L110)\n\n### Metabolism (Biotransformation)\n*   **Goal:** Convert lipophilic drugs to hydrophilic metabolites for excretion.\n*   **Site:** Primarily liver (SER); also gut, kidney, lung.\n\n#### Phase I Reactions (Functionalization)\n*   **Reactions:** Oxidation, Reduction, Hydrolysis.\n*   **Enzymes:** **Cytochrome P450 (CYP)** system (Microsomal mixed-function oxidases).\n    *   Requires: NADPH, Oxygen, Heme.\n    *   **CYP3A4:** Metabolizes ~50% of drugs.\n    *   **CYP2D6:** Significant genetic polymorphism.\n*   **Outcome:** Usually inactivation, but can produce active metabolites (prodrugs) or toxic metabolites.\n\n#### Phase II Reactions (Conjugation)\n*   **Reactions:** Glucuronidation (most common), Sulfation, Acetylation, Glutathione conjugation.\n*   **Enzymes:** Transferases (e.g., UGT - UDP-glucuronosyltransferase).\n*   **Outcome:** Highly polar, inactive conjugates $\\rightarrow$ Excreted in urine/bile.\n*   **Note:** Phase II can occur without Phase I.\n\n### Factors Affecting Metabolism\n1.  **Enzyme Induction:**\n    *   Increased enzyme synthesis $\\rightarrow$ Increased metabolism $\\rightarrow$ Decreased drug effect.\n    *   *Examples:* Rifampin, Carbamazepine, St. John's Wort.\n2.  **Enzyme Inhibition:**\n    *   Decreased enzyme activity $\\rightarrow$ Decreased metabolism $\\rightarrow$ Increased drug levels (Toxicity).\n    *   *Examples:* Cimetidine, Ketoconazole, Grapefruit juice (CYP3A4).\n3.  **Pharmacogenomics:**\n    *   **Poor Metabolizers:** Risk of toxicity (active drug) or failure (prodrug).\n    *   **Ultra-rapid Metabolizers:** Risk of failure (active drug) or toxicity (prodrug).\n    *   *Example:* Acetylation (Fast vs. Slow acetylators - Isoniazid).\n\n### Excretion\n*   **Renal Excretion (Major):**\n    1.  **Glomerular Filtration:** Free drug only. Passive.\n    2.  **Active Tubular Secretion:** Proximal tubule. Carriers (OAT, OCT). Saturable.\n    3.  **Passive Tubular Reabsorption:** Distal tubule. Lipophilic drugs reabsorbed. Polar drugs excreted.\n*   **Clearance (CL):** Volume of blood cleared of drug per unit time.\n    *   **Creatinine Clearance (CrCl):** Estimates GFR. Used to adjust dosing in renal impairment.\n*   **Biliary Excretion & Enterohepatic Circulation:**\n    *   Drug/Metabolite secreted into bile $\\rightarrow$ Intestine.\n    *   Gut bacteria cleave conjugate $\\rightarrow$ Free drug reabsorbed $\\rightarrow$ Prolongs duration of action.\n\n### Special Populations\n*   **Neonates:** Immature liver/kidney function $\\rightarrow$ Reduced metabolism/excretion $\\rightarrow$ Toxicity risk (e.g., Gray Baby Syndrome - Chloramphenicol).\n*   **Elderly:** Decreased muscle mass (normal Creatinine but low GFR), reduced blood flow, polypharmacy.\n`,
     questions: [
       {
         id: 'l109-q1',
@@ -1485,10 +1485,10 @@ Exits brainstem at pontomedullary junction $\\rightarrow$ Internal Acoustic Meat
 1.  **Otolith Organs (Linear Acceleration):**
     *   **Utricle:** Horizontal movement.
     *   **Saccule:** Vertical movement (Gravity).
-    *   *Mechanism:* Otoliths (crystals) move hair cells in gelatinous matrix.
+    *   **Mechanism:** Otoliths (crystals) move hair cells in gelatinous matrix.
 2.  **Semicircular Canals (Rotational Acceleration):**
     *   Anterior, Posterior, Lateral.
-    *   *Mechanism:* Endolymph flow bends cupula in Ampulla.
+    *   **Mechanism:** Endolymph flow bends cupula in Ampulla.
 
 :::correlate
 **Benign Paroxysmal Positional Vertigo (BPPV)**
@@ -2554,7 +2554,66 @@ Provides parasympathetics to the neck (Pharynx, Larynx, Thyroid) via Superior an
 **Lecturer:** L. Goldstein, Pharm.D.
 **Session:** Lecture #118
 
------\n\n## Classification of Drug Interactions\n\n### 1. Pharmacodynamic Interactions\nModulation of the pharmacological effect of a drug (additive, synergistic, or antagonistic) without altering its concentration.\n\n*   **Additive:** Combined effect = Sum of individual effects (1+1=2).\n    *   *Example:* **Diphenhydramine + Tricyclic Antidepressants (TCAs)** $\\rightarrow$ Additive **Anticholinergic** effects (dry mouth, urinary retention, confusion).\n*   **Synergistic (Potentiation):** Combined effect > Sum of individual effects (1+1>2).\n    *   *Beneficial:* **Sulfonamide + Trimethoprim** (Bactericidal), **Codeine + Acetaminophen** (Analgesia), **Amoxicillin + Clavulanic Acid** (Antibacterial).\n    *   *Adverse:* **Nitroglycerin + Sildenafil** $\\rightarrow$ Severe **Hypotension** (via Nitric Oxide).\n    *   *Adverse:* **Benzodiazepines + Alcohol** $\\rightarrow$ Severe **CNS/Respiratory Depression**.\n    *   *Adverse:* **ACE Inhibitors + NSAIDs** $\\rightarrow$ Synergistic reduction in GFR $\\rightarrow$ **Acute Kidney Injury**.\n    *   *Adverse:* **Methadone + Itraconazole** $\\rightarrow$ QT Prolongation $\\rightarrow$ **Torsades de Pointes**.\n*   **Antagonistic:**\n    *   **Competitive:** **Morphine + Naloxone** (Opioid receptor), **Atropine + Nerve Gas** (Muscarinic receptor).\n    *   **Non-Competitive:** **Ketamine** (NMDA receptor antagonist).\n    *   **Physiologic:** **Insulin vs. Glucagon** (Blood glucose), **Insulin vs. Prednisone** (Glucocorticoids increase glucose, opposing Insulin).\n    *   **Chemical:** **Heparin + Protamine** (Neutralization).\n\n### 2. Pharmacokinetic Interactions\nAlteration of the absorption, distribution, metabolism, or excretion (ADME) of a drug, leading to changed plasma concentrations.\n\n#### Absorption\n*   **Chelation:** **Antacids + Tetracyclines** (Forms insoluble complex $\\rightarrow$ decreased absorption).\n*   **pH Alteration:** **Antacids + Antifungals** (Antifungals need acid $\\rightarrow$ decreased absorption).\n*   **Binding:** **Bile Acid Sequestrants + Statins** (Resin binds statin $\\rightarrow$ decreased absorption. Separate doses by hours).\n\n#### Distribution\n*   **P-glycoprotein (P-gp):** Efflux transporter (pumps drug OUT of cells/body).\n    *   **Inhibition:** Increases systemic levels (e.g., **Ritonavir** inhibiting P-gp).\n\n#### Metabolism (CYP450)\n*   **Induction:** Increases enzyme expression $\\rightarrow$ **Decreased** substrate levels (unless active metabolite). Takes time (protein synthesis).\n    *   **Key Inducers:** **Phenytoin, Carbamazepine, Phenobarbital, Rifampin, St. John's Wort** (Mnemonic: *Precision Care Promotes Robust Scientific Journeys*).\n    *   **Smoking (CYP1A2):** Induces CYP1A2. **Clozapine** is a substrate. Smokers need higher doses; quitting smoking requires dose reduction to avoid toxicity.\n*   **Inhibition:** Decreases enzyme activity $\\rightarrow$ **Increased** substrate levels. Immediate effect.\n    *   **Key Inhibitors:** **Cimetidine, Macrolides (Erythromycin/Clarithromycin), Azole Antifungals (Itraconazole), Ritonavir, Grapefruit Juice** (Mnemonic: *Clinical Insights Enhance Care, Research Grows*).\n    *   **Ritonavir:** Used as a "Pharmacokinetic Enhancer" (Booster) to increase levels of HIV drugs.\n\n#### Excretion\n*   **Transporters:** Inhibition of OAT/OCT in kidney $\\rightarrow$ Decreased clearance $\\rightarrow$ Increased levels.\n`,
+-----
+
+## 1. Pharmacodynamic Interactions
+Modulation of the pharmacological effect (additive, synergistic, antagonistic) without altering concentration.
+
+### Additive & Synergistic (Potentiation)
+*   **Additive:** Sum of effects (1+1=2).
+    *   *Example:* **Diphenhydramine + TCAs** → Additive **Anticholinergic** effects.
+*   **Synergistic:** Effect > Sum (1+1>2).
+    *   *Beneficial:* **Sulfonamide + Trimethoprim** (Bactericidal).
+
+:::correlate
+**Severe Hypotension (Synergy)**
+*   **Combination:** **Nitroglycerin** (Nitrates) + **Sildenafil** (PDE5 Inhibitor).
+*   **Mechanism:** Both increase cGMP (Nitrates increase production, Sildenafil prevents breakdown).
+*   **Result:** Profound, potentially catastrophic hypotension.
+:::
+
+:::correlate
+**Torsades de Pointes (Synergy)**
+*   **Combination:** **Methadone** (Opioid) + **Itraconazole** (Antifungal).
+*   **Mechanism:** Both cause QT prolongation.
+*   **Result:** Fatal ventricular arrhythmia (Torsades de Pointes).
+:::
+
+:::correlate
+**Acute Kidney Injury (Synergy)**
+*   **Combination:** **ACE Inhibitors** + **NSAIDs**.
+*   **Mechanism:** ACEI dilates efferent arteriole (reduced GFR pressure); NSAID constricts afferent arteriole (reduced blood flow).
+*   **Result:** Synergistic reduction in GFR → Acute Kidney Failure.
+:::
+
+### Antagonistic
+*   **Competitive:** **Morphine + Naloxone** (Opioid receptor).
+*   **Chemical:** **Heparin + Protamine**.
+
+## 2. Pharmacokinetic Interactions
+Alteration of ADME (Absorption, Distribution, Metabolism, Excretion).
+
+### Absorption
+*   **Chelation:** **Antacids + Tetracyclines** (Insoluble complex).
+*   **Binding:** **Bile Acid Sequestrants + Statins** (Must separate doses).
+
+### Metabolism (CYP450)
+*   **Induction:** Increased enzyme activity → **Decreased** drug levels.
+    *   **Inducers:** **Phenytoin, Carbamazepine, Rifampin, St. John's Wort, Smoking**.
+    :::correlate
+    **Smoking & Clozapine**
+    *   **Mechanism:** Smoking (PAHs) induces **CYP1A2**.
+    *   **Relevance:** Smokers need higher doses of Clozapine. Quitting smoking without dose reduction leads to **toxicity**.
+    :::
+
+*   **Inhibition:** Decreased enzyme activity → **Increased** drug levels (Toxicity).
+    *   **Inhibitors:** **Grapefruit Juice, Erythromycin, Itraconazole, Ritonavir**.
+    :::correlate
+    **Statin Toxicity**
+    *   **Combination:** **Statins** + **CYP3A4 Inhibitors** (e.g., Erythromycin).
+    *   **Result:** Increased statin levels → Myopathy / Rhabdomyolysis.
+    :::
+`,
     questions: [
       {
         id: 'l118-q1',
@@ -5243,6 +5302,25 @@ E. Perforin
     *   **Soma (Cell Body):** Contains organelles.
     *   **Dendrites:** Information receiving (the "ears"). Often have **dendritic spines** (sites of excitatory synapses).
     :::correlate
+    **Dendritic Spine Pathologies**
+    *   **Fragile X Syndrome:** Increased number of immature spines (FMRP mutation).
+    *   **Schizophrenia:** Reduced spine density ("pruning" defect).
+    :::
+    *   **Axons:** Information sending (the "mouth").
+        *   **Axon Initial Segment:** Site of Action Potential initiation (high Na+ channel density).
+        *   **Nodes of Ranvier:** Gaps in myelin for saltatory conduction.
+        :::correlate
+        **Pitt-Hopkins Syndrome**
+        *   **Cause:** Mutation in **CNTNAP2** (CASPR2), a protein at Nodes of Ranvier.
+        *   **Symptoms:** Autism, intellectual disability, epilepsy, breathing abnormalities.
+        :::
+        *   **Axon Terminals:** Release neurotransmitters.
+        :::correlate
+        **Wallerian Degeneration**
+        *   **Definition:** Degeneration of the distal axon segment after injury (anterograde).
+        *   **PNS vs CNS:** PNS axons can regenerate (Schwann cells); CNS axons cannot (Oligos/Astrocytes inhibit).
+        :::
+    :::correlate
     **Joubert Syndrome**
     *   **Cause:** Ciliopathy (defect in primary cilium).
     *   **Symptoms:** Ataxia, intellectual disability, abnormal breathing (hyperpnea).
@@ -5481,7 +5559,7 @@ E. Perforin
     *   **Factors Affecting Prevalence:**
         *   **Increase:** New cases (Incidence), longer duration (improved survival without cure).
         *   **Decrease:** Cure, Death (short duration).
-        *   *Note:* Improved treatment that prevents death but doesn't cure will **increase** prevalence.
+        *   **Note:** Improved treatment that prevents death but doesn't cure will **increase** prevalence.
 
 ## Disease Occurrence Patterns
 *   **Endemic:** Habitual presence of a disease within a given geographic area (expected rate).
@@ -5705,6 +5783,13 @@ E. Perforin
     *   For ratios (OR, RR): **Null value = 1** (not zero).
     *   If CI **includes 1** → Not statistically significant.
     *   If CI **excludes 1** → Statistically significant.
+
+## Number Needed to Treat (NNT)
+*   **Definition:** Number of patients who need to receive a treatment for **one** patient to benefit.
+*   **Formula:** **NNT = 1 / Absolute Risk Reduction (ARR)**
+    *   ARR = (Rate in Untreated) - (Rate in Treated)
+*   **Interpretation:** Lower NNT = More effective treatment.
+*   **Number Needed to Harm (NNH):** Similar concept for adverse effects (1 / Attributable Risk).
 
 ## Confounding
 *   **Definition:** An alternate explanation for an observed association between exposure and disease.
@@ -6185,6 +6270,16 @@ E. Perforin
     *   **Symptoms:** Episodic intense pain
 :::
 
+### Autoimmune Channelopathies
+
+:::correlate
+**Lambert-Eaton Myasthenic Syndrome (LEMS)**
+*   **Mechanism:** Autoantibodies against **Voltage-Gated Calcium Channels (VGCC)** at the presynaptic neuromuscular junction.
+*   **Effect:** Prevents Ca<sup>2+</sup> influx &rarr; Decreased Acetylcholine release &rarr; Muscle weakness.
+*   **Symptoms:** Proximal muscle weakness (improves with use/exercise), autonomic dysfunction, dry mouth.
+*   **Association:** Often associated with Small Cell Lung Cancer.
+:::
+
 ## Action Potential Propagation
 
 *   **Continuous Conduction:** Unmyelinated axons
@@ -6421,6 +6516,8 @@ E. Perforin
 *   **Note:** These striatal neurons also express dopamine receptors
 :::
 
+
+
 ### Acetylcholine (ACh)
 
 *   **Locations:**
@@ -6453,6 +6550,33 @@ E. Perforin
 *   **Pathology:** Loss of dopaminergic neurons in **substantia nigra**
 *   **Result:** Decreased dopamine signaling &rarr; motor symptoms (tremor, rigidity, bradykinesia)
 :::
+
+### Serotonin (5-HT)
+*   **Functions:** Mood, sleep, anxiety.
+*   **Synthesis:** From Tryptophan.
+*   **Degradation:** Monoamine Oxidase (MAO).
+
+:::correlate
+**Depression & Anxiety**
+*   **Treatment:** 
+    *   **SSRIs (Fluoxetine):** Block serotonin reuptake transporter &rarr; Increased synaptic serotonin.
+    *   **MAOIs:** Inhibit breakdown of serotonin.
+:::
+
+### Purines (ATP & Adenosine)
+*   **ATP:** Released by neurons and glia; acts on P2X/P2Y receptors.
+*   **Adenosine:** Breakdown product of ATP; promotes **sleep/drowsiness**.
+
+:::correlate
+**Caffeine**
+*   **Mechanism:** **Antagonist** at Adenosine receptors.
+*   **Effect:** Blocks the sleep-promoting effect of adenosine &rarr; Wakefulness.
+:::
+
+### Gas Neurotransmitters
+*   **Nitric Oxide (NO) & Carbon Monoxide (CO)**.
+*   **Features:** Not stored in vesicles; synthesized on demand; diffuse freely across membranes.
+*   **Function:** Neuromodulation, Vasodilation.
 
 ## Excitatory vs. Inhibitory Balance
 

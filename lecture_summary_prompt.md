@@ -1,25 +1,54 @@
 
-            *   Use the "Red Block" syntax:
+# Lecture Summary Generation Prompt
+
+## Goal
+Generate a comprehensive, high-yield summary of the provided lecture content, integrating insights from both the slides and the transcript analysis.
+
+## Inputs
+1.  **Lecture Slides (PDF):** The primary source of visual and structured information.
+2.  **Transcript Analysis (`L[#]_Summary_Analysis.md`):** A generated report containing:
+    *   **High Yield Transcript Points:** Concepts emphasized by the lecturer ("must know", "important").
+    *   **Clinical Correlates:** Conditions mentioned in the transcript (even if not on slides).
+    *   **High Yield Slides:** Slides identified as critical based on keyword scoring.
+
+## Output Format
+
+### 1. Lecture Metadata
+*   **Format:**
+    ```markdown
+    # Lecture #[Number]: [Title]
+    
+    **Lecturer:** [Name]
+    **Session:** Lecture #[Number]
+    ```
+
+### 2. Comprehensive Summary
+*   **Instructions:**
+    *   Synthesize content from slides and the transcript analysis.
+    *   **Transcript Integration:**
+        *   Prioritize concepts listed in the **High Yield Transcript Points** section of the analysis file.
+        *   If the analysis identifies a **Clinical Correlate** not present on the slides, YOU MUST INCLUDE IT.
+    *   **Clinical Correlates:**
+        *   **CRITICAL:** Any and all clinical summaries mentioned in the lecture (slides OR transcript) MUST be included.
+        *   Use the "Red Block" syntax:
         ```markdown
         :::correlate
         **[Name of Condition]**
-        *   [Concise point 1: Mechanism/Cause]
-        *   [Concise point 2: Key Symptoms/Presentation]
-        *   [Concise point 3: Treatment/Relevance]
+        *   **Mechanism:** [Concise explanation]
+        *   **Presentation:** [Key symptoms/signs]
+        *   **Treatment:** [Management/Relevance]
         :::
         ```
-    *   **Tables:** Use Markdown tables to organize complex data (e.g., muscle origins/insertions, nerve functions, drug classes).
+    *   **Tables:** Use Markdown tables to organize complex data.
 
 ### 3. Review Questions (Board-Style)
 *   **Instructions:**
     *   Create 5 First-Order, Medical School level MCQs.
     *   **Format:**
         *   Question Stem (incorporate clinical scenarios).
-        *   Options A-E (each on a new line).
-        *   **Hidden Answer:** Use `<details>` tags to hide the answer and rationale.
-    *   **Goal:** Ensure understanding of key concepts and session objectives.
-
-    **Template:**
+        *   Options A-E.
+        *   **Hidden Answer:** Use `<details>` tags.
+    *   **Template:**
     ```markdown
     **1. [Question Stem]**
 
@@ -35,37 +64,23 @@
     **Answer: [Correct Option Letter] ([Option Text])**
 
     **Rationale**:
-    [Detailed explanation of why the correct answer is right and why distractors are wrong, based ONLY on the lecture material.]
+    [Explanation]
     </details>
     ```
 
 ### 4. Glossary
 *   **Instructions:**
-    *   Identify new or key terms defined in the lecture.
-    *   Provide a concise definition for each.
-    *   Format as a JSON array of objects, or a Markdown list if preferred (JSON is better for app integration).
-
-    **JSON Format:**
+    *   Define new or key terms.
+    *   **JSON Format:**
     ```json
     [
-        { "term": "Term 1", "definition": "Definition from lecture." },
-        { "term": "Term 2", "definition": "Definition from lecture." }
+        { "term": "Term 1", "definition": "Definition." }
     ]
     ```
 
 ### 5. High Yield Render Instructions
-*   **Task:** Identify the slide numbers that are "High Yield".
-*   **Criteria:**
-    *   Concept repeated multiple times.
-    *   Text is in **Red** or **Bold** on the slide.
-    *   Lecturer explicitly says "This is high yield" or "Remember this".
-*   **Output:** Provide a comma-separated list of slide numbers (e.g., `3, 5, 12-15, 20`). This will be used to generate the `L[#]_HighYield_Render.pdf`.
-
----
-
-## Quality of Life (QoL) Checklist
-- [ ] **Tables:** Did you use tables to improve organization?
-- [ ] **Clinical Correlates:** Are they clearly marked in Red Blocks?
-- [ ] **Narrative:** Is the summary a cohesive story, not just a list?
-- [ ] **Completeness:** Did you cover ALL major and intermediate concepts?
-- [ ] **No Hallucinations:** Did you stick strictly to the provided material?
+*   **Task:** Identify "High Yield" slide numbers.
+*   **Sources:**
+    *   Use the **High Yield Slides** list from the `L[#]_Summary_Analysis.md` file.
+    *   Also include slides where the lecturer explicitly says "High yield" or "Remember this" (from Transcript Analysis).
+*   **Output:** Comma-separated list (e.g., `3, 5, 12-15`).
