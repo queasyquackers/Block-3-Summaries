@@ -5292,6 +5292,8 @@ E. Perforin
     *   **MOGAD:** Antibody against MOG (Myelin Oligodendrocyte Glycoprotein) &rarr; Inflammation/Demyelination.
     :::
 *   **Schwann Cells (PNS):**
+    *   Produce **myelin** in the PNS.
+    *   One Schwann myelinates one axon.
 
 ## Other Cells
 *   **Ependymal Cells:** Line ventricles, produce CSF.
