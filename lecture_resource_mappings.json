@@ -1,0 +1,947 @@
+{
+  "l102": null,
+  "l103": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 05_Cranial_Nerves",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 04_Cranial_Nerves_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "15_Endocrine > 03_Thyroid_Gland"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 04_Thyroid_&_Parathyroid > 05_Parathyroid_Gland_Disorders"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "05_GI_&_Endocrine > 03_Thyroid,_Parathyroid_&_Adrenal > 01_Propylthiouracil,_methimazole,_levothyroxine"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Pulmonology > Lung_Pathology_Fundamentals > Introduction_to_Respiratory_Infections"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 09_Tension_Headache"
+      }
+    ]
+  },
+  "l104": {
+    "primarySource": "B&B",
+    "chapter": "09_GI > 01_Anatomy > 01_Gastrointestinal_Embryology",
+    "alternatives": [
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Visceral_Anatomy > Embryology"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "01_Embryology > 03_Pulmonology > 01_Respiratory_Embryology"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "15_Endocrine > 03_Thyroid_Gland"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 04_Thyroid_&_Parathyroid > 05_Parathyroid_Gland_Disorders"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "08_Endocrine > 04_Pathology > 06_Hypothyroidism"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "05_GI_&_Endocrine > 03_Thyroid,_Parathyroid_&_Adrenal > 01_Propylthiouracil,_methimazole,_levothyroxine"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 09_Tension_Headache"
+      }
+    ]
+  },
+  "l105": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 05_Cranial_Nerves",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 04_Cranial_Nerves_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gross_Anatomy > External_Examination_of_the_Brain_+_Skull > Cranial_Nerve_Functions:_CN_V,_CN_VII,_&_CN_VIII"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 03_Adult_CNS_Tumors"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "02_Cardio_&_Renal > 04_Antiarrhythmics > 03_Class_III"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 08_Glycogen_Storage > 03_Cori_Disease_(Type_III)"
+      }
+    ]
+  },
+  "l106": {
+    "primarySource": "FirstAid",
+    "chapter": "06_Public_Health > 01_Epidemiology_&_Biostatistics > 10_Bias_&_Study_Errors",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "10_Public_Health_Sciences > 07_Healthcare_Delivery"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "02_Behavioral > 01_General > 05_Public_Health"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Public_Health_Sciences > Ethics > Ethical_Principles"
+      }
+    ]
+  },
+  "l107_108": {
+    "primarySource": "SketchyPharm",
+    "chapter": "!General_Pharmacology",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "15_Neuro > 04_ANS > 04_Autonomic_Receptors"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 15_Pharm_Fundamentals > 04_Efficacy,_Potency,_Activity_at_Cell_Receptors_and_Therapeutic_Index"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 15_Other_Neuro > Full_Opioid_Agonists"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Cardiology > Pressure_and_Flow_Physiology > Sensory_Receptors_of_Vasculature"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "01_Cardiac > 01_Ischemic_Heart_Disease > 01_Myocardial_Response_To_Ischemia"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "03_Neoplasia > 02_Carcinogenesis > 2_Oncogenes > Table_3.3_Important_Oncogenes > Growth_Factor_Receptors"
+      }
+    ]
+  },
+  "l109-l110": {
+    "primarySource": "FirstAid",
+    "chapter": "05_Pharmacology > 03_Toxicities_&_Side_Effects > 06_Drug_reactions_-_MSK/skin/connect_tissue",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "19_Renal > 03_Electrolytes > 01_Electrolytes"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "05_Biochem > 05_Metabolism > 18_Purines_&_Pyrimidines"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "12_Renal > 02_Acute_Renal_Failure"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "04_Renal > 02_Glomerulopathy > 02_Nephritic_Syndrome"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 17_Renal > ACE_Inhibitors"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Nephrology > Fluid_&_Filtration_Physiology > Clearance_Renal_Plasma_and_Blood_Flow"
+      }
+    ]
+  },
+  "l112": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 05_Cranial_Nerves",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 04_Cranial_Nerves_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "08_Cardiac > 01_Ischemic_Heart_Disease"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 03_Adult_CNS_Tumors"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Visceral_Anatomy > Embryology"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "02_Cardio_&_Renal > 01_Heart_Failure_Drugs > 02_ACE_inhibitors,_ARBs,_Aliskiren"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 09_Tension_Headache"
+      }
+    ]
+  },
+  "l113": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 05_Cranial_Nerves",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 04_Cranial_Nerves_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "01_Autonomic_Drugs > 01_Parasympathetic > 02_Acetylcholinesterase_Inhibitors"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 03_Adult_CNS_Tumors"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Visceral_Anatomy > Embryology"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 09_Tension_Headache"
+      }
+    ]
+  },
+  "l114": {
+    "primarySource": "FirstAid",
+    "chapter": "04_Pathology > 03_Neoplasia > 02_Tumor_Nomenclature > Examples",
+    "alternatives": [
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Physiology > Vitamins"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "18_Pulm > 01_Intro > 09_Pulm_Physical_Exam"
+      }
+    ]
+  },
+  "l115": {
+    "primarySource": "B&B",
+    "chapter": "13_Infectious_Disease > 03_Antibiotics > 04_Protein_Synthesis_Inhibitors",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "04_Renal > 06_Volume,_Electrolyte_&_Acid/base_Disorders > 04_Acid/Base_Disorders"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "03_Neoplasia > 04_Clinical_Characteristics"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Nephrology > Fluid_&_Filtration_Physiology > Fluid_Physiology"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 02_Cardio > 06_Pressure-Volume_Loops"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 24_Dyslipidemias_(deprecated) > 01_Apolipoproteins"
+      }
+    ]
+  },
+  "l116": {
+    "primarySource": "B&B",
+    "chapter": "09_GI > 03_Clinical > 08_Gastric_Disorders",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 10_HemeOnc_Pathology > 14_Myeloproliferative_Disorders"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "17_Neuro > 07_Dementia_&_Degenerative_Disorders"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "10_Myeloid_&_Lymphoid > 01_Myeloid_Disorders > 01_Myeloproliferative_Neoplasms_&_Myelodysplastic_Syndromes"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Genetics > DNA_Structure > Clinical_Applications_of_the_Pyrimidine_Pathway"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 07_Tuberous_Sclerosis"
+      }
+    ]
+  },
+  "l117": {
+    "primarySource": "FirstAid",
+    "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "01_Autonomic_Drugs > 02_Sympathetic > 01_Sympathomimetics"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "11_Hematology > 04_Cancer_Drugs > 01_Antimetabolites"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 22_Dapsone,_Rifamycins,_Clofazimine_(Leprosy_Drugs)"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 22_Onc_Drugs > 07_Cyclophosphamide,_Ifosfamide"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "09_Blood_&_Coagulation > 02_Normocytic_&_Macrocytic_Anemias > 03_G6PD_Deficiency_&_Autoimmune_Hemolytic_Anemia_(AIHA)"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "01_Bacteria > 10_Gram-indeterminate_Bacteria > 01_Chlamydia_trachomatis,_Chlamydophila_pneumoniae_&_Chlamydophila_psittaci"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Hematology_and_Oncology > Normocytic_Anemia > G6PD_Deficiency"
+      }
+    ]
+  },
+  "l118": {
+    "primarySource": "FirstAid",
+    "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "01_Autonomic_Drugs > 02_Sympathetic > 01_Sympathomimetics"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "11_Hematology > 04_Cancer_Drugs > 01_Antimetabolites"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 22_Dapsone,_Rifamycins,_Clofazimine_(Leprosy_Drugs)"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 22_Onc_Drugs > 07_Cyclophosphamide,_Ifosfamide"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Tricyclic_Antidepressants"
+      }
+    ]
+  },
+  "l119": {
+    "primarySource": "FirstAid",
+    "chapter": "03_Microbiology > 05_Virology > 12_RNA_Viruses",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "07_Antimicrobials > 01_Cell_Wall_&_Membrane_Active_Antibiotics > 01_Penicillin"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "13_Infectious_Disease > 03_Antibiotics > 04_Protein_Synthesis_Inhibitors"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Metronidazole"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "uw_micro_(do_this_one_last)"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "08_Cardiac > 01_Ischemic_Heart_Disease"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "06_Micro > 05_Viruses > 09_Human_Papillomavirus"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 01_Hypothalamic_&_Pituitary_Disorders > 04_Diabetes_Insipidus_&_SIADH"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Neurology > Ischemic_Cerebrovascular_Accidents > Stroke_Presentation_by_Territory"
+      }
+    ]
+  },
+  "l120": {
+    "primarySource": "B&B",
+    "chapter": "13_Infectious_Disease > 03_Antibiotics > 01_Penicillins",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 03_Antistaphylococcal_Penicillins"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Metronidazole"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Tricyclic_Antidepressants"
+      }
+    ]
+  },
+  "l121": null,
+  "l122": {
+    "primarySource": "Bootcamp",
+    "chapter": "Gastroenterology > Physiology > Vitamins",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "04_Pathology > 03_Neoplasia > 02_Tumor_Nomenclature > Examples"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "18_Pulm > 01_Intro > 09_Pulm_Physical_Exam"
+      }
+    ]
+  },
+  "l123": {
+    "primarySource": "B&B",
+    "chapter": "13_Infectious_Disease > 03_Antibiotics > 04_Protein_Synthesis_Inhibitors",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 05_Cephalosporins"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Carbapenems"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "10_Myeloid_&_Lymphoid > 02_Lymphoid_&_Plasma_Cell_Disorders > 01_Acute_Lymphoblastic_Leukemia_(ALL),_Chronic_Lymphocytic_Leukemia_(CLL),_Hairy_Cell_Leukemia_&_Adult_T-cell_Leukemia"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "01_Growth_Adaptations > 03_Cell_Death"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Hematology_and_Oncology > Normocytic_Anemia > Sickle_Cell_Anemia"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "03_Viruses > 03_DNA > 04_Varicella-zoster_virus_(Herpesviridae)"
+      }
+    ]
+  },
+  "l124": {
+    "primarySource": "FirstAid",
+    "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "13_Infectious_Disease > 03_Antibiotics > 04_Protein_Synthesis_Inhibitors"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 10_Aminoglycosides"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Metronidazole"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Tricyclic_Antidepressants"
+      }
+    ]
+  },
+  "l125": {
+    "primarySource": "B&B",
+    "chapter": "13_Infectious_Disease > 03_Antibiotics > 04_Protein_Synthesis_Inhibitors",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 16_Macrolides"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Linezolid"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Tricyclic_Antidepressants"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "05_RBC > heme_synthesis"
+      }
+    ]
+  },
+  "l126": {
+    "primarySource": "FirstAid",
+    "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "!General_Pharmacology"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "13_Infectious_Disease > 03_Antibiotics > 04_Protein_Synthesis_Inhibitors"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 19_Fluoroquinolones"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "09_Blood_&_Coagulation > 02_Normocytic_&_Macrocytic_Anemias > 05_Megaloblastic_Anemia:_Folate_Deficiency_&_Vitamin_B12_Deficiency"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Metronidazole"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Tricyclic_Antidepressants"
+      }
+    ]
+  },
+  "l127": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 05_Cranial_Nerves",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 04_Cranial_Nerves_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 03_Adult_CNS_Tumors"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Visceral_Anatomy > Embryology"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 02_Pathways > 04_Sorbitol_(Polyol)_Pathway"
+      }
+    ]
+  },
+  "l128": {
+    "primarySource": "FirstAid",
+    "chapter": "04_Pathology > 01_Cellular_Injury > 10_Amyloidosis",
+    "alternatives": [
+      {
+        "resource": "Pathoma",
+        "chapter": "01_Growth_Adaptations > 02_Cellular_Injury"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 08_Renal_Pathology > 01_Acute_Kidney_Injury"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "16_Pathology > 01_Cellular_Adaptations"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "06_Hepatobiliary > 02_Liver_Disease > 04_Liver_Tumors_&_Hepatocellular_Carcinoma"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Hepatic_Pathology > Viral_Hepatitis"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "08_Antineoplastics > 02_Dna_&_Cellular_Division > 01_Cyclophosphamide,_ifosfamide,_busulfan,_nitrosoureas_(carmustine,_lomustine,_streptozocin)"
+      }
+    ]
+  },
+  "l129": {
+    "primarySource": "Pathoma",
+    "chapter": "02_Inflammation > 03_Primary_Immunodeficiency",
+    "alternatives": [
+      {
+        "resource": "B&B",
+        "chapter": "16_Pathology > 06_Inflammation"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 07_General_Pathology > 09_Carcinogenesis"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "03_Blood_&_Inflammation > 03_Anti-inflammatory > 01_NSAIDs"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "08_Endocrine > 04_Pathology > 15_Diabetes_Mellitus"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Hepatic_Pathology > Viral_Hepatitis"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "10_Myeloid_&_Lymphoid > 02_Lymphoid_&_Plasma_Cell_Disorders > 01_Acute_Lymphoblastic_Leukemia_(ALL),_Chronic_Lymphocytic_Leukemia_(CLL),_Hairy_Cell_Leukemia_&_Adult_T-cell_Leukemia"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "01_Immunology > 05_Cytokines > 03_IL-2"
+      }
+    ]
+  },
+  "l130": {
+    "primarySource": "FirstAid",
+    "chapter": "08_Endocrine > 04_Pathology > 15_Diabetes_Mellitus",
+    "alternatives": [
+      {
+        "resource": "Pathoma",
+        "chapter": "02_Inflammation > 05_Wound_Healing"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "16_Pathology > 09_Wound_Healing_&_Scars"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 07_General_Pathology > 09_Carcinogenesis"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Hepatic_Pathology > Viral_Hepatitis"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "11_Immunology > 01_Autoimmune_&_Amyloidosis > 02_Sjogrens_Syndrome,_Systemic_Sclerosis_&_Mixed_Connective_Tissue_Disease"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "01_Autonomic_Drugs > 01_Parasympathetic > 03_Muscarinic_antagonists"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "04_Parasites > 05_Helminths_-_Nematodes > 01_Enterobius_vermicularis,_Ancylostoma_duodenale,_Necator_americanus,_Ascaris_lumbricoides,_Strongyloides_stercoralis,_Trichinella_spiralis_(intestinal_nematodes)"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 03_Antivirals > Foscarnet"
+      }
+    ]
+  },
+  "l131": {
+    "primarySource": "FirstAid",
+    "chapter": "04_Pathology > 03_Neoplasia > 02_Tumor_Nomenclature > Benign_vs_Malignant",
+    "alternatives": [
+      {
+        "resource": "Pathoma",
+        "chapter": "11_Exocrine,Pancreas,Gallbladder,&Liver > 03_Liver > cirrhosis_and_tumors"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "16_Pathology > 11_Neoplasia"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 07_General_Pathology > 09_Carcinogenesis"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Hepatic_Pathology > Viral_Hepatitis"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "08_Repro_&_GU > 01_Uterine_&_Vulvovaginal_Disorders > 02_Cervical_Neoplasia"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "05_Neuro > 07_Brain_Tumors"
+      }
+    ]
+  },
+  "l132": {
+    "primarySource": "FirstAid",
+    "chapter": "04_Pathology > 03_Neoplasia > 11_Oncogenic_Microbes",
+    "alternatives": [
+      {
+        "resource": "Pathoma",
+        "chapter": "03_Neoplasia > 02_Carcinogenesis > 2_Oncogenes"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 03_Pulmonary_Pathology > 20_Lung_Cancer"
+      },
+      {
+        "resource": "B&B",
+        "chapter": "16_Pathology > 11_Neoplasia"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Hepatic_Pathology > Viral_Hepatitis"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "08_Repro_&_GU > 01_Uterine_&_Vulvovaginal_Disorders > 02_Cervical_Neoplasia"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 12_Lung_Cancer > 03_Adenocarcinoma"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "08_Antineoplastics > Cancer_Immunotherapy"
+      }
+    ]
+  },
+  "l133": {
+    "primarySource": "FirstAid",
+    "chapter": "03_Microbiology > 06_Systems > 13_Sexually_Transmitted_Infections",
+    "alternatives": [
+      {
+        "resource": "B&B",
+        "chapter": "15_Neuro > 01_Intro > 01_Cells_of_the_Nervous_System"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "08_Immunology > 01_Immunology > 18_B_Cells"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "18_MSK > 01_Skeletal_System"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Pulmonology > Lung_Pathology_Fundamentals > Introduction_to_Respiratory_Infections"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "11_Immunology > 01_Autoimmune_&_Amyloidosis > 01_Autoimmune_Disease:_Overview_&_Systemic_Lupus_Erythematosus_(SLE)"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "01_Immunology > 04_B_&_T_Cells > 09_T_Cells_-_Differentiation"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "02_Fungi > 01_Systemic_Mycoses > 01_Histoplasma_capsulatum"
+      }
+    ]
+  },
+  "l134": {
+    "primarySource": "B&B",
+    "chapter": "04_Biostatists/epi > 02_Epidemiology > 06_Bias",
+    "alternatives": [
+      {
+        "resource": "FirstAid",
+        "chapter": "06_Public_Health > 01_Epidemiology_&_Biostatistics > 10_Bias_&_Study_Errors"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "08_Immunology > 01_Immunology > 20_Hypersensitivity_Reactions"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Immunology > Hypersensitivities > Type_I_Hypersensitivity_Reactions"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "01_Immunology > 08_Hypersensitivity_Reactions > 01_Type_1_Hypersensitivity_Reactions"
+      }
+    ]
+  },
+  "l135": {
+    "primarySource": "FirstAid",
+    "chapter": "06_Public_Health > 01_Epidemiology_&_Biostatistics > 10_Bias_&_Study_Errors",
+    "alternatives": [
+      {
+        "resource": "B&B",
+        "chapter": "04_Biostatists/epi > 02_Epidemiology > 06_Bias"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 01_Cardiac_Pathology > 06_Myocardial_Infarction"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Nephrology > Fluid_&_Filtration_Physiology > Fluid_Physiology"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "01_Cardiac > 01_Ischemic_Heart_Disease > 03_Acute_Myocardial_Infarction_&_Post-MI_Timeline"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "06_Neuro/Psych > 05_Antipsychotics_&_Parkinsons > 01_First_generation_antipsychotics"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 19_Respiratory > 1st_Generation_Antihistamines"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "17_Neuro > Subacute_combined_degeneration"
+      }
+    ]
+  },
+  "l136": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 04_Brainstem",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 03_Spinal_Cord_&_Spinal_Tracts_-_Part_2"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "17_Neuro > 08_CNS_Tumors"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 03_Adult_CNS_Tumors"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "03_Microbiology > 04_Parasitology > 02_Protozoa_CNS_Infections"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Neuroanatomy > Spinal_Cord_Tracts > Overview_of_Spinal_Cord_and_Spinal_tracts"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "05_Neuro > 07_Brain_Tumors"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "04_Parasites > 02_Protozoa_of_the_CNS > 01_Toxoplasma_gondii"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "07_Antimicrobials > 05_Antifungals > 00_Overview"
+      }
+    ]
+  },
+  "l137": null,
+  "l138": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 04_ANS > 04_Autonomic_Receptors",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 01_General_Principles > 03_Receptors_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 02_Autonomic_Drugs > 01_Autonomic_Receptors"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Neurology > Neurotransmitter_Activity_in_Psychiatric_Disease > Acetylcholine,_Dopamine,_Norepinephrine,_Serotonin,_and_GABA"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "01_Autonomic_Drugs > 01_Parasympathetic > 02_Acetylcholinesterase_Inhibitors"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 01_General > D2_(Dopamine)_Receptors"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "03_Neoplasia > 02_Carcinogenesis > 2_Oncogenes > Table_3.3_Important_Oncogenes > Growth_Factor_Receptors"
+      }
+    ]
+  }
+}

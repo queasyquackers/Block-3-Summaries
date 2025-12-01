@@ -79,7 +79,7 @@ function setupKeyboardShortcuts() {
             toggleSidebar();
         }
         if (selectedLecture && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) {
-            const tabs = ['summary', 'questions', 'glossary', 'high-yield'];
+            const tabs = ['summary', 'questions', 'glossary', 'high-yield', 'anking'];
             const currentIndex = tabs.indexOf(activeTab);
             if (e.key === 'ArrowLeft' && currentIndex > 0) {
                 switchTab(tabs[currentIndex - 1]);
@@ -648,6 +648,114 @@ function renderTabContent() {
                 console.error('PDF.js library not loaded');
                 contentDiv.innerHTML += `<div class="text-center text-red-500 mt-4">PDF.js library not loaded. Please refresh the page.</div>`;
             }
+        } else if (activeTab === 'anking') {
+            // Render Anking recommendations
+            const ankingData = selectedLecture.ankingResource;
+
+            if (ankingData && ankingData.primarySource) {
+                const resources = {
+                    'BandB': { bg: 'bg-gradient-to-br from-blue-500 to-blue-600', text: 'text-blue-700', bgLight: 'bg-blue-50', icon: '🎓' },
+                    'FirstAid': { bg: 'bg-gradient-to-br from-green-500 to-emerald-600', text: 'text-green-700', bgLight: 'bg-green-50', icon: '📚' },
+                    'SketchyMicro': { bg: 'bg-gradient-to-br from-purple-500 to-purple-600', text: 'text-purple-700', bgLight: 'bg-purple-50', icon: '🦠' },
+                    'SketchyPath': { bg: 'bg-gradient-to-br from-pink-500 to-rose-600', text: 'text-pink-700', bgLight: 'bg-pink-50', icon: '🔬' },
+                    'SketchyPharm': { bg: 'bg-gradient-to-br from-indigo-500 to-indigo-600', text: 'text-indigo-700', bgLight: 'bg-indigo-50', icon: '💊' },
+                    'Pathoma': { bg: 'bg-gradient-to-br from-orange-500 to-orange-600', text: 'text-orange-700', bgLight: 'bg-orange-50', icon: '🧬' },
+                    'Physeo': { bg: 'bg-gradient-to-br from-teal-500 to-cyan-600', text: 'text-teal-700', bgLight: 'bg-teal-50', icon: '⚗️' },
+                    'Pixorize': { bg: 'bg-gradient-to-br from-red-500 to-red-600', text: 'text-red-700', bgLight: 'bg-red-50', icon: '🎨' },
+                    'Bootcamp': { bg: 'bg-gradient-to-br from-yellow-500 to-amber-600', text: 'text-yellow-700', bgLight: 'bg-yellow-50', icon: '⛺' }
+                };
+                resources['B&B'] = resources['BandB'];
+
+                const primary = resources[ankingData.primarySource] || resources['FirstAid'];
+
+                let html = `
+                    <div class="max-w-4xl mx-auto">
+                        <div class="text-center mb-8">
+                            <div class="inline-flex items-center gap-3 px-6 py-3 rounded-full ${isDark ? 'bg-dark-surface/50 border border-dark-border' : 'bg-white/50 border border-solarized-base1/20'} shadow-lg mb-4">
+                                <span class="text-3xl">🎯</span>
+                                <h3 class="text-xl font-bold ${isDark ? 'text-dark-text' : 'text-solarized-base01'}">Recommended Resources</h3>
+                            </div>
+                            <p class="text-sm ${isDark ? 'text-dark-muted' : 'text-solarized-base1'}">Based on AnKing tag analysis</p>
+                        </div>
+                        
+                        <!-- Primary Resource -->
+                        <div class="mb-8 group">
+                            <div class="relative overflow-hidden rounded-2xl ${isDark ? 'bg-dark-surface border-2 border-dark-accent' : 'bg-white border-2 border-solarized-blue'} shadow-2xl transform transition-all duration-300 hover:scale-[1.02]">
+                                <div class="absolute top-0 right-0 w-32 h-32 ${primary.bg} opacity-10 rounded-full -mr-16 -mt-16"></div>
+                                <div class="relative p-8">
+                                    <div class="flex items-center gap-2 mb-4">
+                                        <div class="flex items-center gap-3 px-4 py-2 rounded-xl ${primary.bg} text-white font-bold text-lg shadow-lg">
+                                            <span class="text-2xl">${primary.icon}</span>
+                                            <span>${ankingData.primarySource}</span>
+                                        </div>
+                                        <div class="px-3 py-1 rounded-full bg-yellow-400 text-yellow-900 text-xs font-bold uppercase flex items-center gap-1 shadow-md">
+                                            <span>⭐</span> Best Match
+                                        </div>
+                                    </div>
+                                    <div class="pl-2">
+                                        <p class="text-lg ${isDark ? 'text-dark-text' : 'text-solarized-base00'} leading-relaxed">
+                                            ${ankingData.chapter.replace(/_/g, ' ').replace(/>/g, ' › ')}
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                `;
+
+                if (ankingData.alternatives && ankingData.alternatives.length > 0) {
+                    html += `
+                        <div class="mb-6">
+                            <h4 class="text-sm font-bold uppercase tracking-wider ${isDark ? 'text-dark-muted' : 'text-solarized-base1'} mb-4 flex items-center gap-2">
+                                <span class="w-8 h-px ${isDark ? 'bg-dark-border' : 'bg-solarized-base1/30'}"></span>
+                                <span>Additional Resources</span>
+                                <span class="flex-1 h-px ${isDark ? 'bg-dark-border' : 'bg-solarized-base1/30'}"></span>
+                            </h4>
+                            <div class="grid gap-4">
+                    `;
+
+                    ankingData.alternatives.forEach(alt => {
+                        const altStyle = resources[alt.resource] || resources['FirstAid'];
+                        html += `
+                            <div class="group rounded-xl ${isDark ? 'bg-dark-surface/30 hover:bg-dark-surface border border-dark-border' : 'bg-solarized-base2/30 hover:bg-white border border-solarized-base1/10'} p-5 transition-all duration-300 hover:shadow-lg hover:scale-[1.01]">
+                                <div class="flex items-start gap-4">
+                                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg ${altStyle.bg} text-white font-semibold text-sm shadow-md flex-shrink-0">
+                                        <span>${altStyle.icon}</span>
+                                        <span>${alt.resource}</span>
+                                    </div>
+                                    <div class="flex-1 min-w-0">
+                                        <p class="text-sm ${isDark ? 'text-dark-muted' : 'text-solarized-base00'} leading-relaxed">
+                                            ${alt.chapter.replace(/_/g, ' ').replace(/>/g, ' › ')}
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                    });
+
+                    html += `
+                            </div>
+                        </div>
+                    `;
+                }
+
+                html += '</div>';
+                contentDiv.innerHTML = html;
+            } else {
+                contentDiv.innerHTML = `
+                    <div class="flex flex-col items-center justify-center py-20 text-center">
+                        <div class="w-32 h-32 mb-6 rounded-full ${isDark ? 'bg-dark-surface' : 'bg-solarized-base2'} flex items-center justify-center shadow-lg">
+                            <span class="text-6xl">🏫</span>
+                        </div>
+                        <h3 class="text-2xl font-bold mb-4 ${isDark ? 'text-dark-text' : 'text-solarized-base01'}">In-House Lecture is Best</h3>
+                        <p class="text-lg ${isDark ? 'text-dark-muted' : 'text-solarized-base1'} max-w-md mx-auto leading-relaxed">
+                            This lecture doesn't have a strong match with third-party resources. Focus on your in-house materials!
+                        </p>
+                    </div>
+                `;
+            }
+
+            tocDiv.classList.add('hidden');
+            document.getElementById('tocToggle').classList.add('hidden');
         }
     } catch (e) {
         console.error('Error rendering tab content:', e);
