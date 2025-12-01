@@ -1,0 +1,9297 @@
+1
+00:00:00,700 --> 00:00:02,820
+Welcome students
+to Pharmacology.
+
+2
+00:00:02,820 --> 00:00:04,820
+This is Dr.
+Goldstein speaking.
+
+3
+00:00:05,060 --> 00:00:08,380
+We will begin with
+Pharmacodynamics.
+
+4
+00:00:08,380 --> 00:00:10,700
+This is a two
+-part lecture.
+
+5
+00:00:11,980 --> 00:00:14,940
+This first part is
+about the introduction
+
+6
+00:00:14,940 --> 00:00:17,340
+to the drug receptor
+interactions
+
+7
+00:00:17,340 --> 00:00:20,320
+and the dose-response
+relationship.
+
+8
+00:00:23,200 --> 00:00:27,810
+I am available to
+speak to individuals,
+
+9
+00:00:28,020 --> 00:00:32,400
+to your study groups,
+to any groups that
+
+10
+00:00:32,400 --> 00:00:36,560
+you would like to zoom
+on with me or come
+
+11
+00:00:36,560 --> 00:00:40,440
+to my office for a
+pharmacology chat.
+
+12
+00:00:45,160 --> 00:00:49,380
+This is pharmacology.
+These are the two
+
+13
+00:00:49,380 --> 00:00:54,800
+basic concepts of
+pharmacology of all drugs.
+
+14
+00:00:55,540 --> 00:00:59,340
+Pharmacodynamics
+is boiled down to
+
+15
+00:00:59,340 --> 00:01:03,780
+what the drug does
+to the body and how.
+
+16
+00:01:04,300 --> 00:01:07,420
+And pharmacokinetics
+is what the
+
+17
+00:01:07,420 --> 00:01:10,980
+body does to the
+drug and how.
+
+18
+00:01:11,230 --> 00:01:13,300
+So pharmacodynamics,
+we're
+
+19
+00:01:13,300 --> 00:01:16,480
+talking about
+mechanisms of action,
+
+20
+00:01:16,480 --> 00:01:18,480
+dose response
+relationships,
+
+21
+00:01:19,110 --> 00:01:22,200
+and in pharmacokinetics
+we're talking about
+
+22
+00:01:22,200 --> 00:01:26,160
+how the drugs are
+absorbed, administered,
+
+23
+00:01:26,650 --> 00:01:28,700
+how they distribute
+throughout
+
+24
+00:01:28,700 --> 00:01:29,960
+the body, how they are
+
+25
+00:01:29,960 --> 00:01:33,940
+metabolized, how
+they are excreted.
+
+26
+00:01:34,220 --> 00:01:36,780
+Metabolism and
+excretion is sometimes
+
+27
+00:01:36,780 --> 00:01:39,400
+lumped into one
+word elimination.
+
+28
+00:01:41,080 --> 00:01:44,840
+This lecture is about
+the pharmacodynamics.
+
+29
+00:01:48,060 --> 00:01:49,980
+Learning Objectives.
+
+30
+00:01:50,280 --> 00:01:52,640
+This is the answer to the
+
+31
+00:01:52,640 --> 00:01:55,620
+question, what do
+I need to know?
+
+32
+00:01:56,160 --> 00:02:00,760
+I suggest that you
+focus your studies. Be
+
+33
+00:02:00,760 --> 00:02:03,420
+careful of going down
+rabbit holes. levels.
+
+34
+00:02:04,230 --> 00:02:07,080
+You are being hit
+with lots and lots
+
+35
+00:02:07,080 --> 00:02:10,520
+and lots of material
+to take in, so the
+
+36
+00:02:10,520 --> 00:02:14,000
+idea is to become
+efficient as possible
+
+37
+00:02:14,000 --> 00:02:17,480
+with your studying,
+to actually learn
+
+38
+00:02:17,480 --> 00:02:20,200
+the concepts so
+they stick with you.
+
+39
+00:02:20,200 --> 00:02:21,840
+And they'll be with you
+
+40
+00:02:21,840 --> 00:02:24,060
+when you take the exam.
+
+41
+00:02:24,060 --> 00:02:28,480
+And they will very
+likely stay with
+
+42
+00:02:28,480 --> 00:02:31,100
+you after you take
+the exam so that
+
+43
+00:02:31,100 --> 00:02:33,960
+you can apply them
+them as you continue
+
+44
+00:02:33,960 --> 00:02:36,100
+on through your
+medical education.
+
+45
+00:02:36,520 --> 00:02:39,180
+I don't normally go
+over the learning
+
+46
+00:02:39,180 --> 00:02:41,580
+objectives, but
+I do want to take
+
+47
+00:02:41,580 --> 00:02:45,530
+time to do it now so
+you get an idea of
+
+48
+00:02:45,530 --> 00:02:49,760
+the concept of
+learning objectives.
+
+49
+00:02:51,380 --> 00:02:54,980
+So the first one that
+I have here is to apply
+
+50
+00:02:54,980 --> 00:02:58,900
+the physiology of
+receptors, effectors, in
+
+51
+00:02:58,900 --> 00:03:03,560
+In other words, the
+molecules that interact
+
+52
+00:03:03,560 --> 00:03:06,420
+with the receptors to
+produce a response or
+
+53
+00:03:06,420 --> 00:03:10,000
+no response, and the
+signaling mechanisms.
+
+54
+00:03:13,190 --> 00:03:15,480
+You need to be
+able to define all
+
+55
+00:03:15,480 --> 00:03:18,280
+terms, it's the
+language of medicine,
+
+56
+00:03:18,280 --> 00:03:19,830
+the language of
+pharmacology.
+
+57
+00:03:19,920 --> 00:03:22,760
+So define all terms
+that are listed in
+
+58
+00:03:22,760 --> 00:03:25,820
+the notes handout
+and give examples of
+
+59
+00:03:25,820 --> 00:03:27,780
+the specific actions
+for therapeutic
+
+60
+00:03:27,780 --> 00:03:31,140
+effects. Now, I want
+to point out that
+
+61
+00:03:37,850 --> 00:03:40,770
+I have a companion
+notes handout
+
+62
+00:03:40,770 --> 00:03:42,850
+for each and
+every lecture.
+
+63
+00:03:43,010 --> 00:03:45,710
+This is an
+optional resource.
+
+64
+00:03:46,410 --> 00:03:49,710
+I highly suggest
+searching the
+
+65
+00:03:49,710 --> 00:03:52,070
+handout in order
+for you to be able
+
+66
+00:03:52,070 --> 00:03:53,910
+to answer your
+practice questions.
+
+67
+00:03:54,050 --> 00:03:55,850
+So all of the
+terms that are
+
+68
+00:03:55,850 --> 00:03:58,270
+listed in the
+handout are also
+
+69
+00:03:58,270 --> 00:04:02,070
+listed in the
+PowerPoint. point.
+
+70
+00:04:07,570 --> 00:04:09,210
+Now you need
+to be able to
+
+71
+00:04:09,210 --> 00:04:10,810
+understand the
+relationships.
+
+72
+00:04:11,590 --> 00:04:13,920
+Relate how the
+physicochemical
+
+73
+00:04:13,920 --> 00:04:16,890
+characteristics, which
+you'll see are related
+
+74
+00:04:16,890 --> 00:04:18,610
+to the structural
+features of the
+
+75
+00:04:18,610 --> 00:04:21,510
+drug, the structure,
+it's a chemical,
+
+76
+00:04:21,750 --> 00:04:23,950
+it's some kind
+of a molecule.
+
+77
+00:04:24,930 --> 00:04:28,030
+How these physicochemical
+characteristics
+
+78
+00:04:28,030 --> 00:04:31,650
+determine the drug's
+ability to initiate
+
+79
+00:04:31,650 --> 00:04:35,670
+a cellular effect, the
+effector mechanism.
+
+80
+00:04:36,510 --> 00:04:39,630
+You should be able
+to correlate the
+
+81
+00:04:39,630 --> 00:04:42,850
+concentration of the
+drug, which is going
+
+82
+00:04:42,850 --> 00:04:46,040
+to be determined by
+the dose, receptor
+
+83
+00:04:46,430 --> 00:04:50,750
+occupancy, and the
+magnitude, the size,
+
+84
+00:04:50,750 --> 00:04:54,030
+of the pharmacologic
+response by by
+
+85
+00:04:54,030 --> 00:04:57,350
+comparing dose-dependent
+therapeutic and
+
+86
+00:04:57,350 --> 00:05:00,830
+toxicologic properties,
+responses I mean.
+
+87
+00:05:02,450 --> 00:05:04,950
+Describe the
+concepts of intrinsic
+
+88
+00:05:04,950 --> 00:05:08,210
+activity, affinity,
+potency, and
+
+89
+00:05:08,210 --> 00:05:11,370
+efficacy by comparing
+the graded dose
+
+90
+00:05:11,370 --> 00:05:14,050
+-response curves of
+two or more drugs.
+
+91
+00:05:16,610 --> 00:05:19,150
+And all of these
+will come clear as
+
+92
+00:05:19,150 --> 00:05:21,570
+we go through the
+lectures. These
+
+93
+00:05:27,250 --> 00:05:29,810
+are preparation
+materials. The links
+
+94
+00:05:29,810 --> 00:05:32,090
+are in the CPG,
+but they're also on
+
+95
+00:05:32,090 --> 00:05:34,110
+the next slide.
+Everything that's in
+
+96
+00:05:34,110 --> 00:05:38,110
+the CPG, the class
+preparation guide,
+
+97
+00:05:38,110 --> 00:05:42,650
+is also on these
+introductory slides.
+
+98
+00:05:43,830 --> 00:05:48,810
+ScholarRx bricks
+are required by the
+
+99
+00:05:48,810 --> 00:05:51,330
+school, and my
+practice questions,
+
+100
+00:05:51,330 --> 00:05:53,870
+which are not
+graded, are required
+
+101
+00:05:53,870 --> 00:05:57,650
+by me. Everything
+else is optional.
+
+102
+00:05:57,870 --> 00:06:02,050
+If you like to watch
+videos to learn
+
+103
+00:06:02,050 --> 00:06:04,990
+things by, by all
+means watch this video.
+
+104
+00:06:05,370 --> 00:06:11,030
+If you like to read,
+I suggest textbooks
+
+105
+00:06:11,030 --> 00:06:13,310
+which I'll show you
+links on the next page.
+
+106
+00:06:13,310 --> 00:06:16,190
+You can read my notes
+handout. There is
+
+107
+00:06:16,190 --> 00:06:19,270
+no reason to memorize
+the notes handout.
+
+108
+00:06:19,850 --> 00:06:22,810
+And I have supplied
+some guided reading
+
+109
+00:06:22,810 --> 00:06:25,710
+questions questions
+to help you focus on
+
+110
+00:06:25,710 --> 00:06:28,750
+what's important.
+You may use these or
+
+111
+00:06:28,750 --> 00:06:33,110
+not. It depends on
+how you like to study.
+
+112
+00:06:33,430 --> 00:06:35,910
+If you do choose
+to read the guided
+
+113
+00:06:35,910 --> 00:06:38,130
+reading questions, or
+even as you're going
+
+114
+00:06:38,130 --> 00:06:41,590
+along watching the
+PowerPoint or looking
+
+115
+00:06:41,590 --> 00:06:43,870
+at the printout
+of the PowerPoint,
+
+116
+00:06:44,660 --> 00:06:49,330
+frame questions in
+your own mind or
+
+117
+00:06:49,330 --> 00:06:52,270
+follow the guided
+reading questions and
+
+118
+00:06:52,270 --> 00:06:57,070
+answer them in your
+own words first. This
+
+119
+00:06:57,070 --> 00:06:59,160
+will help you know
+if you understand.
+
+120
+00:06:59,650 --> 00:07:01,850
+And if you can't
+answer them in your
+
+121
+00:07:01,850 --> 00:07:04,710
+own words, then
+look at the answers,
+
+122
+00:07:05,030 --> 00:07:08,850
+think about it, apply
+it to what you already
+
+123
+00:07:08,850 --> 00:07:12,070
+know, and try
+answering that again in
+
+124
+00:07:12,070 --> 00:07:15,630
+your own words. These
+are some little learning
+
+125
+00:07:16,390 --> 00:07:20,890
+techniques that will
+help you to remember,
+
+126
+00:07:20,890 --> 00:07:24,010
+not just memorize,
+but to understand.
+
+127
+00:07:26,760 --> 00:07:29,670
+These are the links I
+mentioned, ScholarRx
+
+128
+00:07:29,670 --> 00:07:31,910
+bricks that are
+related to the
+
+129
+00:07:31,910 --> 00:07:35,210
+pharmacodynamics lectures,
+and some optional
+
+130
+00:07:35,210 --> 00:07:39,070
+resources if you
+like. I've put a
+
+131
+00:07:39,070 --> 00:07:41,470
+textbook down here.
+This is the first one,
+
+132
+00:07:41,470 --> 00:07:44,160
+Katzengevanderol's
+Basic and Clinical
+
+133
+00:07:44,160 --> 00:07:47,210
+Pharmacology. It's
+quite easy to read.
+
+134
+00:07:47,430 --> 00:07:53,150
+Then I have included
+a Lippincott
+
+135
+00:07:53,300 --> 00:07:56,970
+Illustrated Reviews.
+This is a review book.
+
+136
+00:07:56,970 --> 00:08:00,090
+It's a pharmacology
+review book and it
+
+137
+00:08:00,090 --> 00:08:05,850
+is very easy to follow.
+It is not loaded
+
+138
+00:08:05,850 --> 00:08:08,290
+with a lot of
+information, just really
+
+139
+00:08:08,300 --> 00:08:10,890
+the information that
+you need to know.
+
+140
+00:08:17,900 --> 00:08:20,480
+I'm going to spend a
+little time talking
+
+141
+00:08:20,480 --> 00:08:22,800
+about learning
+techniques. I will not be
+
+142
+00:08:22,800 --> 00:08:26,820
+doing this in later
+lectures as you move
+
+143
+00:08:26,820 --> 00:08:29,160
+on. Hopefully you
+will understand about
+
+144
+00:08:29,160 --> 00:08:31,780
+them and be using
+them by that time. So
+
+145
+00:08:31,780 --> 00:08:33,920
+guided reading questions
+I already mentioned.
+
+146
+00:08:33,920 --> 00:08:36,560
+The practice
+questions are for your
+
+147
+00:08:36,560 --> 00:08:38,720
+own assessment of
+your learning. If you
+
+148
+00:08:38,720 --> 00:08:41,960
+can answer my practice
+questions, which are
+
+149
+00:08:41,960 --> 00:08:44,100
+sometimes simple
+and sometimes not so
+
+150
+00:08:44,100 --> 00:08:48,080
+simple, then you can
+really know that you
+
+151
+00:08:48,080 --> 00:08:52,660
+understand the concepts
+of pharmacology.
+
+152
+00:08:55,040 --> 00:08:57,280
+With regard to the
+practice questions,
+
+153
+00:08:57,280 --> 00:08:59,760
+I recommend that
+you do a search of
+
+154
+00:08:59,760 --> 00:09:01,760
+the notes handout.
+All the answers are
+
+155
+00:09:01,760 --> 00:09:04,200
+in the notes handout.
+Just search it.
+
+156
+00:09:06,440 --> 00:09:09,360
+Practicing through case
+vignettes will help
+
+157
+00:09:09,360 --> 00:09:12,040
+you bridge pharmacology
+science and
+
+158
+00:09:12,040 --> 00:09:15,420
+pharmacotherapeutics,
+the clinical concepts.
+
+159
+00:09:15,760 --> 00:09:17,440
+Why are you here?
+
+160
+00:09:17,980 --> 00:09:22,160
+You want to be able to
+understand drugs, to
+
+161
+00:09:22,160 --> 00:09:26,660
+be able to prescribe
+them intelligently and
+
+162
+00:09:26,760 --> 00:09:31,480
+competently and
+confidently. But you need
+
+163
+00:09:31,480 --> 00:09:34,070
+to be able to understand
+the basic concepts.
+
+164
+00:09:35,200 --> 00:09:37,320
+Write down your own
+questions as you
+
+165
+00:09:37,320 --> 00:09:40,080
+study, as you're
+watching the video,
+
+166
+00:09:40,080 --> 00:09:41,520
+as you're looking
+at the PowerPoint
+
+167
+00:09:41,520 --> 00:09:43,960
+printout, and
+you see something
+
+168
+00:09:43,960 --> 00:09:46,020
+that you wonder
+about, write it down.
+
+169
+00:09:46,160 --> 00:09:48,280
+And that way you're
+already thinking
+
+170
+00:09:48,280 --> 00:09:50,560
+about it, and when
+the answer comes
+
+171
+00:09:50,560 --> 00:09:53,020
+up, you'll be ready
+to receive it.
+
+172
+00:09:57,830 --> 00:10:00,590
+And some more tips.
+identify and define
+
+173
+00:10:00,590 --> 00:10:04,770
+key ideas and
+concepts, rephrase main
+
+174
+00:10:04,770 --> 00:10:08,470
+ideas in your own words,
+convert main points
+
+175
+00:10:08,470 --> 00:10:10,870
+to questions. When
+you write a question,
+
+176
+00:10:10,870 --> 00:10:12,510
+you really have
+to think about it,
+
+177
+00:10:12,510 --> 00:10:14,830
+and thinking about it
+helps you remember.
+
+178
+00:10:15,330 --> 00:10:18,190
+Relate the ideas to
+what you already know.
+
+179
+00:10:18,390 --> 00:10:20,190
+Space your practice,
+
+180
+00:10:20,510 --> 00:10:24,390
+mix up multiple subjects,
+you can't do this
+
+181
+00:10:24,390 --> 00:10:26,210
+really until you're a
+lot more comfortable
+
+182
+00:10:26,210 --> 00:10:30,650
+with the information.
+And of course, use memory
+
+183
+00:10:30,650 --> 00:10:33,110
+devices, mnemonics
+to help you remember.
+
+184
+00:10:35,310 --> 00:10:39,590
+This is an example
+of a concept map or
+
+185
+00:10:39,590 --> 00:10:42,750
+mind map, some people
+call it. You can see
+
+186
+00:10:42,750 --> 00:10:46,430
+how all of the different
+features, at least
+
+187
+00:10:46,430 --> 00:10:48,110
+in this lecture that
+we're going to be
+
+188
+00:10:48,110 --> 00:10:50,490
+talking about, are
+related to each other.
+
+189
+00:10:50,950 --> 00:10:53,510
+You can use concept
+maps if you're
+
+190
+00:10:53,510 --> 00:10:55,610
+comfortable with
+them, just you can
+
+191
+00:10:55,610 --> 00:10:57,750
+draw them out with
+your own hand.
+
+192
+00:10:57,890 --> 00:11:01,250
+There are also
+computer models for
+
+193
+00:11:01,250 --> 00:11:04,430
+making concept
+maps. Concept maps
+
+194
+00:11:04,430 --> 00:11:06,390
+can sometimes be
+time consuming,
+
+195
+00:11:06,570 --> 00:11:10,310
+but some students
+find them very
+
+196
+00:11:10,310 --> 00:11:14,170
+helpful. Now I start
+the lectures with
+
+197
+00:11:14,400 --> 00:11:16,750
+information that you
+really need to know,
+
+198
+00:11:16,750 --> 00:11:19,250
+key concepts that
+you need to know.
+
+199
+00:11:20,210 --> 00:11:24,210
+So, these are the
+focus points for you.
+
+200
+00:11:24,570 --> 00:11:28,110
+I don't go over them.
+This is for you.
+
+201
+00:11:28,380 --> 00:11:30,560
+If you wish to
+use them, I highly
+
+202
+00:11:30,560 --> 00:11:32,430
+recommend that you
+use it. It gives you
+
+203
+00:11:32,430 --> 00:11:34,630
+a good overview of
+what the lecture
+
+204
+00:11:34,630 --> 00:11:39,110
+is about and it puts
+it into context.
+
+205
+00:11:39,880 --> 00:11:42,270
+I did mention that
+you need to be
+
+206
+00:11:42,270 --> 00:11:45,950
+able to understand
+terms, define the
+
+207
+00:11:45,950 --> 00:11:47,990
+terms. This is
+the language of
+
+208
+00:11:47,990 --> 00:11:50,390
+pharmacology, the
+language of medicine.
+
+209
+00:11:50,390 --> 00:11:52,130
+So I've listed terms that
+
+210
+00:11:52,130 --> 00:11:53,990
+you should be
+able to know.
+
+211
+00:11:54,730 --> 00:11:57,610
+And when you can,
+this is true, this is
+
+212
+00:11:57,610 --> 00:12:02,130
+memorization, but when
+you have them under
+
+213
+00:12:04,070 --> 00:12:07,790
+your belt, as it
+were, you will be able
+
+214
+00:12:07,790 --> 00:12:11,630
+to quickly understand
+what I am talking
+
+215
+00:12:11,630 --> 00:12:13,810
+about, what others are
+talking about, what
+
+216
+00:12:13,810 --> 00:12:20,030
+your tendings are
+talking about, and this
+
+217
+00:12:20,050 --> 00:12:22,590
+is more of what you
+need to know. I will
+
+218
+00:12:22,590 --> 00:12:24,950
+not be reading these
+slides to you. You
+
+219
+00:12:24,950 --> 00:12:27,390
+can read them perfectly
+well on your own.
+
+220
+00:12:30,210 --> 00:12:32,110
+So let us begin.
+
+221
+00:12:32,990 --> 00:12:35,790
+The physicochemical
+characteristics of
+
+222
+00:12:35,790 --> 00:12:38,450
+a drug determine
+its ability to move
+
+223
+00:12:38,450 --> 00:12:41,130
+through the body and
+initiate a cellular
+
+224
+00:12:41,130 --> 00:12:45,230
+effect. That is the
+whole point of a drug.
+
+225
+00:12:45,710 --> 00:12:48,110
+That's how
+pharmaceutical companies,
+
+226
+00:12:48,110 --> 00:12:51,410
+drug development
+companies develop drugs.
+
+227
+00:12:53,110 --> 00:12:55,810
+There are pharmacokinetic
+properties and
+
+228
+00:12:55,810 --> 00:12:57,990
+pharmacodynamic
+properties and these
+
+229
+00:12:57,990 --> 00:13:00,570
+are related to the
+structural features.
+
+230
+00:13:00,570 --> 00:13:01,950
+So what are we
+talking about with the
+
+231
+00:13:01,950 --> 00:13:04,270
+structural features?
+factors, the size of
+
+232
+00:13:04,270 --> 00:13:06,400
+the molecule, the
+shape of the molecule.
+
+233
+00:13:07,510 --> 00:13:10,330
+Does it have
+chirality? Does it not?
+
+234
+00:13:10,330 --> 00:13:13,130
+What is the
+electrical charge? Is
+
+235
+00:13:13,130 --> 00:13:15,570
+it lipid soluble?
+All of these features
+
+236
+00:13:15,570 --> 00:13:17,770
+will determine
+whether or not it
+
+237
+00:13:17,770 --> 00:13:20,190
+actually gets to
+the site of action.
+
+238
+00:13:20,330 --> 00:13:23,410
+And once it's
+there, will it fit
+
+239
+00:13:23,410 --> 00:13:27,870
+its particular
+target, its receptor?
+
+240
+00:13:29,650 --> 00:13:32,050
+So let's look at
+the pharmacokinetic
+
+241
+00:13:32,050 --> 00:13:35,590
+properties first. The
+structural features determine
+
+242
+00:13:35,590 --> 00:13:38,830
+the drug's ability
+to be absorbed. Will
+
+243
+00:13:38,830 --> 00:13:42,090
+it be absorbed from
+the GI tract? If not,
+
+244
+00:13:42,090 --> 00:13:43,840
+then it's going to
+have to be injected.
+
+245
+00:13:44,670 --> 00:13:46,990
+Will it distribute
+to the site of
+
+246
+00:13:46,990 --> 00:13:49,110
+action? In other
+words, will it pass
+
+247
+00:13:49,110 --> 00:13:51,630
+through the
+physiologic membranes,
+
+248
+00:13:51,920 --> 00:13:55,130
+the lipid bilayers
+of the gut?
+
+249
+00:13:55,810 --> 00:13:57,510
+What will happen to it
+
+250
+00:13:57,510 --> 00:13:58,950
+when it's in the liver?
+
+251
+00:13:59,230 --> 00:14:01,810
+Will it get out
+into the systemic
+
+252
+00:14:01,810 --> 00:14:04,970
+circulation and
+once there, will it
+
+253
+00:14:04,970 --> 00:14:08,710
+actually get to its
+target? If the target
+
+254
+00:14:08,710 --> 00:14:11,710
+is in the brain and
+the drug does not
+
+255
+00:14:11,710 --> 00:14:16,130
+cross the blood
+-brain barrier, then
+
+256
+00:14:16,130 --> 00:14:18,010
+it's not going to
+get to its target.
+
+257
+00:14:19,790 --> 00:14:21,550
+What will be the
+extent of its
+
+258
+00:14:21,550 --> 00:14:23,730
+metabolism as it
+passes through
+
+259
+00:14:23,730 --> 00:14:25,670
+the liver and
+other organs?
+
+260
+00:14:25,730 --> 00:14:28,970
+How will it be
+excreted? Will it be
+
+261
+00:14:28,970 --> 00:14:32,390
+excreted as metabolites
+that are inactive?
+
+262
+00:14:32,390 --> 00:14:35,050
+Will it be excreted
+as active drug?
+
+263
+00:14:35,410 --> 00:14:37,210
+All of these are
+related to the
+
+264
+00:14:37,210 --> 00:14:39,870
+structural features
+of the molecule.
+
+265
+00:14:46,540 --> 00:14:48,540
+Now let's take
+a look at the
+
+266
+00:14:48,540 --> 00:14:50,600
+pharmacodynamic
+properties. You see I
+
+267
+00:14:50,600 --> 00:14:52,680
+have written
+here on the side,
+
+268
+00:14:55,030 --> 00:14:59,100
+structure, activity,
+relationship.
+
+269
+00:14:59,420 --> 00:15:00,940
+That's the whole point.
+
+270
+00:15:01,300 --> 00:15:03,660
+It needs to have
+a structure that's
+
+271
+00:15:03,660 --> 00:15:06,260
+going to be able to
+fit into its target.
+
+272
+00:15:06,560 --> 00:15:07,940
+So with
+
+273
+00:15:08,420 --> 00:15:11,940
+some, in fact many, of
+the drugs we'll talk
+
+274
+00:15:11,940 --> 00:15:15,900
+about, I will ask
+you to understand how
+
+275
+00:15:15,900 --> 00:15:19,340
+the structure is
+related to its activity.
+
+276
+00:15:19,720 --> 00:15:22,740
+I don't ask you
+to be able to draw
+
+277
+00:15:22,740 --> 00:15:25,600
+structures, just understand
+the relationship.
+
+278
+00:15:26,740 --> 00:15:28,980
+So the structural
+features will
+
+279
+00:15:28,980 --> 00:15:31,440
+determine the
+receptor specificity.
+
+280
+00:15:31,900 --> 00:15:36,380
+Will this drug bind to
+one type of receptor
+
+281
+00:15:36,380 --> 00:15:40,400
+or is it not very
+specific and it will bind
+
+282
+00:15:40,400 --> 00:15:44,120
+to a variety of different
+types of receptors,
+
+283
+00:15:44,120 --> 00:15:46,820
+which is really not
+ideal for a drug.
+
+284
+00:15:47,200 --> 00:15:49,960
+What is the affinity
+for the receptor?
+
+285
+00:15:49,960 --> 00:15:52,220
+Does it bind
+tightly? Does it
+
+286
+00:15:52,220 --> 00:15:54,360
+bind weakly, somewhere
+in the middle?
+
+287
+00:15:54,660 --> 00:15:59,360
+Does the drug
+molecule activate
+
+288
+00:15:59,830 --> 00:16:06,090
+the effect that a normal
+endogenous natural
+
+289
+00:16:06,090 --> 00:16:10,180
+drug ligand, I mean
+not drug, endogenous
+
+290
+00:16:10,180 --> 00:16:13,500
+ligand would produce?
+An endogenous
+
+291
+00:16:13,500 --> 00:16:17,040
+ligand binds to its
+receptor and produces some
+
+292
+00:16:17,040 --> 00:16:19,600
+activity, whatever
+that is specific for
+
+293
+00:16:19,600 --> 00:16:22,040
+the receptor type and
+for the cell type,
+
+294
+00:16:22,320 --> 00:16:26,860
+well will the drug be
+able to produce the
+
+295
+00:16:26,860 --> 00:16:30,420
+same response or some
+portion of a response?
+
+296
+00:16:30,660 --> 00:16:33,420
+That's called
+intrinsic activity.
+
+297
+00:16:37,520 --> 00:16:39,980
+Here's an example of
+structure activity
+
+298
+00:16:39,980 --> 00:16:42,100
+relationship. You
+see on the right hand
+
+299
+00:16:42,100 --> 00:16:45,040
+side on the upper
+structure a very simple
+
+300
+00:16:45,040 --> 00:16:47,690
+molecule and that is
+called epinephrine.
+
+301
+00:16:48,680 --> 00:16:50,920
+Epinephrine has
+another name. It's
+
+302
+00:16:50,920 --> 00:16:52,760
+called adrenaline
+and that is
+
+303
+00:16:52,760 --> 00:16:54,880
+a natural hormone
+in our bodies.
+
+304
+00:16:55,440 --> 00:16:58,980
+Looking at the
+structure below, you see
+
+305
+00:16:58,980 --> 00:17:02,700
+they look very, very
+similar. The only
+
+306
+00:17:02,700 --> 00:17:06,580
+difference is that
+phenylephrine is missing
+
+307
+00:17:06,580 --> 00:17:09,840
+this hydroxyl group
+and that gives it
+
+308
+00:17:09,840 --> 00:17:13,180
+very similar
+properties, but slightly
+
+309
+00:17:13,180 --> 00:17:15,900
+different properties.
+And that's an example
+
+310
+00:17:15,900 --> 00:17:18,280
+of the structure
+-activity relationship.
+
+311
+00:17:18,280 --> 00:17:21,160
+Now we most often look
+at these structures
+
+312
+00:17:21,160 --> 00:17:23,800
+flat like this,
+two-dimensionally,
+
+313
+00:17:23,860 --> 00:17:25,940
+but they have a
+three-dimensional
+
+314
+00:17:25,940 --> 00:17:29,340
+shape in space. And it is
+
+315
+00:17:29,340 --> 00:17:31,180
+that three
+-dimensional shape
+
+316
+00:17:31,280 --> 00:17:32,680
+that determines its
+
+317
+00:17:32,680 --> 00:17:34,440
+biologic
+activity. acidity.
+
+318
+00:17:38,330 --> 00:17:41,040
+We talk about
+molecular mechanisms of
+
+319
+00:17:41,040 --> 00:17:43,960
+drug action. I
+mentioned before that an
+
+320
+00:17:43,960 --> 00:17:46,560
+endogenous or natural
+ligand binds to
+
+321
+00:17:46,560 --> 00:17:51,380
+its receptor and
+produces some response.
+
+322
+00:17:53,130 --> 00:17:56,140
+That's a molecular
+mechanism. Does the drug
+
+323
+00:17:56,140 --> 00:17:58,880
+do the same thing?
+That's the molecular
+
+324
+00:17:58,880 --> 00:18:01,720
+mechanism of the drug.
+whatever the drug causes
+
+325
+00:18:01,720 --> 00:18:04,820
+that's its molecular
+mechanism. So the
+
+326
+00:18:04,820 --> 00:18:08,860
+interaction of a drug with
+its target brings about
+
+327
+00:18:08,860 --> 00:18:14,120
+a change in biologic
+function because the
+
+328
+00:18:14,120 --> 00:18:18,120
+drug is binding to
+its target and causing
+
+329
+00:18:18,120 --> 00:18:21,960
+something to happen as
+a result of the binding
+
+330
+00:18:21,960 --> 00:18:25,020
+and that produces the
+pharmacologic effect.
+
+331
+00:18:25,020 --> 00:18:26,390
+Now there are a couple
+of pharmacologic
+
+332
+00:18:26,480 --> 00:18:28,700
+effects that we're going
+to be talking about.
+
+333
+00:18:30,140 --> 00:18:31,820
+in this lecture.
+
+334
+00:18:32,240 --> 00:18:36,280
+So it can activate
+the biochemical and
+
+335
+00:18:36,280 --> 00:18:38,880
+physiologic changes
+that are characteristic
+
+336
+00:18:38,880 --> 00:18:41,640
+of the receptor.
+It's all about the
+
+337
+00:18:41,640 --> 00:18:45,300
+receptor. The drug is
+causing the receptor to
+
+338
+00:18:45,300 --> 00:18:48,460
+do whatever the
+receptor normally does.
+
+339
+00:18:48,540 --> 00:18:55,860
+Or a drug can block
+the receptor so that
+
+340
+00:18:55,860 --> 00:18:59,420
+the natural ligand
+is not able to access
+
+341
+00:18:59,420 --> 00:19:04,820
+and therefore there
+will be no response.
+
+342
+00:19:05,960 --> 00:19:08,640
+So it's a blocker,
+an inhibitor.
+
+343
+00:19:09,480 --> 00:19:12,920
+So it can activate or
+inhibit, bottom line.
+
+344
+00:19:15,660 --> 00:19:17,880
+Now talking about
+the duration of
+
+345
+00:19:17,880 --> 00:19:20,640
+action from a
+pharmacodynamic perspective,
+
+346
+00:19:20,640 --> 00:19:22,260
+we're also going
+to be talking
+
+347
+00:19:22,260 --> 00:19:24,280
+about it from a
+pharmacokinetic
+
+348
+00:19:24,590 --> 00:19:26,840
+perspective when we
+get to that point.
+
+349
+00:19:27,240 --> 00:19:30,420
+From a pharmacodynamic
+perspective,
+
+350
+00:19:30,820 --> 00:19:33,740
+the drug's action
+may persist,
+
+351
+00:19:33,740 --> 00:19:35,280
+the duration of action,
+
+352
+00:19:35,720 --> 00:19:39,340
+until the drug
+dissociates, moves away
+
+353
+00:19:39,340 --> 00:19:41,900
+from the receptor,
+and that will
+
+354
+00:19:41,900 --> 00:19:45,040
+automatically stop the
+effect. And this happens
+
+355
+00:19:45,040 --> 00:19:54,920
+when drug is
+discontinued. It will
+
+356
+00:19:54,920 --> 00:19:57,260
+leave the receptor,
+there are no other
+
+357
+00:19:57,260 --> 00:20:00,420
+drug molecules around
+to activate the
+
+358
+00:20:00,420 --> 00:20:04,140
+receptor and the
+effect is terminated.
+
+359
+00:20:06,080 --> 00:20:09,600
+The drug can activate
+second messengers and
+
+360
+00:20:09,600 --> 00:20:12,640
+signal transduction.
+So the drug may have
+
+361
+00:20:12,640 --> 00:20:16,360
+residence on the receptor
+for only a very brief
+
+362
+00:20:16,360 --> 00:20:19,260
+period of time, but
+it has activated
+
+363
+00:20:19,260 --> 00:20:23,940
+intracellular responses
+and therefore the duration
+
+364
+00:20:23,940 --> 00:20:27,280
+of action will be
+much longer than one
+
+365
+00:20:27,280 --> 00:20:31,120
+would expect considering
+the brief residence
+
+366
+00:20:31,120 --> 00:20:34,100
+on the receptor. receptor.
+The drug receptor
+
+367
+00:20:34,100 --> 00:20:38,820
+complex is destroyed
+and new receptors or
+
+368
+00:20:38,820 --> 00:20:41,820
+enzymes have been
+synthesized. So here I want
+
+369
+00:20:41,820 --> 00:20:47,320
+to say that when we
+talk pharmacology ease,
+
+370
+00:20:47,690 --> 00:20:52,040
+receptors is a big
+word. It can be enzymes,
+
+371
+00:20:52,040 --> 00:20:56,000
+it can be receptors
+on the cell surface,
+
+372
+00:20:56,000 --> 00:20:58,380
+it can be receptors
+inside, it can
+
+373
+00:20:58,380 --> 00:21:00,780
+be nucleic acid, it's
+whatever the drug
+
+374
+00:21:00,930 --> 00:21:06,930
+target is. So sometimes
+the terminology
+
+375
+00:21:07,020 --> 00:21:09,420
+kind of gets
+confused. But please
+
+376
+00:21:09,420 --> 00:21:12,520
+understand that
+receptors might mean any
+
+377
+00:21:12,520 --> 00:21:16,300
+of those things. It
+is the drug target.
+
+378
+00:21:18,620 --> 00:21:21,360
+Now going back to
+this point here,
+
+379
+00:21:21,360 --> 00:21:25,200
+let's say a drug
+binds with very, very,
+
+380
+00:21:25,200 --> 00:21:28,400
+very high affinity
+to the receptor.
+
+381
+00:21:28,400 --> 00:21:31,740
+It just does not
+dissociate. And
+
+382
+00:21:31,740 --> 00:21:35,560
+the cell recognizes
+that its receptor
+
+383
+00:21:35,620 --> 00:21:38,580
+that has the drug
+bound is useless.
+
+384
+00:21:39,160 --> 00:21:43,240
+So it will internalize
+the receptor.
+
+385
+00:21:43,700 --> 00:21:46,100
+Let's say this
+is the receptor.
+
+386
+00:21:48,160 --> 00:21:50,340
+This is a very
+poor picture.
+
+387
+00:21:50,340 --> 00:21:51,740
+Here's the drug on here.
+
+388
+00:21:54,040 --> 00:21:57,780
+And it will get
+internalized and it will
+
+389
+00:21:57,780 --> 00:22:00,990
+go into the lysosome
+and be degraded.
+
+390
+00:22:01,160 --> 00:22:06,000
+And thus, new enzyme
+or new receptors have
+
+391
+00:22:06,000 --> 00:22:10,040
+to be synthesized by
+that cell. And that can
+
+392
+00:22:10,040 --> 00:22:12,600
+take some time. So
+the duration of action
+
+393
+00:22:13,500 --> 00:22:16,560
+is extended because
+we are waiting
+
+394
+00:22:16,560 --> 00:22:22,840
+for the cell to replace
+that drug receptor
+
+395
+00:22:22,840 --> 00:22:24,800
+complex that has
+been destroyed.
+
+396
+00:22:27,420 --> 00:22:30,380
+Receptor effector
+systems incorporate
+
+397
+00:22:30,380 --> 00:22:33,420
+desensitization
+mechanisms for preventing
+
+398
+00:22:33,420 --> 00:22:37,120
+excessive activation
+when agonist molecules
+
+399
+00:22:37,120 --> 00:22:39,620
+continue to be present
+for long periods.
+
+400
+00:22:39,620 --> 00:22:42,500
+I want to say right
+here, I'm not going
+
+401
+00:22:42,500 --> 00:22:45,260
+to explain it now,
+we will get to that.
+
+402
+00:22:47,280 --> 00:22:49,340
+So let's take a look
+at some quantitative
+
+403
+00:22:49,340 --> 00:22:54,800
+aspects, dose
+response curves.
+
+404
+00:22:55,020 --> 00:22:57,660
+When you hear
+pharmacodynamics
+
+405
+00:22:57,660 --> 00:22:58,940
+you're going
+to be thinking
+
+406
+00:22:58,940 --> 00:23:01,420
+about the
+quantitative aspects
+
+407
+00:23:02,300 --> 00:23:04,380
+as well as
+mechanism of action.
+
+408
+00:23:05,920 --> 00:23:08,920
+What we have here is
+a receptor occupancy
+
+409
+00:23:08,920 --> 00:23:13,220
+theory that assumes
+that the portion of
+
+410
+00:23:13,220 --> 00:23:16,060
+occupied receptors is
+related to the effect.
+
+411
+00:23:16,440 --> 00:23:19,280
+How many receptors
+are occupied, that's
+
+412
+00:23:19,280 --> 00:23:21,180
+going to be related
+to the size of the
+
+413
+00:23:21,180 --> 00:23:24,180
+effect. And this is
+based in the law of
+
+414
+00:23:24,180 --> 00:23:28,240
+mass action. So what
+we have here is the
+
+415
+00:23:28,240 --> 00:23:30,380
+relationship between
+the drug concentration
+
+416
+00:23:30,380 --> 00:23:32,440
+and the pharmacologic
+response.
+
+417
+00:23:32,440 --> 00:23:38,180
+So drug receptor,
+drug receptor complex,
+
+418
+00:23:38,460 --> 00:23:39,640
+response.
+
+419
+00:23:43,180 --> 00:23:47,360
+This k plus 1, with
+the arrow pointing in
+
+420
+00:23:47,360 --> 00:23:51,250
+this direction, this
+is the association
+
+421
+00:23:51,250 --> 00:23:55,160
+constant. This is the
+rate of association
+
+422
+00:23:55,680 --> 00:23:59,000
+of the drug and the
+receptor to form the
+
+423
+00:23:59,000 --> 00:24:01,200
+complex. complex. This
+one with the minus
+
+424
+00:24:01,200 --> 00:24:06,780
+one is the rate of
+dissociation. The
+
+425
+00:24:06,780 --> 00:24:10,200
+rate at which the
+drug receptor complex
+
+426
+00:24:11,150 --> 00:24:14,940
+dissociates into the
+drug and the receptor.
+
+427
+00:24:16,640 --> 00:24:17,880
+So,
+
+428
+00:24:18,260 --> 00:24:20,580
+the number of
+receptors that's the
+
+429
+00:24:20,580 --> 00:24:23,240
+concentration of
+receptors occupied by the
+
+430
+00:24:23,240 --> 00:24:27,600
+drug depends on how
+many drug molecules
+
+431
+00:24:27,600 --> 00:24:30,140
+are there. The
+concentration of drug.
+
+432
+00:24:30,560 --> 00:24:34,200
+The drug receptor
+association rate.
+
+433
+00:24:36,600 --> 00:24:41,740
+And the drug receptor
+dissociation rate.
+
+434
+00:24:42,100 --> 00:24:46,080
+So drug association,
+
+435
+00:24:46,380 --> 00:24:50,620
+drug receptor
+complex, effect.
+
+436
+00:24:57,570 --> 00:25:01,950
+Equilibrium. So,
+when the association,
+
+437
+00:25:02,130 --> 00:25:05,150
+the rate of association
+equals the rate of
+
+438
+00:25:05,150 --> 00:25:08,710
+dissociation, we
+have the equilibrium
+
+439
+00:25:09,370 --> 00:25:13,770
+dissociation constant,
+KD, and we're going to be
+
+440
+00:25:13,770 --> 00:25:18,010
+talking about this
+for the next several
+
+441
+00:25:18,010 --> 00:25:24,830
+slides. the equilibrium
+dissociation constant.
+
+442
+00:25:24,830 --> 00:25:27,970
+That represents the
+drug concentration
+
+443
+00:25:27,970 --> 00:25:33,490
+required to saturate 50
+% of the receptors. Why?
+
+444
+00:25:33,490 --> 00:25:38,050
+Because we have
+dissociation, rate of
+
+445
+00:25:38,050 --> 00:25:41,110
+association, rate of
+dissociation at equilibrium.
+
+446
+00:25:41,110 --> 00:25:45,390
+So there are some
+complex drug receptor
+
+447
+00:25:45,390 --> 00:25:50,310
+complexes and drug and
+receptor uncomplexed.
+
+448
+00:25:50,890 --> 00:25:54,190
+KAD represents the
+drug concentration
+
+449
+00:25:54,190 --> 00:25:57,610
+required to
+saturate 50% of the
+
+450
+00:25:57,610 --> 00:26:00,190
+receptors. Now the
+affinity constant
+
+451
+00:26:00,190 --> 00:26:03,070
+is the inverse,
+it's a reciprocal.
+
+452
+00:26:05,470 --> 00:26:09,350
+The greater the
+affinity the smaller
+
+453
+00:26:09,350 --> 00:26:13,310
+the equilibrium
+dissociation constant.
+
+454
+00:26:14,770 --> 00:26:16,170
+Alternatively,
+
+455
+00:26:16,350 --> 00:26:19,610
+the lower the
+affinity the greater
+
+456
+00:26:19,610 --> 00:26:24,710
+the equilibrium
+dissociation constant.
+
+457
+00:26:26,210 --> 00:26:28,150
+Let's see if
+we can clarify
+
+458
+00:26:29,110 --> 00:26:30,770
+this as we go along.
+
+459
+00:26:30,990 --> 00:26:33,890
+Here we have graded
+dose response
+
+460
+00:26:33,890 --> 00:26:36,950
+curves. So on the x axis,
+
+461
+00:26:37,070 --> 00:26:40,650
+we have the
+concentration of drug A.
+
+462
+00:26:44,230 --> 00:26:47,850
+And here we have
+something called
+
+463
+00:26:47,850 --> 00:26:52,210
+the EC50, the
+concentration of drug
+
+464
+00:26:52,210 --> 00:26:54,730
+that produces is
+50% of maximal
+
+465
+00:26:54,730 --> 00:26:57,670
+response. So E
+stands for effect.
+
+466
+00:26:58,230 --> 00:27:00,490
+C obviously
+concentration.
+
+467
+00:27:01,600 --> 00:27:03,830
+Now here we have, it's
+really hard to see
+
+468
+00:27:03,830 --> 00:27:12,530
+it here. So by plotting
+the log concentration
+
+469
+00:27:12,530 --> 00:27:16,390
+of the drug, we get
+a sigmoid curve.
+
+470
+00:27:16,700 --> 00:27:19,860
+And now we can see
+the concentration at
+
+471
+00:27:19,970 --> 00:27:24,970
+which 50% of the
+concentration of drug
+
+472
+00:27:24,970 --> 00:27:27,950
+that produces 50% of
+the maximal response.
+
+473
+00:27:28,070 --> 00:27:30,490
+Maximal response
+on the y axis,
+
+474
+00:27:30,870 --> 00:27:33,770
+concentration of
+drug on the x axis.
+
+475
+00:27:35,760 --> 00:27:38,610
+Okay, now we're going
+to be using this
+
+476
+00:27:38,610 --> 00:27:41,250
+concept together
+with equilibrium
+
+477
+00:27:41,250 --> 00:27:46,230
+dissociation constant
+and receptor occupancy.
+
+478
+00:27:47,220 --> 00:27:48,890
+And here it is.
+
+479
+00:27:49,630 --> 00:27:51,690
+The concentration
+effect and
+
+480
+00:27:51,690 --> 00:27:53,370
+the receptor
+binding curves.
+
+481
+00:27:53,730 --> 00:27:56,010
+On the left hand
+side we see the drug
+
+482
+00:27:56,010 --> 00:27:58,530
+concentration effect
+relationship. So here's
+
+483
+00:27:58,530 --> 00:28:01,270
+the concentration of
+drug again, here's the
+
+484
+00:28:01,270 --> 00:28:03,610
+effect of drug. We saw
+that on the previous
+
+485
+00:28:03,610 --> 00:28:07,930
+slide. side, and
+this is obviously not
+
+486
+00:28:07,930 --> 00:28:10,190
+log concentration,
+but it's stretched out
+
+487
+00:28:10,190 --> 00:28:13,370
+for us so we can see
+it, and here's our
+
+488
+00:28:13,370 --> 00:28:17,830
+concentration at which
+50% response occurs.
+
+489
+00:28:19,760 --> 00:28:22,570
+On the right hand
+side, oh, let me just
+
+490
+00:28:22,570 --> 00:28:24,850
+point out this is
+maximal effect here.
+
+491
+00:28:25,430 --> 00:28:27,490
+This is 50% of effect,
+
+492
+00:28:27,490 --> 00:28:28,930
+this is maximal effect.
+
+493
+00:28:29,870 --> 00:28:33,430
+Here we have drug
+concentration again.
+
+494
+00:28:33,430 --> 00:28:36,230
+Now we have the
+concentration of
+
+495
+00:28:36,230 --> 00:28:39,110
+receptors that are
+bound by the drug.
+
+496
+00:28:40,270 --> 00:28:44,210
+The equilibrium
+dissociation constant, the
+
+497
+00:28:44,210 --> 00:28:47,490
+concentration at which
+50% of the receptors
+
+498
+00:28:47,490 --> 00:28:51,190
+are bound. And here
+we have the maximal
+
+499
+00:28:51,190 --> 00:28:54,350
+number of receptors
+in the receptor pool.
+
+500
+00:28:55,470 --> 00:28:58,770
+It's easy to see by
+looking at these two
+
+501
+00:28:59,260 --> 00:29:03,320
+curves that they appear
+to be superimposable,
+
+502
+00:29:04,450 --> 00:29:06,190
+illustrating
+the relationship
+
+503
+00:29:06,190 --> 00:29:09,410
+between the dose
+-response and the
+
+504
+00:29:09,410 --> 00:29:12,830
+dose-receptor
+occupancy curves.
+
+505
+00:29:13,150 --> 00:29:19,030
+In this model, the
+maximal effect occurs
+
+506
+00:29:20,010 --> 00:29:24,550
+when the maximal number
+of receptors in the
+
+507
+00:29:24,550 --> 00:29:28,170
+receptor pool are
+occupied by the drug.
+
+508
+00:29:29,670 --> 00:29:33,010
+This is not always
+the case, but
+
+509
+00:29:33,010 --> 00:29:35,410
+we're starting
+with a simple idea
+
+510
+00:29:35,410 --> 00:29:38,290
+and we will build
+on it as we go.
+
+511
+00:29:41,870 --> 00:29:45,330
+The graded dose-receptor
+relationship and
+
+512
+00:29:45,330 --> 00:29:49,130
+the graded dose-response
+relationship assume
+
+513
+00:29:52,330 --> 00:29:54,930
+that the magnitude
+of the response,
+
+514
+00:29:54,930 --> 00:30:00,210
+how large is the
+response of the
+
+515
+00:30:00,210 --> 00:30:03,310
+drug, is proportional
+to the concentration
+
+516
+00:30:03,310 --> 00:30:06,050
+of drug at the
+effector site.
+
+517
+00:30:08,550 --> 00:30:10,910
+Now what determines
+the concentration
+
+518
+00:30:10,910 --> 00:30:13,710
+of drug at the effector
+site? The dose.
+
+519
+00:30:14,310 --> 00:30:17,350
+The dose determines
+the concentration of
+
+520
+00:30:17,350 --> 00:30:19,670
+drug in the biologic
+fluid and what we're
+
+521
+00:30:19,670 --> 00:30:24,620
+talking about almost
+always is plasma, blood,
+
+522
+00:30:25,900 --> 00:30:28,550
+serum, you're going to
+see all these terms.
+
+523
+00:30:31,730 --> 00:30:33,490
+Pharmacokinetic concepts.
+
+524
+00:30:33,650 --> 00:30:36,890
+And this will determine,
+concentration in
+
+525
+00:30:36,890 --> 00:30:39,390
+the blood, will determine
+the concentration
+
+526
+00:30:39,390 --> 00:30:42,290
+of drug at the effector
+site because once
+
+527
+00:30:42,290 --> 00:30:48,960
+the drug gets to the
+systemic circulation,
+
+528
+00:30:49,470 --> 00:30:52,930
+it will be
+distributed to the
+
+529
+00:30:52,930 --> 00:30:55,710
+effector site,
+depending of course on
+
+530
+00:30:55,710 --> 00:30:57,750
+its physicochemical
+properties.
+
+531
+00:30:59,610 --> 00:31:04,110
+Now if there are only
+a few molecules of
+
+532
+00:31:04,110 --> 00:31:06,150
+drug at the effector
+site, then there
+
+533
+00:31:06,150 --> 00:31:09,310
+will be a smaller
+effect than if there are
+
+534
+00:31:09,310 --> 00:31:13,390
+a gazillion, well
+obviously not a gazillion,
+
+535
+00:31:13,390 --> 00:31:16,690
+but lots and lots
+and lots of drug
+
+536
+00:31:16,690 --> 00:31:19,750
+molecules at the
+effector site. Now why?
+
+537
+00:31:20,210 --> 00:31:23,910
+Because remember
+about dissociation
+
+538
+00:31:23,910 --> 00:31:25,870
+association, association,
+
+539
+00:31:25,870 --> 00:31:28,710
+dissociation,
+association, dissociation.
+
+540
+00:31:29,430 --> 00:31:36,510
+Nearly all drugs will
+reversibly bind to
+
+541
+00:31:36,510 --> 00:31:39,870
+its target. So that
+means it will associate
+
+542
+00:31:39,870 --> 00:31:41,930
+and the rate of
+association will depend
+
+543
+00:31:41,930 --> 00:31:45,270
+on its structural
+characteristics and it
+
+544
+00:31:45,270 --> 00:31:49,290
+will dissociate. So,
+once it dissociates,
+
+545
+00:31:49,290 --> 00:31:54,510
+then another drug
+molecule can occupy the
+
+546
+00:31:54,510 --> 00:31:57,090
+receptor site. And
+when it dissociates,
+
+547
+00:31:57,090 --> 00:31:59,310
+another drug molecule
+occupies, and it
+
+548
+00:31:59,310 --> 00:32:01,810
+dissociates, another
+drug molecule occupies.
+
+549
+00:32:01,890 --> 00:32:04,310
+So if there are lots
+of drug molecules
+
+550
+00:32:04,310 --> 00:32:07,710
+in the vicinity of
+the target, there are
+
+551
+00:32:07,710 --> 00:32:11,750
+plenty of drug
+molecules to occupy the
+
+552
+00:32:11,750 --> 00:32:14,630
+receptor when the
+one that's there
+
+553
+00:32:14,660 --> 00:32:17,430
+dissociates. Now, if
+there are only a few,
+
+554
+00:32:17,750 --> 00:32:21,860
+there may not be
+a drug molecule
+
+555
+00:32:21,860 --> 00:32:25,490
+ready to jump
+onto that site.
+
+556
+00:32:25,750 --> 00:32:27,570
+There's a very
+important point to
+
+557
+00:32:27,570 --> 00:32:30,830
+understand here
+with receptors and
+
+558
+00:32:30,830 --> 00:32:32,830
+drug molecules
+and all of that.
+
+559
+00:32:33,070 --> 00:32:36,290
+It's a probability
+that the drug
+
+560
+00:32:36,290 --> 00:32:39,310
+molecule will bump
+into the receptor
+
+561
+00:32:39,310 --> 00:32:42,810
+and have enough
+affinity to bind
+
+562
+00:32:42,810 --> 00:32:45,190
+to it. It's all
+about probability.
+
+563
+00:32:45,790 --> 00:32:48,450
+So if there are lots
+of drug molecules,
+
+564
+00:32:48,530 --> 00:32:50,950
+the probability
+of another
+
+565
+00:32:50,950 --> 00:32:53,610
+drug molecule binding
+is very great.
+
+566
+00:32:53,850 --> 00:32:56,550
+If there are only a
+few drug molecules
+
+567
+00:32:56,550 --> 00:32:58,490
+in the vicinity, then the
+
+568
+00:32:58,490 --> 00:33:01,310
+probability is less.
+And that's really
+
+569
+00:33:01,310 --> 00:33:03,930
+all there is to
+this whole concept.
+
+570
+00:33:04,450 --> 00:33:07,250
+Drug dose determines
+the concentration in
+
+571
+00:33:07,250 --> 00:33:11,370
+blood. blood, the drug
+distributes to the
+
+572
+00:33:11,370 --> 00:33:13,750
+effector site, so the
+concentration in the
+
+573
+00:33:13,750 --> 00:33:15,910
+blood determines
+the concentration at
+
+574
+00:33:15,910 --> 00:33:19,530
+the site of action,
+and how many molecules
+
+575
+00:33:19,530 --> 00:33:21,550
+are at the site of
+action will determine
+
+576
+00:33:21,550 --> 00:33:25,090
+the magnitude of the
+pharmacologic effect.
+
+577
+00:33:32,320 --> 00:33:34,800
+So let's talk some
+more terms here.
+
+578
+00:33:36,060 --> 00:33:38,800
+Intrinsic activity,
+the ability of a drug
+
+579
+00:33:38,800 --> 00:33:41,320
+bound to its receptor
+to activate downstream
+
+580
+00:33:41,320 --> 00:33:44,300
+effector mechanisms.
+mechanisms. So a drug
+
+581
+00:33:44,300 --> 00:33:48,860
+that is capable of
+activating the receptor
+
+582
+00:33:48,860 --> 00:33:52,100
+and the receptor
+activating its downstream
+
+583
+00:33:52,100 --> 00:33:56,160
+effector mechanisms
+has intrinsic activity.
+
+584
+00:33:56,990 --> 00:34:00,400
+And we talk about
+intrinsic activity in
+
+585
+00:34:00,400 --> 00:34:05,320
+terms of does it
+produce the full effect?
+
+586
+00:34:06,600 --> 00:34:10,280
+Then yes, then it has
+
+587
+00:34:10,280 --> 00:34:11,940
+high intrinsic activity.
+
+588
+00:34:12,260 --> 00:34:15,820
+Does it produce a
+partial level of
+
+589
+00:34:15,820 --> 00:34:18,940
+effect? This is called
+a partial agonist.
+
+590
+00:34:18,940 --> 00:34:21,520
+It does have
+intrinsic activity,
+
+591
+00:34:21,520 --> 00:34:24,670
+but not as much as
+the full agonist.
+
+592
+00:34:26,440 --> 00:34:29,920
+Efficacy, the
+quantitative ability of a
+
+593
+00:34:29,920 --> 00:34:33,000
+drug to elicit a
+physiologic response when it
+
+594
+00:34:33,000 --> 00:34:35,180
+interacts with a
+receptor, and of course
+
+595
+00:34:35,180 --> 00:34:37,600
+this is related to the
+intrinsic activity.
+
+596
+00:34:37,600 --> 00:34:41,440
+Now what I want to
+point out here is the
+
+597
+00:34:41,440 --> 00:34:46,140
+pure pharmacology meaning
+of efficacy compared
+
+598
+00:34:46,140 --> 00:34:51,080
+to the everyday usage
+of efficacy. So,
+
+599
+00:34:51,300 --> 00:34:56,060
+this definition
+here is the
+
+600
+00:34:56,060 --> 00:34:58,400
+pure pharmacology
+definition.
+
+601
+00:34:59,180 --> 00:35:01,500
+Agonists have efficacy,
+
+602
+00:35:01,500 --> 00:35:04,560
+inhibitors do not
+have efficacy.
+
+603
+00:35:04,660 --> 00:35:07,680
+But in everyday
+language, if a drug
+
+604
+00:35:07,680 --> 00:35:10,440
+is effective, it
+means it has efficacy,
+
+605
+00:35:10,440 --> 00:35:14,790
+it's efficacious.
+So, please try
+
+606
+00:35:14,790 --> 00:35:18,080
+and separate the
+pharmacology pure
+
+607
+00:35:18,080 --> 00:35:20,960
+definition and the
+everyday meaning.
+
+608
+00:35:20,960 --> 00:35:24,040
+And believe me, you're
+going to be using
+
+609
+00:35:24,040 --> 00:35:27,120
+efficacy, efficacious
+as meaning effective,
+
+610
+00:35:27,900 --> 00:35:29,620
+and you'll be
+using it for
+
+611
+00:35:29,620 --> 00:35:32,820
+inhibitors, agonists,
+whatever drug.
+
+612
+00:35:35,160 --> 00:35:36,260
+Potency.
+
+613
+00:35:36,680 --> 00:35:39,340
+Potency is the
+concentration of
+
+614
+00:35:39,340 --> 00:35:41,560
+drug required to
+produce an effect.
+
+615
+00:35:41,760 --> 00:35:43,960
+And that's going
+to be related to
+
+616
+00:35:43,960 --> 00:35:46,340
+the drug's affinity
+for its target. So
+
+617
+00:35:46,340 --> 00:35:47,870
+we're talking about
+the concentration
+
+618
+00:35:47,940 --> 00:35:51,660
+necessary to
+produce the effect.
+
+619
+00:35:52,830 --> 00:35:55,500
+So we will
+illustrate these
+
+620
+00:35:55,500 --> 00:35:58,280
+in the upcoming
+slides. sides.
+
+621
+00:36:00,900 --> 00:36:05,500
+These two charts
+demonstrate relative
+
+622
+00:36:05,500 --> 00:36:09,380
+efficacy and relative
+potency. So the upper
+
+623
+00:36:09,380 --> 00:36:14,100
+chart is efficacy. We
+see drug A and drug B
+
+624
+00:36:14,100 --> 00:36:18,020
+binding to the same
+receptor and therefore
+
+625
+00:36:18,020 --> 00:36:23,700
+for the function is
+the same and they have
+
+626
+00:36:23,700 --> 00:36:29,100
+intrinsic activity.
+But drug A is a full
+
+627
+00:36:29,100 --> 00:36:32,680
+agonist. It produces
+the maximal effect
+
+628
+00:36:32,680 --> 00:36:36,200
+that that receptor is
+capable of producing.
+
+629
+00:36:36,360 --> 00:36:41,580
+Drug B produces is
+some lower effect.
+
+630
+00:36:41,580 --> 00:36:46,600
+It has partial
+activity. It is
+
+631
+00:36:46,600 --> 00:36:51,380
+called a partial
+agonist. So they both
+
+632
+00:36:51,760 --> 00:36:53,280
+produce an effect.
+
+633
+00:36:53,460 --> 00:36:55,900
+They both bind to
+the same receptor
+
+634
+00:36:55,900 --> 00:36:58,880
+so it's the same
+action but it's a
+
+635
+00:36:58,880 --> 00:37:03,380
+different magnitude.
+Full efficacy or full
+
+636
+00:37:03,380 --> 00:37:06,640
+effect compared
+to partial effect.
+
+637
+00:37:07,320 --> 00:37:10,250
+Now, looking at
+the lower two
+
+638
+00:37:10,320 --> 00:37:13,520
+curves, we have
+drug C and drug D.
+
+639
+00:37:13,920 --> 00:37:18,680
+Drug C will produce 50%
+
+640
+00:37:18,840 --> 00:37:22,960
+of the response at
+this concentration.
+
+641
+00:37:22,960 --> 00:37:24,700
+Whatever this is,
+let's say it's
+
+642
+00:37:24,700 --> 00:37:27,160
+one. Let's say
+it's one milligram.
+
+643
+00:37:28,360 --> 00:37:32,260
+Drug D will produce
+the same full effect,
+
+644
+00:37:32,260 --> 00:37:35,220
+but it takes more
+drug. It takes a
+
+645
+00:37:35,220 --> 00:37:41,980
+higher dose. So let's
+say this is 100 mg.
+
+646
+00:37:44,820 --> 00:37:50,860
+The EC50 is 100 mg
+to produce 50% of the
+
+647
+00:37:50,860 --> 00:37:54,500
+response for drug
+D and drug C, 1 mg
+
+648
+00:37:54,500 --> 00:37:57,420
+will produce 50% of
+the response. They
+
+649
+00:37:57,420 --> 00:38:00,720
+both produce the same
+Efficacy is just a
+
+650
+00:38:00,720 --> 00:38:03,980
+matter of how much
+drug is needed at the
+
+651
+00:38:03,980 --> 00:38:06,800
+receptor site to
+produce that effect.
+
+652
+00:38:06,800 --> 00:38:09,660
+So remember potency is
+related to affinity.
+
+653
+00:38:10,840 --> 00:38:13,870
+So a drug that requires
+a lower concentration,
+
+654
+00:38:14,000 --> 00:38:16,580
+I didn't do a very
+good circle there,
+
+655
+00:38:16,760 --> 00:38:20,280
+is going to need fewer
+molecules because
+
+656
+00:38:20,280 --> 00:38:23,800
+it has higher
+affinity. It stays
+
+657
+00:38:23,800 --> 00:38:26,400
+attached to the
+receptor, it occupies the
+
+658
+00:38:26,400 --> 00:38:30,380
+receptor, for a longer
+duration of time.
+
+659
+00:38:31,100 --> 00:38:35,170
+Its rate of
+association and
+
+660
+00:38:36,140 --> 00:38:38,820
+its rate of,
+let me back up.
+
+661
+00:38:39,040 --> 00:38:43,260
+The rate of dissociation
+of the drug with
+
+662
+00:38:43,260 --> 00:38:47,620
+the higher affinity
+is much longer. It
+
+663
+00:38:47,620 --> 00:38:49,800
+takes longer for it
+to dissociate because
+
+664
+00:38:49,800 --> 00:38:52,640
+it has a high affinity
+for the receptor.
+
+665
+00:38:54,720 --> 00:38:56,720
+Drug D, on the
+other hand,
+
+666
+00:38:56,880 --> 00:38:59,580
+has a lower
+affinity, so it will
+
+667
+00:38:59,580 --> 00:39:01,740
+dissociate much
+more rapidly.
+
+668
+00:39:02,080 --> 00:39:05,020
+And it requires
+more molecules
+
+669
+00:39:05,020 --> 00:39:06,480
+to be there
+to jump on the
+
+670
+00:39:06,480 --> 00:39:09,200
+receptor once drug
+D dissociates.
+
+671
+00:39:09,780 --> 00:39:11,380
+So that's potency.
+
+672
+00:39:13,580 --> 00:39:17,400
+In this example we
+see dose response
+
+673
+00:39:17,400 --> 00:39:20,620
+curves of different
+shapes and
+
+674
+00:39:20,620 --> 00:39:23,940
+this can have a
+clinical impact.
+
+675
+00:39:25,220 --> 00:39:32,560
+Drug B is a partial
+agonist. That's
+
+676
+00:39:32,560 --> 00:39:35,100
+easy to see here.
+It does not produce
+
+677
+00:39:35,100 --> 00:39:38,940
+maximal efficacy
+compared to A, C, and D,
+
+678
+00:39:38,940 --> 00:39:43,880
+which do produce
+the maximal effect.
+
+679
+00:39:44,320 --> 00:39:45,640
+However,
+
+680
+00:39:46,560 --> 00:39:50,840
+drug B is the most
+potent of these four.
+
+681
+00:39:51,040 --> 00:39:55,040
+The EC50 is at this
+point furthest to the
+
+682
+00:39:55,040 --> 00:39:59,020
+left, meaning that
+fewer molecules are
+
+683
+00:39:59,020 --> 00:40:04,500
+needed to produce the
+maximal effect that drug
+
+684
+00:40:04,500 --> 00:40:08,260
+B is capable of. it's
+a partial agonist.
+
+685
+00:40:08,640 --> 00:40:15,040
+Now drug A, C, and D
+have EC50s approximately
+
+686
+00:40:15,040 --> 00:40:17,060
+in the same location
+because they have
+
+687
+00:40:17,060 --> 00:40:22,240
+the same maximal
+efficacy but A is more
+
+688
+00:40:22,240 --> 00:40:24,980
+potent than C which
+is more potent than D.
+
+689
+00:40:25,260 --> 00:40:28,180
+Now I'd like to draw
+your attention to
+
+690
+00:40:28,180 --> 00:40:34,160
+the shape of D. It
+has a much steeper
+
+691
+00:40:34,160 --> 00:40:38,320
+slope than the other
+drugs on this figure.
+
+692
+00:40:39,400 --> 00:40:42,040
+Now, what does that mean?
+
+693
+00:40:42,660 --> 00:40:46,660
+Let's say that the
+majority of patients
+
+694
+00:40:46,660 --> 00:40:48,980
+achieve an effect
+somewhere in this
+
+695
+00:40:48,980 --> 00:40:54,820
+range, and let's say
+that drug D actually
+
+696
+00:40:54,820 --> 00:40:57,560
+has the potential
+for serious toxicity.
+
+697
+00:41:00,220 --> 00:41:04,200
+The dose to achieve
+the maximal effect is
+
+698
+00:41:08,830 --> 00:41:13,590
+fairly close to the
+dose that is required
+
+699
+00:41:13,600 --> 00:41:17,910
+to achieve that will
+cause the toxicity.
+
+700
+00:41:17,910 --> 00:41:19,930
+Let's say it's
+an anesthetic and
+
+701
+00:41:19,930 --> 00:41:21,970
+let's say the
+toxicity is coma.
+
+702
+00:41:23,510 --> 00:41:29,190
+It's very easy to
+overshoot from the
+
+703
+00:41:29,190 --> 00:41:34,370
+therapeutic effect to
+the toxic effect and it's
+
+704
+00:41:34,370 --> 00:41:37,390
+so important to understand
+individual patients
+
+705
+00:41:37,390 --> 00:41:43,450
+risk factors for
+optimization of therapy
+
+706
+00:41:43,450 --> 00:41:46,050
+in the individual
+patient. So that's the
+
+707
+00:41:46,050 --> 00:41:51,270
+meaning of the steep
+dose response curve.
+
+708
+00:41:53,010 --> 00:41:55,830
+Moving now to
+spare receptors.
+
+709
+00:41:55,830 --> 00:41:57,350
+This is another concept.
+
+710
+00:41:57,590 --> 00:42:05,510
+I had said in a very
+simple example that
+
+711
+00:42:06,020 --> 00:42:12,910
+the effect, let me
+back up a little
+
+712
+00:42:12,910 --> 00:42:16,250
+bit, the maximal
+effect is related to
+
+713
+00:42:16,250 --> 00:42:19,710
+the maximal occupancy
+of receptors in the
+
+714
+00:42:19,710 --> 00:42:22,070
+receptor pool, and
+I had said that's
+
+715
+00:42:22,070 --> 00:42:25,370
+not always true. And
+here's an example.
+
+716
+00:42:25,840 --> 00:42:28,830
+Receptors are said to
+be spare for a given
+
+717
+00:42:28,830 --> 00:42:31,350
+pharmacologic response
+if it is possible
+
+718
+00:42:31,350 --> 00:42:34,590
+to elicit a maximal
+biologic response
+
+719
+00:42:34,590 --> 00:42:37,830
+at a concentration
+of agonists that does
+
+720
+00:42:37,830 --> 00:42:41,090
+not result in
+occupancy of the full
+
+721
+00:42:41,090 --> 00:42:43,950
+complement of available
+receptors. So spare,
+
+722
+00:42:44,500 --> 00:42:48,190
+Here, I gave you a
+way to think about
+
+723
+00:42:48,190 --> 00:42:49,970
+spare, it's a
+reserve supply like
+
+724
+00:42:49,970 --> 00:42:53,190
+a spare tire or
+spare cash extra.
+
+725
+00:42:58,120 --> 00:43:00,500
+And we have two
+curves here.
+
+726
+00:43:02,300 --> 00:43:05,080
+Here's our EC50,
+so this is the
+
+727
+00:43:05,080 --> 00:43:07,480
+concentration at
+which, that will
+
+728
+00:43:07,480 --> 00:43:11,160
+produce 50% of the
+maximal response.
+
+729
+00:43:11,600 --> 00:43:14,180
+And here's our maximal
+effect. extract.
+
+730
+00:43:14,500 --> 00:43:18,820
+This is the
+concentration at which
+
+731
+00:43:18,820 --> 00:43:22,100
+50% of the
+receptors are bound
+
+732
+00:43:22,100 --> 00:43:25,220
+with this being
+the maximum number
+
+733
+00:43:25,220 --> 00:43:27,500
+of receptors in
+the receptor pool.
+
+734
+00:43:27,960 --> 00:43:36,080
+The EC50 is at
+one unit of drug
+
+735
+00:43:36,080 --> 00:43:37,200
+concentration
+concentration,
+
+736
+00:43:37,340 --> 00:43:43,000
+and the KD equilibrium
+dissociation constant
+
+737
+00:43:43,000 --> 00:43:46,890
+is at 10 units of
+drug concentration.
+
+738
+00:43:47,340 --> 00:43:49,920
+So 10 times the
+
+739
+00:43:49,920 --> 00:43:54,200
+concentration
+for, let's say,
+
+740
+00:43:54,500 --> 00:43:58,700
+EC50 is 1 tenth of
+the concentration of
+
+741
+00:43:58,700 --> 00:44:01,360
+drug needed to produce
+the response. So,
+
+742
+00:44:01,500 --> 00:44:04,460
+all of these extra
+receptors, all
+
+743
+00:44:04,460 --> 00:44:06,400
+of this concentration
+in here is
+
+744
+00:44:06,400 --> 00:44:08,520
+extra receptors
+that are not bound,
+
+745
+00:44:08,520 --> 00:44:12,540
+but maximal effect
+still occurs.
+
+746
+00:44:14,900 --> 00:44:17,320
+Spare receptors are
+said to exist if
+
+747
+00:44:17,320 --> 00:44:19,900
+the maximal response
+is obtained at
+
+748
+00:44:19,900 --> 00:44:22,340
+less than 100%
+occupation of the
+
+749
+00:44:22,340 --> 00:44:24,420
+receptors. That's
+all there is to it.
+
+750
+00:44:25,440 --> 00:44:28,500
+Only a fraction of total
+receptors are needed
+
+751
+00:44:28,500 --> 00:44:32,240
+to elicit a maximal
+response, thus the
+
+752
+00:44:32,240 --> 00:44:34,260
+remaining receptors
+that are not bound by
+
+753
+00:44:34,260 --> 00:44:37,600
+agonists are referred
+to as spare receptors.
+
+754
+00:44:39,580 --> 00:44:46,220
+So how can the
+researcher determine if
+
+755
+00:44:46,220 --> 00:44:51,520
+a drug is producing
+the maximal effect
+
+756
+00:44:51,680 --> 00:44:54,440
+at a lower
+concentration than the
+
+757
+00:44:54,440 --> 00:44:57,100
+number of receptors
+that are available.
+
+758
+00:44:57,610 --> 00:44:59,490
+Well, it can be
+done experimentally.
+
+759
+00:45:00,840 --> 00:45:06,860
+So imagine that the
+researcher is injecting
+
+760
+00:45:06,860 --> 00:45:12,980
+an irreversible inhibitor
+into the experimental
+
+761
+00:45:12,980 --> 00:45:15,780
+animal. So an
+irreversible inhibitor
+
+762
+00:45:15,780 --> 00:45:20,420
+is going to bind to the
+receptors and prevent
+
+763
+00:45:20,420 --> 00:45:23,780
+the agonist from
+binding, it's inhibiting,
+
+764
+00:45:23,780 --> 00:45:27,320
+and it's irreversible
+so it stays there.
+
+765
+00:45:27,720 --> 00:45:30,160
+It does not dissociate.
+
+766
+00:45:30,760 --> 00:45:35,960
+Now let us say that
+a concentration of
+
+767
+00:45:35,960 --> 00:45:38,460
+agonist is injected,
+this is the starting
+
+768
+00:45:38,460 --> 00:45:44,640
+point, and this is the
+effect. So here is the
+
+769
+00:45:44,640 --> 00:45:48,880
+concentration, the
+EC50, at which 50% of
+
+770
+00:45:48,880 --> 00:45:53,560
+maximal occurs with
+the dose of agonist.
+
+771
+00:45:54,260 --> 00:45:57,540
+Now the researcher will
+
+772
+00:45:57,540 --> 00:45:59,100
+inject the inhibitor.
+
+773
+00:46:04,360 --> 00:46:08,840
+Now the researcher
+needs to inject more
+
+774
+00:46:09,070 --> 00:46:13,460
+agonist in order to
+achieve an effect.
+
+775
+00:46:13,680 --> 00:46:17,400
+The full effect is
+still achieved but
+
+776
+00:46:17,400 --> 00:46:20,900
+at a higher
+concentration of agonist.
+
+777
+00:46:21,440 --> 00:46:24,420
+So now the researcher
+
+778
+00:46:24,420 --> 00:46:26,960
+injects more inhibitor.
+
+779
+00:46:27,400 --> 00:46:33,240
+And now it takes more,
+a higher concentration
+
+780
+00:46:33,240 --> 00:46:37,500
+of agonist to
+produce the effect
+
+781
+00:46:37,500 --> 00:46:40,360
+and it is a maximal
+effect. So from here
+
+782
+00:46:40,360 --> 00:46:45,080
+to here there are
+spare receptors. How
+
+783
+00:46:45,080 --> 00:46:46,940
+do we know? Well Well
+first of all because
+
+784
+00:46:46,940 --> 00:46:50,320
+it's an irreversible
+inhibitor so the
+
+785
+00:46:50,320 --> 00:46:52,580
+agonist is not
+going to bind to the
+
+786
+00:46:52,580 --> 00:46:54,640
+receptors that the
+inhibitor is bound to.
+
+787
+00:46:55,640 --> 00:46:58,260
+So there are still
+some spare receptors
+
+788
+00:46:58,260 --> 00:47:00,660
+around in order
+for the agonist to
+
+789
+00:47:00,660 --> 00:47:02,800
+bind to and produce
+a maximal effect.
+
+790
+00:47:03,940 --> 00:47:05,420
+Now the researcher
+
+791
+00:47:05,420 --> 00:47:09,340
+introduces
+more inhibitor.
+
+792
+00:47:11,340 --> 00:47:12,300
+inhibitor.
+
+793
+00:47:12,300 --> 00:47:16,170
+And then more agonists,
+ah, but the receptors
+
+794
+00:47:16,170 --> 00:47:19,700
+are more and more bound
+by that inhibitor.
+
+795
+00:47:19,700 --> 00:47:22,660
+So they're getting
+closer and closer and
+
+796
+00:47:22,660 --> 00:47:26,480
+closer to maximal
+binding by the inhibitor.
+
+797
+00:47:27,230 --> 00:47:28,560
+So we only get the
+
+798
+00:47:28,560 --> 00:47:30,360
+partial effect.
+And again,
+
+799
+00:47:30,500 --> 00:47:33,360
+more receptors are
+bound, a partial effect,
+
+800
+00:47:33,360 --> 00:47:35,600
+and if it were to
+keep going, eventually
+
+801
+00:47:35,940 --> 00:47:38,520
+there would be no
+effect by the agonist
+
+802
+00:47:38,520 --> 00:47:41,160
+because all of the
+receptors are bound.
+
+803
+00:47:50,330 --> 00:47:52,250
+So in conclusion,
+
+804
+00:47:52,410 --> 00:47:56,070
+we're going to
+look at some terms.
+
+805
+00:47:57,130 --> 00:47:58,870
+I'd like you to match the
+
+806
+00:47:58,870 --> 00:48:02,270
+terms to the
+descriptions.
+
+807
+00:48:02,490 --> 00:48:05,870
+So I invite you to
+pause your computer
+
+808
+00:48:06,310 --> 00:48:08,310
+and see if you can
+come up with the
+
+809
+00:48:08,310 --> 00:48:10,870
+answers. All of the
+terms are on the bottom
+
+810
+00:48:10,870 --> 00:48:15,670
+and match them to
+their definitions.
+
+811
+00:48:17,290 --> 00:48:19,990
+Alright, so you've
+turned your computer
+
+812
+00:48:19,990 --> 00:48:24,730
+back on and let's see
+what the answers are.
+
+813
+00:48:26,090 --> 00:48:27,690
+Actions of the
+body on the
+
+814
+00:48:27,690 --> 00:48:29,270
+drug, pharmacokinetics.
+
+815
+00:48:29,530 --> 00:48:32,970
+The body is acting
+on the drug to
+
+816
+00:48:32,970 --> 00:48:36,230
+cause it to be
+absorbed, distributed,
+
+817
+00:48:36,230 --> 00:48:37,970
+metabolized,
+and excreted.
+
+818
+00:48:38,330 --> 00:48:39,630
+What are the actions of
+
+819
+00:48:39,630 --> 00:48:40,850
+the drug on the body?
+
+820
+00:48:43,110 --> 00:48:45,850
+Pharmacodynamics,
+the drug is
+
+821
+00:48:45,850 --> 00:48:48,790
+causing some kind
+of an effect or
+
+822
+00:48:48,790 --> 00:48:50,650
+blocking some
+kind of an effect.
+
+823
+00:48:50,730 --> 00:48:52,850
+The branch of
+science that deals
+
+824
+00:48:52,850 --> 00:48:55,310
+with the undesirable
+effects of
+
+825
+00:48:55,310 --> 00:48:57,050
+chemicals on the
+living system.
+
+826
+00:49:00,070 --> 00:49:01,750
+Toxicity, toxicology.
+
+827
+00:49:01,870 --> 00:49:04,490
+The development
+of drugs based on
+
+828
+00:49:04,490 --> 00:49:06,530
+knowledge of the
+three-dimensional
+
+829
+00:49:06,530 --> 00:49:09,550
+structure of the
+receptor side. So
+
+830
+00:49:09,550 --> 00:49:11,890
+this is the drug
+development side.
+
+831
+00:49:13,390 --> 00:49:17,550
+And that's called
+rational drug design. And
+
+832
+00:49:17,550 --> 00:49:21,130
+it's actually computer
+-based. The drug
+
+833
+00:49:21,130 --> 00:49:24,550
+development company runs
+a bunch of structures
+
+834
+00:49:24,550 --> 00:49:28,030
+through the computer
+looking for a hit.
+
+835
+00:49:28,570 --> 00:49:31,290
+The relation of
+the individual's
+
+836
+00:49:31,290 --> 00:49:33,010
+genetic makeup to his or
+
+837
+00:49:33,010 --> 00:49:35,370
+her response to
+specific drugs.
+
+838
+00:49:35,760 --> 00:49:38,370
+Let's see if you
+can figure this
+
+839
+00:49:38,370 --> 00:49:40,370
+out just from
+the description.
+
+840
+00:49:41,670 --> 00:49:44,190
+Well, of course, it must
+be pharmacogenomics,
+
+841
+00:49:44,590 --> 00:49:46,890
+it has genetics right
+there in the name.
+
+842
+00:49:47,550 --> 00:49:49,690
+The science of
+substances used to
+
+843
+00:49:49,690 --> 00:49:52,190
+prevent, diagnose,
+and treat disease.
+
+844
+00:49:54,390 --> 00:49:57,050
+Prevent, diagnose, and
+treat disease, well
+
+845
+00:49:57,050 --> 00:50:00,190
+that's medicine. medicine,
+medical pharmacology,
+
+846
+00:50:00,240 --> 00:50:04,170
+the specific molecule
+in the biologic
+
+847
+00:50:04,170 --> 00:50:07,410
+system that plays a
+regulatory role, the
+
+848
+00:50:07,740 --> 00:50:10,710
+receptor, and of course
+the last one is the drug,
+
+849
+00:50:10,710 --> 00:50:12,450
+a substance introduced
+to the body that
+
+850
+00:50:12,450 --> 00:50:15,290
+brings about a change
+in biologic function
+
+851
+00:50:15,290 --> 00:50:18,590
+through its interactions
+with body components.
+
+852
+00:50:21,270 --> 00:50:23,750
+This is a preview
+for the next
+
+853
+00:50:23,750 --> 00:50:28,690
+lecture and also
+looking back at a couple
+
+854
+00:50:28,690 --> 00:50:30,130
+of things that
+we talked about.
+
+855
+00:50:31,870 --> 00:50:34,490
+So I invite you to
+pause your computer and
+
+856
+00:50:34,490 --> 00:50:36,510
+see if you can come
+up with the matches.
+
+857
+00:50:39,230 --> 00:50:40,570
+So now you're back.
+
+858
+00:50:40,890 --> 00:50:43,230
+A drug that binds
+to and activates
+
+859
+00:50:43,230 --> 00:50:45,410
+a receptor but
+does not evoke a
+
+860
+00:50:45,410 --> 00:50:47,450
+maximal response,
+no No matter how
+
+861
+00:50:47,450 --> 00:50:49,530
+high the
+concentration of drug.
+
+862
+00:50:51,720 --> 00:50:53,820
+A partial agonist.
+
+863
+00:50:54,240 --> 00:50:57,650
+A drug that binds a
+receptor, competes with,
+
+864
+00:50:57,650 --> 00:51:00,750
+and prevents binding
+by other molecules.
+
+865
+00:51:03,750 --> 00:51:06,070
+That's an antagonist.
+
+866
+00:51:07,530 --> 00:51:10,270
+The relative
+ability of a drug
+
+867
+00:51:10,270 --> 00:51:12,550
+receptor complex
+to produce the
+
+868
+00:51:12,550 --> 00:51:15,170
+maximal functional
+response.
+
+869
+00:51:18,920 --> 00:51:22,530
+Intrinsic Efficacy
+A drug that has
+
+870
+00:51:22,530 --> 00:51:24,710
+a much stronger
+affinity for the
+
+871
+00:51:24,710 --> 00:51:32,630
+inactive shape of
+of the receptor than
+
+872
+00:51:32,630 --> 00:51:36,810
+for the active
+conformation state,
+
+873
+00:51:36,810 --> 00:51:40,530
+and stabilizes a
+large fraction of
+
+874
+00:51:41,690 --> 00:51:44,590
+the inactivated
+conformation drug
+
+875
+00:51:44,590 --> 00:51:49,430
+pool, reducing
+constitutive activity.
+
+876
+00:51:49,430 --> 00:51:51,610
+Now if you didn't get
+this, I don't blame
+
+877
+00:51:51,610 --> 00:51:53,870
+you, we'll talk about
+it in the next lecture.
+
+878
+00:51:55,120 --> 00:51:58,810
+This is called an
+inverse agonist. In the
+
+879
+00:51:58,810 --> 00:52:00,810
+absence of any
+agonist, some of the
+
+880
+00:52:00,810 --> 00:52:03,670
+receptor pool must exist
+in the activated form
+
+881
+00:52:03,670 --> 00:52:06,490
+some of the time and
+may produce the same
+
+882
+00:52:06,490 --> 00:52:09,630
+physiologic effect
+as an agonist induced
+
+883
+00:52:09,630 --> 00:52:13,230
+activity. And this is
+called constitutive
+
+884
+00:52:13,230 --> 00:52:16,670
+activity, or as
+they say in certain
+
+885
+00:52:16,670 --> 00:52:19,610
+parts of the country
+constitutive activity.
+
+886
+00:52:20,500 --> 00:52:22,970
+A drug that binds
+to and activates the
+
+887
+00:52:22,970 --> 00:52:25,750
+receptor in some fashion,
+which directly or
+
+888
+00:52:25,750 --> 00:52:27,770
+indirectly directly
+brings about the effect.
+
+889
+00:52:30,210 --> 00:52:31,570
+An agonist.
+
+890
+00:52:33,250 --> 00:52:36,070
+A drug that directly
+activates a receptor
+
+891
+00:52:36,070 --> 00:52:38,890
+by binding to a
+receptor site different
+
+892
+00:52:38,890 --> 00:52:41,830
+or distinct from
+the primary site. So
+
+893
+00:52:41,830 --> 00:52:45,000
+that's going to be an
+allosteric activator.
+
+894
+00:52:45,430 --> 00:52:48,130
+And finally, a drug
+that binds a receptor
+
+895
+00:52:48,130 --> 00:52:50,590
+at a site distinct
+from the primary site
+
+896
+00:52:50,590 --> 00:52:53,290
+inhibits the action
+of the agonist, and
+
+897
+00:52:53,290 --> 00:52:55,730
+is not overcome by
+increasing the dose of
+
+898
+00:52:55,730 --> 00:52:59,030
+the agonist, is an
+allosteric inhibitor.
+
+899
+00:53:01,770 --> 00:53:06,890
+So in summary,
+pharmacodynamics is
+
+900
+00:53:06,890 --> 00:53:09,110
+the study of the
+biochemical, cellular,
+
+901
+00:53:09,110 --> 00:53:10,670
+and physiologic
+effects of drugs
+
+902
+00:53:10,670 --> 00:53:12,530
+and their mechanisms
+of action, what
+
+903
+00:53:12,530 --> 00:53:15,630
+the drug does to
+the body, and how.
+
+904
+00:53:16,250 --> 00:53:17,630
+Pharmacokinetics
+is the study
+
+905
+00:53:17,630 --> 00:53:19,250
+of the movement
+and fate of
+
+906
+00:53:19,250 --> 00:53:20,870
+drugs in the
+body, absorption,
+
+907
+00:53:21,230 --> 00:53:24,250
+metabolism, excretion,
+what the body
+
+908
+00:53:24,250 --> 00:53:27,070
+does to the drug,
+and how it does it.
+
+909
+00:53:27,450 --> 00:53:29,970
+Knowledge of
+biochemical, cellular,
+
+910
+00:53:29,970 --> 00:53:32,490
+physiologic, and
+pathologic processes is
+
+911
+00:53:32,490 --> 00:53:35,850
+essential for
+understanding pharmacology,
+
+912
+00:53:35,850 --> 00:53:38,290
+pharmacodynamics,
+pharmacokinetics.
+
+913
+00:53:38,630 --> 00:53:41,270
+Knowledge of
+pharmacology is essential
+
+914
+00:53:41,270 --> 00:53:44,370
+for the safe and
+effective use
+
+915
+00:53:44,370 --> 00:53:46,930
+of drugs. That's
+the whole point,
+
+916
+00:53:47,050 --> 00:53:48,910
+optimizing drug therapy
+
+917
+00:53:48,910 --> 00:53:51,550
+in the individual
+patient.
+
+918
+00:53:52,510 --> 00:53:54,730
+And I put this
+little scheme
+
+919
+00:53:54,730 --> 00:53:57,570
+here, this little
+mind map, to
+
+920
+00:53:57,570 --> 00:54:01,050
+help you visualize
+the concepts.
+
+921
+00:54:03,550 --> 00:54:05,650
+The physical chemical
+characteristics
+
+922
+00:54:05,650 --> 00:54:07,670
+of a drug determines
+its ability to
+
+923
+00:54:07,670 --> 00:54:09,890
+move through the
+body and initiate a
+
+924
+00:54:09,890 --> 00:54:12,630
+cellular effect.
+the physicochemical
+
+925
+00:54:12,630 --> 00:54:15,390
+characteristics of
+a drug that predict
+
+926
+00:54:15,390 --> 00:54:18,550
+its movement,
+predict its movement.
+
+927
+00:54:18,690 --> 00:54:21,790
+And availability at
+sites of action are
+
+928
+00:54:21,790 --> 00:54:24,430
+its molecular size,
+shape, chirality,
+
+929
+00:54:24,670 --> 00:54:28,200
+degree of ionization,
+relative lipid solubility
+
+930
+00:54:28,230 --> 00:54:31,610
+of its ionized and
+non-ionized forms,
+
+931
+00:54:31,910 --> 00:54:35,990
+and the relative
+lipid solubility if it
+
+932
+00:54:35,990 --> 00:54:39,130
+doesn't have any
+ionization. The structure
+
+933
+00:54:39,130 --> 00:54:41,530
+activity relationship
+is the relationship
+
+934
+00:54:41,530 --> 00:54:43,730
+between the chemical
+or 3D structure
+
+935
+00:54:43,730 --> 00:54:46,850
+of a molecule and the
+biologic activity.
+
+936
+00:54:47,350 --> 00:54:49,310
+The interaction
+of a drug with its
+
+937
+00:54:49,310 --> 00:54:52,030
+receptor is the
+fundamental event that
+
+938
+00:54:52,030 --> 00:54:55,110
+initiates the
+action of the drug.
+
+939
+00:54:55,190 --> 00:54:58,710
+And I've given you
+some pictures here of
+
+940
+00:54:58,710 --> 00:55:01,470
+different types of
+receptors and actions.
+
+941
+00:55:03,700 --> 00:55:06,270
+Drugs interact with
+receptors to produce
+
+942
+00:55:06,270 --> 00:55:08,850
+a change in the state,
+the confirmation,
+
+943
+00:55:09,270 --> 00:55:11,010
+of the receptor which
+
+944
+00:55:11,010 --> 00:55:14,130
+transduces a
+physiologic effect.
+
+945
+00:55:14,530 --> 00:55:16,890
+The molecular
+action with the
+
+946
+00:55:16,890 --> 00:55:19,430
+receptor can be
+modeled mathematically
+
+947
+00:55:20,870 --> 00:55:23,610
+and obeys the law
+of mass action.
+
+948
+00:55:23,990 --> 00:55:26,010
+The binding of a
+drug and receptor
+
+949
+00:55:26,010 --> 00:55:28,330
+determines the
+quantitative relationship
+
+950
+00:55:28,330 --> 00:55:31,490
+between the dose
+and the effect.
+
+951
+00:55:33,190 --> 00:55:35,290
+Mutual affinity of
+drug and receptor
+
+952
+00:55:35,290 --> 00:55:37,170
+determines the
+quantitative
+
+953
+00:55:37,170 --> 00:55:40,610
+relationship between
+dose and effect.
+
+954
+00:55:44,110 --> 00:55:46,670
+Traditional receptor
+occupancy theory
+
+955
+00:55:46,670 --> 00:55:48,930
+rests on the
+assumption that the
+
+956
+00:55:48,930 --> 00:55:51,710
+proportion of occupied
+receptors is related
+
+957
+00:55:51,710 --> 00:55:54,410
+to the effect of
+the drug. For full
+
+958
+00:55:54,410 --> 00:55:57,950
+agonists, 100%
+occupancy produces the
+
+959
+00:55:57,950 --> 00:56:00,930
+maximal effect, a
+linear relationship.
+
+960
+00:56:02,180 --> 00:56:05,130
+For some receptors, a
+biologic response may
+
+961
+00:56:05,130 --> 00:56:09,110
+be achieved before full
+receptor occupancy.
+
+962
+00:56:09,300 --> 00:56:11,190
+The fraction
+of unoccupied
+
+963
+00:56:11,190 --> 00:56:14,170
+receptors is called
+spare receptors.
+
+964
+00:56:14,840 --> 00:56:19,290
+And here are the
+answers to the matching.
+
+965
+00:56:19,950 --> 00:56:22,610
+My references and
+that concludes
+
+966
+00:56:22,610 --> 00:56:26,130
+this lecture and
+you're invited to
+
+967
+00:56:26,130 --> 00:56:29,370
+please fill out
+the feedback form.
+
+1
+00:00:00,790 --> 00:00:03,070
+Welcome students
+to the second part
+
+2
+00:00:03,070 --> 00:00:06,110
+of our pharmacodynamics
+lectures.
+
+3
+00:00:06,960 --> 00:00:08,510
+In this lecture,
+
+4
+00:00:08,670 --> 00:00:11,750
+we will talk about
+quantifying agonism
+
+5
+00:00:11,750 --> 00:00:14,290
+and antagonism,
+various models,
+
+6
+00:00:14,590 --> 00:00:16,470
+receptor dynamics,
+
+7
+00:00:16,730 --> 00:00:19,510
+and pharmacodynamic
+variability in a
+
+8
+00:00:19,510 --> 00:00:22,470
+population. Dr.
+Goldstein speaking.
+
+9
+00:00:25,290 --> 00:00:27,710
+I extend an
+invitation for a
+
+10
+00:00:27,710 --> 00:00:30,130
+pharmacology chat.
+If you would like
+
+11
+00:00:30,130 --> 00:00:33,130
+groups or individuals,
+all welcome.
+
+12
+00:00:33,930 --> 00:00:36,850
+Just email me and we'll
+set up an appointment
+
+13
+00:00:36,850 --> 00:00:39,850
+that's convenient for
+both or all of us.
+
+14
+00:00:42,630 --> 00:00:44,790
+Here are the learning
+objectives. Just to
+
+15
+00:00:44,790 --> 00:00:46,750
+remind you, this is
+the answer to the
+
+16
+00:00:46,750 --> 00:00:50,150
+question, what do I need
+to know? now, so that
+
+17
+00:00:50,150 --> 00:00:52,970
+you can focus your
+studies and try and
+
+18
+00:00:52,970 --> 00:00:55,530
+avoid going down rabbit
+holes. As interesting
+
+19
+00:00:55,530 --> 00:00:58,750
+as they are, they can
+take up your time.
+
+20
+00:01:00,830 --> 00:01:03,270
+Compare and contrast
+the actions and effects
+
+21
+00:01:03,270 --> 00:01:06,910
+of agonists and
+antagonists as illustrated
+
+22
+00:01:06,910 --> 00:01:10,090
+by specific concentration
+effect curves.
+
+23
+00:01:10,230 --> 00:01:13,010
+We talked about
+those dose-response
+
+24
+00:01:13,010 --> 00:01:15,670
+relationships concentration
+effect curves in
+
+25
+00:01:15,670 --> 00:01:18,690
+the part one lecture
+and now we're going
+
+26
+00:01:18,690 --> 00:01:21,850
+to apply it to agonists
+and antagonists.
+
+27
+00:01:23,230 --> 00:01:26,550
+We're going to talk
+about them in the context
+
+28
+00:01:26,550 --> 00:01:29,430
+of the classical
+receptor occupancy model
+
+29
+00:01:29,430 --> 00:01:32,230
+and the two-state
+receptor occupancy model.
+
+30
+00:01:32,910 --> 00:01:35,050
+We're going to talk
+about competitive
+
+31
+00:01:35,050 --> 00:01:38,070
+antagonists, non
+-competitive antagonists,
+
+32
+00:01:38,070 --> 00:01:39,930
+negative and
+positive allosteric
+
+33
+00:01:39,930 --> 00:01:43,650
+modulators, and
+spare receptors as
+
+34
+00:01:43,650 --> 00:01:46,290
+demonstrated in
+experimental sample models.
+
+35
+00:01:47,590 --> 00:01:50,050
+We're going to relate
+the drug action,
+
+36
+00:01:50,050 --> 00:01:52,610
+receptor occupancy,
+receptor response,
+
+37
+00:01:52,610 --> 00:01:54,530
+and receptor
+regulation based on
+
+38
+00:01:54,530 --> 00:01:57,850
+concentration effect
+curves and receptor
+
+39
+00:01:57,850 --> 00:02:00,870
+binding of agonists
+and antagonists.
+
+40
+00:02:00,870 --> 00:02:02,610
+And finally,
+
+41
+00:02:02,790 --> 00:02:06,490
+we will explain the
+pharmacodynamic variabilities
+
+42
+00:02:06,490 --> 00:02:09,770
+in a population
+and calculate the
+
+43
+00:02:09,770 --> 00:02:14,230
+therapeutic index when
+given the quantal dose
+
+44
+00:02:14,230 --> 00:02:16,950
+response curves. These
+are the things that
+
+45
+00:02:16,950 --> 00:02:21,230
+you should be able to
+do after you've become
+
+46
+00:02:21,230 --> 00:02:24,370
+familiar with the
+concepts in this lecture.
+
+47
+00:02:27,410 --> 00:02:32,650
+And here are the
+preparation materials in
+
+48
+00:02:32,650 --> 00:02:35,350
+the CPG and also on
+these slides. Scholar
+
+49
+00:02:35,350 --> 00:02:37,930
+Rx Bricks, Practice
+questions are required.
+
+50
+00:02:37,930 --> 00:02:43,610
+All the rest is at
+your own choice.
+
+51
+00:02:44,140 --> 00:02:46,290
+Whatever works for
+you. You will have
+
+52
+00:02:46,290 --> 00:02:49,130
+to acquire the
+knowledge, so do that
+
+53
+00:02:49,130 --> 00:02:51,210
+in the way that
+works best for you.
+
+54
+00:02:53,500 --> 00:02:57,660
+Here are our links
+to textbooks and
+
+55
+00:02:58,670 --> 00:03:01,330
+our receptor
+occupancy model. These
+
+56
+00:03:01,330 --> 00:03:03,570
+are what you need
+to learn about.
+
+57
+00:03:03,860 --> 00:03:06,250
+I'm not going to
+read these slides.
+
+58
+00:03:06,430 --> 00:03:09,710
+You can read them
+yourself perfectly well.
+
+59
+00:03:10,850 --> 00:03:13,750
+Classical receptor
+occupancy model.
+
+60
+00:03:16,180 --> 00:03:17,970
+Other mechanisms of drug
+
+61
+00:03:17,970 --> 00:03:20,150
+antagonism.
+Receptor dynamics.
+
+62
+00:03:22,320 --> 00:03:24,310
+You'll hear
+about receptor
+
+63
+00:03:24,310 --> 00:03:28,170
+desensitization,
+downregulation, tachyphylaxis,
+
+64
+00:03:28,170 --> 00:03:30,790
+disease, receptor
+resensitization,
+
+65
+00:03:30,790 --> 00:03:38,770
+supersensitivity,
+and pharmacodynamic
+
+66
+00:03:38,770 --> 00:03:41,550
+variability in
+a population.
+
+67
+00:03:41,590 --> 00:03:45,350
+You can think about
+animal experimentation,
+
+68
+00:03:45,350 --> 00:03:47,450
+you can think about
+clinical trials.
+
+69
+00:03:49,550 --> 00:03:52,630
+So let us begin with
+our receptor occupancy
+
+70
+00:03:52,630 --> 00:03:56,290
+models of agonists
+and antagonists.
+
+71
+00:03:57,190 --> 00:03:59,670
+The two that
+we'll talk about,
+
+72
+00:03:59,810 --> 00:04:02,510
+which are two
+basics and as you
+
+73
+00:04:02,510 --> 00:04:05,330
+read about more
+going through
+
+74
+00:04:05,720 --> 00:04:08,590
+your practice
+life, your lifelong
+
+75
+00:04:08,590 --> 00:04:10,550
+learning, you'll
+see others but
+
+76
+00:04:10,550 --> 00:04:12,590
+you can build on
+these two models.
+
+77
+00:04:13,840 --> 00:04:19,550
+They propose explanations
+of the activity
+
+78
+00:04:19,550 --> 00:04:22,810
+of drugs at receptors.
+And these are
+
+79
+00:04:22,810 --> 00:04:28,850
+founded in abundant
+experimentation.
+
+80
+00:04:30,960 --> 00:04:34,730
+So the two-state
+receptor occupancy model,
+
+81
+00:04:34,730 --> 00:04:36,830
+I'm going to mention
+that one first,
+
+82
+00:04:36,950 --> 00:04:38,510
+postulates
+
+83
+00:04:38,560 --> 00:04:42,610
+that the receptor assumes
+two conformational
+
+84
+00:04:42,610 --> 00:04:46,970
+states, active and
+inactive, in the
+
+85
+00:04:46,970 --> 00:04:51,310
+absence of a ligand.
+So, it can be either
+
+86
+00:04:51,310 --> 00:04:54,370
+in an active state
+or an inactive state.
+
+87
+00:04:55,130 --> 00:04:57,530
+We're talking about an
+
+88
+00:04:57,530 --> 00:05:01,350
+entire pool of receptors.
+
+89
+00:05:01,610 --> 00:05:04,090
+So this is called
+the receptor pool.
+
+90
+00:05:04,090 --> 00:05:08,410
+And some of the receptors
+in that pool are
+
+91
+00:05:08,410 --> 00:05:11,030
+in a conformational
+state that's active and
+
+92
+00:05:11,030 --> 00:05:14,890
+it's going to produce
+some basal activity.
+
+93
+00:05:14,890 --> 00:05:19,990
+Many receptors, I should
+say many cells, need
+
+94
+00:05:19,990 --> 00:05:23,480
+to have some sort of
+constitutive activity
+
+95
+00:05:23,530 --> 00:05:25,830
+in order for
+us to function
+
+96
+00:05:25,830 --> 00:05:28,310
+as human beings,
+as organisms.
+
+97
+00:05:29,590 --> 00:05:31,530
+And some of them
+are going to
+
+98
+00:05:31,530 --> 00:05:33,370
+be in an inactive
+conformation.
+
+99
+00:05:35,470 --> 00:05:38,230
+The receptor can
+activate downstream
+
+100
+00:05:38,230 --> 00:05:41,190
+mechanisms that produce
+a small observable
+
+101
+00:05:41,190 --> 00:05:43,310
+effect even in the
+absence of a ligand
+
+102
+00:05:43,310 --> 00:05:45,930
+and it has constitutive,
+other people
+
+103
+00:05:45,930 --> 00:05:49,850
+say constitutive,
+or basal activity.
+
+104
+00:05:49,850 --> 00:05:51,890
+So that's what
+we mean with the
+
+105
+00:05:51,890 --> 00:05:54,890
+two-state receptor
+occupancy model.
+
+106
+00:05:54,890 --> 00:05:58,310
+There is a total
+receptor pool.
+
+107
+00:05:59,210 --> 00:06:01,330
+Some of the
+receptors are in an
+
+108
+00:06:01,330 --> 00:06:04,530
+active form
+producing some basal
+
+109
+00:06:04,530 --> 00:06:06,990
+amount of activity
+and and the others
+
+110
+00:06:06,990 --> 00:06:09,190
+are in an inactive
+conformation.
+
+111
+00:06:09,330 --> 00:06:12,410
+Now the classical
+receptor occupancy
+
+112
+00:06:12,410 --> 00:06:14,670
+model, which actually
+did come first,
+
+113
+00:06:15,390 --> 00:06:17,230
+postulates that
+receptors in a
+
+114
+00:06:17,230 --> 00:06:19,570
+receptor pool
+are quiet unless
+
+115
+00:06:19,570 --> 00:06:21,430
+they are activated
+by a ligand.
+
+116
+00:06:21,710 --> 00:06:26,510
+That ligand is usually
+some natural molecule,
+
+117
+00:06:26,610 --> 00:06:30,130
+an endogenous molecule,
+let's say epinephrine.
+
+118
+00:06:30,130 --> 00:06:32,730
+I used that as an
+example before. 4.
+
+119
+00:06:34,250 --> 00:06:37,670
+Agonists bind to
+receptors and stimulate
+
+120
+00:06:37,670 --> 00:06:40,510
+the signal transduction
+pathways. Agonists
+
+121
+00:06:40,510 --> 00:06:44,030
+have affinity and
+intrinsic activity.
+
+122
+00:06:44,290 --> 00:06:47,310
+5. Antagonists bind
+to receptors and
+
+123
+00:06:47,310 --> 00:06:51,190
+inhibit or block the
+biologic responses
+
+124
+00:06:51,190 --> 00:06:53,610
+by interfering
+with the agonist's
+
+125
+00:06:53,610 --> 00:06:55,630
+ability to activate
+the receptor. here.
+
+126
+00:06:57,410 --> 00:06:59,890
+Antagonists have
+affinity, they will
+
+127
+00:06:59,890 --> 00:07:03,850
+bind, and the receptor
+will bind to them,
+
+128
+00:07:03,850 --> 00:07:06,730
+but they have zero
+intrinsic activity.
+
+129
+00:07:06,730 --> 00:07:09,610
+They are not causing
+the receptor to
+
+130
+00:07:09,610 --> 00:07:13,150
+activate its downstream
+effector mechanism.
+
+131
+00:07:13,470 --> 00:07:17,030
+And at the same
+time, they block
+
+132
+00:07:17,030 --> 00:07:19,290
+the agonist from
+occupying the
+
+133
+00:07:19,290 --> 00:07:22,390
+site, inhibitors
+or blockers.
+
+134
+00:07:24,610 --> 00:07:28,890
+So let's take a look
+at curves in the two
+
+135
+00:07:28,890 --> 00:07:31,770
+-state model of drug
+receptor interaction.
+
+136
+00:07:32,550 --> 00:07:35,470
+The hypothetical
+receptor is able to
+
+137
+00:07:35,470 --> 00:07:37,510
+assume two conformations,
+I explained
+
+138
+00:07:37,510 --> 00:07:41,190
+that before. So,
+on this figure,
+
+139
+00:07:42,430 --> 00:07:45,790
+we have our active
+confirmation or
+
+140
+00:07:52,180 --> 00:07:53,560
+inactive confirmation.
+
+141
+00:07:56,020 --> 00:07:59,460
+And here we have our
+drug coming in, and
+
+142
+00:08:00,500 --> 00:08:03,820
+the drug can bind to the
+inactive confirmation
+
+143
+00:08:03,820 --> 00:08:06,300
+and hold it there,
+or drug can bind to
+
+144
+00:08:06,300 --> 00:08:08,400
+the active confirmation
+and hold it there.
+
+145
+00:08:08,420 --> 00:08:13,780
+So, let's take a look
+now at these curves.
+
+146
+00:08:15,960 --> 00:08:17,740
+Talking about a drug.
+
+147
+00:08:18,560 --> 00:08:21,780
+So a drug that is a
+full agonist, you can
+
+148
+00:08:21,780 --> 00:08:26,130
+see it's producing the
+maximal effect, Emax.
+
+149
+00:08:31,820 --> 00:08:35,140
+The drug will bind to
+the receptor in the
+
+150
+00:08:35,140 --> 00:08:38,460
+active conformation.
+It has affinity for
+
+151
+00:08:38,460 --> 00:08:41,360
+the receptor in the
+active conformation.
+
+152
+00:08:41,480 --> 00:08:45,840
+That's the affinity
+that it has.
+
+153
+00:08:45,980 --> 00:08:48,900
+So it will shift
+almost all of
+
+154
+00:08:48,900 --> 00:08:52,140
+the receptors
+in the pool to
+
+155
+00:08:52,140 --> 00:08:56,780
+the active plus
+drug complex,
+
+156
+00:08:58,260 --> 00:09:01,500
+activating the receptor
+-effector systems
+
+157
+00:09:01,500 --> 00:09:04,860
+to the maximal
+effect. Now let's
+
+158
+00:09:04,860 --> 00:09:07,050
+take a look at the
+second curve down.
+
+159
+00:09:07,910 --> 00:09:11,240
+Here we have a drug
+that will bind to
+
+160
+00:09:11,240 --> 00:09:15,540
+the active
+conformation of the
+
+161
+00:09:15,540 --> 00:09:18,780
+receptor, but it will
+also bind to a certain
+
+162
+00:09:18,780 --> 00:09:22,280
+extent the inactive
+conformation.
+
+163
+00:09:22,280 --> 00:09:24,540
+So partial agonists
+have a slightly
+
+164
+00:09:24,540 --> 00:09:28,020
+greater affinity for
+the active conformation
+
+165
+00:09:28,020 --> 00:09:31,660
+than for the inactive
+conformation. And
+
+166
+00:09:31,660 --> 00:09:33,760
+what is the effect
+that we would see?
+
+167
+00:09:34,350 --> 00:09:37,640
+They do not
+stabilize the active
+
+168
+00:09:37,640 --> 00:09:41,840
+conformation as much as
+the full agonists do.
+
+169
+00:09:42,240 --> 00:09:45,080
+Therefore, a
+significant fraction
+
+170
+00:09:45,080 --> 00:09:47,000
+of the receptors
+is in the
+
+171
+00:09:47,000 --> 00:09:50,100
+inactive drug
+complex form.
+
+172
+00:09:50,370 --> 00:09:56,880
+As a result, there
+is some effect, but
+
+173
+00:09:56,880 --> 00:09:59,460
+it's not the full
+effect. It's not
+
+174
+00:09:59,460 --> 00:10:03,300
+maximal efficacy,
+it's a partial effect.
+
+175
+00:10:03,400 --> 00:10:08,780
+Therefore a partial
+agonist produces
+
+176
+00:10:08,780 --> 00:10:11,060
+only the partial
+effect. Now I'd
+
+177
+00:10:11,060 --> 00:10:13,240
+like, well I'll
+point that out later.
+
+178
+00:10:13,370 --> 00:10:18,340
+Now a neutral antagonist,
+here we have our
+
+179
+00:10:18,340 --> 00:10:24,480
+baseline constitutive
+activity, a neutral
+
+180
+00:10:25,220 --> 00:10:28,340
+antagonist will
+have equal affinity
+
+181
+00:10:28,340 --> 00:10:32,580
+for both the
+active confirmation
+
+182
+00:10:32,580 --> 00:10:35,000
+and the inactive
+confirmation.
+
+183
+00:10:35,580 --> 00:10:39,040
+And what it will
+appear is that the
+
+184
+00:10:39,040 --> 00:10:41,660
+drug has no
+effect. So if this
+
+185
+00:10:41,660 --> 00:10:44,280
+particular drug that
+has the equal affinity
+
+186
+00:10:44,280 --> 00:10:46,780
+is injected into
+an animal model
+
+187
+00:10:47,240 --> 00:10:50,720
+and we're looking
+to see what happens,
+
+188
+00:10:50,720 --> 00:10:52,580
+it looks like
+nothing changes.
+
+189
+00:10:53,140 --> 00:10:55,120
+Whatever
+constitutive activity
+
+190
+00:10:55,120 --> 00:10:57,600
+was going on
+continues to go on.
+
+191
+00:10:57,920 --> 00:10:59,420
+No change.
+
+192
+00:11:00,870 --> 00:11:02,860
+So it looks
+like nothing is
+
+193
+00:11:02,860 --> 00:11:07,460
+happening. But
+the drug is bound.
+
+194
+00:11:08,460 --> 00:11:11,380
+It's an antagonist
+and it's bound to the
+
+195
+00:11:11,380 --> 00:11:17,920
+receptors and it will
+prevent the agonist,
+
+196
+00:11:17,920 --> 00:11:19,940
+the full agonist or
+the partial agonist
+
+197
+00:11:19,940 --> 00:11:22,820
+from binding. So it
+is still inhibiting.
+
+198
+00:11:23,800 --> 00:11:27,660
+Now the inverse
+agonist, I know
+
+199
+00:11:27,660 --> 00:11:29,590
+this is kind of
+a confusing term,
+
+200
+00:11:30,480 --> 00:11:36,480
+the inverse agonist
+will bind to the
+
+201
+00:11:36,480 --> 00:11:40,320
+inactive conformation
+with much higher
+
+202
+00:11:40,320 --> 00:11:43,240
+affinity than it binds to
+the active conformation
+
+203
+00:11:43,240 --> 00:11:45,840
+and therefore the
+inverse agonist
+
+204
+00:11:45,840 --> 00:11:49,500
+will stabilize the
+large fraction of the
+
+205
+00:11:49,500 --> 00:11:52,860
+receptors in the
+inactive conformation.
+
+206
+00:11:52,880 --> 00:11:55,520
+So what do we see? What
+does the researcher
+
+207
+00:11:55,520 --> 00:11:59,800
+see when the animal
+is injected with
+
+208
+00:11:59,800 --> 00:12:03,240
+a drug that is an
+inverse agonist? It will
+
+209
+00:12:03,240 --> 00:12:08,880
+show that there
+is a decrease in
+
+210
+00:12:08,880 --> 00:12:13,200
+constitutive activity.
+The effect decreases,
+
+211
+00:12:13,250 --> 00:12:16,660
+resulting in the effects
+opposite from the
+
+212
+00:12:16,660 --> 00:12:21,060
+agonist. So it looks
+like an inhibitor.
+
+213
+00:12:21,380 --> 00:12:25,240
+The observable
+effect is that of
+
+214
+00:12:25,240 --> 00:12:27,520
+an inhibitor.
+Nothing is happening.
+
+215
+00:12:31,600 --> 00:12:35,360
+Now the classical
+receptor occupancy model,
+
+216
+00:12:35,360 --> 00:12:38,330
+this is how we talk
+about mainly the
+
+217
+00:12:38,330 --> 00:12:41,520
+classification of
+antagonist. So I want you to
+
+218
+00:12:41,520 --> 00:12:49,440
+just put this whole
+two receptor occupancy
+
+219
+00:12:49,440 --> 00:12:52,440
+model, two receptor
+confirmation occupancy
+
+220
+00:12:52,440 --> 00:12:56,220
+model aside for a moment.
+Now you're thinking
+
+221
+00:12:56,220 --> 00:12:58,520
+about it in a completely
+different way.
+
+222
+00:13:00,020 --> 00:13:02,820
+Competitive antagonists
+compete for the
+
+223
+00:13:02,820 --> 00:13:06,880
+same binding site as
+the agonist. So, that's
+
+224
+00:13:06,880 --> 00:13:08,940
+called the active
+site. The agonist binds
+
+225
+00:13:08,940 --> 00:13:11,120
+to the active site,
+produces an effect.
+
+226
+00:13:11,120 --> 00:13:13,820
+A competitive
+antagonist will also
+
+227
+00:13:13,820 --> 00:13:16,320
+bind to the active
+site, but it
+
+228
+00:13:16,320 --> 00:13:19,460
+will produce no
+effect, and it will
+
+229
+00:13:19,460 --> 00:13:21,800
+prevent the agonist
+from binding.
+
+230
+00:13:22,120 --> 00:13:24,040
+Pretty simple.
+It's competitive,
+
+231
+00:13:24,040 --> 00:13:27,740
+so it associates,
+dissociates,
+
+232
+00:13:27,740 --> 00:13:29,420
+associates, dissociates.
+
+233
+00:13:30,420 --> 00:13:34,600
+Now, a noncompetitive
+antagonist will reduce
+
+234
+00:13:34,600 --> 00:13:36,960
+the magnitude of
+the maximal response
+
+235
+00:13:36,960 --> 00:13:39,450
+that can be achieved by
+any amount of agonist
+
+236
+00:13:39,450 --> 00:13:42,380
+without having an
+effect. In other words,
+
+237
+00:13:42,580 --> 00:13:47,940
+it's an inhibitor, it
+will block the effect
+
+238
+00:13:47,940 --> 00:13:52,980
+of the agonist but in
+a different way than
+
+239
+00:13:52,980 --> 00:13:58,920
+the noncompetitive
+antagonist does. So, we're
+
+240
+00:13:58,920 --> 00:14:01,680
+going to get into
+more detail with that.
+
+241
+00:14:02,560 --> 00:14:04,920
+I want to draw
+your attention to
+
+242
+00:14:04,920 --> 00:14:08,340
+this figure that
+shows these various
+
+243
+00:14:08,340 --> 00:14:12,200
+actual mechanisms
+of antagonism.
+
+244
+00:14:13,910 --> 00:14:16,140
+Receptor antagonists,
+in other words,
+
+245
+00:14:16,140 --> 00:14:17,900
+they are antagonists
+at the receptor.
+
+246
+00:14:17,900 --> 00:14:20,700
+And we also have non
+-receptor antagonists,
+
+247
+00:14:20,700 --> 00:14:22,620
+they're antagonists
+by a non-receptor
+
+248
+00:14:22,620 --> 00:14:24,320
+mechanism. them,
+I'm not going to
+
+249
+00:14:24,320 --> 00:14:27,540
+go into them right
+now, I will later.
+
+250
+00:14:27,780 --> 00:14:32,000
+So the antagonist
+binds to the
+
+251
+00:14:32,000 --> 00:14:35,630
+active site,
+it can bind by
+
+252
+00:14:35,630 --> 00:14:39,360
+far and away,
+the most common
+
+253
+00:14:39,460 --> 00:14:43,120
+is reversible binding,
+association, dissociation,
+
+254
+00:14:43,120 --> 00:14:45,160
+association,
+dissociation, that's a
+
+255
+00:14:45,160 --> 00:14:48,070
+competitive antagonist.
+Now, there are a few
+
+256
+00:14:48,070 --> 00:14:51,000
+that will bind
+irreversibly to the active
+
+257
+00:14:51,000 --> 00:14:55,840
+site, and because it's
+occupying that site
+
+258
+00:14:56,000 --> 00:14:59,140
+irreversibly, the
+agonist cannot get to it.
+
+259
+00:15:01,320 --> 00:15:04,440
+And then there's the
+allosteric binding,
+
+260
+00:15:04,440 --> 00:15:07,140
+which means to a
+neighboring site, it's not
+
+261
+00:15:07,140 --> 00:15:10,000
+the active site, and
+it will cause, it will
+
+262
+00:15:10,000 --> 00:15:12,900
+bind and cause a
+conformational change such
+
+263
+00:15:12,900 --> 00:15:17,860
+that But the agonist
+is unable to bind with
+
+264
+00:15:17,860 --> 00:15:21,180
+its usual affinity to
+the active site and
+
+265
+00:15:21,180 --> 00:15:24,640
+therefore does not
+activate the receptor.
+
+266
+00:15:24,930 --> 00:15:27,190
+Now these two can
+be reversible and
+
+267
+00:15:27,190 --> 00:15:28,660
+irreversible,
+and these are
+
+268
+00:15:28,660 --> 00:15:31,520
+noncompetitive
+allosteric antagonists.
+
+269
+00:15:36,430 --> 00:15:38,810
+So we have curves
+to demonstrate what
+
+270
+00:15:38,810 --> 00:15:40,410
+we're talking
+about. Let's start
+
+271
+00:15:40,410 --> 00:15:42,990
+with the competitive
+antagonist, which
+
+272
+00:15:42,990 --> 00:15:46,670
+is illustrated in
+the top figure.
+
+273
+00:15:48,390 --> 00:15:50,310
+Competitive here.
+
+274
+00:15:50,310 --> 00:15:52,450
+This is the
+active site here.
+
+275
+00:15:52,450 --> 00:15:54,810
+And you can see
+they both have
+
+276
+00:15:54,810 --> 00:15:56,650
+affinity for
+the active site.
+
+277
+00:15:56,650 --> 00:15:59,210
+Now how do we demonstrate
+
+278
+00:15:59,210 --> 00:16:00,950
+this experimentally?
+
+279
+00:16:01,550 --> 00:16:05,710
+With our agonist
+curves. So here's
+
+280
+00:16:05,710 --> 00:16:10,030
+the starting point,
+right here, the
+
+281
+00:16:10,030 --> 00:16:12,910
+control they call
+it. So that's the
+
+282
+00:16:12,910 --> 00:16:15,290
+agonist is injected
+and we see some
+
+283
+00:16:15,290 --> 00:16:17,530
+response, here's our
+maximal response,
+
+284
+00:16:17,890 --> 00:16:21,110
+that occurs at
+this concentration.
+
+285
+00:16:22,770 --> 00:16:26,330
+Now, if a competitive
+antagonist is
+
+286
+00:16:26,330 --> 00:16:31,130
+injected into this
+animal, and then,
+
+287
+00:16:31,450 --> 00:16:34,090
+this is a certain
+concentration and then
+
+288
+00:16:34,090 --> 00:16:37,450
+the agonist is injected
+again, now at a
+
+289
+00:16:37,450 --> 00:16:41,210
+higher concentration,
+the agonist will be
+
+290
+00:16:41,210 --> 00:16:44,850
+able to out-compete
+the antagonist at the
+
+291
+00:16:44,850 --> 00:16:47,450
+receptor site and
+again produce the
+
+292
+00:16:47,450 --> 00:16:50,390
+maximal effect, but we
+see it takes a greater
+
+293
+00:16:50,390 --> 00:16:55,110
+concentration of
+agonist to achieve
+
+294
+00:16:55,110 --> 00:17:01,580
+that. And more competitive
+antagonist, again
+
+295
+00:17:01,580 --> 00:17:04,200
+achievable with a
+greater concentration
+
+296
+00:17:04,650 --> 00:17:07,490
+of the agonist, etc.,
+on down the line.
+
+297
+00:17:08,670 --> 00:17:11,440
+This is an
+experimental situation
+
+298
+00:17:11,590 --> 00:17:15,630
+to demonstrate
+that a competitive
+
+299
+00:17:15,630 --> 00:17:18,570
+antagonist can
+be outcompeted
+
+300
+00:17:18,970 --> 00:17:20,770
+if the concentration of
+
+301
+00:17:20,770 --> 00:17:22,610
+agonist is high enough.
+
+302
+00:17:24,010 --> 00:17:29,630
+Now an irreversible
+active site
+
+303
+00:17:29,630 --> 00:17:32,010
+antagonist is
+indicated here.
+
+304
+00:17:32,410 --> 00:17:36,330
+It binds to the active
+site, the agonist
+
+305
+00:17:36,330 --> 00:17:42,530
+cannot bind, and with
+increasing concentrations
+
+306
+00:17:42,530 --> 00:17:44,990
+of irreversible
+antagonist, the
+
+307
+00:17:44,990 --> 00:17:53,210
+effect is totally
+reduced, agonist effect.
+
+308
+00:17:53,530 --> 00:17:57,650
+Now here we have a
+positive allosteric
+
+309
+00:17:57,930 --> 00:18:02,890
+modulator. Now this
+is not an inhibitor.
+
+310
+00:18:02,890 --> 00:18:07,550
+It's actually
+activating the receptor.
+
+311
+00:18:07,550 --> 00:18:08,830
+So what's happening
+here? receptor.
+
+312
+00:18:09,270 --> 00:18:11,650
+This is our
+control again.
+
+313
+00:18:12,330 --> 00:18:15,210
+This would be
+the regular Emax.
+
+314
+00:18:18,950 --> 00:18:22,530
+A drug that binds to
+an allosteric site,
+
+315
+00:18:22,530 --> 00:18:25,090
+so it's a neighboring
+site and it's going
+
+316
+00:18:25,090 --> 00:18:28,290
+to cause a conformational
+change in the
+
+317
+00:18:28,290 --> 00:18:32,990
+receptor active site
+such that it actually
+
+318
+00:18:32,990 --> 00:18:36,910
+enhances the affinity
+of the agonist,
+
+319
+00:18:36,910 --> 00:18:40,350
+whether that's a
+natural receptor agonist
+
+320
+00:18:40,350 --> 00:18:43,970
+or a drug, so that
+it produces an effect
+
+321
+00:18:43,970 --> 00:18:47,310
+that's above the usual
+maximal effect. So
+
+322
+00:18:47,310 --> 00:18:50,890
+this is a positive
+allosteric modulator.
+
+323
+00:18:51,350 --> 00:18:56,390
+It's producing a
+positive effect on the
+
+324
+00:18:56,390 --> 00:19:01,530
+receptor's action. A
+negative allosteric
+
+325
+00:19:01,530 --> 00:19:05,030
+modulator, now this is
+going to be an inhibitor,
+
+326
+00:19:06,490 --> 00:19:09,670
+is going to bind to
+the allosteric site,
+
+327
+00:19:10,020 --> 00:19:14,310
+the neighboring site
+near the active site
+
+328
+00:19:14,310 --> 00:19:17,430
+and cause a conformational
+change in the
+
+329
+00:19:17,430 --> 00:19:22,210
+active site such that
+the affinity is reduced
+
+330
+00:19:22,210 --> 00:19:25,470
+for the agonist and
+the efficacy for the
+
+331
+00:19:25,470 --> 00:19:28,410
+agonist is reduced.
+And here we have this,
+
+332
+00:19:28,410 --> 00:19:31,830
+this is control, the
+usual Emax right here.
+
+333
+00:19:32,350 --> 00:19:35,250
+And with the reduction
+in the affinity
+
+334
+00:19:35,250 --> 00:19:39,190
+for the site,
+depending on how much
+
+335
+00:19:40,890 --> 00:19:44,710
+allosteric modulator
+is there and whether
+
+336
+00:19:44,710 --> 00:19:48,030
+or not it's reversible,
+it will cause a
+
+337
+00:19:48,030 --> 00:19:50,970
+decrease in the
+effect of the agonist.
+
+338
+00:19:53,190 --> 00:19:59,970
+so that is the classic
+receptor theory up
+
+339
+00:19:59,970 --> 00:20:02,990
+till now we've been
+talking about antagonism
+
+340
+00:20:02,990 --> 00:20:09,190
+by drugs at the
+same receptor as the
+
+341
+00:20:09,190 --> 00:20:14,430
+drug of interest receptor
+mediated antagonism
+
+342
+00:20:14,430 --> 00:20:17,210
+These other mechanisms
+are different.
+
+343
+00:20:17,430 --> 00:20:20,750
+They are not receptor
+-mediated. The
+
+344
+00:20:20,750 --> 00:20:25,150
+antagonist drug will
+act at a totally
+
+345
+00:20:25,150 --> 00:20:28,810
+different receptor,
+possibly even
+
+346
+00:20:28,810 --> 00:20:31,850
+a totally different
+organ system.
+
+347
+00:20:32,490 --> 00:20:35,910
+So a physiologic
+antagonist, called
+
+348
+00:20:35,910 --> 00:20:38,130
+often a functional
+antagonist, is a
+
+349
+00:20:38,130 --> 00:20:40,250
+substance that
+produces physiologic
+
+350
+00:20:40,250 --> 00:20:42,490
+effects that
+are opposite the
+
+351
+00:20:42,490 --> 00:20:45,410
+physiologic effects
+of another substance.
+
+352
+00:20:45,410 --> 00:20:48,390
+In other words,
+their functions are
+
+353
+00:20:48,390 --> 00:20:51,330
+different. They act on
+different regulatory
+
+354
+00:20:51,330 --> 00:20:56,330
+pathways mediated by
+different receptors.
+
+355
+00:20:57,610 --> 00:21:00,190
+Typical examples
+are insulin,
+
+356
+00:21:00,190 --> 00:21:01,850
+which reduces
+blood sugar, and
+
+357
+00:21:01,850 --> 00:21:04,050
+glucagon, that
+increases blood sugar.
+
+358
+00:21:04,870 --> 00:21:06,890
+Methacholine, which
+is a drug that
+
+359
+00:21:06,890 --> 00:21:09,470
+causes
+bronchoconstriction, while
+
+360
+00:21:09,470 --> 00:21:11,450
+albuterol causes
+bronchodilation.
+
+361
+00:21:11,950 --> 00:21:13,350
+Opposite effects.
+
+362
+00:21:13,670 --> 00:21:16,430
+A chemical antagonist
+is a compound
+
+363
+00:21:16,430 --> 00:21:19,470
+that directly interacts
+with the agonist,
+
+364
+00:21:19,560 --> 00:21:23,150
+such that the
+agonist is no longer
+
+365
+00:21:23,150 --> 00:21:28,150
+able to travel to and
+bind its receptor.
+
+366
+00:21:28,350 --> 00:21:30,810
+The combination product
+
+367
+00:21:30,810 --> 00:21:33,930
+is inactive and excreted.
+
+368
+00:21:34,230 --> 00:21:36,830
+Examples here are heparin
+
+369
+00:21:36,830 --> 00:21:38,360
+bound by protamine,
+
+370
+00:21:38,750 --> 00:21:41,310
+divalent cations
+and antacids
+
+371
+00:21:41,310 --> 00:21:43,030
+that chelate
+certain drugs,
+
+372
+00:21:43,030 --> 00:21:46,370
+tetracycline being
+a typical example,
+
+373
+00:21:47,480 --> 00:21:49,350
+Cholestyramine,
+that is an exchange
+
+374
+00:21:49,350 --> 00:21:53,250
+resin that
+sequesters drugs.
+
+375
+00:21:53,830 --> 00:21:56,030
+Cholestyramine
+is not absorbed,
+
+376
+00:21:56,030 --> 00:21:58,010
+therefore the drugs
+are not absorbed.
+
+377
+00:21:59,570 --> 00:22:02,030
+And I will elaborate on
+
+378
+00:22:02,030 --> 00:22:03,490
+these mechanisms here.
+
+379
+00:22:04,650 --> 00:22:07,290
+Insulin is secreted from
+
+380
+00:22:07,290 --> 00:22:08,870
+the endocrine pancreas.
+
+381
+00:22:08,950 --> 00:22:13,570
+It acts on insulin
+receptors on
+
+382
+00:22:13,570 --> 00:22:15,410
+various cells,
+certain cells.
+
+383
+00:22:15,410 --> 00:22:19,850
+and causes glucose
+uptake storage
+
+384
+00:22:19,900 --> 00:22:22,270
+and therefore
+removes glucose from
+
+385
+00:22:22,270 --> 00:22:25,390
+the blood sugar,
+lowering blood sugar.
+
+386
+00:22:25,830 --> 00:22:29,490
+Glucagon also
+comes from the
+
+387
+00:22:29,490 --> 00:22:31,250
+endocrine
+pancreas, different
+
+388
+00:22:31,250 --> 00:22:36,050
+cells, and it
+acts at the liver,
+
+389
+00:22:40,150 --> 00:22:43,510
+causing gluconeogenesis,
+synthesis of
+
+390
+00:22:43,510 --> 00:22:47,430
+glucose, which then
+increases blood sugar.
+
+391
+00:22:48,330 --> 00:22:51,970
+This concept has a
+clinical application
+
+392
+00:22:52,750 --> 00:22:55,670
+because insulin
+and glucon are both
+
+393
+00:22:55,670 --> 00:22:59,170
+available in drug
+form. They can be
+
+394
+00:22:59,170 --> 00:23:02,450
+injected. So for
+an individual, a
+
+395
+00:23:02,450 --> 00:23:05,490
+diabetic, who has
+hypoglycemia, this is
+
+396
+00:23:05,490 --> 00:23:10,310
+a serious adverse
+effect of insulin,
+
+397
+00:23:10,730 --> 00:23:13,410
+glucagon can be
+administered to
+
+398
+00:23:13,410 --> 00:23:15,930
+increase the
+synthesis of glucose
+
+399
+00:23:15,930 --> 00:23:19,670
+in the liver and
+counteract the
+
+400
+00:23:19,750 --> 00:23:22,050
+hypoglycemia, raise
+the blood sugar.
+
+401
+00:23:23,090 --> 00:23:27,490
+Inhaled methicoline
+is a drug that's
+
+402
+00:23:27,490 --> 00:23:30,740
+given as something called
+a bronchoprovocation
+
+403
+00:23:31,190 --> 00:23:34,950
+test for diagnosis
+of asthma.
+
+404
+00:23:34,990 --> 00:23:38,670
+It will act on
+muscarinic receptors
+
+405
+00:23:40,980 --> 00:23:43,430
+in, that's not
+a very good M,
+
+406
+00:23:43,870 --> 00:23:47,990
+muscarinic receptors
+in bronchial smooth
+
+407
+00:23:47,990 --> 00:23:51,070
+muscle and that will
+cause contraction or
+
+408
+00:23:51,070 --> 00:23:54,890
+constriction. We see
+that here. The airway is
+
+409
+00:23:54,890 --> 00:23:59,370
+very narrowed and that
+reduces the amount
+
+410
+00:23:59,370 --> 00:24:03,670
+of air that can get
+through the bronchus.
+
+411
+00:24:04,640 --> 00:24:06,950
+Albuterol must be
+kept close at hand
+
+412
+00:24:06,950 --> 00:24:09,110
+when When
+methacholine is being
+
+413
+00:24:09,110 --> 00:24:11,110
+administered,
+albuterol is also
+
+414
+00:24:11,110 --> 00:24:14,380
+inhaled, and it is
+a sympathomimetic.
+
+415
+00:24:14,690 --> 00:24:18,370
+It acts on beta
+-2 adrenergic
+
+416
+00:24:18,370 --> 00:24:20,690
+receptors. These
+are obviously
+
+417
+00:24:20,690 --> 00:24:23,310
+different types
+of receptors.
+
+418
+00:24:25,230 --> 00:24:28,410
+That will cause bronchial
+
+419
+00:24:28,410 --> 00:24:30,330
+smooth muscle relaxation,
+
+420
+00:24:30,530 --> 00:24:35,330
+bronchial dilation,
+opening of the airway.
+
+421
+00:24:37,370 --> 00:24:42,750
+opposite effects two
+drugs acting in the
+
+422
+00:24:42,750 --> 00:24:46,090
+same tissues but on
+different receptors
+
+423
+00:24:47,490 --> 00:24:52,010
+now the chemical
+antagonists bind
+
+424
+00:24:52,010 --> 00:24:56,310
+directly combined
+directly with the drug
+
+425
+00:24:56,310 --> 00:25:01,430
+the typical example
+is heparin, which
+
+426
+00:25:01,430 --> 00:25:04,490
+is a negatively
+charged molecule.
+
+427
+00:25:05,280 --> 00:25:09,270
+When it is given
+an overdose, this
+
+428
+00:25:09,270 --> 00:25:11,170
+is going to be an
+accidental problem,
+
+429
+00:25:12,190 --> 00:25:18,090
+protamine may be
+administered to combine
+
+430
+00:25:18,090 --> 00:25:21,830
+with the heparin.
+and protamine is
+
+431
+00:25:21,830 --> 00:25:24,970
+a protein that's
+positively charged.
+
+432
+00:25:26,150 --> 00:25:30,070
+And then this
+combined product
+
+433
+00:25:30,190 --> 00:25:33,470
+here is inactive,
+the heparin is
+
+434
+00:25:33,470 --> 00:25:37,070
+inactive, and
+it is excreted.
+
+435
+00:25:39,690 --> 00:25:42,610
+Tetracycline is
+an antibiotic,
+
+436
+00:25:42,610 --> 00:25:45,350
+one, two, three,
+four, four cycles,
+
+437
+00:25:45,350 --> 00:25:46,500
+hence the name
+tetracycline.
+
+438
+00:25:48,150 --> 00:25:52,830
+It is chelated by
+polyvalent metal
+
+439
+00:25:52,830 --> 00:25:57,550
+ions, such as are
+found in antacids, in
+
+440
+00:25:57,550 --> 00:26:01,010
+the gut, and therefore
+the absorption
+
+441
+00:26:01,010 --> 00:26:04,410
+is reduced,
+significantly reduced.
+
+442
+00:26:05,270 --> 00:26:07,650
+Cholestyramine has
+a similar idea.
+
+443
+00:26:07,650 --> 00:26:10,450
+Cholestyramine is
+not absorbed. It
+
+444
+00:26:10,450 --> 00:26:14,530
+will sequester
+the drug and carry
+
+445
+00:26:14,530 --> 00:26:16,900
+it out. The drug
+is not absorbed.
+
+446
+00:26:17,450 --> 00:26:22,210
+So those are examples
+of functional or
+
+447
+00:26:22,210 --> 00:26:25,510
+physiologic and
+chemical antagonists.
+
+448
+00:26:26,890 --> 00:26:29,610
+So I'm inviting
+you to pause the
+
+449
+00:26:29,610 --> 00:26:31,690
+video and answer
+these questions.
+
+450
+00:26:32,610 --> 00:26:35,510
+What is the difference
+between the two
+
+451
+00:26:35,510 --> 00:26:37,450
+-state receptor
+occupancy model and
+
+452
+00:26:37,450 --> 00:26:39,570
+the classical receptor
+occupancy model
+
+453
+00:26:39,570 --> 00:26:42,650
+explaining drug
+receptor interactions?
+
+454
+00:26:42,690 --> 00:26:45,790
+And how are antagonists
+classified and
+
+455
+00:26:45,790 --> 00:26:48,190
+what are the effects
+on agonist efficacy?
+
+456
+00:26:49,330 --> 00:26:51,410
+Now would be a
+good time to pause.
+
+457
+00:26:53,690 --> 00:26:57,230
+So you're back now,
+and the answer to the
+
+458
+00:26:57,230 --> 00:27:01,070
+first question is,
+the two-state receptor
+
+459
+00:27:01,070 --> 00:27:04,650
+occupancy model
+posits that receptors
+
+460
+00:27:04,650 --> 00:27:08,850
+in the receptor pool
+exist in an inactive
+
+461
+00:27:08,850 --> 00:27:11,770
+and an active
+conformation in the
+
+462
+00:27:11,770 --> 00:27:14,530
+absence of ligand,
+with the equilibrium
+
+463
+00:27:14,530 --> 00:27:17,890
+favoring the inactive
+state. The drug binding
+
+464
+00:27:17,890 --> 00:27:20,830
+to the receptors
+shifts the equilibrium
+
+465
+00:27:20,830 --> 00:27:23,230
+depending on the drug's
+relative affinities
+
+466
+00:27:23,230 --> 00:27:26,350
+for the active and
+inactive states.
+
+467
+00:27:27,270 --> 00:27:29,590
+And the second question.
+
+468
+00:27:30,780 --> 00:27:33,670
+The classical model
+posits that receptors
+
+469
+00:27:33,670 --> 00:27:35,490
+in a receptor
+pool are quiet,
+
+470
+00:27:35,490 --> 00:27:38,910
+quiescent, unless
+activated by a ligand.
+
+471
+00:27:39,440 --> 00:27:41,970
+Agonists have affinity
+for receptors and
+
+472
+00:27:41,970 --> 00:27:44,470
+activate the receptors
+effector pathways.
+
+473
+00:27:45,420 --> 00:27:46,910
+Antagonists have
+affinity for
+
+474
+00:27:46,910 --> 00:27:49,030
+receptors but do
+not activate the
+
+475
+00:27:49,030 --> 00:27:51,830
+receptors and they
+prevent the agonist
+
+476
+00:27:51,830 --> 00:27:53,870
+from activating
+the receptors.
+
+477
+00:27:55,510 --> 00:27:58,370
+Competitive
+antagonists compete for
+
+478
+00:27:58,370 --> 00:28:00,490
+the same binding
+site as the agonist
+
+479
+00:28:00,490 --> 00:28:03,630
+and affect the
+amount of agonist
+
+480
+00:28:03,630 --> 00:28:06,190
+needed to achieve
+a maximal response.
+
+481
+00:28:06,610 --> 00:28:09,830
+Non-competitive
+antagonists reduce the
+
+482
+00:28:09,830 --> 00:28:12,890
+magnitude of the maximal
+response that can be
+
+483
+00:28:12,890 --> 00:28:16,410
+achieved by any amount
+of agonist without having
+
+484
+00:28:16,410 --> 00:28:19,810
+an effect on the binding
+of the agonist to
+
+485
+00:28:19,810 --> 00:28:23,210
+the receptor. This is
+because the noncompetitive
+
+486
+00:28:23,210 --> 00:28:26,370
+antagonists either
+irreversibly occupy
+
+487
+00:28:26,480 --> 00:28:31,610
+the active site or more
+commonly bind to an
+
+488
+00:28:31,610 --> 00:28:35,070
+allosteric site, a
+site nearby, changing
+
+489
+00:28:35,070 --> 00:28:39,410
+the shape of the active
+site, the confirmation
+
+490
+00:28:39,410 --> 00:28:44,450
+of the active site,
+reducing the affinity
+
+491
+00:28:44,450 --> 00:28:47,130
+of the receptor for the
+drug and vice versa.
+
+492
+00:28:49,550 --> 00:28:51,650
+Receptor dynamics now.
+
+493
+00:28:52,910 --> 00:28:54,470
+Everything in
+our bodies is
+
+494
+00:28:54,470 --> 00:28:56,750
+dynamic,
+changing, moving,
+
+495
+00:28:57,010 --> 00:28:58,450
+reaching equilibrium,
+
+496
+00:28:58,450 --> 00:29:00,080
+falling out of
+equilibrium.
+
+497
+00:29:01,030 --> 00:29:03,250
+And receptor
+dynamics is a
+
+498
+00:29:03,250 --> 00:29:06,310
+cellular regulation
+that allows our
+
+499
+00:29:06,310 --> 00:29:08,080
+bodies to stay
+in homeostasis.
+
+500
+00:29:09,510 --> 00:29:11,630
+Cellular regulation
+of drug receptor
+
+501
+00:29:11,630 --> 00:29:14,370
+interactions prevents
+overstimulation that
+
+502
+00:29:14,370 --> 00:29:18,030
+can harm the cell or
+the entire organism.
+
+503
+00:29:18,330 --> 00:29:20,550
+As a result of
+the physiologic
+
+504
+00:29:20,550 --> 00:29:23,570
+regulation,
+many drugs show
+
+505
+00:29:23,570 --> 00:29:25,750
+diminishing
+effects over time.
+
+506
+00:29:27,970 --> 00:29:30,190
+So we have some
+terms here.
+
+507
+00:29:30,610 --> 00:29:34,010
+A diminished response,
+frequently called
+
+508
+00:29:34,010 --> 00:29:39,530
+tolerance, due to
+exposure to an agonist.
+
+509
+00:29:43,430 --> 00:29:46,670
+Receptor desensitization
+is a decrease
+
+510
+00:29:46,670 --> 00:29:49,350
+in the coupling
+efficiency of receptors.
+
+511
+00:29:49,530 --> 00:29:51,870
+The receptor and
+the cell become
+
+512
+00:29:51,870 --> 00:29:54,630
+unresponsive or
+insensitive to the
+
+513
+00:29:54,630 --> 00:29:56,830
+action of the drug
+even in the continued
+
+514
+00:29:56,830 --> 00:29:58,980
+presence of the
+drug. And I will
+
+515
+00:29:58,980 --> 00:30:01,170
+illustrate this
+on the next slide.
+
+516
+00:30:01,830 --> 00:30:04,890
+Receptor downregulation
+is just a decrease
+
+517
+00:30:04,890 --> 00:30:07,730
+in the number of
+receptors which occurs
+
+518
+00:30:07,730 --> 00:30:11,410
+by internalizing, the
+cell internalizing
+
+519
+00:30:11,410 --> 00:30:16,730
+the receptor drug
+complex, and we'll
+
+520
+00:30:16,730 --> 00:30:18,810
+talk about that on
+the next slide too.
+
+521
+00:30:19,910 --> 00:30:22,650
+When the rate of
+receptor degradation
+
+522
+00:30:22,650 --> 00:30:26,490
+is faster than new
+receptor synthesis,
+
+523
+00:30:26,720 --> 00:30:28,830
+fewer receptors
+are present on
+
+524
+00:30:28,830 --> 00:30:31,330
+the cell surface
+and responsiveness
+
+525
+00:30:31,330 --> 00:30:33,390
+to the agonist
+is diminished.
+
+526
+00:30:35,030 --> 00:30:37,990
+Tachyphylaxis is
+an acute, sudden
+
+527
+00:30:37,990 --> 00:30:40,530
+decrease in response
+after continuous or
+
+528
+00:30:40,530 --> 00:30:42,790
+repeated administration
+of the drug.
+
+529
+00:30:45,500 --> 00:30:49,570
+Now receptor
+resensitization occurs
+
+530
+00:30:49,570 --> 00:30:52,910
+when the agonist is
+withdrawn, in other
+
+531
+00:30:52,910 --> 00:30:55,220
+words the drug
+is stopped, cells
+
+532
+00:30:55,250 --> 00:30:58,030
+recover full responsiveness
+to a subsequent
+
+533
+00:30:58,030 --> 00:31:00,010
+addition of the
+agonist, which I
+
+534
+00:31:00,010 --> 00:31:02,810
+will show you on
+the next slide also.
+
+535
+00:31:04,370 --> 00:31:07,190
+Now there is something
+called increased
+
+536
+00:31:07,190 --> 00:31:09,610
+sensitivity,
+supersensitivity.
+
+537
+00:31:09,990 --> 00:31:14,430
+And this occurs in
+the presence of an
+
+538
+00:31:14,430 --> 00:31:18,030
+antagonist where
+there is insertion of
+
+539
+00:31:18,030 --> 00:31:20,130
+an increased number
+of receptors because
+
+540
+00:31:20,130 --> 00:31:22,930
+of the presence
+of the antagonist.
+
+541
+00:31:22,960 --> 00:31:24,970
+And that can make
+the cells more
+
+542
+00:31:24,970 --> 00:31:27,070
+sensitive to an
+agonist. And I'll get to
+
+543
+00:31:27,070 --> 00:31:29,150
+that, an illustration
+of that as well.
+
+544
+00:31:33,470 --> 00:31:36,590
+Okay, we have panel
+A and panel B. Panel
+
+545
+00:31:36,590 --> 00:31:39,910
+A is on top, panel
+B is underneath it.
+
+546
+00:31:40,310 --> 00:31:42,490
+Panel A you can
+see is a curve.
+
+547
+00:31:45,210 --> 00:31:48,370
+And this is an
+example of the beta
+
+548
+00:31:48,370 --> 00:31:51,130
+receptor that I
+referred to before,
+
+549
+00:31:51,130 --> 00:31:55,090
+which is called
+a beta adrenergic
+
+550
+00:31:55,090 --> 00:31:58,310
+receptor or an
+adrenoccepter.
+
+551
+00:31:59,060 --> 00:32:00,790
+So you can imagine
+we're talking
+
+552
+00:32:00,790 --> 00:32:05,710
+about the beta
+receptors on cardiac
+
+553
+00:32:05,710 --> 00:32:07,350
+tissue. We could
+be talking about
+
+554
+00:32:07,350 --> 00:32:10,230
+beta receptors
+in the bronchi.
+
+555
+00:32:10,230 --> 00:32:13,550
+We could be talking
+about other types of
+
+556
+00:32:13,550 --> 00:32:15,790
+G protein coupled
+receptors. measures.
+
+557
+00:32:17,570 --> 00:32:21,670
+We see that a dose
+is given here, full
+
+558
+00:32:21,810 --> 00:32:24,670
+response, okay,
+that's what we expect.
+
+559
+00:32:25,450 --> 00:32:34,230
+Over time, the effect
+diminishes, even
+
+560
+00:32:34,230 --> 00:32:37,070
+though the same
+amount of drug is
+
+561
+00:32:37,070 --> 00:32:39,910
+being given, to the
+point where there's
+
+562
+00:32:39,910 --> 00:32:42,310
+really a very low
+effect. effect.
+
+563
+00:32:42,750 --> 00:32:46,210
+So this could be
+desensitization that's
+
+564
+00:32:46,210 --> 00:32:48,590
+occurring, downregulation
+that's occurring,
+
+565
+00:32:49,450 --> 00:32:52,370
+and if it happens
+fairly rapidly,
+
+566
+00:32:52,370 --> 00:32:53,760
+we call that
+tachyphylaxis.
+
+567
+00:32:54,670 --> 00:32:56,870
+Now, the drug is stopped.
+
+568
+00:32:57,230 --> 00:32:58,250
+No drug.
+
+569
+00:32:58,870 --> 00:33:01,430
+Certain time frame,
+whatever it is,
+
+570
+00:33:01,430 --> 00:33:04,550
+and the drug is
+restarted at the
+
+571
+00:33:04,550 --> 00:33:07,170
+same dose dose, and
+achieves the same
+
+572
+00:33:07,170 --> 00:33:10,290
+maximal effect
+after that pause.
+
+573
+00:33:10,370 --> 00:33:13,270
+But of course tachyphylaxis
+happens again.
+
+574
+00:33:13,470 --> 00:33:16,470
+And we think about that
+very frequently with
+
+575
+00:33:16,470 --> 00:33:20,270
+opioids for example,
+opiates, where they
+
+576
+00:33:20,270 --> 00:33:24,860
+achieve a certain degree
+of efficacy initially
+
+577
+00:33:25,170 --> 00:33:28,210
+and then over time
+the patient tends to
+
+578
+00:33:28,210 --> 00:33:30,830
+become tolerant to
+that particular dose,
+
+579
+00:33:30,850 --> 00:33:34,330
+requiring a larger dose
+to get the same effect.
+
+580
+00:33:35,410 --> 00:33:36,650
+Now let's look at the
+
+581
+00:33:36,650 --> 00:33:38,550
+mechanism here
+on panel B.
+
+582
+00:33:39,610 --> 00:33:46,450
+Here we have our
+agonist drug binding to
+
+583
+00:33:46,450 --> 00:33:50,930
+the receptor, and
+if you count up all
+
+584
+00:33:50,930 --> 00:33:54,670
+these pass-throughs,
+the membrane, you can
+
+585
+00:33:54,670 --> 00:33:56,840
+see it's the G protein
+coupled receptor.
+
+586
+00:33:57,670 --> 00:34:03,530
+And the agonist
+is here and it
+
+587
+00:34:03,530 --> 00:34:06,890
+activates this
+downstream effect.
+
+588
+00:34:10,170 --> 00:34:16,300
+And at some point
+inside the cell it gets
+
+589
+00:34:16,300 --> 00:34:19,770
+phosphorylated and beta
+-arrestins bind here.
+
+590
+00:34:19,830 --> 00:34:23,830
+And that desensitizes
+the receptor. It
+
+591
+00:34:23,830 --> 00:34:26,450
+will not be able
+to respond anymore.
+
+592
+00:34:27,430 --> 00:34:30,030
+That's the theory
+of how it works.
+
+593
+00:34:30,330 --> 00:34:34,490
+Then this receptor
+moves on down here.
+
+594
+00:34:35,240 --> 00:34:37,130
+Let's say this
+is a receptor
+
+595
+00:34:37,130 --> 00:34:40,370
+and it is being
+endocytosed.
+
+596
+00:34:43,740 --> 00:34:46,650
+And here we have it
+down here. You can
+
+597
+00:34:46,650 --> 00:34:50,150
+see the drug drug and
+the receptor are in
+
+598
+00:34:50,150 --> 00:34:53,290
+the endosome. Now
+this can go two ways.
+
+599
+00:34:54,610 --> 00:34:58,770
+It can be reintroduced
+
+600
+00:34:58,770 --> 00:35:02,190
+back to the plasma
+membrane, drug
+
+601
+00:35:02,190 --> 00:35:04,550
+binds, we get the
+full efficacy again.
+
+602
+00:35:06,090 --> 00:35:08,990
+Or it can be
+
+603
+00:35:11,390 --> 00:35:15,350
+degraded in the
+lysosome. And when
+
+604
+00:35:15,350 --> 00:35:16,510
+this happens,
+this is called
+
+605
+00:35:16,510 --> 00:35:19,790
+downregulation, new
+receptors need to
+
+606
+00:35:19,790 --> 00:35:21,610
+be formed and that
+can take time.
+
+607
+00:35:23,870 --> 00:35:29,650
+So that is a
+description of receptor
+
+608
+00:35:29,650 --> 00:35:35,870
+desensitization
+downregulation and the effect
+
+609
+00:35:35,870 --> 00:35:40,130
+is returned after
+the drug is withdrawn
+
+610
+00:35:40,130 --> 00:35:42,250
+for a certain amount
+of time, but then
+
+611
+00:35:42,250 --> 00:35:45,210
+the patient can develop
+tolerance again.
+
+612
+00:35:50,070 --> 00:35:52,230
+So that's receptor
+downregulation
+
+613
+00:35:52,230 --> 00:35:54,170
+with exposure
+to an agonist
+
+614
+00:35:54,170 --> 00:35:55,970
+internalization
+and degradation.
+
+615
+00:35:58,750 --> 00:36:03,670
+Now, receptor
+upregulation can occur
+
+616
+00:36:03,670 --> 00:36:06,270
+in the presence
+of an antagonist.
+
+617
+00:36:10,890 --> 00:36:14,490
+So an antagonist now
+binds to the receptors
+
+618
+00:36:14,490 --> 00:36:17,830
+and we have here
+an example, you see
+
+619
+00:36:17,830 --> 00:36:20,030
+this is an antagonist
+here and all these
+
+620
+00:36:20,030 --> 00:36:22,930
+receptors are bound by
+the antagonist and the
+
+621
+00:36:22,930 --> 00:36:25,450
+agonist cannot
+activate the receptors.
+
+622
+00:36:25,450 --> 00:36:27,650
+Now of course, there
+are going to be more
+
+623
+00:36:27,650 --> 00:36:30,610
+than three receptors
+on a membrane and there
+
+624
+00:36:30,610 --> 00:36:33,110
+will be certainly
+way, way, way more,
+
+625
+00:36:33,110 --> 00:36:35,390
+tens of thousands
+more, maybe hundreds of
+
+626
+00:36:35,390 --> 00:36:38,310
+thousands more agonist
+molecules in there.
+
+627
+00:36:39,450 --> 00:36:44,790
+But this simple
+example really
+
+628
+00:36:44,790 --> 00:36:47,310
+serves to demonstrate
+the concept.
+
+629
+00:36:48,010 --> 00:36:53,390
+So the cell responds.
+The cell recognizes
+
+630
+00:36:53,390 --> 00:36:56,530
+that its receptors
+are nonfunctional
+
+631
+00:36:56,530 --> 00:37:02,810
+and it responds
+by inserting more
+
+632
+00:37:02,810 --> 00:37:06,470
+receptors on the
+surface and here we have
+
+633
+00:37:06,470 --> 00:37:09,450
+the agonist binding
+to the receptor.
+
+634
+00:37:09,750 --> 00:37:13,050
+Now let's say the drug is
+
+635
+00:37:13,050 --> 00:37:15,230
+withdrawn at this point,
+
+636
+00:37:15,730 --> 00:37:19,290
+we have, let's say
+there's another receptor
+
+637
+00:37:19,290 --> 00:37:21,920
+here, we have twice
+as many receptors
+
+638
+00:37:22,330 --> 00:37:24,350
+on the plasma membrane
+
+639
+00:37:24,350 --> 00:37:27,130
+compared to normally.
+
+640
+00:37:27,830 --> 00:37:29,530
+The drug is withdrawn.
+
+641
+00:37:29,530 --> 00:37:31,150
+All this drug goes away.
+
+642
+00:37:32,930 --> 00:37:35,450
+Now the agonist
+comes out and it can
+
+643
+00:37:35,450 --> 00:37:41,110
+bind six receptors
+instead of three
+
+644
+00:37:41,110 --> 00:37:45,790
+receptors. So the
+response is going to
+
+645
+00:37:45,790 --> 00:37:49,730
+be much exaggerated
+compared to normal
+
+646
+00:37:49,730 --> 00:37:52,710
+once the antagonist
+is withdrawn.
+
+647
+00:37:53,010 --> 00:37:57,430
+So this membrane now
+is super sensitive.
+
+648
+00:37:59,030 --> 00:38:01,270
+Now let's say we
+have an example
+
+649
+00:38:01,270 --> 00:38:04,550
+again of our beta
+blocker blocking
+
+650
+00:38:04,550 --> 00:38:06,310
+our beta receptors
+receptors,
+
+651
+00:38:06,570 --> 00:38:09,070
+and more receptors
+have been deposited
+
+652
+00:38:09,070 --> 00:38:12,030
+on the cell
+membrane because we
+
+653
+00:38:12,030 --> 00:38:14,190
+have that antagonist
+present. Now the
+
+654
+00:38:14,190 --> 00:38:17,890
+beta blocker is
+abruptly withdrawn.
+
+655
+00:38:17,890 --> 00:38:19,290
+The patient's
+been taking it for
+
+656
+00:38:19,290 --> 00:38:21,790
+a long time,
+body got used to
+
+657
+00:38:21,790 --> 00:38:23,630
+the beta receptor
+being there,
+
+658
+00:38:23,840 --> 00:38:26,670
+and all of a sudden,
+in a matter of hours,
+
+659
+00:38:27,010 --> 00:38:29,970
+all of those receptors
+are freed up.
+
+660
+00:38:30,010 --> 00:38:32,630
+And what's going to
+bind to those receptors?
+
+661
+00:38:32,630 --> 00:38:36,010
+norepinephrine and
+epinephrine, and what
+
+662
+00:38:36,010 --> 00:38:39,110
+can happen? The
+supersensitive response, the
+
+663
+00:38:39,110 --> 00:38:44,090
+hyper-response increase
+in blood pressure,
+
+664
+00:38:44,090 --> 00:38:48,490
+the patient can get a
+hypertensive problem.
+
+665
+00:38:55,110 --> 00:38:57,630
+Again I invite you to
+pause the computer.
+
+666
+00:38:57,670 --> 00:39:00,310
+How does receptor
+desensitization and
+
+667
+00:39:00,310 --> 00:39:02,350
+downregulation
+affect response to a
+
+668
+00:39:02,350 --> 00:39:05,630
+natural or drug
+agonist? And, how does
+
+669
+00:39:05,630 --> 00:39:07,550
+receptor
+supersensitivity affect
+
+670
+00:39:07,550 --> 00:39:10,770
+response to a natural
+or drug agonist?
+
+671
+00:39:11,190 --> 00:39:13,170
+Please pause if you wish.
+
+672
+00:39:15,410 --> 00:39:21,630
+Well, you're back now,
+so the answer to the
+
+673
+00:39:21,630 --> 00:39:24,890
+first question is
+desensitization and down
+
+674
+00:39:24,890 --> 00:39:27,470
+regulation cause a
+diminished response to
+
+675
+00:39:27,470 --> 00:39:31,570
+continuous or repeated
+exposure to an agonist
+
+676
+00:39:32,100 --> 00:39:35,060
+that can lead to
+fewer receptors or
+
+677
+00:39:35,060 --> 00:39:38,050
+desensitized receptors on
+the cell surface. After
+
+678
+00:39:38,050 --> 00:39:41,070
+withdrawal of the drug,
+cells recover full
+
+679
+00:39:41,070 --> 00:39:44,370
+responsiveness to a
+subsequent addition of
+
+680
+00:39:44,370 --> 00:39:48,470
+the agonist. They
+undergo resensitization.
+
+681
+00:39:49,010 --> 00:39:53,210
+Now supersensitivity,
+continuous or repeated
+
+682
+00:39:53,210 --> 00:39:59,750
+exposure to an
+antagonist can cause
+
+683
+00:39:59,790 --> 00:40:02,790
+upregulation of receptors
+and insertion of an
+
+684
+00:40:02,790 --> 00:40:05,570
+increased number of
+receptors on cell surfaces.
+
+685
+00:40:06,070 --> 00:40:08,590
+After the antagonist
+is withdrawn, the
+
+686
+00:40:08,590 --> 00:40:10,850
+increased receptor
+density can result
+
+687
+00:40:10,850 --> 00:40:14,090
+in an exaggerated
+response to a natural
+
+688
+00:40:14,090 --> 00:40:17,850
+or drug agonist,
+supersensitivity.
+
+689
+00:40:20,790 --> 00:40:23,870
+And our final topic,
+pharmacodynamic
+
+690
+00:40:23,870 --> 00:40:26,310
+variability in
+a population.
+
+691
+00:40:26,630 --> 00:40:29,970
+The response to a
+drug, the effect,
+
+692
+00:40:30,130 --> 00:40:32,710
+is specified to
+be either present
+
+693
+00:40:32,710 --> 00:40:34,810
+or absent in a
+given individual.
+
+694
+00:40:34,910 --> 00:40:38,010
+It's an either
+or event, which
+
+695
+00:40:38,010 --> 00:40:40,130
+is called a
+quantal event.
+
+696
+00:40:41,510 --> 00:40:43,670
+Determining the dose
+of a drug required to
+
+697
+00:40:43,670 --> 00:40:46,190
+produce a specified
+effect, it has to be
+
+698
+00:40:46,190 --> 00:40:49,550
+specified in advance,
+in a large number of
+
+699
+00:40:49,550 --> 00:40:51,510
+individual patients,
+as in a clinical
+
+700
+00:40:51,510 --> 00:40:57,010
+trial, or experimental
+animal and plotting the
+
+701
+00:40:57,010 --> 00:40:59,510
+quantal dose response
+can be used to
+
+702
+00:40:59,510 --> 00:41:05,730
+generate some information
+on the margin of
+
+703
+00:41:05,730 --> 00:41:09,990
+safety to be expected
+for a particular drug.
+
+704
+00:41:10,470 --> 00:41:17,110
+To be expected,
+remembering that each
+
+705
+00:41:17,110 --> 00:41:21,690
+individual is an
+individual. And there can be
+
+706
+00:41:21,690 --> 00:41:24,870
+individual differences
+between patients.
+
+707
+00:41:27,710 --> 00:41:30,550
+So we have our
+figure here
+
+708
+00:41:30,550 --> 00:41:32,090
+on the right hand side.
+
+709
+00:41:33,540 --> 00:41:36,050
+And we have our
+bell curve here.
+
+710
+00:41:36,650 --> 00:41:40,370
+And we have our
+cumulative curve here.
+
+711
+00:41:40,450 --> 00:41:45,690
+Now, each of these
+individuals is given
+
+712
+00:41:45,840 --> 00:41:49,670
+a dose of a drug
+and then observed to
+
+713
+00:41:49,670 --> 00:41:52,750
+see if the pre-specified
+response occurs.
+
+714
+00:41:52,750 --> 00:41:55,870
+So we talk about,
+let's say, sedation.
+
+715
+00:41:57,630 --> 00:41:59,530
+So the response
+we're looking for
+
+716
+00:41:59,530 --> 00:42:04,470
+is sedation. And
+at this low dose,
+
+717
+00:42:04,810 --> 00:42:09,650
+a few individuals have
+exhibited sedation.
+
+718
+00:42:09,670 --> 00:42:13,230
+And at this dose, a
+few more individuals.
+
+719
+00:42:13,590 --> 00:42:17,190
+And at this
+dose, 50% of the
+
+720
+00:42:17,190 --> 00:42:20,490
+individuals have
+exhibited sedation.
+
+721
+00:42:21,010 --> 00:42:23,490
+And on, and at this dose,
+
+722
+00:42:23,610 --> 00:42:27,210
+finally, all of the
+individuals have
+
+723
+00:42:27,210 --> 00:42:30,170
+exhibited sedation. Now
+look at this spread.
+
+724
+00:42:30,570 --> 00:42:33,750
+Some individuals
+were sedated here,
+
+725
+00:42:34,050 --> 00:42:36,290
+half the individuals were
+
+726
+00:42:36,290 --> 00:42:39,370
+sedated at this
+point, the ED50,
+
+727
+00:42:39,910 --> 00:42:46,370
+the dose at which 50% of
+
+728
+00:42:46,370 --> 00:42:48,010
+the individuals
+responded,
+
+729
+00:42:48,310 --> 00:42:53,010
+and some of the
+individuals did not
+
+730
+00:42:53,010 --> 00:42:56,030
+respond at all until
+this high dose.
+
+731
+00:42:59,430 --> 00:43:03,190
+Now, thinking about
+an even higher dose
+
+732
+00:43:03,190 --> 00:43:07,090
+that's given, we're
+talking about toxicity now.
+
+733
+00:43:07,090 --> 00:43:10,330
+Whatever that endpoint
+toxicity is with
+
+734
+00:43:10,330 --> 00:43:13,390
+animal studies, it
+might be death, for
+
+735
+00:43:13,390 --> 00:43:16,430
+example. In clinical
+trials, trials, it might
+
+736
+00:43:16,430 --> 00:43:19,080
+be the appearance of
+a particular toxicity.
+
+737
+00:43:20,350 --> 00:43:26,350
+So if it's death,
+this is lethal dose at
+
+738
+00:43:26,350 --> 00:43:29,610
+which 50% of the
+individuals had died.
+
+739
+00:43:29,750 --> 00:43:32,210
+And if we're
+talking about a
+
+740
+00:43:32,210 --> 00:43:33,970
+clinical trial,
+for example,
+
+741
+00:43:34,110 --> 00:43:38,470
+it would be toxic
+dose, 50, the point
+
+742
+00:43:38,470 --> 00:43:41,470
+at which 50% of
+the individuals
+
+743
+00:43:41,470 --> 00:43:45,810
+demonstrated the pre
+-specified toxicity.
+
+744
+00:43:48,610 --> 00:43:51,800
+Here a few of
+the individuals
+
+745
+00:43:51,800 --> 00:43:54,370
+experienced the toxicity.
+
+746
+00:43:56,170 --> 00:43:59,790
+Here, 50% of the
+individuals, or I should
+
+747
+00:43:59,790 --> 00:44:01,470
+say death, that's what
+we're talking about
+
+748
+00:44:01,470 --> 00:44:08,030
+here, LD50, of the
+individuals had died
+
+749
+00:44:08,030 --> 00:44:11,640
+at this concentration.
+And at this
+
+750
+00:44:11,640 --> 00:44:16,150
+concentration, all of
+the individuals had died.
+
+751
+00:44:16,150 --> 00:44:18,150
+So you can see there's
+a big spread in
+
+752
+00:44:18,150 --> 00:44:22,150
+the concentration
+that produced the pre
+
+753
+00:44:22,150 --> 00:44:25,630
+-specified effect in
+different individuals.
+
+754
+00:44:31,650 --> 00:44:33,010
+Now what do we, how can
+
+755
+00:44:33,010 --> 00:44:34,390
+we use this information?
+
+756
+00:44:34,390 --> 00:44:36,390
+Well the therapeutic
+index is an
+
+757
+00:44:36,390 --> 00:44:38,830
+estimate of the safety
+of a drug, and I
+
+758
+00:44:38,830 --> 00:44:40,630
+have another figure
+to show you this.
+
+759
+00:44:41,330 --> 00:44:44,730
+The median effective
+dose, the ED50, is
+
+760
+00:44:44,730 --> 00:44:46,770
+the dose of a drug
+required to produce
+
+761
+00:44:46,770 --> 00:44:50,110
+a specified effect
+in 50% of the
+
+762
+00:44:50,110 --> 00:44:58,350
+population. So, these
+are repeated concepts.
+
+763
+00:44:59,970 --> 00:45:02,370
+Median lethal
+dose, the LD50,
+
+764
+00:45:02,370 --> 00:45:04,170
+is the dose of
+a drug that is
+
+765
+00:45:04,170 --> 00:45:07,870
+lethal in 50% of
+the population.
+
+766
+00:45:09,770 --> 00:45:13,390
+Median toxic dose,
+the TD50, is the dose
+
+767
+00:45:13,390 --> 00:45:15,190
+of a drug that
+produces a specified
+
+768
+00:45:15,190 --> 00:45:18,510
+toxic effect in 50%
+of the population. it.
+
+769
+00:45:19,110 --> 00:45:26,050
+The therapeutic index
+relates the dose of
+
+770
+00:45:26,050 --> 00:45:30,110
+the drug required to
+produce the specified
+
+771
+00:45:30,110 --> 00:45:34,370
+effect to the dose
+that produces the
+
+772
+00:45:34,370 --> 00:45:36,430
+undesired effect. So
+it's a relationship
+
+773
+00:45:36,430 --> 00:45:44,350
+between the the benefit
+and the unbenefit,
+
+774
+00:45:44,350 --> 00:45:48,220
+the undesired effect.
+LD50 or TD50 are
+
+775
+00:45:48,220 --> 00:45:50,590
+experimentally defined
+by the following.
+
+776
+00:45:50,690 --> 00:45:54,710
+Therapeutic index
+equals the LD50 divided
+
+777
+00:45:54,710 --> 00:45:58,790
+by the ED50 or the
+toxic dose 50 divided
+
+778
+00:45:58,790 --> 00:46:02,850
+by the ED50. Same
+concept. A large
+
+779
+00:46:02,850 --> 00:46:06,970
+therapeutic index
+indicates a wide margin. So
+
+780
+00:46:06,970 --> 00:46:11,830
+if the LD50 is here,
+and the ED50 is here,
+
+781
+00:46:11,830 --> 00:46:15,510
+we have this margin
+of safety in here.
+
+782
+00:46:16,630 --> 00:46:21,210
+Now, a small
+therapeutic index, say
+
+783
+00:46:21,210 --> 00:46:27,050
+the LD50 is here,
+and the ED50 is here,
+
+784
+00:46:27,460 --> 00:46:29,890
+compared Compared to
+that other one, we
+
+785
+00:46:29,890 --> 00:46:35,310
+see we only have a
+narrow range of safety.
+
+786
+00:46:40,690 --> 00:46:43,050
+And this range of
+safety is referred
+
+787
+00:46:43,050 --> 00:46:45,690
+to as the
+therapeutic window.
+
+788
+00:46:47,350 --> 00:46:49,810
+Looking at our
+cumulative curves
+
+789
+00:46:49,810 --> 00:46:56,950
+again, here's our
+ED50, 50% of the
+
+790
+00:46:56,950 --> 00:47:00,390
+individuals have
+already already achieved
+
+791
+00:47:00,390 --> 00:47:03,630
+that desired
+beneficial effect.
+
+792
+00:47:05,300 --> 00:47:08,030
+The rest of them
+will achieve it
+
+793
+00:47:08,030 --> 00:47:11,030
+somewhere in this
+therapeutic window,
+
+794
+00:47:11,290 --> 00:47:15,530
+but a few of them
+will actually
+
+795
+00:47:15,530 --> 00:47:19,170
+be above the
+therapeutic window,
+
+796
+00:47:20,180 --> 00:47:23,490
+and we see that this
+is actually a dose
+
+797
+00:47:23,490 --> 00:47:25,890
+for some that's in
+the toxic range.
+
+798
+00:47:29,470 --> 00:47:34,210
+Here, some individuals
+will have already
+
+799
+00:47:35,170 --> 00:47:38,470
+experienced the toxic
+effect or even died
+
+800
+00:47:38,470 --> 00:47:41,090
+even though the
+concentrations in the
+
+801
+00:47:41,090 --> 00:47:44,550
+therapeutic window. Some
+individuals are just
+
+802
+00:47:44,550 --> 00:47:47,910
+more sensitive relative
+to the drug effect.
+
+803
+00:47:50,670 --> 00:47:53,630
+The therapeutic window
+represents the range
+
+804
+00:47:53,630 --> 00:47:56,190
+of steady state
+concentrations at which
+
+805
+00:47:56,190 --> 00:47:59,210
+the likelihood of
+efficacy is high and
+
+806
+00:47:59,210 --> 00:48:02,210
+the probability of
+adverse effects is low.
+
+807
+00:48:02,450 --> 00:48:07,670
+So it's just a
+starting point.
+
+808
+00:48:08,290 --> 00:48:11,710
+This range does not
+guarantee safety
+
+809
+00:48:11,710 --> 00:48:14,950
+or efficacy in
+individual patients.
+
+810
+00:48:17,750 --> 00:48:20,790
+And in fact,
+it wasn't even
+
+811
+00:48:20,790 --> 00:48:22,670
+efficacious in
+these patients.
+
+812
+00:48:28,560 --> 00:48:30,680
+What is the clinical
+value of the
+
+813
+00:48:30,680 --> 00:48:33,380
+therapeutic index and
+the therapeutic window?
+
+814
+00:48:33,380 --> 00:48:35,940
+I think you can
+answer this even
+
+815
+00:48:35,940 --> 00:48:39,160
+without pausing your
+computer. But you, if
+
+816
+00:48:39,160 --> 00:48:41,700
+you wish to, certainly
+think about it.
+
+817
+00:48:44,780 --> 00:48:46,920
+The therapeutic
+index relates the
+
+818
+00:48:46,920 --> 00:48:48,680
+dose of a drug
+required to produce
+
+819
+00:48:48,680 --> 00:48:50,220
+a desired effect
+to the dose
+
+820
+00:48:50,220 --> 00:48:52,440
+that produces an
+undesired effect.
+
+821
+00:48:52,440 --> 00:48:55,700
+It is an estimate,
+estimate.
+
+822
+00:48:57,680 --> 00:48:59,760
+The therapeutic
+window is the dose
+
+823
+00:48:59,760 --> 00:49:01,860
+range of a drug that
+provides safe and
+
+824
+00:49:01,860 --> 00:49:04,560
+effective therapy
+with minimal adverse
+
+825
+00:49:04,560 --> 00:49:07,920
+effects. It does
+not guarantee safety
+
+826
+00:49:07,920 --> 00:49:11,080
+or efficacy in the
+individual patient.
+
+827
+00:49:13,860 --> 00:49:16,840
+Optimize therapy for
+
+828
+00:49:16,840 --> 00:49:20,380
+the individual patient.
+
+829
+00:49:21,030 --> 00:49:23,120
+So how do you do
+this? You have
+
+830
+00:49:23,120 --> 00:49:26,510
+to take a very good,
+careful history
+
+831
+00:49:26,750 --> 00:49:29,720
+and that will
+help guide you.
+
+832
+00:49:32,900 --> 00:49:37,580
+So in summary,
+we have our
+
+833
+00:49:37,600 --> 00:49:39,920
+pharmacodynamics
+is the study of the
+
+834
+00:49:39,920 --> 00:49:42,040
+effects on the
+biologic systems.
+
+835
+00:49:44,260 --> 00:49:46,960
+We have our two-state
+receptor occupancy
+
+836
+00:49:46,960 --> 00:49:48,820
+model that postulates
+that receptors
+
+837
+00:49:48,820 --> 00:49:51,740
+in the receptor pool
+exist in equilibrium
+
+838
+00:49:51,740 --> 00:49:54,620
+in two interchangeable
+conformational
+
+839
+00:49:54,620 --> 00:49:56,480
+states in the
+absence of a ligand.
+
+840
+00:49:56,480 --> 00:49:59,620
+Remember this is one
+type of receptor.
+
+841
+00:50:00,190 --> 00:50:02,380
+The active
+conformation and
+
+842
+00:50:02,380 --> 00:50:03,800
+the inactive
+conformation.
+
+843
+00:50:03,860 --> 00:50:06,320
+Full agonists,
+partial agonists,
+
+844
+00:50:06,320 --> 00:50:08,640
+neutral antagonists,
+and inverse
+
+845
+00:50:08,640 --> 00:50:11,720
+agonists are explained
+by this model.
+
+846
+00:50:12,430 --> 00:50:15,865
+Many drugs actually
+do represent
+
+847
+00:50:16,300 --> 00:50:19,120
+this model, but
+many drugs do not.
+
+848
+00:50:19,880 --> 00:50:23,900
+The classical receptor
+occupancy model
+
+849
+00:50:23,900 --> 00:50:26,280
+postulates that
+receptors are quiescent,
+
+850
+00:50:26,280 --> 00:50:29,700
+quiet, unless
+activated by a ligand.
+
+851
+00:50:30,330 --> 00:50:34,160
+Agonists occupy
+receptors, activate
+
+852
+00:50:34,160 --> 00:50:36,460
+their regulatory
+effector mechanisms,
+
+853
+00:50:36,460 --> 00:50:38,500
+and produce a
+response. Agonists
+
+854
+00:50:38,500 --> 00:50:40,860
+have affinity and
+intrinsic activity.
+
+855
+00:50:41,950 --> 00:50:44,780
+Antagonists occupy
+receptors, but do not
+
+856
+00:50:44,780 --> 00:50:48,080
+activate them, they
+have affinity, zero
+
+857
+00:50:48,080 --> 00:50:50,640
+intrinsic allergic
+activity and prevent the
+
+858
+00:50:50,640 --> 00:50:53,240
+agonist from occupying
+the site of action.
+
+859
+00:50:54,250 --> 00:50:56,660
+Receptor antagonists
+are classified as
+
+860
+00:50:56,660 --> 00:50:59,260
+competitive and
+noncompetitive antagonists,
+
+861
+00:50:59,260 --> 00:51:02,600
+irreversible, and
+allosteric modulators.
+
+862
+00:51:04,010 --> 00:51:06,740
+Positive allosteric
+modulators increase
+
+863
+00:51:06,740 --> 00:51:10,500
+agonist affinity or
+magnitude of effect.
+
+864
+00:51:10,500 --> 00:51:13,620
+But negative allosteric
+modulators reduce
+
+865
+00:51:13,620 --> 00:51:18,620
+affinity and or
+efficacy of the agonist.
+
+866
+00:51:20,000 --> 00:51:24,340
+Physiologic or
+functional antagonism
+
+867
+00:51:24,340 --> 00:51:27,750
+results from
+counterbalancing effects
+
+868
+00:51:27,750 --> 00:51:38,180
+on physiologic
+regulatory pathways
+
+869
+00:51:38,180 --> 00:51:41,060
+by substances
+acting at different
+
+870
+00:51:41,060 --> 00:51:44,760
+receptors or by
+different mechanisms.
+
+871
+00:51:51,580 --> 00:51:54,180
+Chemical antagonists
+sequester the agonist,
+
+872
+00:51:54,180 --> 00:51:56,700
+preventing it from
+binding its receptors.
+
+873
+00:51:58,040 --> 00:52:00,160
+Cellular regulation
+of drug receptor
+
+874
+00:52:00,160 --> 00:52:02,720
+interactions
+can alter the
+
+875
+00:52:02,720 --> 00:52:04,880
+response to the
+agonist over time.
+
+876
+00:52:05,000 --> 00:52:07,280
+Diminished
+responsiveness, which is
+
+877
+00:52:07,280 --> 00:52:10,400
+tolerance,
+tachyphylaxis, due to
+
+878
+00:52:10,400 --> 00:52:12,320
+continuous or repeated
+repeated exposure
+
+879
+00:52:12,320 --> 00:52:14,540
+to an agonist
+results in receptor
+
+880
+00:52:14,540 --> 00:52:17,620
+desensitization
+and downregulation.
+
+881
+00:52:18,130 --> 00:52:20,420
+After withdrawal
+of the agonist, the
+
+882
+00:52:20,420 --> 00:52:22,500
+cells recover full
+responsiveness
+
+883
+00:52:22,500 --> 00:52:26,180
+to a subsequent
+addition of agonist,
+
+884
+00:52:26,180 --> 00:52:27,620
+and this is called
+resensitization.
+
+885
+00:52:29,310 --> 00:52:31,580
+An increased
+density of membrane
+
+886
+00:52:31,580 --> 00:52:36,280
+receptors can result
+from continuous
+
+887
+00:52:36,280 --> 00:52:39,020
+or repeated exposure
+to an antagonist
+
+888
+00:52:39,020 --> 00:52:41,160
+after the antagonist
+is withdrawn.
+
+889
+00:52:41,900 --> 00:52:44,240
+Activation by
+the agonist can
+
+890
+00:52:44,240 --> 00:52:47,220
+cause an exaggerated
+response.
+
+891
+00:52:49,210 --> 00:52:51,720
+Individuals in a
+population vary in their
+
+892
+00:52:51,720 --> 00:52:53,960
+response to the same
+concentration of a
+
+893
+00:52:53,960 --> 00:52:57,460
+single drug or similar
+drugs, and a given
+
+894
+00:52:57,460 --> 00:53:00,480
+individual may not
+always respond in the
+
+895
+00:53:00,480 --> 00:53:02,520
+same way to the same
+drug concentration.
+
+896
+00:53:04,360 --> 00:53:07,020
+Quantal dose response
+curves describes
+
+897
+00:53:07,020 --> 00:53:10,640
+the cumulative frequency
+distributions of
+
+898
+00:53:10,640 --> 00:53:13,800
+responders defined
+as an all or none
+
+899
+00:53:13,800 --> 00:53:16,740
+effect plotted against
+the log dose of a
+
+900
+00:53:16,740 --> 00:53:19,860
+drug. The percentage
+of the population
+
+901
+00:53:19,860 --> 00:53:23,780
+affected increases as
+the dose is raised.
+
+902
+00:53:23,920 --> 00:53:26,660
+The parameters for
+calculating the therapeutic
+
+903
+00:53:26,660 --> 00:53:29,180
+index are the dose
+of drug required
+
+904
+00:53:29,180 --> 00:53:32,780
+to produce an effect in
+50% of the population,
+
+905
+00:53:32,780 --> 00:53:35,580
+ED50, and the
+dose that produces
+
+906
+00:53:35,580 --> 00:53:39,620
+death or toxicity in
+50% of the population.
+
+907
+00:53:40,640 --> 00:53:43,380
+The therapeutic
+index is an
+
+908
+00:53:43,380 --> 00:53:46,980
+estimate, that's
+all it is, an
+
+909
+00:53:46,980 --> 00:53:49,860
+estimate of the
+drug's safety.
+
+910
+00:53:50,360 --> 00:53:55,450
+The therapeutic
+window is a range of
+
+911
+00:53:55,660 --> 00:53:58,040
+steady state
+concentrations at which the
+
+912
+00:53:58,040 --> 00:54:01,740
+likelihood hood of
+efficacy is high and the
+
+913
+00:54:01,740 --> 00:54:05,260
+probability of adverse
+effects is low.
+
+914
+00:54:07,780 --> 00:54:12,040
+And that concludes
+this lecture,
+
+915
+00:54:12,040 --> 00:54:14,380
+the series on
+pharmacodynamics.
+

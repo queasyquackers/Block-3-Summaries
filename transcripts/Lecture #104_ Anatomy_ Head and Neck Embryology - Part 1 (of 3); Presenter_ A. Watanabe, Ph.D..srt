@@ -1,0 +1,2607 @@
+1
+00:00:02,590 --> 00:00:04,410
+This is Foundations
+of Osteopathic
+
+2
+00:00:04,410 --> 00:00:05,890
+Medicine lecture
+on head and neck
+
+3
+00:00:05,890 --> 00:00:08,770
+embryology, given
+by Dr. Aki Watanabe.
+
+4
+00:00:10,590 --> 00:00:12,910
+Just like my
+previous lecture on
+
+5
+00:00:12,910 --> 00:00:14,470
+introduction to
+the head and neck,
+
+6
+00:00:14,470 --> 00:00:16,530
+the same rules
+apply for my slides.
+
+7
+00:00:16,530 --> 00:00:19,070
+So any red text on
+slides mean that
+
+8
+00:00:19,070 --> 00:00:21,790
+they're fair game
+for the exam,
+
+9
+00:00:22,030 --> 00:00:24,550
+as well as anatomical
+structures that are
+
+10
+00:00:24,550 --> 00:00:26,910
+labeled either in red
+or in red highlight.
+
+11
+00:00:27,770 --> 00:00:30,050
+and make sure to
+pay attention to
+
+12
+00:00:30,050 --> 00:00:31,350
+any of the
+clinical correlates
+
+13
+00:00:31,350 --> 00:00:33,010
+that I go over
+during my lectures.
+
+14
+00:00:33,290 --> 00:00:36,310
+And finally, I highly
+recommend going over
+
+15
+00:00:36,310 --> 00:00:38,210
+the learning objectives
+that I list in the
+
+16
+00:00:38,210 --> 00:00:40,190
+course preparation
+guide for this lecture,
+
+17
+00:00:40,190 --> 00:00:42,450
+which will give you the
+topics you should focus
+
+18
+00:00:42,450 --> 00:00:46,590
+on when studying for
+the lecture content.
+
+19
+00:00:51,460 --> 00:00:53,580
+So here's a video
+showing the remarkable
+
+20
+00:00:53,580 --> 00:00:55,320
+changes that happen
+in the head and
+
+21
+00:00:55,320 --> 00:00:57,340
+neck during development.
+So this is about
+
+22
+00:00:57,340 --> 00:00:59,920
+a 30-second clip that
+goes to the journey
+
+23
+00:00:59,920 --> 00:01:02,100
+of four to five
+-week-old embryo to
+
+24
+00:01:02,100 --> 00:01:06,040
+14 weeks. So this is
+showing the changes
+
+25
+00:01:06,040 --> 00:01:07,560
+that's happening in
+the head and neck
+
+26
+00:01:07,560 --> 00:01:09,740
+during essentially
+the first trimester.
+
+27
+00:01:21,070 --> 00:01:22,870
+So during the lecture,
+we'll be talking
+
+28
+00:01:22,870 --> 00:01:24,510
+about some of the
+processes that are
+
+29
+00:01:24,510 --> 00:01:26,910
+involved in this
+incredible transformation.
+
+30
+00:01:27,130 --> 00:01:29,130
+So in the first part
+of this lecture,
+
+31
+00:01:29,130 --> 00:01:30,870
+we'll talk about the
+segmented structures
+
+32
+00:01:30,870 --> 00:01:32,850
+in the head and
+neck. And then in the
+
+33
+00:01:32,850 --> 00:01:34,450
+second part, we'll
+talk about the rebels
+
+34
+00:01:34,450 --> 00:01:37,630
+that go against these
+segmented regions.
+
+35
+00:01:37,870 --> 00:01:39,630
+And then the third
+and the last part,
+
+36
+00:01:39,630 --> 00:01:41,880
+we'll talk about the
+germ layer contributions
+
+37
+00:01:41,990 --> 00:01:43,690
+to the head and
+neck structures.
+
+38
+00:01:43,690 --> 00:01:45,430
+So these include
+the ectoderm,
+
+39
+00:01:45,430 --> 00:01:48,090
+endoderm, mesoderm,
+and neurocrestal
+
+40
+00:01:48,090 --> 00:01:51,250
+derivatives that
+exist in the head.
+
+41
+00:01:53,350 --> 00:01:54,570
+So let's start talking
+
+42
+00:01:54,570 --> 00:01:56,010
+about segmented
+structures.
+
+43
+00:01:56,130 --> 00:01:58,050
+And so if you
+look at somebody's
+
+44
+00:01:58,050 --> 00:01:59,790
+head or face, it's
+hard to figure
+
+45
+00:01:59,790 --> 00:02:02,290
+out any segmented
+structures.
+
+46
+00:02:02,430 --> 00:02:05,200
+But if you look at
+the postcranium,
+
+47
+00:02:05,210 --> 00:02:06,650
+you do see some segmented
+
+48
+00:02:06,650 --> 00:02:08,250
+structures, as you
+talked about probably
+
+49
+00:02:08,250 --> 00:02:10,330
+in previous
+embryology lectures.
+
+50
+00:02:10,330 --> 00:02:12,010
+For example, when
+you pay attention to
+
+51
+00:02:12,010 --> 00:02:14,830
+the vertebrae and the
+ribs, you can clearly
+
+52
+00:02:14,830 --> 00:02:17,970
+see segmented
+structures and system of
+
+53
+00:02:17,970 --> 00:02:20,610
+organization that
+happens in the body.
+
+54
+00:02:21,130 --> 00:02:23,010
+So what about the head?
+
+55
+00:02:23,210 --> 00:02:25,090
+Well, in order to
+look at segments
+
+56
+00:02:25,090 --> 00:02:26,750
+that occur in
+the head, we need
+
+57
+00:02:26,750 --> 00:02:29,510
+to pay attention
+to early embryos.
+
+58
+00:02:30,290 --> 00:02:32,290
+So when you look at
+the top row, which
+
+59
+00:02:32,290 --> 00:02:34,650
+shows embryos around
+four to five weeks
+
+60
+00:02:34,650 --> 00:02:36,850
+across different
+animals, do you see any
+
+61
+00:02:36,850 --> 00:02:39,590
+segmented structures
+around the head?
+
+62
+00:02:46,710 --> 00:02:49,150
+Here they are. And
+you might have seen
+
+63
+00:02:49,150 --> 00:02:52,450
+these knobs that are
+coming off of the neck
+
+64
+00:02:52,450 --> 00:02:55,550
+of the embryo. So
+there are four to six
+
+65
+00:02:55,550 --> 00:02:58,730
+pharyngeal arches that
+exist in early embryos
+
+66
+00:02:58,730 --> 00:03:01,670
+of different animals.
+In humans, there
+
+67
+00:03:01,670 --> 00:03:04,830
+are four that are very
+visible but they're
+
+68
+00:03:04,830 --> 00:03:06,730
+actually six pharyngeal
+arches in the
+
+69
+00:03:06,730 --> 00:03:08,730
+beginning but we understand
+a little bit about
+
+70
+00:03:08,730 --> 00:03:10,830
+the fifth arch which
+tends to disappear
+
+71
+00:03:10,830 --> 00:03:13,190
+and then the fourth is
+very closely related
+
+72
+00:03:13,190 --> 00:03:15,890
+to six so you can
+consider them four and
+
+73
+00:03:15,890 --> 00:03:19,290
+six arches to be together
+so in total there
+
+74
+00:03:19,290 --> 00:03:21,570
+are four visible
+pharyngeal arches on the
+
+75
+00:03:21,570 --> 00:03:25,450
+external surface of
+the embryo and these
+
+76
+00:03:25,450 --> 00:03:27,990
+are called pharyngeal
+or brachial arches.
+
+77
+00:03:31,090 --> 00:03:33,830
+Here at the center
+of the slide,
+
+78
+00:03:33,830 --> 00:03:35,130
+you see a cross-sectional
+
+79
+00:03:35,130 --> 00:03:37,350
+image of an embryo,
+which is cut
+
+80
+00:03:37,810 --> 00:03:40,770
+basically where the
+blue line is on this
+
+81
+00:03:40,770 --> 00:03:43,350
+top right inset
+image. And so we're
+
+82
+00:03:43,350 --> 00:03:45,990
+looking down from the
+top of this embryo.
+
+83
+00:03:46,110 --> 00:03:48,030
+And you'll notice
+that pharyngeal
+
+84
+00:03:48,030 --> 00:03:49,810
+arches are just
+part of this
+
+85
+00:03:49,810 --> 00:03:51,530
+larger pharyngeal
+apparatus.
+
+86
+00:03:51,670 --> 00:03:54,390
+So arches are
+the evaginated
+
+87
+00:03:54,390 --> 00:03:57,450
+segments of the ectoderm.
+
+88
+00:03:57,810 --> 00:04:02,130
+And there are pharyngeal
+clefts that represent
+
+89
+00:04:02,130 --> 00:04:05,090
+the invagination of
+the ectoderm, and
+
+90
+00:04:05,090 --> 00:04:08,310
+they exist between two
+adjacent pharyngeal
+
+91
+00:04:08,310 --> 00:04:11,470
+arches. Similarly,
+there's the pharyngeal
+
+92
+00:04:11,470 --> 00:04:14,730
+pouch, which is the
+invagination of the endoderm
+
+93
+00:04:15,090 --> 00:04:18,510
+that's within the
+embryo. And then between
+
+94
+00:04:18,510 --> 00:04:20,810
+the cleft and the
+pouch is the pharyngeal
+
+95
+00:04:20,810 --> 00:04:23,470
+membrane. And these
+are numbered from
+
+96
+00:04:23,470 --> 00:04:26,670
+cranial to caudal
+direction. So the first arch
+
+97
+00:04:26,670 --> 00:04:30,010
+will have pharyngeal
+arch one, and then
+
+98
+00:04:30,010 --> 00:04:32,190
+posterior to that will
+be the pharyngeal cleft
+
+99
+00:04:32,190 --> 00:04:34,990
+one and pharyngeal
+pouch one over here,
+
+100
+00:04:34,990 --> 00:04:38,430
+and then pharyngeal
+membrane one in between.
+
+101
+00:04:41,530 --> 00:04:43,970
+what's important to
+know is that these
+
+102
+00:04:43,970 --> 00:04:46,870
+pharyngeal apparatus
+and these segments are
+
+103
+00:04:46,870 --> 00:04:50,790
+all associated for
+with four derivative
+
+104
+00:04:50,790 --> 00:04:53,270
+structures so these
+include bones and
+
+105
+00:04:53,270 --> 00:04:57,530
+cartilage arteries
+cranial nerves and muscles
+
+106
+00:04:59,850 --> 00:05:02,430
+so where do the
+pharyngeal apparatus go
+
+107
+00:05:02,430 --> 00:05:05,430
+in adults well when
+you look at fish
+
+108
+00:05:05,430 --> 00:05:08,170
+and sharks for example
+on the left, the
+
+109
+00:05:08,170 --> 00:05:10,470
+structures that
+derive from pharyngeal
+
+110
+00:05:10,470 --> 00:05:13,650
+arches and pharyngeal
+apparatus is associated
+
+111
+00:05:13,650 --> 00:05:15,050
+with these gills
+that you see on
+
+112
+00:05:15,050 --> 00:05:17,270
+the sides of the head
+and neck in fishes
+
+113
+00:05:17,270 --> 00:05:19,690
+and sharks. So they're
+organs that are
+
+114
+00:05:19,690 --> 00:05:22,250
+involved with
+respiration and feeding.
+
+115
+00:05:22,570 --> 00:05:24,750
+And in non-fish animals,
+
+116
+00:05:24,750 --> 00:05:29,230
+for example, other
+mammals and birds, for
+
+117
+00:05:29,230 --> 00:05:32,810
+example, and lizards,
+we obviously don't
+
+118
+00:05:32,810 --> 00:05:35,890
+have gills. but
+the structures that
+
+119
+00:05:35,890 --> 00:05:37,910
+are derived from these
+pharyngeal apparatus
+
+120
+00:05:37,910 --> 00:05:41,270
+are still involved
+heavily with feeding
+
+121
+00:05:41,270 --> 00:05:43,770
+and respiration
+and humans actually
+
+122
+00:05:43,770 --> 00:05:46,310
+have co-opted these
+derivative structures
+
+123
+00:05:46,310 --> 00:05:48,990
+as facial muscles and
+vocalizations adding
+
+124
+00:05:48,990 --> 00:05:51,370
+more functionality
+to the structures
+
+125
+00:05:51,370 --> 00:05:54,030
+that come from these
+pharyngeal arches.
+
+126
+00:06:00,750 --> 00:06:03,330
+So in previous
+embryology lectures you
+
+127
+00:06:03,330 --> 00:06:04,790
+learned about
+somites which are
+
+128
+00:06:04,790 --> 00:06:07,170
+packets of mesoderms
+that you can see
+
+129
+00:06:07,170 --> 00:06:11,090
+lined up along the
+anterior to posterior
+
+130
+00:06:11,090 --> 00:06:14,090
+axis or the body
+axis of an embryo.
+
+131
+00:06:14,450 --> 00:06:16,890
+In the head, there are
+similar structures,
+
+132
+00:06:16,890 --> 00:06:18,410
+but these are
+called somitomeres.
+
+133
+00:06:18,930 --> 00:06:21,890
+And these are
+units of mesoderm
+
+134
+00:06:21,890 --> 00:06:24,110
+in the head, but
+compared to somites
+
+135
+00:06:24,110 --> 00:06:25,610
+that you see
+them distinctly,
+
+136
+00:06:26,070 --> 00:06:28,760
+the distinction
+is not as clear in
+
+137
+00:06:28,760 --> 00:06:30,410
+somitomeres. So they're
+not as separated,
+
+138
+00:06:30,410 --> 00:06:32,250
+which you can see
+of this image below.
+
+139
+00:06:34,310 --> 00:06:37,430
+And you can see
+that the somitomeres
+
+140
+00:06:37,430 --> 00:06:41,330
+are responsible
+for creating
+
+141
+00:06:41,890 --> 00:06:44,070
+mesodermal structures
+in the head and
+
+142
+00:06:44,070 --> 00:06:46,350
+the neck. So let's
+start with on the
+
+143
+00:06:46,350 --> 00:06:47,870
+anterior side.
+So the first few
+
+144
+00:06:47,870 --> 00:06:51,270
+somitomeres will be used
+to create extraocular
+
+145
+00:06:51,270 --> 00:06:52,510
+muscles. So
+these are muscles
+
+146
+00:06:52,510 --> 00:06:54,410
+that are responsible
+for eye movement.
+
+147
+00:06:54,650 --> 00:06:59,010
+And the more posterior
+somitomeres will be
+
+148
+00:06:59,010 --> 00:07:02,050
+responsible for going
+into the pharyngeal
+
+149
+00:07:02,050 --> 00:07:06,650
+arches to make mesodermal
+structures, especially
+
+150
+00:07:06,650 --> 00:07:08,070
+the muscles that
+are associated with
+
+151
+00:07:08,070 --> 00:07:11,290
+these pharyngeal arches.
+And what's neat is
+
+152
+00:07:11,290 --> 00:07:13,410
+that the tongue, although
+this is a structure
+
+153
+00:07:13,410 --> 00:07:16,790
+that exists in the
+head, they are created
+
+154
+00:07:16,790 --> 00:07:19,690
+from mesodermal packets,
+the somites, from
+
+155
+00:07:19,690 --> 00:07:22,930
+more posterior part of
+the body. And this is
+
+156
+00:07:22,930 --> 00:07:25,130
+why the innervation of
+the tongue, the motor
+
+157
+00:07:25,130 --> 00:07:28,230
+innervation, I should
+say, is coming from
+
+158
+00:07:28,230 --> 00:07:31,570
+the most posterior
+cranial nerve, which is
+
+159
+00:07:31,570 --> 00:07:34,310
+cranial nerve 12, or
+the hypoglossal nerve.
+
+160
+00:07:37,210 --> 00:07:39,750
+And the arteries
+are also originally
+
+161
+00:07:39,750 --> 00:07:42,070
+very segmented
+in embryos.
+
+162
+00:07:42,570 --> 00:07:46,370
+So you have the
+arches, and you can see
+
+163
+00:07:46,370 --> 00:07:48,170
+on the left in this
+oblique view of an
+
+164
+00:07:48,170 --> 00:07:51,070
+embryo that there are
+clearly defined arteries
+
+165
+00:07:51,070 --> 00:07:52,830
+that are based on
+these pharyngeal
+
+166
+00:07:52,830 --> 00:07:56,870
+arches. But during
+development, arches one,
+
+167
+00:07:56,870 --> 00:08:00,170
+two, and five mostly
+disappear, and the
+
+168
+00:08:00,170 --> 00:08:04,170
+other arches change
+shape. So the segmented
+
+169
+00:08:04,970 --> 00:08:07,110
+starting point
+for these arteries
+
+170
+00:08:07,110 --> 00:08:09,990
+become kind of lost.
+So you don't really
+
+171
+00:08:09,990 --> 00:08:12,150
+see these segmented
+structures or
+
+172
+00:08:12,150 --> 00:08:14,770
+organizations when
+you look at arteries
+
+173
+00:08:14,770 --> 00:08:16,870
+of a baby and
+adults and humans.
+
+174
+00:08:20,430 --> 00:08:22,690
+So now, as with
+the cranial nerves
+
+175
+00:08:22,690 --> 00:08:24,150
+that I went over
+in my introduction
+
+176
+00:08:24,150 --> 00:08:25,390
+to head and neck lecture,
+
+177
+00:08:25,610 --> 00:08:27,590
+I recommend creating
+another table
+
+178
+00:08:27,590 --> 00:08:30,610
+to organize the
+derivatives coming
+
+179
+00:08:30,610 --> 00:08:32,250
+off of the
+pharyngeal apparatus.
+
+180
+00:08:32,310 --> 00:08:35,710
+So on the leftmost
+column, you can have
+
+181
+00:08:35,710 --> 00:08:38,950
+the arches. So arch
+number one, two, three,
+
+182
+00:08:38,950 --> 00:08:40,530
+and then you can
+put the four and six
+
+183
+00:08:40,530 --> 00:08:43,390
+together. And remember
+that five is missing
+
+184
+00:08:43,570 --> 00:08:46,490
+and disappears during
+development. it.
+
+185
+00:08:46,770 --> 00:08:50,350
+So the first arch
+is also called the
+
+186
+00:08:50,350 --> 00:08:52,770
+mandibular arch. The
+second is also called
+
+187
+00:08:52,770 --> 00:08:55,630
+hyoid arch. Third is
+also called carotid.
+
+188
+00:08:55,630 --> 00:08:58,290
+Fourth and sixth are
+called systemic and
+
+189
+00:08:58,290 --> 00:09:01,270
+pulmonary arches
+respectively. And as I
+
+190
+00:09:01,270 --> 00:09:03,610
+mentioned before,
+each of these arches
+
+191
+00:09:03,610 --> 00:09:05,490
+are associated with
+bone and cartilage
+
+192
+00:09:05,490 --> 00:09:09,710
+structures, muscles,
+arteries, and cranial
+
+193
+00:09:09,710 --> 00:09:11,650
+nerves. And after
+I've gone through the
+
+194
+00:09:11,650 --> 00:09:14,130
+pharyngeal arch
+derivatives, I'll also go
+
+195
+00:09:14,130 --> 00:09:16,830
+over the derivatives
+coming off of the
+
+196
+00:09:16,830 --> 00:09:19,690
+pharyngeal pouches,
+clefts, and membranes.
+
+197
+00:09:21,870 --> 00:09:24,050
+So just like bingo,
+you get some free
+
+198
+00:09:24,050 --> 00:09:26,090
+space. So actually,
+you can block
+
+199
+00:09:26,090 --> 00:09:28,990
+out two of the
+spaces. So arch number
+
+200
+00:09:28,990 --> 00:09:30,950
+one and two do
+not contribute
+
+201
+00:09:30,950 --> 00:09:34,430
+significantly to
+any of the arteries.
+
+202
+00:09:37,280 --> 00:09:39,050
+so let's start with
+the pharyngeal arch
+
+203
+00:09:39,050 --> 00:09:41,950
+one also called the
+mandibular arch so the
+
+204
+00:09:41,950 --> 00:09:44,490
+cartilaginous and
+bony derivatives of
+
+205
+00:09:44,490 --> 00:09:48,110
+the mandibular arch
+includes the cartilaginous
+
+206
+00:09:48,110 --> 00:09:50,970
+precursor of the
+bony mandible this
+
+207
+00:09:50,970 --> 00:09:53,690
+is also called meccal's
+cartilage and so
+
+208
+00:09:53,690 --> 00:09:55,640
+the pharyngeal arch
+one does not directly
+
+209
+00:09:55,640 --> 00:09:58,730
+create the bony
+mandible but rather it
+
+210
+00:09:58,730 --> 00:10:01,870
+creates the cartilaginous
+scaffold that will
+
+211
+00:10:01,870 --> 00:10:04,270
+help the bony mandible
+form around it.
+
+212
+00:10:04,670 --> 00:10:09,010
+It also is responsible
+for creating the
+
+213
+00:10:09,010 --> 00:10:12,330
+malleus and incus
+bones. And so these
+
+214
+00:10:12,330 --> 00:10:17,510
+are the hammer-like
+bone and the incus or
+
+215
+00:10:17,510 --> 00:10:19,830
+the anvil-shaped bone.
+And these are tiny
+
+216
+00:10:19,830 --> 00:10:21,930
+bones in the middle
+ear, and these help
+
+217
+00:10:21,930 --> 00:10:24,130
+amplify sound so
+you can hear better.
+
+218
+00:10:24,880 --> 00:10:26,850
+And so you might be
+wondering, well, this
+
+219
+00:10:26,850 --> 00:10:30,070
+is a mandibular arch,
+so it must be related
+
+220
+00:10:30,070 --> 00:10:33,450
+to the lower jaw. So
+why are bones that are
+
+221
+00:10:33,450 --> 00:10:36,190
+inside of your ear
+associated with this
+
+222
+00:10:36,190 --> 00:10:39,570
+arch? Well, there's a
+neat evolutionary story
+
+223
+00:10:39,570 --> 00:10:42,330
+here. And that's
+because the malleus and
+
+224
+00:10:42,330 --> 00:10:46,430
+the incus bones used
+to be jaw bones in more
+
+225
+00:10:46,430 --> 00:10:49,170
+primitive and ancestral
+mammals. And you
+
+226
+00:10:49,170 --> 00:10:51,870
+see this in other non
+-mammalian animals as
+
+227
+00:10:51,870 --> 00:10:55,050
+well. So when you take
+a look at fossils of
+
+228
+00:10:55,050 --> 00:11:00,170
+mammal ancestors, you
+see that the quadrate
+
+229
+00:11:00,170 --> 00:11:03,470
+and articular have
+become decoupled from
+
+230
+00:11:03,470 --> 00:11:06,390
+the jaws and they have
+slowly moved in to
+
+231
+00:11:06,390 --> 00:11:11,650
+the middle ear and this
+transition evolutionary
+
+232
+00:11:11,650 --> 00:11:15,290
+transition could be
+seen by looking at
+
+233
+00:11:15,290 --> 00:11:17,790
+a series of fossils
+going from the most
+
+234
+00:11:17,790 --> 00:11:21,950
+primitive mammals or
+mammal relative all the
+
+235
+00:11:21,950 --> 00:11:24,470
+way to modern mammals
+which is a neat story.
+
+236
+00:11:24,950 --> 00:11:27,730
+And that's why the
+malleus and incus are
+
+237
+00:11:27,730 --> 00:11:29,970
+the derivatives of
+pharyngeal arch one.
+
+238
+00:11:31,060 --> 00:11:33,310
+So now let's talk
+about the arterial
+
+239
+00:11:33,310 --> 00:11:35,070
+derivatives. Well,
+actually, I told
+
+240
+00:11:35,070 --> 00:11:36,600
+you this is one of
+the free spaces.
+
+241
+00:11:37,010 --> 00:11:40,050
+And although the
+arch one contributes
+
+242
+00:11:40,050 --> 00:11:42,830
+to parts of the
+maxillary artery and
+
+243
+00:11:42,830 --> 00:11:45,690
+external carotid
+artery, it's too
+
+244
+00:11:45,690 --> 00:11:49,330
+significant to be
+included in the table.
+
+245
+00:11:49,330 --> 00:11:50,990
+So no need to know
+that for the exam.
+
+246
+00:11:51,400 --> 00:11:53,390
+In terms of the muscle
+derivatives, you
+
+247
+00:11:53,390 --> 00:11:55,810
+have muscles of
+mastication or also known
+
+248
+00:11:55,810 --> 00:11:57,630
+as jaw muscles. So
+these are muscles
+
+249
+00:11:57,630 --> 00:11:59,590
+responsible for opening
+and closing your
+
+250
+00:11:59,590 --> 00:12:01,830
+jaw for chewing. So
+these include the
+
+251
+00:12:01,830 --> 00:12:04,270
+temporalis muscle,
+masseter muscle, and the
+
+252
+00:12:04,270 --> 00:12:06,510
+pterygoids. You also
+have several other
+
+253
+00:12:06,510 --> 00:12:10,110
+muscles. So tensor
+tympani, which tenses
+
+254
+00:12:10,110 --> 00:12:13,350
+the tympanic membrane
+or the eardrum,
+
+255
+00:12:13,470 --> 00:12:16,670
+tensor villi palatini,
+an anterior belly of
+
+256
+00:12:16,670 --> 00:12:19,510
+the digastric muscle,
+and then myelohyoid.
+
+257
+00:12:22,890 --> 00:12:25,410
+and what is the cranial
+nerve associated
+
+258
+00:12:25,410 --> 00:12:27,090
+with these
+muscles? Well, it's
+
+259
+00:12:27,090 --> 00:12:30,190
+cranial nerve five
+or the trigeminal.
+
+260
+00:12:32,490 --> 00:12:34,790
+Now we'll move on to
+pharyngeal arch two,
+
+261
+00:12:34,790 --> 00:12:36,870
+also known as
+hired arch and the
+
+262
+00:12:36,870 --> 00:12:39,950
+cartilaginous and bony
+structures that derive
+
+263
+00:12:39,950 --> 00:12:41,950
+from pharyngeal arch
+two includes the
+
+264
+00:12:41,950 --> 00:12:45,890
+stapes bone, which
+is the third middle
+
+265
+00:12:45,890 --> 00:12:50,690
+ear ossicles, and the
+stylo process, which
+
+266
+00:12:50,690 --> 00:12:53,630
+the stylofaryngous
+muscle attaches to.
+
+267
+00:12:53,850 --> 00:12:56,780
+And then you
+have the hyoid or
+
+268
+00:12:56,780 --> 00:12:58,330
+parts of the hyoid,
+including the
+
+269
+00:12:58,330 --> 00:13:00,230
+lesser horn and
+the upper body.
+
+270
+00:13:01,170 --> 00:13:02,470
+And again, this is one of
+
+271
+00:13:02,470 --> 00:13:04,050
+the free spaces
+for arteries.
+
+272
+00:13:04,560 --> 00:13:06,650
+So you don't need
+to know for the
+
+273
+00:13:06,650 --> 00:13:08,830
+exam, but it
+forms part of the
+
+274
+00:13:08,830 --> 00:13:10,690
+stapedio arteries
+and embryos, but
+
+275
+00:13:10,690 --> 00:13:12,650
+that disappears
+during development.
+
+276
+00:13:17,790 --> 00:13:19,270
+And then in
+terms of muscles,
+
+277
+00:13:19,270 --> 00:13:22,010
+the pharyngeal arch 2
+
+278
+00:13:22,410 --> 00:13:24,370
+creates the
+muscles of facial
+
+279
+00:13:24,370 --> 00:13:28,210
+expression, the
+stapedius muscle that
+
+280
+00:13:28,210 --> 00:13:30,270
+holds on to the
+stapes, and the
+
+281
+00:13:30,270 --> 00:13:32,190
+posterior belly
+of the digastric.
+
+282
+00:13:32,350 --> 00:13:34,390
+And so what nerve
+is responsible
+
+283
+00:13:34,390 --> 00:13:36,010
+for facial
+expression muscles?
+
+284
+00:13:36,210 --> 00:13:38,150
+Well, it's the cranial
+
+285
+00:13:38,150 --> 00:13:40,410
+nerve 7 or the
+facial nerve.
+
+286
+00:13:43,810 --> 00:13:46,190
+moving forward now
+we're on to pharyngeal
+
+287
+00:13:46,190 --> 00:13:48,250
+arch 3 also known
+as the carotid
+
+288
+00:13:48,670 --> 00:13:52,610
+arch and the cartilaginous
+and bone structure
+
+289
+00:13:52,610 --> 00:13:55,030
+that derives from
+it include the hyoid
+
+290
+00:13:55,450 --> 00:13:57,950
+and parts of the hyoid
+which is the greater
+
+291
+00:13:57,950 --> 00:14:00,470
+horn and the lower
+body so both the
+
+292
+00:14:00,470 --> 00:14:03,310
+pharyngeal arch 2 and 3
+contribute to the formation
+
+293
+00:14:03,310 --> 00:14:05,370
+of the hyoid but
+different parts of it
+
+294
+00:14:06,530 --> 00:14:09,930
+In terms of arteries,
+it creates the
+
+295
+00:14:09,930 --> 00:14:12,190
+internal and external
+carotid arteries.
+
+296
+00:14:13,590 --> 00:14:18,610
+And for muscles, it
+leads to the creation of
+
+297
+00:14:18,610 --> 00:14:21,590
+stylopharyngous muscles.
+And then the cranial
+
+298
+00:14:21,590 --> 00:14:23,690
+nerve that innervates
+this muscle is the
+
+299
+00:14:23,690 --> 00:14:26,950
+glossopharyngeal nerve
+or cranial nerve nine.
+
+300
+00:14:26,950 --> 00:14:28,690
+And it also makes
+sense when you think
+
+301
+00:14:28,690 --> 00:14:30,670
+about what we learned
+in my previous lecture,
+
+302
+00:14:30,670 --> 00:14:33,350
+where the carotid body
+and the carotid sinus
+
+303
+00:14:34,970 --> 00:14:36,350
+is innervated by the
+
+304
+00:14:36,350 --> 00:14:37,630
+glossopharyngeal nerve.
+
+305
+00:14:41,440 --> 00:14:43,290
+Let's move on to
+pharyngeal arch number
+
+306
+00:14:43,290 --> 00:14:46,130
+four also known as
+systemic arch and the
+
+307
+00:14:46,130 --> 00:14:47,970
+cartilaginous and
+bony structure here
+
+308
+00:14:47,970 --> 00:14:50,890
+includes the laryngeal
+cartilages except for
+
+309
+00:14:50,890 --> 00:14:53,710
+the epiglottis and so
+this is formed together
+
+310
+00:14:53,710 --> 00:14:55,750
+with the pharyngeal
+arch number six.
+
+311
+00:14:58,210 --> 00:15:01,070
+In terms of arteries
+it forms parts of
+
+312
+00:15:01,070 --> 00:15:03,530
+the aorta and the
+right subclavian artery
+
+313
+00:15:03,530 --> 00:15:05,660
+And so what about
+the left subclavian?
+
+314
+00:15:05,660 --> 00:15:09,070
+Well, that's formed
+from what's considered
+
+315
+00:15:09,070 --> 00:15:12,290
+seventh arch, but it's
+not discussed here
+
+316
+00:15:12,290 --> 00:15:17,840
+any further because
+it's a very poorly
+
+317
+00:15:20,150 --> 00:15:23,150
+known arch in the
+pharyngeal apparatus.
+
+318
+00:15:25,790 --> 00:15:28,530
+And in terms of
+the muscles, it's
+
+319
+00:15:28,530 --> 00:15:29,770
+responsible for
+creating the
+
+320
+00:15:29,770 --> 00:15:32,270
+cricothyroid, levator
+veli palatini,
+
+321
+00:15:32,470 --> 00:15:34,610
+constrictors of the
+pharynx, and the
+
+322
+00:15:34,610 --> 00:15:36,490
+strident muscles
+of the esophagus.
+
+323
+00:15:37,010 --> 00:15:39,250
+And these muscles
+are associated with
+
+324
+00:15:39,250 --> 00:15:42,650
+the vagus nerve,
+which is cranial nerve
+
+325
+00:15:42,650 --> 00:15:45,230
+10. And pharyngeal
+arch 4 actually
+
+326
+00:15:45,230 --> 00:15:48,250
+is responsible for
+the superior laryngeal
+
+327
+00:15:48,250 --> 00:15:50,610
+branch or the
+nerve of the vagus.
+
+328
+00:15:54,210 --> 00:15:56,490
+Now, the pharyngeal
+arch six, also known
+
+329
+00:15:56,490 --> 00:15:59,630
+as pulmonary arch,
+again, just like
+
+330
+00:15:59,800 --> 00:16:01,330
+what I've shown
+you in the previous
+
+331
+00:16:01,330 --> 00:16:03,850
+slide, together with
+pharyngeal arch four,
+
+332
+00:16:03,850 --> 00:16:06,170
+it's responsible
+for the laryngeal
+
+333
+00:16:06,170 --> 00:16:08,190
+cartilages, except
+for the epiglottis.
+
+334
+00:16:09,150 --> 00:16:10,670
+And it forms part of
+
+335
+00:16:10,670 --> 00:16:11,890
+the pulmonary arteries.
+
+336
+00:16:14,990 --> 00:16:16,850
+And in terms of
+the muscles, it's
+
+337
+00:16:16,850 --> 00:16:19,430
+responsible for the
+intrinsic laryngeal muscles.
+
+338
+00:16:19,430 --> 00:16:22,210
+that's actually,
+it's one of its
+
+339
+00:16:22,210 --> 00:16:24,710
+functions is to allow
+me to talk like this.
+
+340
+00:16:26,230 --> 00:16:28,790
+And the nerve that's
+responsible for
+
+341
+00:16:28,790 --> 00:16:31,330
+that is the vagus
+nerve, specifically
+
+342
+00:16:31,330 --> 00:16:33,090
+the recurrent
+laryngeal nerve.
+
+343
+00:16:36,960 --> 00:16:38,930
+And so this is a
+nice diagram that
+
+344
+00:16:38,930 --> 00:16:41,490
+summarizes the key
+structures that are
+
+345
+00:16:41,490 --> 00:16:43,230
+derived from each
+laryngeal arch, which
+
+346
+00:16:43,230 --> 00:16:45,110
+are color-coded by
+the arch number.
+
+347
+00:16:45,590 --> 00:16:47,830
+And it doesn't include
+arteries, but it
+
+348
+00:16:47,830 --> 00:16:49,570
+shows a lot of the
+other derivatives.
+
+349
+00:16:49,690 --> 00:16:53,930
+So just to recap,
+ARCH1 is responsible
+
+350
+00:16:53,930 --> 00:16:56,170
+for the meccalus
+cartilage, which is that
+
+351
+00:16:56,170 --> 00:16:59,850
+cartilaginous precursor
+to the lower jaw.
+
+352
+00:17:00,530 --> 00:17:02,390
+And also is responsible
+
+353
+00:17:02,390 --> 00:17:04,090
+for the malleus
+and incus.
+
+354
+00:17:04,890 --> 00:17:07,290
+And those are the bony
+and the cartilaginous
+
+355
+00:17:07,290 --> 00:17:10,290
+structures. and it's
+also associated with
+
+356
+00:17:10,290 --> 00:17:12,710
+cranial nerve five or
+trigeminal nerve that
+
+357
+00:17:12,710 --> 00:17:14,570
+innervates the jaw
+muscles and several
+
+358
+00:17:14,570 --> 00:17:16,730
+other muscles as well
+including the temporalis
+
+359
+00:17:16,730 --> 00:17:20,490
+muscle and the
+masseter muscle and the
+
+360
+00:17:20,490 --> 00:17:23,190
+anterior body belly of
+the digastric muscle.
+
+361
+00:17:23,830 --> 00:17:27,950
+Arch two is responsible
+for the styloid
+
+362
+00:17:27,950 --> 00:17:31,650
+process, the stapes
+which is another
+
+363
+00:17:31,650 --> 00:17:34,030
+ear bone and part of
+the hyoid specifically
+
+364
+00:17:34,030 --> 00:17:36,630
+the lesser horn
+and the upper body.
+
+365
+00:17:37,970 --> 00:17:40,430
+And it is associated
+cranial nerve seven
+
+366
+00:17:40,430 --> 00:17:42,170
+that innervates the
+muscles, the facial
+
+367
+00:17:42,170 --> 00:17:45,950
+expression, and
+several others as well.
+
+368
+00:17:46,750 --> 00:17:50,590
+Arch three in blue,
+the cartilage in
+
+369
+00:17:50,590 --> 00:17:52,730
+this arch forms
+part of the hyoid,
+
+370
+00:17:52,730 --> 00:17:55,250
+more specifically
+the greater horn of
+
+371
+00:17:55,250 --> 00:17:57,310
+the higher bone
+in the lower body.
+
+372
+00:17:58,410 --> 00:18:04,090
+And the cranial nerve 9,
+or the glossopharyngeal
+
+373
+00:18:04,090 --> 00:18:06,190
+nerve, is the one
+that innervates the
+
+374
+00:18:06,190 --> 00:18:09,110
+stylopharyngeus muscle,
+which is misspelled
+
+375
+00:18:09,110 --> 00:18:12,310
+on this image. It
+should be STY, not STI.
+
+376
+00:18:13,180 --> 00:18:15,220
+And finally,
+we have ARCH4.
+
+377
+00:18:15,930 --> 00:18:19,390
+And the cartilage
+that forms from ARCH4
+
+378
+00:18:19,390 --> 00:18:22,230
+includes the thyroid
+and cricoid cartilages,
+
+379
+00:18:22,230 --> 00:18:25,270
+so part of the laryngeal
+cartilages, and it's
+
+380
+00:18:25,270 --> 00:18:27,890
+associated with the
+vagus nerve, is more
+
+381
+00:18:27,890 --> 00:18:30,710
+specifically the
+superior laryngeal nerve.
+
+382
+00:18:33,490 --> 00:18:36,570
+And this innervates
+the pharyngeal muscles.
+
+383
+00:18:37,590 --> 00:18:40,310
+This is another
+diagram that organizes
+
+384
+00:18:40,310 --> 00:18:43,810
+the structures by
+anatomical systems, so by
+
+385
+00:18:43,810 --> 00:18:46,190
+nerves, muscles, and
+cartilage in bone.
+
+386
+00:18:46,190 --> 00:18:49,470
+So once again,
+arch one is
+
+387
+00:18:49,470 --> 00:18:51,170
+associated with
+trigeminal nerve,
+
+388
+00:18:51,170 --> 00:18:53,490
+arch two with
+the facial nerve,
+
+389
+00:18:53,650 --> 00:18:55,250
+arch three with the
+glossopharyngeal
+
+390
+00:18:55,250 --> 00:18:57,270
+nerve, and arch
+four and six
+
+391
+00:18:57,270 --> 00:18:59,110
+are both associated
+with the vagus.
+
+392
+00:19:00,530 --> 00:19:03,790
+In terms of muscles,
+arch one is associated
+
+393
+00:19:03,790 --> 00:19:05,390
+with muscles of
+mastication or the
+
+394
+00:19:05,390 --> 00:19:07,390
+jaw opening and
+closing muscles and
+
+395
+00:19:07,390 --> 00:19:10,790
+other muscles. Arch
+two with muscles of
+
+396
+00:19:10,790 --> 00:19:12,930
+the facial expression
+and several others.
+
+397
+00:19:12,930 --> 00:19:14,810
+Arch three with
+the stylopharyngeus
+
+398
+00:19:14,810 --> 00:19:17,190
+muscle and arch four
+and six with the
+
+399
+00:19:17,190 --> 00:19:19,710
+muscles of the larynx
+and the esophagus.
+
+400
+00:19:19,970 --> 00:19:22,110
+In terms of
+cartilaginous and bony
+
+401
+00:19:22,110 --> 00:19:24,430
+structures, Arch one
+is associated with
+
+402
+00:19:24,430 --> 00:19:27,190
+mandible, malleus,
+and incus. Arch
+
+403
+00:19:27,190 --> 00:19:29,410
+two with the hyoid,
+the upper portion,
+
+404
+00:19:29,810 --> 00:19:32,930
+stapes, and the styler
+process. Arch three
+
+405
+00:19:32,930 --> 00:19:35,490
+with the hyoid and
+the lower portion of
+
+406
+00:19:35,490 --> 00:19:38,490
+the hyoid. And then
+arch four and six are
+
+407
+00:19:38,490 --> 00:19:41,050
+associated with the
+laryngeal cartilagous.
+
+408
+00:19:42,750 --> 00:19:45,470
+so we covered the
+derivatives of the pharyngeal
+
+409
+00:19:45,470 --> 00:19:47,750
+arches and so now
+we're ready to move
+
+410
+00:19:47,750 --> 00:19:50,530
+into the derivatives
+of the other parts of
+
+411
+00:19:50,530 --> 00:19:53,310
+the pharyngeal
+apparatus which includes
+
+412
+00:19:53,310 --> 00:19:58,110
+the cleft pouches and
+the membranes and just
+
+413
+00:19:58,110 --> 00:20:00,130
+to help out with the
+visualization recall
+
+414
+00:20:00,130 --> 00:20:04,590
+that the pouch is the
+invagination of the
+
+415
+00:20:04,590 --> 00:20:07,650
+endoderm so what
+that looks like three
+
+416
+00:20:07,650 --> 00:20:10,450
+-dimensionally so this
+is a high this is a side
+
+417
+00:20:10,450 --> 00:20:14,690
+view of an embryo where
+the pharyngeal arch
+
+418
+00:20:14,690 --> 00:20:17,190
+and membrane have
+been removed so this
+
+419
+00:20:17,190 --> 00:20:19,530
+the gray is endodermal
+layer and you can see
+
+420
+00:20:19,530 --> 00:20:21,830
+the out pocketings
+of the endoderm layer
+
+421
+00:20:21,830 --> 00:20:24,970
+and this is what causes
+the pouches to form
+
+422
+00:20:28,230 --> 00:20:30,630
+what makes it easier
+to study is that of
+
+423
+00:20:30,630 --> 00:20:32,730
+the clefts and membranes
+one through four
+
+424
+00:20:32,730 --> 00:20:35,110
+only the first one
+contributes to adult
+
+425
+00:20:35,110 --> 00:20:37,010
+structures so you have
+the pharyngeal cleft
+
+426
+00:20:37,010 --> 00:20:40,370
+here that becomes the
+external auditory meatus.
+
+427
+00:20:40,370 --> 00:20:42,970
+And then the
+pharyngeal membrane one
+
+428
+00:20:42,970 --> 00:20:46,110
+becomes a tympanic
+membrane or your eardrum.
+
+429
+00:20:46,350 --> 00:20:50,070
+And so clefts and
+membranes two, three, and
+
+430
+00:20:50,070 --> 00:20:52,990
+four do not contribute
+to any adult structures,
+
+431
+00:20:52,990 --> 00:20:55,750
+which keeps it
+simple. So in fact,
+
+432
+00:20:55,750 --> 00:20:58,810
+clefts two, three, and
+four becomes invaginated
+
+433
+00:20:58,810 --> 00:21:01,490
+and joined together to
+make a larger sinus,
+
+434
+00:21:01,490 --> 00:21:04,490
+the cervical sinus, which
+becomes obliterated.
+
+435
+00:21:04,490 --> 00:21:06,470
+But when it doesn't,
+it can lead to
+
+436
+00:21:06,470 --> 00:21:08,590
+fistula and cysts, which
+we'll talk about in
+
+437
+00:21:08,590 --> 00:21:10,970
+our clinical call
+section in a little bit.
+
+438
+00:21:14,190 --> 00:21:16,150
+So let's start with
+pharyngeal pouch
+
+439
+00:21:16,150 --> 00:21:18,990
+cleft and membrane
+derivatives from the
+
+440
+00:21:18,990 --> 00:21:21,290
+first pouch cleft
+and membranes. And so
+
+441
+00:21:21,290 --> 00:21:24,450
+cleft one becomes
+external auditory meatus,
+
+442
+00:21:24,450 --> 00:21:26,790
+and membrane one
+becomes a tympanic
+
+443
+00:21:26,790 --> 00:21:28,610
+membrane or the
+eardrum, which we just
+
+444
+00:21:28,610 --> 00:21:31,190
+covered. And then
+pouch one becomes the
+
+445
+00:21:31,190 --> 00:21:34,030
+tympanic cavity plus
+the eustachian tube
+
+446
+00:21:34,030 --> 00:21:38,090
+that's going to lead
+into the nasopharynx.
+
+447
+00:21:43,090 --> 00:21:45,230
+Pharyngeal pouch
+two, since we don't
+
+448
+00:21:45,230 --> 00:21:48,990
+have to worry about
+the cleft or the
+
+449
+00:21:48,990 --> 00:21:51,550
+membrane, is that
+pouch two becomes the
+
+450
+00:21:51,550 --> 00:21:54,290
+palatine tonsils. And
+so tonsils are masses
+
+451
+00:21:54,290 --> 00:21:56,690
+of lymphoid tissue
+and it traps
+
+452
+00:21:56,690 --> 00:21:58,630
+bacteria and viruses
+entering the oral
+
+453
+00:21:58,630 --> 00:22:01,870
+cavity. And it also
+produces antibodies to
+
+454
+00:22:01,870 --> 00:22:03,950
+help protect them
+from the infection.
+
+455
+00:22:04,930 --> 00:22:07,150
+Now let's talk about
+pharyngeal pouches
+
+456
+00:22:07,150 --> 00:22:09,030
+three and four and the
+derivatives. You can
+
+457
+00:22:09,030 --> 00:22:11,510
+package pouch three and
+four together because
+
+458
+00:22:11,510 --> 00:22:14,330
+their derivatives
+consist of glandular
+
+459
+00:22:14,330 --> 00:22:16,210
+tissue that exists in
+the deep neck that we
+
+460
+00:22:16,210 --> 00:22:18,570
+talked about in the
+previous lecture. So
+
+461
+00:22:18,570 --> 00:22:21,510
+in the pouch three, the
+cranial portion gives
+
+462
+00:22:21,510 --> 00:22:23,870
+rise to the inferior
+parathyroid gland,
+
+463
+00:22:23,870 --> 00:22:28,070
+and the caudal portion
+becomes the thymus.
+
+464
+00:22:29,250 --> 00:22:31,950
+And pouch four, the
+cranial portion becomes
+
+465
+00:22:31,950 --> 00:22:34,930
+the superior hair
+thyroid gland, and
+
+466
+00:22:34,930 --> 00:22:37,530
+then the caudal portion
+becomes what's called
+
+467
+00:22:37,530 --> 00:22:40,400
+the ultimobranchial
+body, which is
+
+468
+00:22:40,400 --> 00:22:42,210
+misspelled here. It's
+missing an N in this
+
+469
+00:22:42,210 --> 00:22:46,210
+illustration,
+ultimobranchial body. and it
+
+470
+00:22:46,210 --> 00:22:49,270
+gives rise to
+parafollicular, also called
+
+471
+00:22:49,270 --> 00:22:55,450
+C-cells, and these
+cells secrete calcitonin
+
+472
+00:22:55,450 --> 00:22:58,590
+and calcitonin acts
+to reduce calcium
+
+473
+00:22:58,590 --> 00:23:00,210
+in the blood. So
+it's another way of
+
+474
+00:23:00,210 --> 00:23:02,970
+controlling the level
+of calcium in the body.
+
+475
+00:23:05,910 --> 00:23:08,530
+Now let's talk about
+clinical correlates.
+
+476
+00:23:08,530 --> 00:23:10,450
+And so this is about
+the brachial fistula
+
+477
+00:23:10,450 --> 00:23:12,590
+and cysts. So this
+is pretty rare,
+
+478
+00:23:12,590 --> 00:23:15,210
+but it's good to know
+what is caused by
+
+479
+00:23:15,210 --> 00:23:17,930
+that cervical cyst
+remaining throughout
+
+480
+00:23:17,930 --> 00:23:20,870
+development. So normally
+the cervical cyst
+
+481
+00:23:20,870 --> 00:23:23,230
+formed from pouches
+two through four
+
+482
+00:23:23,230 --> 00:23:26,550
+gets obliterated, but
+if they remain and
+
+483
+00:23:26,550 --> 00:23:29,010
+if there is an opening
+into the external
+
+484
+00:23:29,010 --> 00:23:32,190
+environment, you
+end up with openings
+
+485
+00:23:32,280 --> 00:23:35,410
+occurring along the
+anterior margin of the
+
+486
+00:23:36,270 --> 00:23:37,930
+sternocleidomastoid
+muscle, which you
+
+487
+00:23:37,930 --> 00:23:40,490
+can see on a patient
+on the right here.
+
+488
+00:23:41,230 --> 00:23:43,710
+On the other hand, if
+the cervical cyst has
+
+489
+00:23:43,710 --> 00:23:45,770
+an opening internally,
+then it typically
+
+490
+00:23:45,770 --> 00:23:48,570
+follows the location
+of the patine tonsils.
+
+491
+00:23:48,570 --> 00:23:50,690
+So you'll see an opening
+inside of the mouth
+
+492
+00:23:50,690 --> 00:23:53,490
+at the location of
+the patine tonsils. So
+
+493
+00:24:01,260 --> 00:24:03,140
+this is an illustration,
+a drawing that
+
+494
+00:24:03,140 --> 00:24:05,170
+shows kind of a three
+-dimensional configuration
+
+495
+00:24:05,170 --> 00:24:07,920
+of the pouches and
+the derivatives, which
+
+496
+00:24:07,920 --> 00:24:09,860
+might help you
+visualize and understand
+
+497
+00:24:09,860 --> 00:24:13,600
+the derivatives and
+their relative locations,
+
+498
+00:24:13,600 --> 00:24:15,320
+a little bit better
+than flat images.
+
+499
+00:24:15,320 --> 00:24:18,000
+So we have the first
+pharyngeal pouch here
+
+500
+00:24:18,000 --> 00:24:21,560
+that becomes the
+internal eustachian tube
+
+501
+00:24:21,560 --> 00:24:24,020
+and the middle ear or
+the tympanic cavity.
+
+502
+00:24:24,160 --> 00:24:26,660
+You have the second
+pharyngeal pouch that
+
+503
+00:24:26,660 --> 00:24:30,340
+becomes the site of
+the palatine tonsils.
+
+504
+00:24:30,340 --> 00:24:32,680
+And then moving on to
+the third pharyngeal
+
+505
+00:24:32,680 --> 00:24:35,320
+pouch, the cranial
+portion becomes the
+
+506
+00:24:35,320 --> 00:24:37,600
+inferior parathyroid
+gland, and then the
+
+507
+00:24:37,600 --> 00:24:40,840
+caudal portion becomes
+the thymus. And then
+
+508
+00:24:40,840 --> 00:24:43,020
+finally, the pharyngeal
+pouch forward, the
+
+509
+00:24:44,080 --> 00:24:45,940
+cranial portion
+becomes the
+
+510
+00:24:45,940 --> 00:24:48,560
+superior parathyroid
+gland, and the
+
+511
+00:24:49,960 --> 00:24:51,420
+caudal portion becomes
+
+512
+00:24:51,420 --> 00:24:52,980
+the ultimobranchial body.
+
+513
+00:24:55,400 --> 00:24:57,160
+Now that we're
+done with the first
+
+514
+00:24:57,160 --> 00:24:58,480
+part of this
+lecture, we're
+
+515
+00:24:58,480 --> 00:25:00,680
+ready for an example
+exam question.
+
+516
+00:25:00,680 --> 00:25:03,760
+So a toddler has a
+hearing defect. MRI
+
+517
+00:25:03,760 --> 00:25:05,200
+scans show that
+the toddler has
+
+518
+00:25:05,200 --> 00:25:07,720
+developmental defects
+in auditory or the
+
+519
+00:25:07,720 --> 00:25:10,180
+eustachian tube and
+the tympanic cavity.
+
+520
+00:25:10,180 --> 00:25:12,140
+Which pharyngeal
+apparatus component
+
+521
+00:25:12,140 --> 00:25:15,560
+mostly likely developed
+abnormally? The
+
+522
+00:25:23,230 --> 00:25:26,750
+answer here is B,
+pharyngeal pouch 1.
+
+523
+00:25:27,410 --> 00:25:29,070
+The derivatives
+of pharyngeal
+
+524
+00:25:29,070 --> 00:25:30,590
+pouch 1 include
+the tympanic
+
+525
+00:25:30,590 --> 00:25:32,850
+cavity and the
+eustachian tube.

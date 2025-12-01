@@ -1,0 +1,1101 @@
+1
+00:00:02,490 --> 00:00:04,350
+This is part
+three of the FOM
+
+2
+00:00:04,350 --> 00:00:06,630
+lecture on head and
+neck embryology.
+
+3
+00:00:07,020 --> 00:00:08,810
+In this last section,
+we're going to be
+
+4
+00:00:08,810 --> 00:00:11,350
+talking about germ
+layer contributions
+
+5
+00:00:11,350 --> 00:00:13,770
+to various head and
+neck structures.
+
+6
+00:00:15,610 --> 00:00:18,590
+So there are three
+major germ layers in the
+
+7
+00:00:18,590 --> 00:00:20,970
+body. So these are
+ectoderm, mesoderm, and
+
+8
+00:00:20,970 --> 00:00:23,650
+endoderm, same as other
+parts of the body.
+
+9
+00:00:23,690 --> 00:00:26,230
+And in the ectoderm, in
+
+10
+00:00:26,230 --> 00:00:27,550
+addition to
+the epidermis,
+
+11
+00:00:28,150 --> 00:00:31,910
+the ectoderm leads
+to the creation of
+
+12
+00:00:31,910 --> 00:00:34,330
+the brain and the
+cranial nerves. And
+
+13
+00:00:34,330 --> 00:00:36,290
+these are because
+it is derived from
+
+14
+00:00:36,290 --> 00:00:40,190
+this neural tube, which
+is going to become
+
+15
+00:00:40,190 --> 00:00:42,150
+both the brain and
+the spinal cord.
+
+16
+00:00:43,150 --> 00:00:45,790
+You also have placodes
+that are derived from
+
+17
+00:00:45,790 --> 00:00:48,470
+ectoderm, as we talked
+about in the previous
+
+18
+00:00:48,470 --> 00:00:50,810
+part of the lecture.
+And these are
+
+19
+00:00:50,810 --> 00:00:53,150
+associated with some of
+the special senses in
+
+20
+00:00:53,150 --> 00:00:55,250
+the head and neck,
+including the eye lens,
+
+21
+00:00:55,750 --> 00:00:57,530
+vestidial and
+cochlea in the
+
+22
+00:00:57,530 --> 00:00:59,070
+inner ear and
+nasal cavity.
+
+23
+00:00:59,450 --> 00:01:02,090
+And ectoderm is
+also responsible
+
+24
+00:01:02,090 --> 00:01:04,430
+for generating
+parotid gland.
+
+25
+00:01:06,970 --> 00:01:10,090
+Moving on to the
+mesoderm, as expected,
+
+26
+00:01:10,090 --> 00:01:12,610
+these form the bones and
+cartilaginous tissues,
+
+27
+00:01:12,610 --> 00:01:15,130
+arteries, and muscles.
+And in the head,
+
+28
+00:01:15,130 --> 00:01:17,550
+a lot of these are
+coming from pharyngeal
+
+29
+00:01:17,550 --> 00:01:19,770
+structures. Remember
+the pharyngeal arches.
+
+30
+00:01:20,080 --> 00:01:22,370
+And the funny thing
+about in the head is
+
+31
+00:01:22,370 --> 00:01:25,910
+that these mesodermal
+tissues will interact
+
+32
+00:01:25,910 --> 00:01:28,750
+with what's called
+neocrest cells, which
+
+33
+00:01:28,750 --> 00:01:29,870
+we'll be talking
+about in the next
+
+34
+00:01:29,870 --> 00:01:33,030
+section. But neocrest
+cells are ectodermally
+
+35
+00:01:33,030 --> 00:01:37,170
+derived, a very special
+set of cells that
+
+36
+00:01:37,170 --> 00:01:41,970
+can kind of go from
+ectoderm into cell
+
+37
+00:01:41,970 --> 00:01:44,690
+populations that kind
+of act like mesoderm.
+
+38
+00:01:45,270 --> 00:01:48,650
+And then you also have
+the skull, which is
+
+39
+00:01:48,650 --> 00:01:53,350
+part of the bone and
+cartilaginous tissues
+
+40
+00:01:53,350 --> 00:01:55,350
+in the head. So
+that's derived from
+
+41
+00:01:55,350 --> 00:01:58,450
+mesoderm as well. And
+then endoderm, you have
+
+42
+00:01:58,450 --> 00:02:00,410
+the glandular tissues,
+except for the
+
+43
+00:02:00,410 --> 00:02:03,430
+parotid gland, and then
+the mucosae around the
+
+44
+00:02:03,430 --> 00:02:06,590
+oral and the nasal
+cavities and beyond.
+
+45
+00:02:09,710 --> 00:02:12,910
+so i promise that
+i'll be talking about
+
+46
+00:02:12,910 --> 00:02:16,150
+neurocrest cells so
+neurocrest cells are
+
+47
+00:02:16,150 --> 00:02:18,170
+populations of cells
+that originate in
+
+48
+00:02:18,170 --> 00:02:20,710
+the neural fold so
+recall in earlier
+
+49
+00:02:20,710 --> 00:02:22,290
+embryonic lectures
+that you have an
+
+50
+00:02:22,290 --> 00:02:25,910
+ectodermal layer in very
+early embryonic stage
+
+51
+00:02:25,910 --> 00:02:32,390
+and the ectodermal
+layer is going to
+
+52
+00:02:35,270 --> 00:02:38,690
+invaginate and then
+is going to split off
+
+53
+00:02:38,690 --> 00:02:41,260
+and that split off part
+is going to form a tube
+
+54
+00:02:41,260 --> 00:02:43,270
+and called neurotube
+and this is what's
+
+55
+00:02:43,270 --> 00:02:45,410
+going to become the
+brain and the spinal cord
+
+56
+00:02:46,330 --> 00:02:47,990
+and what you're
+also left with
+
+57
+00:02:47,990 --> 00:02:50,010
+is this continuous
+ectodermal
+
+58
+00:02:50,010 --> 00:02:51,410
+layer which is
+going to later
+
+59
+00:02:52,130 --> 00:02:55,410
+produce the epidermis
+but then during this
+
+60
+00:02:55,410 --> 00:02:59,700
+invagination process
+there's a region
+
+61
+00:02:59,700 --> 00:03:01,430
+that's folded. And
+this is called a neural
+
+62
+00:03:01,430 --> 00:03:04,790
+fold. And from there
+emerges these very
+
+63
+00:03:04,790 --> 00:03:07,650
+special populations
+of multi-potent cells
+
+64
+00:03:07,650 --> 00:03:12,590
+called neurocrest
+cells. And neurocrest
+
+65
+00:03:12,590 --> 00:03:16,090
+cells are, again,
+ectodermally derived,
+
+66
+00:03:16,090 --> 00:03:19,950
+but forms secondary
+mesenchyme. So these
+
+67
+00:03:19,950 --> 00:03:22,950
+are mesoderm-like
+structures. They act
+
+68
+00:03:22,950 --> 00:03:26,290
+like although they
+came out of ectoderm.
+
+69
+00:03:26,810 --> 00:03:29,890
+And these neurocrest
+cells migrate all
+
+70
+00:03:29,890 --> 00:03:33,290
+over the body to
+turn into a wonderful
+
+71
+00:03:33,290 --> 00:03:35,310
+array of different
+tissues. So these
+
+72
+00:03:35,310 --> 00:03:38,230
+include cartilage
+and bone, teeth,
+
+73
+00:03:38,530 --> 00:03:41,730
+skin, melanocytes,
+smooth muscles,
+
+74
+00:03:41,730 --> 00:03:44,810
+glands, adipose
+tissue, neurons, glia,
+
+75
+00:03:44,950 --> 00:03:46,130
+adrenal medulla,
+
+76
+00:03:46,350 --> 00:03:49,870
+et cetera. And it's
+responsible for most
+
+77
+00:03:49,870 --> 00:03:51,830
+of the connective and
+the skeletal tissue
+
+78
+00:03:51,830 --> 00:03:54,510
+of the head, nerves,
+and pigment cells.
+
+79
+00:03:56,410 --> 00:03:58,110
+And here are the
+derivatives of the
+
+80
+00:03:58,110 --> 00:04:00,010
+neurocrest cells in
+the head and neck
+
+81
+00:04:00,010 --> 00:04:02,330
+in all its glory.
+So in terms of
+
+82
+00:04:02,330 --> 00:04:05,130
+cartilage and bone,
+it forms most of
+
+83
+00:04:05,130 --> 00:04:07,150
+the bones and
+cartilage in the head.
+
+84
+00:04:07,350 --> 00:04:09,590
+So these include
+the facial bones,
+
+85
+00:04:09,590 --> 00:04:12,550
+which are listed
+here, as well
+
+86
+00:04:12,550 --> 00:04:14,290
+as some in the
+cranial base,
+
+87
+00:04:14,290 --> 00:04:16,090
+including parts of
+the sphenoid bone.
+
+88
+00:04:16,350 --> 00:04:18,570
+And it also forms
+all three of
+
+89
+00:04:18,570 --> 00:04:19,810
+the middle your
+ossicles, the
+
+90
+00:04:19,810 --> 00:04:21,570
+malleus, incus,
+and stapes,
+
+91
+00:04:22,010 --> 00:04:24,030
+hyoid, and the
+laryngeal cartilage.
+
+92
+00:04:24,030 --> 00:04:25,950
+So these are all
+cartilage and bony
+
+93
+00:04:25,950 --> 00:04:27,410
+structures that
+are derived from
+
+94
+00:04:27,410 --> 00:04:30,290
+pharyngeal arches
+from part one of this
+
+95
+00:04:30,290 --> 00:04:32,770
+lecture on head and
+neck embryology.
+
+96
+00:04:34,810 --> 00:04:38,170
+In the same way, for
+the nervous system
+
+97
+00:04:38,170 --> 00:04:40,750
+derivatives, it includes
+sensory ganglia of
+
+98
+00:04:40,750 --> 00:04:43,930
+cranial nerve 5, 7,
+9, and 10, which are
+
+99
+00:04:43,930 --> 00:04:46,270
+branchiomeric nerves. So
+these are cranial nerves
+
+100
+00:04:46,270 --> 00:04:48,730
+that are associated
+with pharyngeal arches.
+
+101
+00:04:48,950 --> 00:04:50,630
+And it also includes
+
+102
+00:04:50,630 --> 00:04:51,930
+their peripheral nerves.
+
+103
+00:04:53,170 --> 00:04:58,090
+And for the muscles,
+so the neocrest cells
+
+104
+00:04:58,090 --> 00:05:01,810
+do not directly become
+muscles, but they
+
+105
+00:05:01,810 --> 00:05:04,070
+interact with the
+mesoderms in the
+
+106
+00:05:04,070 --> 00:05:07,050
+pharyngeal arches to
+form the muscles of the
+
+107
+00:05:07,050 --> 00:05:10,510
+head and neck, including
+the jaw muscles.
+
+108
+00:05:10,800 --> 00:05:12,610
+And then there
+are other key
+
+109
+00:05:12,610 --> 00:05:15,210
+structures that
+come from neocrest
+
+110
+00:05:15,210 --> 00:05:16,890
+cells. So these
+include teeth,
+
+111
+00:05:17,470 --> 00:05:18,970
+particularly the dentine
+
+112
+00:05:18,970 --> 00:05:20,870
+component of it,
+but not enamel.
+
+113
+00:05:21,470 --> 00:05:24,810
+It also forms dermis
+and hyperdermis of the
+
+114
+00:05:24,810 --> 00:05:28,050
+face and the neck,
+creates the choroid and
+
+115
+00:05:28,050 --> 00:05:30,810
+sclera of the eye,
+and melanocytes in the
+
+116
+00:05:30,810 --> 00:05:33,350
+iris, as well as the
+rest of the body. So if
+
+117
+00:05:33,350 --> 00:05:35,330
+you think that someone's
+eyes and their eye
+
+118
+00:05:35,330 --> 00:05:37,910
+color is beautiful, you
+can thank neurocrest
+
+119
+00:05:37,990 --> 00:05:41,430
+cells. And it's also
+responsible for developing
+
+120
+00:05:41,430 --> 00:05:44,630
+meninges and connective
+tissues of lacrimal
+
+121
+00:05:44,630 --> 00:05:47,010
+salivary and thymus
+clads not the glandular
+
+122
+00:05:47,010 --> 00:05:48,670
+tissues themselves
+but the connective
+
+123
+00:05:48,670 --> 00:05:52,490
+tissues surrounding
+them and now what's
+
+124
+00:05:52,490 --> 00:05:56,150
+interesting is so neurocrest
+cells have all these
+
+125
+00:05:56,150 --> 00:06:00,770
+different kinds of
+derivatives so there have
+
+126
+00:06:00,770 --> 00:06:03,570
+been a lot of research
+on why we have so
+
+127
+00:06:03,570 --> 00:06:06,430
+many dog breeds and one
+of the secrets could
+
+128
+00:06:06,430 --> 00:06:09,030
+be related to neurocrest
+cells and that's
+
+129
+00:06:09,030 --> 00:06:11,350
+been demonstrated for
+some of the attributes.
+
+130
+00:06:11,350 --> 00:06:13,190
+So for example, if you
+look across different
+
+131
+00:06:13,190 --> 00:06:16,970
+dog breeds, you definitely
+see quite different
+
+132
+00:06:16,970 --> 00:06:19,110
+and varying skull
+shapes. For example,
+
+133
+00:06:19,110 --> 00:06:21,430
+looking at husky skill
+and chihuahua skull.
+
+134
+00:06:21,930 --> 00:06:24,050
+And then obviously
+dog breeds are
+
+135
+00:06:24,050 --> 00:06:26,210
+known for the
+differences in fur color.
+
+136
+00:06:26,230 --> 00:06:30,350
+And what is the cause
+or what are responsible
+
+137
+00:06:30,350 --> 00:06:32,170
+for some of these
+traits? Well, it all
+
+138
+00:06:32,170 --> 00:06:34,350
+goes back to neurocrest
+cells. So there
+
+139
+00:06:34,350 --> 00:06:37,350
+must've been
+artificial selection on
+
+140
+00:06:37,350 --> 00:06:39,630
+neurocrest cells that
+produced all these
+
+141
+00:06:39,630 --> 00:06:42,990
+coordinated changes very
+quickly historically.
+
+142
+00:06:47,420 --> 00:06:49,710
+Now, we're going
+to end it talking
+
+143
+00:06:49,710 --> 00:06:51,950
+about clinical
+correlates related to
+
+144
+00:06:51,950 --> 00:06:53,750
+neurocrest cells.
+And so one of them
+
+145
+00:06:53,750 --> 00:06:55,470
+is called Treacher
+-Collins syndrome,
+
+146
+00:06:55,690 --> 00:06:58,170
+and it's caused by
+genetic disorder that
+
+147
+00:06:58,170 --> 00:07:01,070
+involves faulty
+migration of neurocrest
+
+148
+00:07:01,070 --> 00:07:03,390
+cells in the head
+in the pharyngeal
+
+149
+00:07:03,390 --> 00:07:07,310
+arches one and two
+and occurs about one
+
+150
+00:07:07,310 --> 00:07:10,450
+in 50,000 births.
+And so the symptoms
+
+151
+00:07:10,450 --> 00:07:13,130
+or the syndrome
+includes hearing loss,
+
+152
+00:07:13,250 --> 00:07:14,670
+downturned eyes,
+
+153
+00:07:15,150 --> 00:07:17,190
+underdevelopment
+of the midface,
+
+154
+00:07:17,650 --> 00:07:21,030
+micronathia or a small
+lower jaw and cleft
+
+155
+00:07:21,030 --> 00:07:23,570
+palate. So these
+are all coordinated
+
+156
+00:07:23,570 --> 00:07:28,070
+traits that neurocrest
+cell controls, especially
+
+157
+00:07:28,070 --> 00:07:30,730
+the development of
+the facial bones.
+
+158
+00:07:30,870 --> 00:07:34,510
+So Treacher-Collin
+syndrome is the result
+
+159
+00:07:34,510 --> 00:07:37,690
+of faulty migration
+of neurocrest cells.
+
+160
+00:07:41,530 --> 00:07:44,990
+So let's end it with
+an example question.
+
+161
+00:07:44,990 --> 00:07:47,250
+So a six-year-old
+girl exhibits a
+
+162
+00:07:47,250 --> 00:07:49,090
+swelling in the anterior
+part of her neck,
+
+163
+00:07:49,090 --> 00:07:51,390
+just inferior to the
+thyroid bone. Which
+
+164
+00:07:51,390 --> 00:07:53,310
+of the following may
+explain a swelling?
+
+165
+00:07:54,170 --> 00:07:55,930
+So in this question,
+think about
+
+166
+00:07:55,930 --> 00:07:59,090
+the location of
+the opening. Is
+
+167
+00:07:59,090 --> 00:08:00,650
+it on the midline
+of the neck or
+
+168
+00:08:00,650 --> 00:08:03,110
+the lateral aspect
+of the neck? So
+
+169
+00:08:11,710 --> 00:08:14,650
+the answer is C, which
+
+170
+00:08:14,650 --> 00:08:16,970
+is associated with the
+
+171
+00:08:17,510 --> 00:08:21,730
+thyroglossal duct cyst.
+So if the swelling
+
+172
+00:08:21,730 --> 00:08:23,630
+or opening was
+associated with the
+
+173
+00:08:23,630 --> 00:08:25,590
+lateral part of the
+neck, then it would
+
+174
+00:08:25,590 --> 00:08:28,450
+have been the intact
+cervical sinus.
+
+175
+00:08:28,630 --> 00:08:30,530
+And the obliteration
+of the cervical
+
+176
+00:08:30,530 --> 00:08:34,340
+sinus, which is answer
+B, which this is just
+
+177
+00:08:34,340 --> 00:08:36,310
+part of normal
+development. So this
+
+178
+00:08:36,310 --> 00:08:39,530
+would not lead to any
+particular swelling.
+
+179
+00:08:39,910 --> 00:08:42,290
+And then obliteration
+of thytoglossal
+
+180
+00:08:42,290 --> 00:08:44,790
+ducts, similarly is
+what happens under
+
+181
+00:08:44,790 --> 00:08:47,270
+typical development.
+And then incomplete
+
+182
+00:08:47,270 --> 00:08:48,670
+closure of
+secondary palate is
+
+183
+00:08:48,670 --> 00:08:51,250
+something that would
+cause cleft palate.
+
+184
+00:08:52,350 --> 00:08:55,450
+So a totally different
+kind of condition.
+
+185
+00:08:56,750 --> 00:08:59,790
+So together with the
+previous lecture on
+
+186
+00:08:59,790 --> 00:09:01,610
+introduction to the
+head and neck, I hope
+
+187
+00:09:01,610 --> 00:09:04,690
+I've convinced you
+that the head and
+
+188
+00:09:04,690 --> 00:09:07,310
+the neck that supports
+it is a truly special
+
+189
+00:09:07,310 --> 00:09:09,990
+and wonderfully
+complex region. I know
+
+190
+00:09:09,990 --> 00:09:14,390
+it's a difficult
+and very complicated
+
+191
+00:09:14,390 --> 00:09:16,830
+area of the body,
+but I also hope that
+
+192
+00:09:16,830 --> 00:09:19,570
+you enjoy and appreciate
+this complexity.
+
+193
+00:09:20,470 --> 00:09:23,170
+So just to finish
+up this lecture,
+
+194
+00:09:23,590 --> 00:09:25,730
+These are the
+topics that I
+
+195
+00:09:25,730 --> 00:09:27,750
+recommend you
+focusing on in
+
+196
+00:09:27,750 --> 00:09:29,370
+your preparation
+for the exams.
+
+197
+00:09:29,370 --> 00:09:31,310
+So first, make
+sure you know the
+
+198
+00:09:31,310 --> 00:09:33,790
+derivatives of the
+pharyngeal arches, pouches,
+
+199
+00:09:33,790 --> 00:09:35,230
+clefts, and
+membranes. So complete
+
+200
+00:09:35,230 --> 00:09:37,510
+that table and study
+off of that table.
+
+201
+00:09:37,690 --> 00:09:40,250
+Development of the
+face, skull, palate,
+
+202
+00:09:40,250 --> 00:09:42,370
+tongue, thyroid
+gland, placos,
+
+203
+00:09:42,370 --> 00:09:44,350
+and the pituitary
+gland. Make sure you
+
+204
+00:09:44,350 --> 00:09:48,550
+understand the
+process involved in
+
+205
+00:09:48,550 --> 00:09:49,950
+the development of
+these structures.
+
+206
+00:09:50,490 --> 00:09:52,890
+And then the germ layer
+and the neurocrestal
+
+207
+00:09:52,890 --> 00:09:54,730
+origins of the head
+and neck structures.
+
+208
+00:09:54,920 --> 00:09:56,630
+And then, of
+course, the clinical
+
+209
+00:09:56,630 --> 00:09:58,570
+implications
+that arise from
+
+210
+00:09:58,570 --> 00:10:00,630
+abnormalities in head
+and neck development
+
+211
+00:10:00,630 --> 00:10:02,030
+that I covered
+in the lectures.
+
+212
+00:10:03,550 --> 00:10:05,990
+This is the end
+of the FOM lecture
+
+213
+00:10:05,990 --> 00:10:08,070
+on the head and
+neck embryology.
+
+214
+00:10:08,070 --> 00:10:10,130
+And I'd be grateful
+if you can provide
+
+215
+00:10:10,130 --> 00:10:11,930
+any feedback on my
+lectures, which you
+
+216
+00:10:11,930 --> 00:10:14,630
+can do by clicking
+in the hyperlink in
+
+217
+00:10:14,630 --> 00:10:16,510
+the PowerPoint files.
+And if you have
+
+218
+00:10:16,510 --> 00:10:18,710
+any questions about
+the lecture content,
+
+219
+00:10:18,710 --> 00:10:20,650
+please do not
+hesitate to email me.
+
+220
+00:10:20,690 --> 00:10:22,330
+The email address
+is down here.
+
+221
+00:10:22,770 --> 00:10:24,450
+Thank you for
+listening and
+
+222
+00:10:24,450 --> 00:10:26,010
+hope you have a
+wonderful day.

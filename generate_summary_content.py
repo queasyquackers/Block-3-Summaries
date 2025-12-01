@@ -86,12 +86,14 @@ def generate_summary_content(pdf_path, transcript_path, output_path):
             
     print(f"Summary content saved to {output_path}")
 
+import argparse
+
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python generate_summary_content.py <input_pdf> <output_md> [transcript_path]")
-        sys.exit(1)
-    input_pdf = sys.argv[1]
-    transcript_path = sys.argv[2] if len(sys.argv) > 2 else None
-    output_md = sys.argv[3] if len(sys.argv) > 3 else "summary_content.md"
+    parser = argparse.ArgumentParser(description="Generate a Markdown summary from a PDF and optional transcript.")
+    parser.add_argument("pdf_path", help="Path to the input PDF file.")
+    parser.add_argument("output_md_path", help="Path for the output Markdown summary file.")
+    parser.add_argument("--transcript", help="Path to the input SRT transcript file (optional).", default=None)
     
-    generate_summary_content(input_pdf, transcript_path, output_md)
+    args = parser.parse_args()
+    
+    generate_summary_content(args.pdf_path, args.transcript, args.output_md_path)

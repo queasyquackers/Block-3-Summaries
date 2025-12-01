@@ -1,0 +1,2679 @@
+1
+00:00:01,020 --> 00:00:03,720
+Hello, I'm Dr. Brooke
+Schaud-Laurent.
+
+2
+00:00:03,840 --> 00:00:05,420
+I'm an osteopathic family
+
+3
+00:00:05,420 --> 00:00:06,600
+medicine physician.
+
+4
+00:00:07,020 --> 00:00:08,980
+I'm an associate
+professor
+
+5
+00:00:09,100 --> 00:00:10,720
+and chair for
+the Department
+
+6
+00:00:10,720 --> 00:00:11,900
+of Clinical Medicine
+
+7
+00:00:11,960 --> 00:00:14,640
+at NYIT College
+of Osteopathic
+
+8
+00:00:14,640 --> 00:00:16,840
+Medicine at Arkansas
+State University.
+
+9
+00:00:16,840 --> 00:00:18,740
+I also serve as
+the executive
+
+10
+00:00:18,740 --> 00:00:20,480
+director for the
+Delta Population
+
+11
+00:00:20,480 --> 00:00:23,260
+Health Institute
+at NYIT-COM,
+
+12
+00:00:23,260 --> 00:00:24,420
+the community engagement
+
+13
+00:00:24,420 --> 00:00:25,960
+arm for the
+medical school.
+
+14
+00:00:27,280 --> 00:00:29,460
+Today, my presentation
+will be on health
+
+15
+00:00:29,460 --> 00:00:31,720
+disparities, Closing
+the Gap Through Cultural
+
+16
+00:00:31,720 --> 00:00:36,340
+Competencies. This is
+one of two parts. In
+
+17
+00:00:41,540 --> 00:00:43,500
+the first part of this
+presentation, we'll
+
+18
+00:00:43,500 --> 00:00:46,200
+be defining what are
+health disparities,
+
+19
+00:00:46,280 --> 00:00:47,580
+explain the contributing
+
+20
+00:00:47,580 --> 00:00:49,540
+factors of health
+disparities,
+
+21
+00:00:49,660 --> 00:00:51,940
+explain how social
+determinants of
+
+22
+00:00:51,940 --> 00:00:54,240
+health affect
+health outcomes, and
+
+23
+00:00:54,240 --> 00:00:56,120
+explain how
+practices in health
+
+24
+00:00:56,120 --> 00:00:58,240
+care contribute to
+health outcomes.
+
+25
+00:01:01,380 --> 00:01:04,620
+There are many
+expectations that will be
+
+26
+00:01:06,420 --> 00:01:09,900
+expected of you as
+rising osteopathic
+
+27
+00:01:09,900 --> 00:01:13,600
+physicians, and this is
+one of them, that you
+
+28
+00:01:13,600 --> 00:01:16,180
+will have a lifelong
+commitment to grow
+
+29
+00:01:16,180 --> 00:01:18,720
+in the discipline of
+cultural competency,
+
+30
+00:01:18,720 --> 00:01:21,120
+to provide quality
+health care to
+
+31
+00:01:21,120 --> 00:01:23,540
+all persons, and
+to lead communities
+
+32
+00:01:23,540 --> 00:01:26,180
+holistically
+and with equity.
+
+33
+00:01:30,130 --> 00:01:32,510
+this is our definition
+of health disparities
+
+34
+00:01:32,510 --> 00:01:35,640
+it's it's the difference
+in the incidence
+
+35
+00:01:35,640 --> 00:01:39,060
+prevalence mortality
+and burden of disease
+
+36
+00:01:39,060 --> 00:01:41,680
+as well as other adverse
+health conditions
+
+37
+00:01:41,680 --> 00:01:44,400
+or outcomes that
+exist among specific
+
+38
+00:01:44,400 --> 00:01:48,880
+populations well documented
+in subpopulations
+
+39
+00:01:48,880 --> 00:01:52,080
+based on socioeconomic
+status, education,
+
+40
+00:01:52,200 --> 00:01:55,180
+age, race,
+ethnicity, geography,
+
+41
+00:01:55,570 --> 00:01:57,440
+disability, gender, and
+
+42
+00:01:57,440 --> 00:01:59,040
+or ****** orientation.
+
+43
+00:01:59,120 --> 00:02:01,840
+Because of the limitation
+of time, we won't
+
+44
+00:02:01,840 --> 00:02:04,300
+be able to get into
+the disparities of all
+
+45
+00:02:04,300 --> 00:02:08,060
+the populations and
+demographics. We will
+
+46
+00:02:08,060 --> 00:02:10,700
+however touch on the
+most prevalent ones and
+
+47
+00:02:10,700 --> 00:02:13,340
+provide references at
+the end of this lecture
+
+48
+00:02:13,340 --> 00:02:15,420
+to learn more about
+how other populations
+
+49
+00:02:15,420 --> 00:02:18,000
+are experiencing health
+in the United States.
+
+50
+00:02:20,080 --> 00:02:21,760
+One of the disparities
+that have been
+
+51
+00:02:21,760 --> 00:02:24,020
+well documented is
+life expectancy.
+
+52
+00:02:24,020 --> 00:02:26,380
+This graph is from
+the county health
+
+53
+00:02:26,380 --> 00:02:28,450
+rankings and shows
+health disparities
+
+54
+00:02:28,660 --> 00:02:31,280
+specifically in life
+expectancy among
+
+55
+00:02:31,280 --> 00:02:34,060
+race and ethnic
+groups. The population
+
+56
+00:02:34,060 --> 00:02:35,960
+with the highest
+life expectancy
+
+57
+00:02:35,960 --> 00:02:39,500
+between 2010 and
+2020 is in the Asian
+
+58
+00:02:39,500 --> 00:02:42,460
+Pacific Islander
+population, followed by
+
+59
+00:02:42,460 --> 00:02:44,360
+the Hispanic
+population, then white.
+
+60
+00:02:44,680 --> 00:02:46,760
+American Indian
+and Alaskan Native
+
+61
+00:02:46,760 --> 00:02:50,260
+follows and then the
+Black population.
+
+62
+00:02:51,460 --> 00:02:56,700
+Please note, excuse
+me, that this does not
+
+63
+00:02:56,700 --> 00:02:59,640
+take into account the
+change in life expectancies
+
+64
+00:02:59,640 --> 00:03:01,180
+after the pandemic.
+There are recent
+
+65
+00:03:01,180 --> 00:03:04,020
+studies that have shown
+that the gaps have
+
+66
+00:03:04,020 --> 00:03:07,460
+widened for minority
+populations. You can see
+
+67
+00:03:07,460 --> 00:03:11,240
+here that the differences
+of life expectancy
+
+68
+00:03:11,470 --> 00:03:16,540
+ranges between 10 to
+20 years, depending on
+
+69
+00:03:16,540 --> 00:03:20,460
+which people group an
+individual is part of.
+
+70
+00:03:26,310 --> 00:03:28,990
+Another disparity
+is unfortunately
+
+71
+00:03:28,990 --> 00:03:31,310
+found in maternal
+and child health.
+
+72
+00:03:31,950 --> 00:03:35,310
+In this diagram in
+the upper left side,
+
+73
+00:03:35,730 --> 00:03:38,390
+it notes that of all
+the preterm births
+
+74
+00:03:38,390 --> 00:03:43,930
+in 2020, 14.4% were in
+the Black population
+
+75
+00:03:43,930 --> 00:03:46,130
+followed by native
+hawaiian pacific
+
+76
+00:03:46,130 --> 00:03:49,210
+islanders american indian
+and alaskan natives
+
+77
+00:03:49,210 --> 00:03:52,760
+where you have preterm
+births children
+
+78
+00:03:53,150 --> 00:03:56,190
+that were born in
+preterm have significant
+
+79
+00:03:56,330 --> 00:03:58,990
+chronic illnesses
+as a sequelae
+
+80
+00:03:58,990 --> 00:04:01,090
+of preterm birth
+a higher risk
+
+81
+00:04:01,090 --> 00:04:02,650
+of having
+chronic illnesses
+
+82
+00:04:02,650 --> 00:04:07,210
+as a sequelae for
+preterm births in the
+
+83
+00:04:07,210 --> 00:04:08,870
+upper right corner
+we're looking at
+
+84
+00:04:08,870 --> 00:04:11,150
+babies born of low
+birth rate in 2020.
+
+85
+00:04:11,310 --> 00:04:15,110
+And in this period,
+it was captured that
+
+86
+00:04:15,110 --> 00:04:18,370
+14.2% of babies
+born of low birth
+
+87
+00:04:18,370 --> 00:04:21,720
+rate were of the black
+population followed
+
+88
+00:04:21,970 --> 00:04:27,110
+by native American
+Pacific Islanders
+
+89
+00:04:27,870 --> 00:04:31,050
+and then American
+Indian Alaskan Natives.
+
+90
+00:04:32,650 --> 00:04:36,350
+For pregnancy
+related mortality in
+
+91
+00:04:36,350 --> 00:04:39,490
+the lower left corner
+per 100 births,
+
+92
+00:04:40,050 --> 00:04:43,910
+40.8 deaths
+per 100 births
+
+93
+00:04:44,070 --> 00:04:45,650
+occurred in the
+black population.
+
+94
+00:04:46,050 --> 00:04:48,750
+The next highly
+affected group was the
+
+95
+00:04:48,750 --> 00:04:51,050
+American Indian, native
+Alaskan group by 29
+
+96
+00:04:51,050 --> 00:04:54,130
+.7 per 100 births.
+Then followed by the
+
+97
+00:04:54,130 --> 00:04:58,290
+Asian population, 12
+.7 per 100,000 births.
+
+98
+00:04:59,470 --> 00:05:00,650
+When you move over to
+
+99
+00:05:00,650 --> 00:05:02,430
+the right lower corner,
+
+100
+00:05:02,430 --> 00:05:03,870
+where there's a
+measurement of infant
+
+101
+00:05:03,870 --> 00:05:06,970
+mortality per 1,000
+live births in 2018,
+
+102
+00:05:07,260 --> 00:05:10,350
+again, we see that within
+the black population
+
+103
+00:05:10,350 --> 00:05:13,810
+there's a higher rate
+10.8 per 1000 live
+
+104
+00:05:13,810 --> 00:05:18,930
+births followed by 9
+.4 per 1000 births uh
+
+105
+00:05:18,930 --> 00:05:21,070
+in the native hawaiian
+specific pacific
+
+106
+00:05:21,070 --> 00:05:24,510
+islander group and
+then followed by 8.2 in
+
+107
+00:05:24,510 --> 00:05:27,410
+american indian alaskan
+natives so again these
+
+108
+00:05:27,410 --> 00:05:29,590
+are these graphs
+show some staggering
+
+109
+00:05:29,590 --> 00:05:33,850
+disparities um among
+different ethnic and racial
+
+110
+00:05:33,850 --> 00:05:37,470
+groups and it's important
+to note not only
+
+111
+00:05:37,470 --> 00:05:40,570
+that they are there
+but as osteopathic
+
+112
+00:05:40,570 --> 00:05:44,210
+physicians to understand
+why these disparities
+
+113
+00:05:44,210 --> 00:05:47,090
+exist and we'll be
+getting into that a little
+
+114
+00:05:47,090 --> 00:05:53,230
+bit later on another
+intersection not only
+
+115
+00:05:53,230 --> 00:05:55,850
+lies within race and
+ethnicity but also
+
+116
+00:05:55,850 --> 00:05:59,450
+where you live contributes
+significantly to
+
+117
+00:05:59,450 --> 00:06:01,770
+your health outcomes
+this was an article in
+
+118
+00:06:01,770 --> 00:06:04,630
+rural counties with
+majority in health affairs
+
+119
+00:06:04,630 --> 00:06:07,150
+excuse me that had an
+article that showed
+
+120
+00:06:07,150 --> 00:06:09,650
+rural counties with
+majority black or
+
+121
+00:06:09,650 --> 00:06:13,050
+indigenous populations
+suffer the highest rates
+
+122
+00:06:13,050 --> 00:06:16,270
+of ********* death.
+There's a CDC study
+
+123
+00:06:16,270 --> 00:06:19,730
+done in 2017 that noted
+the same. It's important
+
+124
+00:06:19,730 --> 00:06:21,690
+to note that when
+we're looking at these
+
+125
+00:06:21,690 --> 00:06:24,150
+different populations,
+when you have these
+
+126
+00:06:24,150 --> 00:06:27,020
+different demographics
+and they're compounded,
+
+127
+00:06:27,020 --> 00:06:30,830
+it puts populations
+at significant risk
+
+128
+00:06:30,830 --> 00:06:36,070
+for health outcomes
+that are deadly. This
+
+129
+00:06:41,750 --> 00:06:44,430
+is a map from county
+health rankings that
+
+130
+00:06:44,430 --> 00:06:48,550
+breaks down the geography
+of counties across
+
+131
+00:06:48,550 --> 00:06:52,310
+the United States.
+The areas here that
+
+132
+00:06:52,310 --> 00:06:56,050
+in purple are shown
+and have demonstrated
+
+133
+00:06:56,050 --> 00:07:00,290
+to be the least
+healthiest counties. The
+
+134
+00:07:00,290 --> 00:07:04,050
+area that you see
+highlighted here is in
+
+135
+00:07:04,050 --> 00:07:07,590
+the Mississippi Delta.
+This is the region
+
+136
+00:07:07,590 --> 00:07:11,490
+where the Arkansas
+campus is based. And as
+
+137
+00:07:11,490 --> 00:07:15,170
+you can see, along
+with areas in Alaska,
+
+138
+00:07:16,030 --> 00:07:19,760
+rural areas here
+in the southwest,
+
+139
+00:07:20,410 --> 00:07:26,190
+areas of Appalachia
+here and here, Um,
+
+140
+00:07:26,190 --> 00:07:27,530
+but there are
+these significant
+
+141
+00:07:27,530 --> 00:07:31,610
+disparities and, uh,
+these counties are
+
+142
+00:07:31,610 --> 00:07:34,570
+encountering
+significant challenges.
+
+143
+00:07:35,230 --> 00:07:37,770
+And this map
+again shows that
+
+144
+00:07:37,770 --> 00:07:39,670
+where you live
+does matter.
+
+145
+00:07:43,230 --> 00:07:46,150
+There have been many
+studies to show,
+
+146
+00:07:46,150 --> 00:07:51,090
+um, along a Metro
+line, for example, um,
+
+147
+00:07:51,310 --> 00:07:54,210
+this This is a map
+of New York City
+
+148
+00:07:54,210 --> 00:07:58,030
+that shows the
+Metro lines 456 and
+
+149
+00:07:58,030 --> 00:08:01,800
+line NQR, and
+depending what stop
+
+150
+00:08:02,790 --> 00:08:06,190
+you get off of,
+it actually does
+
+151
+00:08:06,190 --> 00:08:10,270
+determine what your
+life expectancy is.
+
+152
+00:08:11,900 --> 00:08:13,250
+It could be a difference
+
+153
+00:08:13,250 --> 00:08:14,990
+of close to 10 years.
+
+154
+00:08:15,110 --> 00:08:17,430
+Here around Lincoln
+Center, it's
+
+155
+00:08:17,430 --> 00:08:19,870
+around 84 years.
+If you go to where
+
+156
+00:08:20,010 --> 00:08:23,370
+the Apollo Theater
+is, it's 76.
+
+157
+00:08:25,990 --> 00:08:28,410
+If you look at
+Queens and Astoria,
+
+158
+00:08:28,610 --> 00:08:29,870
+82 years.
+
+159
+00:08:29,950 --> 00:08:32,170
+So there are a lot
+of studies that
+
+160
+00:08:32,170 --> 00:08:34,130
+are looking at what
+are the environmental
+
+161
+00:08:34,280 --> 00:08:37,790
+factors that are
+causing these
+
+162
+00:08:37,790 --> 00:08:41,130
+discrepancies and
+disparities for
+
+163
+00:08:41,130 --> 00:08:44,390
+life expectancies
+in the same state.
+
+164
+00:08:45,190 --> 00:08:49,490
+the map that you see
+on the right here shows
+
+165
+00:08:49,510 --> 00:08:53,090
+a similar example
+this is a highway in
+
+166
+00:08:53,090 --> 00:08:55,630
+california where depending
+what exit that you
+
+167
+00:08:55,630 --> 00:08:59,470
+get off of your life
+expectancy could be 81
+
+168
+00:08:59,470 --> 00:09:02,770
+and going further up
+north near fresno we
+
+169
+00:09:02,770 --> 00:09:06,090
+could be 75 so as we're
+looking at these studies
+
+170
+00:09:06,090 --> 00:09:09,490
+we should be looking
+and asking what is
+
+171
+00:09:09,490 --> 00:09:13,390
+going on in these
+areas that we have such
+
+172
+00:09:13,390 --> 00:09:17,970
+significant disparities
+in life expectancies.
+
+173
+00:09:20,870 --> 00:09:23,930
+What I'm making reference
+to here in terms
+
+174
+00:09:23,930 --> 00:09:28,190
+of environmental
+factors are what is
+
+175
+00:09:28,190 --> 00:09:31,230
+known as the social
+determinants of health.
+
+176
+00:09:31,290 --> 00:09:33,530
+The social determinants
+of health are
+
+177
+00:09:33,530 --> 00:09:35,410
+defined are the conditions
+in the environments
+
+178
+00:09:35,410 --> 00:09:38,270
+where people are
+born, where they live,
+
+179
+00:09:38,270 --> 00:09:41,220
+learn, work, play,
+worship, and age that
+
+180
+00:09:41,220 --> 00:09:44,590
+affect a wide range
+of health functioning
+
+181
+00:09:45,210 --> 00:09:48,950
+and quality of life
+outcomes and risks.
+
+182
+00:09:49,410 --> 00:09:54,450
+The six broad
+categories or buckets of
+
+183
+00:09:54,450 --> 00:09:56,870
+social determinants of
+health are as follows,
+
+184
+00:09:56,870 --> 00:09:58,750
+And you'll see some
+variation of these
+
+185
+00:09:58,750 --> 00:10:04,450
+in different
+organizations, but they
+
+186
+00:10:04,550 --> 00:10:07,030
+pretty much fall in
+these broad categories.
+
+187
+00:10:07,030 --> 00:10:10,170
+One is economic
+stability, and that is
+
+188
+00:10:10,170 --> 00:10:13,310
+defined by employment,
+income, expenses,
+
+189
+00:10:13,450 --> 00:10:17,090
+debt, medical bills,
+and the support
+
+190
+00:10:17,090 --> 00:10:19,530
+that they have.
+The next category
+
+191
+00:10:19,530 --> 00:10:20,890
+is neighborhood
+and physical
+
+192
+00:10:20,890 --> 00:10:23,730
+environment, housing,
+transportation,
+
+193
+00:10:23,910 --> 00:10:25,170
+safety,
+
+194
+00:10:25,290 --> 00:10:27,870
+parks, playgrounds,
+walkability, your zip
+
+195
+00:10:27,870 --> 00:10:31,250
+code. All these things
+contribute to the
+
+196
+00:10:31,250 --> 00:10:34,330
+health outcomes of an
+individual or family.
+
+197
+00:10:34,410 --> 00:10:37,650
+Next is education,
+your literacy level,
+
+198
+00:10:37,650 --> 00:10:39,450
+language, early
+childhood education,
+
+199
+00:10:39,450 --> 00:10:43,310
+vocational training,
+the ability to obtain
+
+200
+00:10:43,310 --> 00:10:47,030
+higher education is
+one determinant of
+
+201
+00:10:47,030 --> 00:10:49,190
+health. And the next
+one is food security,
+
+202
+00:10:49,190 --> 00:10:52,110
+hunger, access to
+healthy options.
+
+203
+00:10:52,810 --> 00:10:56,210
+The next category is
+community and social
+
+204
+00:10:56,210 --> 00:10:59,390
+context, such as
+social integration,
+
+205
+00:10:59,550 --> 00:11:02,750
+a unit in a family
+or communities
+
+206
+00:11:02,750 --> 00:11:04,930
+that have strong
+support systems,
+
+207
+00:11:04,930 --> 00:11:07,290
+a community that
+where there's true,
+
+208
+00:11:07,290 --> 00:11:09,250
+thoughtful community
+engagement.
+
+209
+00:11:09,990 --> 00:11:14,090
+areas where there are
+discrimination and
+
+210
+00:11:14,090 --> 00:11:17,030
+stress can act and
+be a significant
+
+211
+00:11:17,030 --> 00:11:21,330
+determinant of health
+and the sixth bucket is
+
+212
+00:11:21,330 --> 00:11:23,630
+health care system
+health care coverage
+
+213
+00:11:23,630 --> 00:11:26,590
+provide availability
+provider linguistic
+
+214
+00:11:26,590 --> 00:11:28,850
+and cultural competency
+and quality of
+
+215
+00:11:28,850 --> 00:11:32,630
+care for the most
+part you as a rising
+
+216
+00:11:32,630 --> 00:11:37,110
+osteopathic physician
+will have the most
+
+217
+00:11:37,990 --> 00:11:42,350
+authority and influence
+in this last column.
+
+218
+00:11:42,360 --> 00:11:45,950
+And for the most
+part, for the rest of
+
+219
+00:11:45,950 --> 00:11:50,370
+your education, it will
+be focusing on your
+
+220
+00:11:50,370 --> 00:11:53,150
+competencies as a
+healthcare professional
+
+221
+00:11:53,450 --> 00:11:56,410
+in providing care
+that is culturally
+
+222
+00:11:56,410 --> 00:11:59,050
+appropriate and providing
+quality of care.
+
+223
+00:11:59,550 --> 00:12:02,430
+But it's important
+to be aware that
+
+224
+00:12:02,430 --> 00:12:04,870
+these other
+columns here are
+
+225
+00:12:04,870 --> 00:12:08,110
+significant drivers
+in health outcomes,
+
+226
+00:12:08,110 --> 00:12:10,050
+more so than health
+care systems.
+
+227
+00:12:10,510 --> 00:12:12,910
+Health outcomes
+are defined as
+
+228
+00:12:12,910 --> 00:12:16,450
+mortality, morbidity,
+life expectancy,
+
+229
+00:12:16,610 --> 00:12:18,850
+health care expenditures,
+
+230
+00:12:18,970 --> 00:12:21,370
+health status, and
+functional limitations.
+
+231
+00:12:29,400 --> 00:12:34,540
+So the county health
+rankings shows and
+
+232
+00:12:34,540 --> 00:12:37,160
+provides a diagram
+that is very helpful
+
+233
+00:12:37,160 --> 00:12:40,200
+to see, well, how
+much does clinical
+
+234
+00:12:40,200 --> 00:12:43,260
+care contribute to
+health outcomes? So in
+
+235
+00:12:43,260 --> 00:12:45,060
+this diagram, health
+outcome is defined
+
+236
+00:12:45,060 --> 00:12:47,720
+by length of life
+and quality of life.
+
+237
+00:12:48,800 --> 00:12:53,300
+The areas here are
+the health factors
+
+238
+00:12:53,300 --> 00:12:55,580
+such as health
+behaviors, clinical care,
+
+239
+00:12:55,720 --> 00:12:57,280
+social economic factors,
+
+240
+00:12:57,280 --> 00:12:58,400
+physical environment.
+
+241
+00:12:59,060 --> 00:13:03,060
+And it looks like if
+you want to have the
+
+242
+00:13:03,060 --> 00:13:06,160
+greatest and the best
+movement of improvement
+
+243
+00:13:06,160 --> 00:13:09,160
+for health outcomes,
+the areas that you
+
+244
+00:13:09,160 --> 00:13:11,340
+have to affect are
+health behaviors, social
+
+245
+00:13:11,340 --> 00:13:13,900
+economic factors, and
+physical environment.
+
+246
+00:13:13,900 --> 00:13:18,520
+Clinical care is just
+20%. It is significant.
+
+247
+00:13:18,520 --> 00:13:21,420
+There are significant
+issues that happen
+
+248
+00:13:21,420 --> 00:13:23,500
+in a clinical setting
+that you will learn
+
+249
+00:13:23,500 --> 00:13:27,240
+how to avoid and
+advocate for patients'
+
+250
+00:13:27,240 --> 00:13:29,420
+health through these
+presentations and the
+
+251
+00:13:29,420 --> 00:13:31,940
+rest of your education.
+But it's also important
+
+252
+00:13:31,940 --> 00:13:33,680
+to know as an
+osteopathic physician,
+
+253
+00:13:33,680 --> 00:13:38,100
+because we know that if
+you approach something,
+
+254
+00:13:38,100 --> 00:13:40,880
+understanding that
+you have to look at
+
+255
+00:13:40,880 --> 00:13:43,820
+the systems also outside
+the human body, where
+
+256
+00:13:43,820 --> 00:13:46,120
+they live, learn,
+work, play, and pray.
+
+257
+00:13:46,570 --> 00:13:48,900
+If you're aware of those
+things, you will be
+
+258
+00:13:48,900 --> 00:13:51,640
+a better osteopathic
+physician, because as
+
+259
+00:13:51,640 --> 00:13:53,490
+you're taking those
+things into consideration,
+
+260
+00:13:53,490 --> 00:13:56,320
+you'll be able to
+customize the appropriate
+
+261
+00:13:56,320 --> 00:13:58,680
+care for the patient
+that is before you.
+
+262
+00:14:01,820 --> 00:14:03,340
+one of the greatest
+
+263
+00:14:03,340 --> 00:14:07,960
+misconception in
+uh disparities
+
+264
+00:14:09,900 --> 00:14:13,040
+when they're being
+observed is that race
+
+265
+00:14:13,040 --> 00:14:15,460
+is a biological factor
+and nothing can be
+
+266
+00:14:15,460 --> 00:14:18,700
+further than the truth
+it is actually the
+
+267
+00:14:18,700 --> 00:14:21,900
+act of discrimination
+because of race or
+
+268
+00:14:21,900 --> 00:14:24,200
+any other and a
+reason against people
+
+269
+00:14:24,200 --> 00:14:26,540
+that's a significant
+driver of health
+
+270
+00:14:26,540 --> 00:14:30,480
+disparities and a clear
+example of this is in
+
+271
+00:14:30,480 --> 00:14:33,100
+the practice and
+the legalization of
+
+272
+00:14:33,100 --> 00:14:37,820
+redlining redlining was
+a federally supported
+
+273
+00:14:37,820 --> 00:14:39,960
+discriminate
+discriminatory law that
+
+274
+00:14:39,960 --> 00:14:41,960
+prohibited the granting
+of loans to black
+
+275
+00:14:41,960 --> 00:14:44,700
+individuals and families
+which kept black
+
+276
+00:14:44,700 --> 00:14:46,700
+people and families
+from owning properties
+
+277
+00:14:46,700 --> 00:14:49,940
+forcing them to live
+in designated areas.
+
+278
+00:14:50,160 --> 00:14:53,080
+These areas have
+generationally have
+
+279
+00:14:53,080 --> 00:14:55,780
+been disinvested so
+that economic mobility
+
+280
+00:14:55,780 --> 00:14:59,140
+and stability is
+almost non-existent.
+
+281
+00:14:59,520 --> 00:15:02,280
+Education, options
+for healthy foods,
+
+282
+00:15:02,280 --> 00:15:04,980
+healthy spaces are not
+equitable in areas that
+
+283
+00:15:04,980 --> 00:15:06,680
+were invested where
+people could get
+
+284
+00:15:06,680 --> 00:15:09,780
+loans and buy property.
+And these were and
+
+285
+00:15:09,780 --> 00:15:12,180
+are the major drivers
+of health outcomes.
+
+286
+00:15:12,600 --> 00:15:14,680
+The maps that
+you see before
+
+287
+00:15:14,680 --> 00:15:16,760
+you are maps
+of Minneapolis.
+
+288
+00:15:16,780 --> 00:15:19,040
+The one on the
+left are the areas
+
+289
+00:15:19,040 --> 00:15:20,800
+that have been
+redlined. They have the
+
+290
+00:15:20,800 --> 00:15:22,440
+highest concentration
+of people of
+
+291
+00:15:22,440 --> 00:15:25,620
+color between 1930s
+and 1970 by way
+
+292
+00:15:25,620 --> 00:15:29,340
+of discriminatory
+law and practices.
+
+293
+00:15:29,520 --> 00:15:32,940
+The map on your
+right shows the areas
+
+294
+00:15:32,940 --> 00:15:35,660
+of high infant
+mortality in the same
+
+295
+00:15:35,660 --> 00:15:38,860
+Minneapolis area
+between 2001 and 2010.
+
+296
+00:15:39,460 --> 00:15:43,920
+these areas are the
+same areas that were
+
+297
+00:15:43,920 --> 00:15:47,900
+redlined the areas that
+were redlined are the
+
+298
+00:15:47,900 --> 00:15:49,820
+areas where you have the
+highest concentration
+
+299
+00:15:49,820 --> 00:15:54,140
+of infant mortality
+this is an example
+
+300
+00:15:54,140 --> 00:15:57,620
+of structural racism
+while there aren't any
+
+301
+00:15:57,620 --> 00:16:02,800
+anti-discrimination
+laws or or or blatant
+
+302
+00:16:02,800 --> 00:16:06,540
+discrimination laws to
+date The vestiges of
+
+303
+00:16:06,540 --> 00:16:10,040
+legalized discrimination
+are lived experiences
+
+304
+00:16:10,040 --> 00:16:12,620
+for people today
+because of these laws.
+
+305
+00:16:12,760 --> 00:16:15,840
+The environmental
+factors and determinants
+
+306
+00:16:15,840 --> 00:16:18,020
+of health caused
+by redlining are
+
+307
+00:16:18,020 --> 00:16:21,240
+causing high rate
+of infant mortality.
+
+308
+00:16:22,300 --> 00:16:25,420
+So it's important to
+note that you have
+
+309
+00:16:25,420 --> 00:16:27,560
+to look at the history
+of the conditions
+
+310
+00:16:27,560 --> 00:16:29,480
+of where people
+live. That affects
+
+311
+00:16:29,480 --> 00:16:32,320
+the options and
+opportunities of health
+
+312
+00:16:32,320 --> 00:16:34,260
+that are driving
+the health outcomes.
+
+313
+00:16:38,520 --> 00:16:40,560
+Dr. Williams
+published an article
+
+314
+00:16:40,560 --> 00:16:42,300
+on racism and
+health in the Annual
+
+315
+00:16:42,300 --> 00:16:44,160
+Review of Public
+Health in 2019.
+
+316
+00:16:44,480 --> 00:16:47,340
+It is a significant
+publication that I
+
+317
+00:16:47,340 --> 00:16:50,840
+encourage you to review
+to better understand
+
+318
+00:16:50,840 --> 00:16:54,880
+how the patterns of
+racial, ethnic inequities
+
+319
+00:16:54,880 --> 00:16:59,280
+in health exist,
+and we also need to
+
+320
+00:16:59,280 --> 00:17:01,020
+learn more about it
+because we see that
+
+321
+00:17:01,020 --> 00:17:03,720
+there are rates of
+disease and death that
+
+322
+00:17:03,720 --> 00:17:05,760
+are elevated for
+historically marginalized
+
+323
+00:17:05,760 --> 00:17:08,220
+racial groups such as
+black native americans
+
+324
+00:17:08,220 --> 00:17:10,360
+native hawaiians and
+pacific islanders
+
+325
+00:17:10,620 --> 00:17:13,640
+and if you were
+to adjust for
+
+326
+00:17:13,640 --> 00:17:15,420
+socioeconomic
+status which
+
+327
+00:17:15,420 --> 00:17:17,000
+means if you were
+to look at the
+
+328
+00:17:17,680 --> 00:17:21,080
+people groups who
+have the same salary
+
+329
+00:17:21,080 --> 00:17:23,600
+or socioeconomic status
+you still will see
+
+330
+00:17:23,600 --> 00:17:26,480
+a disparity amongst
+ethnic and racial
+
+331
+00:17:26,480 --> 00:17:28,320
+groups which shows
+that it's more than
+
+332
+00:17:28,320 --> 00:17:31,440
+the amount of money
+one may have in their
+
+333
+00:17:31,440 --> 00:17:34,580
+bank account or their
+financial assets.
+
+334
+00:17:34,940 --> 00:17:37,220
+Research indicates
+that across virtually
+
+335
+00:17:37,220 --> 00:17:39,600
+every type of
+diagnostic and treatment
+
+336
+00:17:39,600 --> 00:17:40,680
+intervention,
+****** and other
+
+337
+00:17:40,680 --> 00:17:43,880
+minorities receive fewer
+procedures and poor
+
+338
+00:17:43,880 --> 00:17:46,220
+quality medical
+care than ****** do.
+
+339
+00:17:46,500 --> 00:17:48,900
+So there is a
+significant issue that is
+
+340
+00:17:48,900 --> 00:17:50,900
+going on in a
+healthcare system that
+
+341
+00:17:50,900 --> 00:17:53,360
+is really important
+for you as a rising
+
+342
+00:17:53,360 --> 00:17:55,700
+osteopathic physician
+to be aware of.
+
+343
+00:17:58,620 --> 00:18:02,480
+another population is
+the lgbtq population
+
+344
+00:18:02,480 --> 00:18:06,080
+um significant
+groups uh significant
+
+345
+00:18:06,080 --> 00:18:09,220
+groups are um within
+the lgbt groups
+
+346
+00:18:09,220 --> 00:18:12,360
+are delaying health
+care because of concern
+
+347
+00:18:12,360 --> 00:18:15,940
+and fear of
+discrimination um over
+
+348
+00:18:15,940 --> 00:18:18,960
+50 percent of lgbtq
+plus people report
+
+349
+00:18:18,960 --> 00:18:21,220
+some form of health
+care discrimination
+
+350
+00:18:21,920 --> 00:18:25,540
+18 percent of lgbt youth
+report experiencing
+
+351
+00:18:25,540 --> 00:18:30,860
+dating violence one out
+of five of transgender
+
+352
+00:18:30,860 --> 00:18:33,240
+people are refused
+health care services
+
+353
+00:18:33,240 --> 00:18:39,640
+there's also financial
+health disparities
+
+354
+00:18:39,640 --> 00:18:41,960
+in providing getting
+health health care
+
+355
+00:18:41,960 --> 00:18:46,080
+services that is much
+higher within lgbtq lgbtq
+
+356
+00:18:46,080 --> 00:18:49,480
+plus groups So it's
+important to be aware,
+
+357
+00:18:49,480 --> 00:18:54,320
+again, of the lack of
+access that is causing
+
+358
+00:18:54,320 --> 00:18:56,420
+health disparities,
+but also discriminatory
+
+359
+00:18:56,420 --> 00:19:00,060
+practices that are
+being experienced by
+
+360
+00:19:00,060 --> 00:19:02,420
+different demographics
+within the health care
+
+361
+00:19:02,420 --> 00:19:04,520
+system that's affecting
+health outcomes.
+
+362
+00:19:07,610 --> 00:19:10,120
+why we might see these
+health disparities
+
+363
+00:19:10,120 --> 00:19:14,580
+specifically in lgbt
+groups is that um there's
+
+364
+00:19:14,580 --> 00:19:15,940
+additional stress
+for marginalized
+
+365
+00:19:15,940 --> 00:19:19,600
+persons who experience
+discrimination or stigma
+
+366
+00:19:19,600 --> 00:19:22,220
+there's lack of access
+to adequate health
+
+367
+00:19:22,220 --> 00:19:24,280
+care services due to
+bias or discrimination
+
+368
+00:19:24,280 --> 00:19:26,800
+in the system policy
+or provider level.
+
+369
+00:19:28,320 --> 00:19:30,300
+Inadequate
+public knowledge,
+
+370
+00:19:30,300 --> 00:19:31,840
+attitudes, and systems.
+
+371
+00:19:32,480 --> 00:19:36,700
+And health promotion
+messages tailored
+
+372
+00:19:36,700 --> 00:19:38,800
+to LGBT communities
+fail to realize
+
+373
+00:19:38,800 --> 00:19:42,300
+that ****** orientation
+identification
+
+374
+00:19:42,300 --> 00:19:45,420
+is not the same as
+****** behavior. And
+
+375
+00:19:45,420 --> 00:19:47,120
+so there's a lot of
+education that needs
+
+376
+00:19:47,120 --> 00:19:50,740
+to be done in this
+area to make sure
+
+377
+00:19:50,740 --> 00:19:53,240
+people have the
+care that they need.
+
+378
+00:19:57,040 --> 00:19:59,260
+Unequal Treatment,
+Confronting
+
+379
+00:19:59,260 --> 00:20:00,760
+Racial and Ethnic
+Disparities
+
+380
+00:20:00,760 --> 00:20:02,910
+in Health Care
+was a landmark
+
+381
+00:20:03,700 --> 00:20:05,480
+publication by
+the Institute
+
+382
+00:20:05,480 --> 00:20:07,760
+of Medicine,
+now known as the
+
+383
+00:20:07,760 --> 00:20:10,840
+National Institute
+of Medicine,
+
+384
+00:20:14,120 --> 00:20:16,320
+excuse me, the
+National Academies of
+
+385
+00:20:16,320 --> 00:20:19,740
+Sciences. This
+landmark study called
+
+386
+00:20:19,740 --> 00:20:26,240
+Unequal Treatment
+really showed through
+
+387
+00:20:26,240 --> 00:20:29,060
+a panel of experts
+who documented
+
+388
+00:20:29,060 --> 00:20:31,280
+evidence and explored
+how persons of color
+
+389
+00:20:31,280 --> 00:20:34,440
+experience healthcare
+environment.
+
+390
+00:20:34,480 --> 00:20:37,520
+This book examines
+how disparities in
+
+391
+00:20:37,520 --> 00:20:40,460
+treatments may arise in
+healthcare systems and
+
+392
+00:20:40,460 --> 00:20:43,580
+looks at aspects of
+the clinical encounter
+
+393
+00:20:43,580 --> 00:20:46,460
+that may contribute to
+such disparities. um
+
+394
+00:20:46,700 --> 00:20:50,120
+patients and providers
+attitudes expectations
+
+395
+00:20:50,120 --> 00:20:55,040
+and behaviors were
+analyzed the um document
+
+396
+00:20:55,040 --> 00:20:57,940
+also talked about
+ways we could improve
+
+397
+00:20:59,400 --> 00:21:04,460
+um these uh disparities
+that individuals
+
+398
+00:21:04,460 --> 00:21:07,460
+were experiencing
+there would be
+
+399
+00:21:07,460 --> 00:21:09,860
+improvements needed in
+medical care financing
+
+400
+00:21:09,860 --> 00:21:13,080
+allocation of care
+availability of
+
+401
+00:21:13,080 --> 00:21:16,220
+language translation
+for those who do
+
+402
+00:21:16,220 --> 00:21:23,550
+not have English as
+a primary language,
+
+403
+00:21:24,820 --> 00:21:28,160
+community-based care,
+and other arenas.
+
+404
+00:21:28,160 --> 00:21:30,820
+The committee highlights
+the potential of
+
+405
+00:21:30,820 --> 00:21:32,700
+cross-cultural
+education to improve
+
+406
+00:21:32,700 --> 00:21:35,680
+provider-patient
+communication and offers
+
+407
+00:21:35,680 --> 00:21:37,680
+detailed look of how
+to integrate cross
+
+408
+00:21:37,680 --> 00:21:40,460
+-cultural learning within
+health professions.
+
+409
+00:21:43,820 --> 00:21:45,800
+But what has happened
+
+410
+00:21:45,800 --> 00:21:48,380
+since this
+landmark report?
+
+411
+00:21:49,160 --> 00:21:52,140
+Well, there was a
+presentation done
+
+412
+00:21:52,140 --> 00:21:55,360
+by, presented by
+Dr. Brian Smeadley
+
+413
+00:21:55,360 --> 00:21:58,370
+from the Urban
+Institute. He gave a
+
+414
+00:21:58,370 --> 00:22:00,400
+presentation at the
+National Academies
+
+415
+00:22:00,400 --> 00:22:03,220
+of Science in
+February of 2023.
+
+416
+00:22:04,160 --> 00:22:08,260
+and essentially
+provided a perspective
+
+417
+00:22:08,260 --> 00:22:13,570
+that needed to be
+noted, which was, well,
+
+418
+00:22:14,160 --> 00:22:19,080
+the disparities have
+not been narrowed from
+
+419
+00:22:19,080 --> 00:22:22,680
+the difference of the
+year 2000 to 2021.
+
+420
+00:22:22,980 --> 00:22:26,030
+The Agency for Healthcare
+Research Quality
+
+421
+00:22:26,030 --> 00:22:29,620
+published a report
+and saw that for
+
+422
+00:22:29,620 --> 00:22:31,640
+African, for American
+Indian, Alaska Native
+
+423
+00:22:31,640 --> 00:22:35,340
+populations, the
+disparity was reduced only
+
+424
+00:22:35,340 --> 00:22:39,060
+by 8%. For Asian
+populations, 2%. Black
+
+425
+00:22:39,060 --> 00:22:41,520
+populations, 3%.
+Hispanic populations,
+
+426
+00:22:41,520 --> 00:22:44,680
+4%. Native Hawaiian
+Pacific Islanders, 10%.
+
+427
+00:22:44,680 --> 00:22:47,020
+So we still are seeing
+these disparities.
+
+428
+00:22:47,060 --> 00:22:50,760
+And again, please
+keep in mind that we
+
+429
+00:22:50,760 --> 00:22:56,300
+are still learning
+about how the pandemic
+
+430
+00:22:57,140 --> 00:22:59,760
+it has affected
+these health
+
+431
+00:22:59,760 --> 00:23:02,580
+disparities and
+outcomes as well.
+
+432
+00:23:05,980 --> 00:23:09,200
+Dr. Smedley goes on
+to point out, well,
+
+433
+00:23:09,200 --> 00:23:11,000
+what are the factors
+that are associated
+
+434
+00:23:11,000 --> 00:23:12,960
+with healthcare
+inequity? And one thing
+
+435
+00:23:12,960 --> 00:23:16,120
+that was noted is that
+there are separate
+
+436
+00:23:16,120 --> 00:23:18,340
+and inequitable
+healthcare systems due
+
+437
+00:23:18,340 --> 00:23:21,440
+to residential
+segregation, like we talked
+
+438
+00:23:21,440 --> 00:23:23,400
+about before we saw
+in redlining. You
+
+439
+00:23:23,400 --> 00:23:27,380
+have disinvested
+communities where hospitals,
+
+440
+00:23:27,420 --> 00:23:30,900
+communities aren't
+investing, having
+
+441
+00:23:30,900 --> 00:23:34,080
+good hospitals in
+their area. There's a
+
+442
+00:23:34,080 --> 00:23:36,360
+maldistribution of
+healthcare resources,
+
+443
+00:23:36,560 --> 00:23:39,620
+health systems, limited
+provider networks.
+
+444
+00:23:39,620 --> 00:23:42,020
+There's also a tiered
+health insurance
+
+445
+00:23:42,020 --> 00:23:44,440
+and differences in
+provider reimbursement.
+
+446
+00:23:44,440 --> 00:23:48,200
+And this really does
+drive the type of
+
+447
+00:23:48,200 --> 00:23:50,660
+care that individuals
+receive. There's
+
+448
+00:23:50,660 --> 00:23:53,760
+clinician biases,
+stereotypes, and prejudices,
+
+449
+00:23:53,760 --> 00:23:56,320
+race-based clinical
+decision support,
+
+450
+00:23:56,320 --> 00:24:00,440
+and algorithms, and
+a persistent lack of
+
+451
+00:24:00,440 --> 00:24:02,420
+diversity among
+healthcare professionals.
+
+452
+00:24:06,460 --> 00:24:07,620
+Dr.
+
+453
+00:24:08,010 --> 00:24:11,860
+Gengopadahaya also
+noted that there was a
+
+454
+00:24:11,860 --> 00:24:14,640
+medical apartheid as
+there were inequitable
+
+455
+00:24:14,640 --> 00:24:17,000
+care for patients
+of color. The study
+
+456
+00:24:17,000 --> 00:24:19,380
+investigated the differences
+between black and
+
+457
+00:24:19,380 --> 00:24:21,400
+white patient safety
+measures and using
+
+458
+00:24:21,400 --> 00:24:24,120
+hospital discharge
+records from 27 states.
+
+459
+00:24:24,370 --> 00:24:26,160
+And in that study,
+they saw that
+
+460
+00:24:26,160 --> 00:24:27,660
+black patients
+experience a higher
+
+461
+00:24:27,660 --> 00:24:30,500
+rate of adverse
+patient safety events
+
+462
+00:24:30,500 --> 00:24:34,680
+on 55% of patient
+safety measures.
+
+463
+00:24:34,900 --> 00:24:38,540
+For 82% of patient
+safety indicators, black
+
+464
+00:24:38,540 --> 00:24:40,760
+patients were significantly
+less likely to
+
+465
+00:24:40,760 --> 00:24:43,320
+be admitted to hospitals
+that were classified
+
+466
+00:24:43,320 --> 00:24:45,820
+as high quality.
+And high quality was
+
+467
+00:24:45,820 --> 00:24:48,360
+defined as the hospitals
+that were best at
+
+468
+00:24:48,360 --> 00:24:50,540
+minimizing patient
+safety risk based on the
+
+469
+00:24:50,540 --> 00:24:52,980
+median of value of a
+value of each patient
+
+470
+00:24:52,980 --> 00:24:56,720
+safety indicator this
+same research team found
+
+471
+00:24:56,720 --> 00:24:59,020
+black patients experience
+higher rates of
+
+472
+00:24:59,020 --> 00:25:02,220
+hospital acquired illnesses
+or injuries related
+
+473
+00:25:02,220 --> 00:25:04,240
+to surgical procedures
+relative to white
+
+474
+00:25:04,240 --> 00:25:06,760
+patients treated in
+the very same hospital
+
+475
+00:25:07,420 --> 00:25:10,120
+within hospital
+differences black and
+
+476
+00:25:10,120 --> 00:25:13,060
+white adverse patient
+safety rates remain
+
+477
+00:25:13,140 --> 00:25:15,660
+when comparing black
+and white patients
+
+478
+00:25:15,660 --> 00:25:18,880
+with similar coverage
+types so this
+
+479
+00:25:18,880 --> 00:25:20,820
+study really just
+showed that even within
+
+480
+00:25:20,820 --> 00:25:22,760
+the same hospital
+you have different
+
+481
+00:25:22,760 --> 00:25:25,420
+populations of groups
+specifically here
+
+482
+00:25:25,660 --> 00:25:28,340
+in racial
+groups where the
+
+483
+00:25:28,340 --> 00:25:30,980
+health care is
+not equitable
+
+484
+00:25:33,560 --> 00:25:36,540
+dr smeedly also noted
+and this was adapted
+
+485
+00:25:36,540 --> 00:25:38,440
+from his presentation
+that out of a
+
+486
+00:25:38,440 --> 00:25:40,800
+systematic review of
+15 studies that there
+
+487
+00:25:40,800 --> 00:25:43,020
+were implicit biases
+and health outcomes
+
+488
+00:25:43,020 --> 00:25:45,980
+confirmed among
+healthcare professionals
+
+489
+00:25:45,980 --> 00:25:50,920
+um against black
+latinx dark-skinned
+
+490
+00:25:50,920 --> 00:25:53,320
+individuals as the
+general population
+
+491
+00:25:53,920 --> 00:25:56,720
+and that implicit
+bias was significantly
+
+492
+00:25:56,720 --> 00:25:59,080
+related to patient
+provider interactions
+
+493
+00:25:59,080 --> 00:26:02,040
+treatment decisions
+treatment adherence
+
+494
+00:26:02,040 --> 00:26:05,500
+patient health outcomes
+there was also a
+
+495
+00:26:05,500 --> 00:26:07,960
+systematic review of 37
+studies that confirmed
+
+496
+00:26:07,960 --> 00:26:10,720
+substantial evidence
+of pro-white or light
+
+497
+00:26:10,720 --> 00:26:12,740
+-skinned anti-black
+hispanic american
+
+498
+00:26:12,740 --> 00:26:15,540
+indian or dark-skinned
+biases among a variety
+
+499
+00:26:15,540 --> 00:26:18,160
+of healthcare professionals
+across multiple
+
+500
+00:26:18,160 --> 00:26:20,520
+levels of training
+and disciplines it
+
+501
+00:26:27,710 --> 00:26:31,050
+was also these these
+disparities were also
+
+502
+00:26:31,050 --> 00:26:34,270
+noted within the
+electronic health record
+
+503
+00:26:34,670 --> 00:26:38,910
+researchers analyzed
+a sample of 40 000
+
+504
+00:26:38,910 --> 00:26:40,670
+history and physical
+notes. And you're
+
+505
+00:26:40,670 --> 00:26:42,420
+going to be learning
+how to take soap notes
+
+506
+00:26:42,420 --> 00:26:44,350
+in the coming months.
+But I just wanted
+
+507
+00:26:44,350 --> 00:26:48,230
+you to be aware of
+studies of soap notes
+
+508
+00:26:48,230 --> 00:26:51,330
+or documentations of
+patient encounters.
+
+509
+00:26:53,050 --> 00:26:57,730
+In this sample size,
+they found that 18,000
+
+510
+00:26:57,730 --> 00:27:01,170
+patients approximately
+had sentences containing
+
+511
+00:27:01,170 --> 00:27:04,130
+negative descriptors,
+such as resistant,
+
+512
+00:27:04,130 --> 00:27:07,070
+non-compliant of
+the patient or the
+
+513
+00:27:07,070 --> 00:27:09,890
+patient's behavior they
+sought to determine the
+
+514
+00:27:09,890 --> 00:27:11,870
+odds of finding at
+least one negative
+
+515
+00:27:11,870 --> 00:27:14,510
+descriptor as a function
+of the patient's race
+
+516
+00:27:14,510 --> 00:27:18,710
+and ethnicity um
+controlling force and the
+
+517
+00:27:18,710 --> 00:27:20,990
+control for socio
+-demographic and health
+
+518
+00:27:20,990 --> 00:27:25,330
+characteristics um when
+compared with white people
+
+519
+00:27:25,330 --> 00:27:27,850
+black patients had
+two and a half times
+
+520
+00:27:27,850 --> 00:27:30,610
+the odds of having
+at least one negative
+
+521
+00:27:30,610 --> 00:27:33,270
+descriptor in the history
+and physical notes.
+
+522
+00:27:33,770 --> 00:27:37,030
+Their findings raise
+concerns that there was
+
+523
+00:27:37,030 --> 00:27:39,110
+stigmatizing language
+in the electronic
+
+524
+00:27:39,110 --> 00:27:42,570
+health records, and it
+potentially exacerbates
+
+525
+00:27:42,570 --> 00:27:44,850
+racial and ethnic
+health care disparities.
+
+526
+00:27:49,550 --> 00:27:53,310
+What is being noted
+in this presentation
+
+527
+00:27:53,310 --> 00:27:59,350
+are studies and
+publications that are
+
+528
+00:27:59,350 --> 00:28:03,260
+bringing light to
+a reality of lived
+
+529
+00:28:03,260 --> 00:28:06,010
+experiences of people
+who live in the United
+
+530
+00:28:06,010 --> 00:28:10,850
+States. You, as an
+osteopathic physician
+
+531
+00:28:10,850 --> 00:28:15,570
+to be, have the
+opportunity to be the
+
+532
+00:28:15,570 --> 00:28:20,370
+difference, to advocate
+and to save lives.
+
+533
+00:28:21,270 --> 00:28:24,470
+This is the current
+reality. There are
+
+534
+00:28:24,470 --> 00:28:27,750
+tensions and challenges
+that healthcare
+
+535
+00:28:27,750 --> 00:28:32,490
+system presents that
+are compounding with
+
+536
+00:28:32,490 --> 00:28:38,650
+many other issues that
+may bring barriers
+
+537
+00:28:39,270 --> 00:28:41,930
+to really provide
+good care for people.
+
+538
+00:28:42,320 --> 00:28:45,090
+The next part of this
+presentation will
+
+539
+00:28:45,090 --> 00:28:47,430
+show you how to
+be the difference,
+
+540
+00:28:47,430 --> 00:28:51,490
+how to advocate, and
+how to save lives.

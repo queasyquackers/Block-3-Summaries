@@ -1,0 +1,3046 @@
+1
+00:00:00,150 --> 00:00:02,410
+Paths and Functions
+of Somatic
+
+2
+00:00:02,410 --> 00:00:04,030
+Afference and
+Efference of the
+
+3
+00:00:04,030 --> 00:00:06,510
+Head and Neck.
+Video number 2,
+
+4
+00:00:06,670 --> 00:00:09,290
+Cranial Nerves 5 and 7.
+
+5
+00:00:11,450 --> 00:00:12,450
+Okay,
+
+6
+00:00:13,110 --> 00:00:14,770
+strap in for
+this one, folks.
+
+7
+00:00:15,170 --> 00:00:17,450
+Although this video
+only covers two of
+
+8
+00:00:17,450 --> 00:00:20,950
+the 12 cranial nerves,
+these two nerves have
+
+9
+00:00:20,950 --> 00:00:23,690
+the most complicated
+distribution in
+
+10
+00:00:23,690 --> 00:00:25,710
+the head and neck, as
+they are responsible
+
+11
+00:00:25,710 --> 00:00:27,730
+for most of the
+innervation in the head.
+
+12
+00:00:27,970 --> 00:00:30,450
+We are only asking
+you to remember a
+
+13
+00:00:30,450 --> 00:00:32,730
+fraction of the
+myriad branches that
+
+14
+00:00:32,730 --> 00:00:35,530
+form from these
+two cranial nerves.
+
+15
+00:00:35,650 --> 00:00:39,170
+Now, for your sanity
+and mine, I highly
+
+16
+00:00:39,170 --> 00:00:41,570
+recommend that you
+don't focus too
+
+17
+00:00:41,570 --> 00:00:43,590
+much on the course
+that these nerves
+
+18
+00:00:43,590 --> 00:00:45,630
+take as they move
+through the head.
+
+19
+00:00:45,730 --> 00:00:48,970
+Instead, for each
+branch discussed,
+
+20
+00:00:49,010 --> 00:00:51,510
+try to answer these
+three questions.
+
+21
+00:00:51,750 --> 00:00:54,030
+What root or division is
+
+22
+00:00:54,030 --> 00:00:55,150
+the nerve coming from?
+
+23
+00:00:55,370 --> 00:00:57,470
+What exit does
+it use for the
+
+24
+00:00:57,470 --> 00:00:58,790
+endocranium
+and the skull?
+
+25
+00:00:58,790 --> 00:01:00,270
+This can occasionally
+
+26
+00:01:00,270 --> 00:01:01,670
+have two answers to it.
+
+27
+00:01:01,850 --> 00:01:04,390
+What does the
+nerve innervate?
+
+28
+00:01:05,050 --> 00:01:07,590
+Finally, for the
+trigeminal nerve,
+
+29
+00:01:07,670 --> 00:01:10,110
+lean heavily on these
+dermatome images
+
+30
+00:01:10,110 --> 00:01:12,630
+from Moore's clinically
+-oriented anatomy.
+
+31
+00:01:12,890 --> 00:01:15,590
+Understanding this
+distribution of trigeminal
+
+32
+00:01:15,590 --> 00:01:18,370
+across the face will
+go a long way to
+
+33
+00:01:18,370 --> 00:01:20,970
+answering trigeminal
+-focused questions.
+
+34
+00:01:21,230 --> 00:01:23,050
+Now that we've prepared,
+
+35
+00:01:23,050 --> 00:01:24,490
+it's time to get started.
+
+36
+00:01:26,170 --> 00:01:29,070
+Cranial Nerve
+5 – Trigeminal
+
+37
+00:01:29,770 --> 00:01:32,250
+This is the largest
+cranial nerve and is
+
+38
+00:01:32,250 --> 00:01:33,770
+responsible for most
+of the sensation
+
+39
+00:01:33,770 --> 00:01:35,950
+to the head. The
+name trigeminal is
+
+40
+00:01:35,950 --> 00:01:38,450
+derived from the Latin
+word for triplet and
+
+41
+00:01:38,450 --> 00:01:40,530
+refers to the nerve's
+unique branching
+
+42
+00:01:40,530 --> 00:01:42,930
+pattern off the
+brain. The trigeminal
+
+43
+00:01:42,930 --> 00:01:44,810
+nerve originates
+from the pons as a
+
+44
+00:01:44,810 --> 00:01:47,130
+collection of nerve
+rootlets that travel a
+
+45
+00:01:47,130 --> 00:01:49,790
+short distance
+anteriorly off the brain.
+
+46
+00:01:50,190 --> 00:01:53,150
+Most of these rootlets
+enter a large ganglion
+
+47
+00:01:53,150 --> 00:01:55,310
+located lateral to
+the cavernous sinus.
+
+48
+00:01:55,330 --> 00:01:57,890
+This is the
+trigeminal ganglion.
+
+49
+00:01:57,890 --> 00:02:00,270
+Distal to the
+trigeminal ganglion,
+
+50
+00:02:00,270 --> 00:02:02,010
+trigeminal
+splits into three
+
+51
+00:02:02,010 --> 00:02:04,050
+different nerves
+or divisions,
+
+52
+00:02:04,050 --> 00:02:06,330
+the triplets
+of trigeminal.
+
+53
+00:02:06,390 --> 00:02:08,950
+These three big
+divisions are
+
+54
+00:02:08,950 --> 00:02:12,970
+ophthalmic, maxillary,
+and mandibular.
+
+55
+00:02:13,230 --> 00:02:17,650
+Also called cranial
+nerves 5.1, 5.2, and
+
+56
+00:02:17,650 --> 00:02:21,330
+5.3, or as you will
+likely hear in lab and
+
+57
+00:02:21,330 --> 00:02:25,910
+throughout your
+career, V1, V2, and V3.
+
+58
+00:02:26,190 --> 00:02:29,370
+Let's take each
+division one at a time.
+
+59
+00:02:30,110 --> 00:02:32,890
+Trigeminal 5
+.1, ophthalmic.
+
+60
+00:02:33,730 --> 00:02:36,090
+This is the smallest
+of the three divisions.
+
+61
+00:02:36,090 --> 00:02:38,330
+It arises from the
+trigeminal ganglion
+
+62
+00:02:38,330 --> 00:02:40,510
+and follows a course
+very similar to the
+
+63
+00:02:40,510 --> 00:02:43,230
+previous cranial nerves
+discussed in video 1.
+
+64
+00:02:43,850 --> 00:02:46,170
+Ophthalmic travels
+through the lateral wall
+
+65
+00:02:46,170 --> 00:02:49,130
+of the cavernous sinus
+and exits the endocranium
+
+66
+00:02:49,130 --> 00:02:51,550
+through the superior
+orbital fissure.
+
+67
+00:02:52,110 --> 00:02:54,110
+Ophthalmic comes from
+the ancient Greek
+
+68
+00:02:54,110 --> 00:02:57,070
+word for the eye. The
+name informs us about
+
+69
+00:02:57,070 --> 00:02:59,390
+what the nerve does
+and where it goes.
+
+70
+00:02:59,670 --> 00:03:03,050
+Ophthalmic is a purely
+sensory nerve. It
+
+71
+00:03:03,050 --> 00:03:05,050
+provides sensation to
+the front of the face
+
+72
+00:03:05,050 --> 00:03:07,010
+above the eyebrows
+and will send and
+
+73
+00:03:07,010 --> 00:03:10,090
+extensions posteriorly
+to the occipital bone.
+
+74
+00:03:10,550 --> 00:03:13,090
+Once beyond the superior
+orbital fissure,
+
+75
+00:03:13,090 --> 00:03:15,070
+the ophthalmic nerve
+splits into three
+
+76
+00:03:15,070 --> 00:03:19,010
+nerves – frontal,
+nasociliary, and lacrimal.
+
+77
+00:03:20,290 --> 00:03:22,090
+The frontal nerve
+travels along
+
+78
+00:03:22,090 --> 00:03:23,850
+the roof of the
+orbit and further
+
+79
+00:03:23,850 --> 00:03:26,310
+splits into two
+terminal nerves.
+
+80
+00:03:26,550 --> 00:03:29,590
+The first nerve is the
+supraorbital nerve.
+
+81
+00:03:29,590 --> 00:03:31,750
+It provides sensory
+innervation to the skin
+
+82
+00:03:31,750 --> 00:03:34,630
+of the scalp, forehead,
+and upper eyelid.
+
+83
+00:03:34,910 --> 00:03:37,370
+The supraorbital
+nerve exits the
+
+84
+00:03:37,370 --> 00:03:40,530
+skull via the
+supraorbital foramen or
+
+85
+00:03:40,530 --> 00:03:42,290
+supraorbital
+notch, depending on
+
+86
+00:03:42,290 --> 00:03:44,050
+how well-developed
+that opening is.
+
+87
+00:03:44,050 --> 00:03:46,370
+The second terminal
+branch of the frontal
+
+88
+00:03:46,370 --> 00:03:49,650
+nerve is the
+supratrochlear nerve. As
+
+89
+00:03:49,650 --> 00:03:51,830
+its name implies, the
+nerve lies just above
+
+90
+00:03:51,830 --> 00:03:54,050
+the trochlea on the
+medial wall of the
+
+91
+00:03:54,050 --> 00:03:57,110
+orbit. It exits the
+skull via the medial
+
+92
+00:03:57,110 --> 00:03:59,610
+orbital rim and
+provides sensory
+
+93
+00:03:59,610 --> 00:04:02,210
+innervation to the
+midline of the brow ridge.
+
+94
+00:04:02,770 --> 00:04:04,770
+The next branch
+from the ophthalmic
+
+95
+00:04:04,770 --> 00:04:07,150
+division is the
+nasociliary nerve.
+
+96
+00:04:07,310 --> 00:04:10,010
+This nerve initially
+follows the frontal
+
+97
+00:04:10,010 --> 00:04:11,930
+nerve before
+splitting off to
+
+98
+00:04:11,930 --> 00:04:14,250
+travel inferior to
+the optic nerve and
+
+99
+00:04:14,250 --> 00:04:16,990
+more anteromedially
+through the orbit.
+
+100
+00:04:17,150 --> 00:04:18,890
+Here, it splits into
+
+101
+00:04:18,890 --> 00:04:20,670
+several terminal
+branches.
+
+102
+00:04:20,910 --> 00:04:23,710
+Two of those branches
+form the anterior
+
+103
+00:04:23,710 --> 00:04:26,230
+and posterior
+ethmoidal nerves.
+
+104
+00:04:26,230 --> 00:04:28,630
+These go through the
+medial wall of the
+
+105
+00:04:28,630 --> 00:04:31,250
+orbit to enter into
+the ethmoid bone, where
+
+106
+00:04:31,250 --> 00:04:32,790
+they traverse the
+nasal cavity and
+
+107
+00:04:32,790 --> 00:04:35,690
+paranasal sinuses, providing
+sensory innervation
+
+108
+00:04:35,690 --> 00:04:37,690
+to the structures
+in these regions.
+
+109
+00:04:37,990 --> 00:04:40,310
+Returning to the
+nasociliary nerve,
+
+110
+00:04:40,310 --> 00:04:42,850
+as it passes over
+the optic nerve, the
+
+111
+00:04:42,850 --> 00:04:45,390
+nasociliary nerve
+sends off two or three
+
+112
+00:04:45,390 --> 00:04:48,190
+branches called the
+long ciliary nerves.
+
+113
+00:04:48,390 --> 00:04:50,950
+These nerves provide
+sensation to the
+
+114
+00:04:50,950 --> 00:04:53,630
+rest of the eyeball
+and act as conduits
+
+115
+00:04:53,630 --> 00:04:55,490
+for sympathetic
+nerve fibers coming
+
+116
+00:04:55,490 --> 00:04:57,690
+from the superior
+cervical ganglion.
+
+117
+00:04:57,690 --> 00:05:00,030
+The final branch
+of the nasociliary
+
+118
+00:05:00,030 --> 00:05:02,710
+nerve is the
+infratrochlear nerve.
+
+119
+00:05:02,800 --> 00:05:06,230
+As its name implies,
+infratrochlear travels
+
+120
+00:05:06,230 --> 00:05:09,090
+inferior to the trochlea
+along the medial
+
+121
+00:05:09,090 --> 00:05:11,670
+wall of the orbit
+before exiting the skull
+
+122
+00:05:11,670 --> 00:05:14,310
+via the medial
+orbital rim to provide
+
+123
+00:05:14,310 --> 00:05:16,770
+cutaneous innervation
+to most of the nose,
+
+124
+00:05:16,770 --> 00:05:19,790
+eyelids, and conjunctiva.
+The final branch of
+
+125
+00:05:19,790 --> 00:05:21,710
+the ophthalmic division
+is the lacrimal
+
+126
+00:05:21,710 --> 00:05:24,210
+nerve. This is the
+smallest nerve off the
+
+127
+00:05:24,210 --> 00:05:26,370
+ophthalmic division and
+is the only nerve that
+
+128
+00:05:26,370 --> 00:05:29,110
+travels laterally
+after the trifurcation.
+
+129
+00:05:29,230 --> 00:05:31,210
+The lacrimal nerve
+travels straight
+
+130
+00:05:31,210 --> 00:05:32,670
+to the lacrimal
+gland in the
+
+131
+00:05:32,670 --> 00:05:35,330
+superolateral corner
+of the orbital rim.
+
+132
+00:05:35,390 --> 00:05:37,630
+The lacrimal nerve
+will provide sensory
+
+133
+00:05:37,630 --> 00:05:40,550
+innervation to the
+lacrimal gland. I repeat,
+
+134
+00:05:40,630 --> 00:05:43,890
+sensory innervation.
+The motor innervation
+
+135
+00:05:43,890 --> 00:05:45,990
+to the lacrimal gland
+comes from elsewhere.
+
+136
+00:05:45,990 --> 00:05:47,450
+That covers the first
+
+137
+00:05:47,450 --> 00:05:48,770
+division of trigeminal.
+
+138
+00:05:48,910 --> 00:05:51,490
+Time to move on to the
+next. cranial nerve
+
+139
+00:05:51,490 --> 00:05:55,370
+5-2, the maxillary. As
+with ophthalmic, the
+
+140
+00:05:55,370 --> 00:05:58,070
+maxillary division
+is entirely afferent.
+
+141
+00:05:58,090 --> 00:06:01,150
+However, unlike the
+ophthalmic division, most
+
+142
+00:06:01,150 --> 00:06:03,510
+of the branches of the
+maxillary division go
+
+143
+00:06:03,510 --> 00:06:06,050
+deep into the skull
+and are very difficult
+
+144
+00:06:06,050 --> 00:06:09,010
+to see in a dissection.
+The maxillary division
+
+145
+00:06:09,010 --> 00:06:11,590
+extends from the
+trigeminal ganglion and
+
+146
+00:06:11,590 --> 00:06:14,410
+courses inferrorostrally
+into the middle
+
+147
+00:06:14,410 --> 00:06:17,670
+cranial fossa, where it
+exits the endocranium
+
+148
+00:06:17,670 --> 00:06:20,550
+via the foramen
+rotundum. The maxillary
+
+149
+00:06:20,550 --> 00:06:23,010
+division sends out multiple
+nerves to the head.
+
+150
+00:06:23,010 --> 00:06:26,190
+We will focus on just
+five of these nerves.
+
+151
+00:06:26,190 --> 00:06:28,730
+The greater
+palatine, the lesser
+
+152
+00:06:28,730 --> 00:06:31,510
+palatine, the
+nasopalatine,
+
+153
+00:06:31,510 --> 00:06:35,050
+the zygomatic, and the
+infraorbital nerve.
+
+154
+00:06:35,050 --> 00:06:37,310
+Shortly after entering
+into the foramen
+
+155
+00:06:37,310 --> 00:06:39,330
+rotundum, the maxillary
+division takes
+
+156
+00:06:39,330 --> 00:06:41,470
+two different paths
+through the skull.
+
+157
+00:06:41,470 --> 00:06:44,310
+One path descends
+the skull through an
+
+158
+00:06:44,310 --> 00:06:46,810
+opening called the
+pterygopalatine fossa.
+
+159
+00:06:46,990 --> 00:06:49,770
+Within this fossa,
+multiple branches
+
+160
+00:06:49,770 --> 00:06:51,050
+of the maxillary division
+
+161
+00:06:51,050 --> 00:06:53,550
+enter the
+pterygopalatine ganglion.
+
+162
+00:06:53,650 --> 00:06:56,670
+This ganglion acts
+as a junction between
+
+163
+00:06:56,670 --> 00:06:58,590
+the trigeminal
+and facial nerves.
+
+164
+00:06:58,590 --> 00:07:01,430
+All of the trigeminal
+fibers continue through
+
+165
+00:07:01,430 --> 00:07:05,370
+the ganglion without
+synapsing. They exit
+
+166
+00:07:05,370 --> 00:07:08,390
+the pterygopalatine
+ganglion as three different
+
+167
+00:07:08,390 --> 00:07:11,590
+terminal nerves. The
+first two are the
+
+168
+00:07:11,590 --> 00:07:14,210
+greater and lesser
+palatine nerves. They will
+
+169
+00:07:14,210 --> 00:07:17,090
+continue inferiorly
+through the pterygopalatine
+
+170
+00:07:17,090 --> 00:07:19,230
+fossa until they exit
+the skull through
+
+171
+00:07:19,230 --> 00:07:21,650
+the greater and lesser
+palatine foramina.
+
+172
+00:07:22,050 --> 00:07:24,710
+The greater palatine
+nerve conveys sensory
+
+173
+00:07:24,710 --> 00:07:26,490
+information from
+the hard palate,
+
+174
+00:07:26,490 --> 00:07:29,090
+whereas the lesser
+palatine nerve conveys
+
+175
+00:07:29,090 --> 00:07:31,490
+sensory information
+from the soft palate.
+
+176
+00:07:31,650 --> 00:07:34,210
+The final terminal
+nerve in this group
+
+177
+00:07:34,210 --> 00:07:37,210
+is the nasopalatine
+nerve. This nerve
+
+178
+00:07:37,210 --> 00:07:39,750
+leaves the pterygopalatine
+ganglion and
+
+179
+00:07:39,750 --> 00:07:42,530
+courses rostrally
+into the nasal cavity.
+
+180
+00:07:42,530 --> 00:07:45,390
+Here, it provides
+sensory innervation to
+
+181
+00:07:45,390 --> 00:07:47,730
+the lower half of
+the nasal septum and
+
+182
+00:07:47,730 --> 00:07:50,390
+the mucosa along the
+lateral nasal walls.
+
+183
+00:07:50,510 --> 00:07:53,150
+This nerve will
+eventually exit the
+
+184
+00:07:53,150 --> 00:07:55,710
+skull through the
+incisive canal, where
+
+185
+00:07:55,710 --> 00:07:57,570
+it provides sensory
+innervation to the
+
+186
+00:07:57,570 --> 00:08:00,010
+rostralmost part
+of the hard palate.
+
+187
+00:08:00,490 --> 00:08:02,470
+The second path
+of the maxillary
+
+188
+00:08:02,470 --> 00:08:05,010
+division runs rosterally
+from the foramen
+
+189
+00:08:05,010 --> 00:08:07,650
+rotundum into the
+inferior orbital
+
+190
+00:08:07,650 --> 00:08:10,430
+fissure. Within this
+fissure, the maxillary
+
+191
+00:08:10,430 --> 00:08:12,710
+division splits
+into two nerves.
+
+192
+00:08:12,830 --> 00:08:15,870
+The first nerve is
+the zygomatic nerve.
+
+193
+00:08:15,870 --> 00:08:17,970
+This nerve courses
+along the lateral
+
+194
+00:08:17,970 --> 00:08:19,710
+wall of the orbit
+and splits into
+
+195
+00:08:19,710 --> 00:08:22,950
+two terminal branches,
+the zygomaticofacial
+
+196
+00:08:22,950 --> 00:08:25,170
+and zygomaticotemporal
+nerves.
+
+197
+00:08:25,490 --> 00:08:28,330
+These two terminal
+nerves will exit the
+
+198
+00:08:28,330 --> 00:08:31,190
+skull via foramina
+of the same name and
+
+199
+00:08:31,190 --> 00:08:33,430
+go on to provide
+sensory innervation to
+
+200
+00:08:33,430 --> 00:08:35,570
+their respective
+portions of the head.
+
+201
+00:08:35,650 --> 00:08:38,390
+The second nerve to
+branch within the
+
+202
+00:08:38,390 --> 00:08:40,770
+inferior orbital
+fissure is the aptly
+
+203
+00:08:40,770 --> 00:08:43,770
+named infraorbital
+nerve. The infraorbital
+
+204
+00:08:43,770 --> 00:08:45,710
+nerve courses
+along the inferior
+
+205
+00:08:45,710 --> 00:08:47,910
+margin of the orbit
+within a small
+
+206
+00:08:47,910 --> 00:08:50,570
+groove called the
+infraorbital groove.
+
+207
+00:08:50,920 --> 00:08:53,370
+Along its course,
+the infraorbital
+
+208
+00:08:53,370 --> 00:08:55,650
+nerve sends out
+multiple small branches
+
+209
+00:08:55,650 --> 00:08:57,730
+into the maxillary
+sinus and the
+
+210
+00:08:57,730 --> 00:09:00,110
+upper teeth. These
+branches form
+
+211
+00:09:00,110 --> 00:09:03,610
+the anterior, middle,
+and posterior,
+
+212
+00:09:03,630 --> 00:09:07,650
+superior alveolar
+nerves. They provide
+
+213
+00:09:07,650 --> 00:09:10,270
+sensory innervation to
+the teeth and gingiva
+
+214
+00:09:10,270 --> 00:09:12,450
+of the upper jaw.
+The infraorbital
+
+215
+00:09:12,450 --> 00:09:15,290
+nerve eventually exits
+the skull via the
+
+216
+00:09:15,290 --> 00:09:18,670
+infraorbital foramen.
+Here, the nerve provides
+
+217
+00:09:18,670 --> 00:09:20,110
+sensory innervation
+for the lower
+
+218
+00:09:20,110 --> 00:09:22,650
+eyelids, sides of the
+nose, and upper lip.
+
+219
+00:09:23,210 --> 00:09:26,070
+That's two divisions
+down, just one to go.
+
+220
+00:09:26,590 --> 00:09:28,690
+The third and
+final division
+
+221
+00:09:28,690 --> 00:09:30,410
+of the trigeminal
+nerve is the
+
+222
+00:09:30,410 --> 00:09:32,710
+mandibular
+division, or 5-3.
+
+223
+00:09:33,070 --> 00:09:35,310
+This division of
+trigeminal stands
+
+224
+00:09:35,310 --> 00:09:37,290
+apart from the rest
+as it is the only
+
+225
+00:09:37,290 --> 00:09:39,630
+division that incorporates
+a motor component.
+
+226
+00:09:39,650 --> 00:09:41,870
+The motor component
+of the mandibular
+
+227
+00:09:41,870 --> 00:09:43,670
+nerve begins as
+motor rootlets
+
+228
+00:09:43,670 --> 00:09:47,350
+leaving the pons.
+These rootlets do not
+
+229
+00:09:47,350 --> 00:09:49,610
+pass through the
+trigeminal ganglion.
+
+230
+00:09:49,870 --> 00:09:53,110
+Instead, they pass
+inferior to the ganglion
+
+231
+00:09:53,110 --> 00:09:55,570
+in an area called
+the trigeminal cave.
+
+232
+00:09:55,770 --> 00:09:58,970
+This makes the trigeminal
+ganglion a solely
+
+233
+00:09:58,970 --> 00:10:02,230
+sensory ganglion.
+Motor and sensory
+
+234
+00:10:02,230 --> 00:10:05,950
+components of 5-3 fuse
+together past the trigeminal
+
+235
+00:10:05,950 --> 00:10:08,130
+ganglion to form the
+mandibular division
+
+236
+00:10:08,130 --> 00:10:10,810
+of trigeminal, which
+then quickly exits
+
+237
+00:10:10,810 --> 00:10:13,310
+the endocranium through
+the foramen ovale.
+
+238
+00:10:15,210 --> 00:10:18,190
+The mandibular division
+descends the skull
+
+239
+00:10:18,190 --> 00:10:20,910
+through the infratemporal
+fossa. This is a
+
+240
+00:10:20,910 --> 00:10:23,390
+soft tissue space that
+you will see in lab.
+
+241
+00:10:23,390 --> 00:10:26,050
+Within the fossa, the
+mandibular division
+
+242
+00:10:26,050 --> 00:10:29,050
+quickly splits into
+four sensory nerves,
+
+243
+00:10:29,050 --> 00:10:33,270
+the auriculotemporal,
+the buccal, the lingual,
+
+244
+00:10:33,270 --> 00:10:36,890
+and the inferior
+alveolar nerve. The
+
+245
+00:10:36,890 --> 00:10:39,510
+auriculotemporal nerve
+provides sensation to
+
+246
+00:10:39,510 --> 00:10:41,910
+the ears and the temporal
+region of the head.
+
+247
+00:10:41,910 --> 00:10:44,550
+The auriculotemporal
+nerve is unique as
+
+248
+00:10:44,550 --> 00:10:48,050
+it forms from two separate
+roots, the superior
+
+249
+00:10:48,050 --> 00:10:51,670
+and inferior root.
+These roots pass around
+
+250
+00:10:51,670 --> 00:10:53,700
+the middle meningeal
+artery before
+
+251
+00:10:53,700 --> 00:10:56,630
+anastomosing to form the
+auriculotemporal nerve.
+
+252
+00:10:56,730 --> 00:10:59,990
+The buccal nerve, or
+long buccal nerve,
+
+253
+00:10:59,990 --> 00:11:02,830
+splits off the mandibular
+division and courses
+
+254
+00:11:02,830 --> 00:11:05,550
+rostrally through the
+infratemporal fossa,
+
+255
+00:11:05,550 --> 00:11:07,930
+passing between both
+heads of the lateral
+
+256
+00:11:07,930 --> 00:11:10,290
+pterygoid muscle.
+The buccal nerve will
+
+257
+00:11:10,290 --> 00:11:12,150
+provide sensory
+innervation to the mucous
+
+258
+00:11:12,150 --> 00:11:14,430
+membranes of the cheeks,
+and may also send out
+
+259
+00:11:14,430 --> 00:11:16,530
+branches that provide
+accessory sensory
+
+260
+00:11:16,530 --> 00:11:19,150
+innervation to the
+second and third molars.
+
+261
+00:11:19,390 --> 00:11:22,530
+Do not confuse the
+buccal nerve with
+
+262
+00:11:22,530 --> 00:11:24,190
+the buccal branch
+of the facial
+
+263
+00:11:24,190 --> 00:11:26,370
+nerve, which we will
+look at in a bit.
+
+264
+00:11:26,510 --> 00:11:29,390
+The buccal nerve is
+strictly a sensory
+
+265
+00:11:29,390 --> 00:11:31,570
+nerve that has no
+motor components.
+
+266
+00:11:31,570 --> 00:11:34,550
+The inferior alveolar
+nerve is largely
+
+267
+00:11:34,550 --> 00:11:36,830
+a continuation of the
+mandibular division
+
+268
+00:11:36,830 --> 00:11:39,050
+of trigeminal. It
+descends through
+
+269
+00:11:39,050 --> 00:11:41,210
+the infratemporal
+fossa and enters
+
+270
+00:11:41,210 --> 00:11:43,330
+the mandible at the
+mandibular foramen.
+
+271
+00:11:43,550 --> 00:11:46,050
+From here, the nerve
+courses through the
+
+272
+00:11:46,050 --> 00:11:48,390
+mandibular canal,
+sending out multiple
+
+273
+00:11:48,390 --> 00:11:50,610
+branches to the teeth
+of the mandible.
+
+274
+00:11:50,650 --> 00:11:53,990
+At the rostral, or
+mesial, end of the
+
+275
+00:11:53,990 --> 00:11:56,350
+mandibular ramus,
+the inferior alveolar
+
+276
+00:11:56,350 --> 00:11:58,750
+nerve exits the skull
+through the mental
+
+277
+00:11:58,750 --> 00:12:01,350
+foramen. At this
+foramen, we change the
+
+278
+00:12:01,350 --> 00:12:03,070
+name of the nerve
+to the mental nerve.
+
+279
+00:12:03,190 --> 00:12:05,270
+The mental nerve
+innervates the
+
+280
+00:12:05,270 --> 00:12:07,190
+skin of the chin
+and lower lip.
+
+281
+00:12:07,550 --> 00:12:09,790
+The final sensory
+branch of the
+
+282
+00:12:09,790 --> 00:12:12,170
+mandibular division
+is the lingual nerve.
+
+283
+00:12:12,170 --> 00:12:14,970
+The lingual nerve branches
+off the mandibular
+
+284
+00:12:14,970 --> 00:12:17,450
+division and runs
+parallel to the inferior
+
+285
+00:12:17,450 --> 00:12:19,510
+alveolar nerve
+through much of the
+
+286
+00:12:19,510 --> 00:12:22,510
+infratemporal fossa.
+Near where the inferior
+
+287
+00:12:22,510 --> 00:12:25,410
+alveolar nerve enters
+the mandibular foramen,
+
+288
+00:12:25,410 --> 00:12:27,890
+the lingual nerve
+makes a sharp turn
+
+289
+00:12:27,890 --> 00:12:32,010
+rostromedially to enter
+the oral cavity. Inside
+
+290
+00:12:32,010 --> 00:12:34,150
+the oral cavity, the
+lingual nerve courses
+
+291
+00:12:34,150 --> 00:12:36,270
+into the tongue where
+it provides somatic
+
+292
+00:12:36,270 --> 00:12:39,390
+sensory innervation to
+the anterior two-thirds
+
+293
+00:12:39,390 --> 00:12:42,030
+of the tongue. That
+covers the afferent
+
+294
+00:12:42,030 --> 00:12:43,810
+component of the
+mandibular division of
+
+295
+00:12:43,810 --> 00:12:46,530
+trigeminal. Although the
+motor component is the
+
+296
+00:12:46,530 --> 00:12:49,190
+smallest portion of the
+mandibular division,
+
+297
+00:12:49,190 --> 00:12:51,750
+these motor actions
+are very important.
+
+298
+00:12:52,210 --> 00:12:54,110
+This is because
+the motor component
+
+299
+00:12:54,110 --> 00:12:55,890
+of the mandibular
+division innervates
+
+300
+00:12:55,890 --> 00:12:58,010
+all of the muscles
+of mastication.
+
+301
+00:12:58,050 --> 00:13:00,590
+These nerves are what
+let us chew food.
+
+302
+00:13:01,690 --> 00:13:04,590
+There are five terminal
+nerves of importance
+
+303
+00:13:04,590 --> 00:13:07,110
+for mastication.
+Each nerve goes to
+
+304
+00:13:07,110 --> 00:13:09,250
+its respective
+masticatory muscle, and
+
+305
+00:13:09,250 --> 00:13:11,370
+they are self
+-explanatory. These nerves
+
+306
+00:13:11,370 --> 00:13:13,070
+are all named for
+the muscles that they
+
+307
+00:13:13,070 --> 00:13:15,610
+innervate. The only
+exception to this is
+
+308
+00:13:15,610 --> 00:13:18,530
+the nerve to
+myelohyoid. This nerve
+
+309
+00:13:18,530 --> 00:13:21,590
+innervates both the
+myelohyoid muscle and the
+
+310
+00:13:21,590 --> 00:13:23,730
+anterior belly of
+the digastric muscle.
+
+311
+00:13:23,730 --> 00:13:26,470
+The nerve to
+myelohyoid appears as a
+
+312
+00:13:26,470 --> 00:13:29,230
+split in the inferior
+alveolar nerve just
+
+313
+00:13:29,230 --> 00:13:31,230
+before it enters the
+mandibular foramen.
+
+314
+00:13:31,230 --> 00:13:34,330
+Whereas the inferior
+alveolar nerve takes
+
+315
+00:13:34,330 --> 00:13:36,310
+an intraosseous
+course through the
+
+316
+00:13:36,310 --> 00:13:38,990
+mandible, the nerve
+to myelohyoid travels
+
+317
+00:13:38,990 --> 00:13:41,710
+externally along the
+medial side of the
+
+318
+00:13:41,710 --> 00:13:44,430
+mandibular ramus to
+reach its target muscles.
+
+319
+00:13:44,730 --> 00:13:47,150
+The complex interplay
+between the various
+
+320
+00:13:47,150 --> 00:13:49,290
+muscles of mastication
+and their firing
+
+321
+00:13:49,290 --> 00:13:52,230
+patterns is too detailed
+for this video, or
+
+322
+00:13:52,230 --> 00:13:53,970
+frankly even a first
+year of med school.
+
+323
+00:13:54,170 --> 00:13:55,990
+No, really, people
+devote entire
+
+324
+00:13:55,990 --> 00:13:58,250
+careers to studying
+chewing. For the
+
+325
+00:13:58,250 --> 00:14:00,650
+purposes of this course,
+I would recommend
+
+326
+00:14:00,650 --> 00:14:03,790
+studying figure
+8.72 in Mors and
+
+327
+00:14:03,790 --> 00:14:05,750
+reading the section
+on mastication.
+
+328
+00:14:05,930 --> 00:14:07,330
+Along with that,
+
+329
+00:14:07,330 --> 00:14:09,270
+remember the
+following pieces of
+
+330
+00:14:09,270 --> 00:14:12,110
+information. Temporalis,
+masseter, and
+
+331
+00:14:12,110 --> 00:14:15,490
+medial pterygoid all
+act as jaw closers.
+
+332
+00:14:16,190 --> 00:14:18,750
+Lateral pterygoid,
+myelohyoid,
+
+333
+00:14:18,750 --> 00:14:20,750
+anterior digastric,
+and gravity
+
+334
+00:14:20,750 --> 00:14:22,990
+all act to
+open the mouth.
+
+335
+00:14:24,850 --> 00:14:27,630
+There are a few other
+muscles that will also
+
+336
+00:14:27,630 --> 00:14:30,070
+act on the jaw, such
+as the posterior belly
+
+337
+00:14:30,070 --> 00:14:33,070
+of digastric and
+geniohyoid, but they are
+
+338
+00:14:33,070 --> 00:14:35,630
+not considered true
+muscles of mastication.
+
+339
+00:14:35,630 --> 00:14:38,130
+We call these accessory
+muscles of mastication
+
+340
+00:14:38,130 --> 00:14:40,430
+as it's gravity that's
+doing most of the
+
+341
+00:14:40,430 --> 00:14:43,490
+work. The final two
+branches of the mandibular
+
+342
+00:14:43,490 --> 00:14:45,530
+division of trigeminal
+are the nerves
+
+343
+00:14:45,530 --> 00:14:48,370
+to tensor velle palatine
+and tensor tympani.
+
+344
+00:14:48,650 --> 00:14:51,830
+Both nerves arise
+from the otic ganglion
+
+345
+00:14:51,830 --> 00:14:54,000
+along with the nerve
+to medial pterygoid.
+
+346
+00:14:54,000 --> 00:14:57,190
+The otic ganglion is
+yet another ganglion
+
+347
+00:14:57,190 --> 00:14:59,670
+associated with the
+trigeminal nerve, and
+
+348
+00:14:59,670 --> 00:15:01,790
+it is also yet another
+ganglion that the
+
+349
+00:15:01,790 --> 00:15:04,550
+trigeminal nerve merely
+passes through without
+
+350
+00:15:04,550 --> 00:15:07,310
+synapsing. The otic
+ganglion is important
+
+351
+00:15:07,310 --> 00:15:09,310
+for the autonomics
+of the face, which
+
+352
+00:15:09,310 --> 00:15:11,030
+will be dealt with in
+a separate lecture.
+
+353
+00:15:11,110 --> 00:15:13,950
+The nerve to tensor
+velle palatine innervates
+
+354
+00:15:13,950 --> 00:15:15,850
+the muscle of the
+same name. This
+
+355
+00:15:15,850 --> 00:15:18,490
+muscle functions in
+tensing the soft palate,
+
+356
+00:15:18,490 --> 00:15:20,110
+turning it from
+a pliable surface
+
+357
+00:15:20,110 --> 00:15:22,030
+into a stiffened
+board that could
+
+358
+00:15:22,030 --> 00:15:23,690
+be elevated as
+a single unit,
+
+359
+00:15:23,690 --> 00:15:25,650
+allowing for proper
+food swallowing.
+
+360
+00:15:25,730 --> 00:15:27,410
+We'll return to this in
+
+361
+00:15:27,410 --> 00:15:28,790
+more detail in video 3.
+
+362
+00:15:29,290 --> 00:15:31,350
+Importantly, the
+tendon of tensor
+
+363
+00:15:31,350 --> 00:15:33,350
+velle palatine
+also attaches to
+
+364
+00:15:33,350 --> 00:15:35,010
+the base of the
+eustachian tube.
+
+365
+00:15:35,010 --> 00:15:37,210
+When tensor velle
+palatine contracts,
+
+366
+00:15:37,210 --> 00:15:39,630
+it opens the
+eustachian tube,
+
+367
+00:15:39,630 --> 00:15:41,670
+equalizing pressure
+on the inside of
+
+368
+00:15:41,670 --> 00:15:44,510
+the ear, causing
+your ears to pop.
+
+369
+00:15:44,690 --> 00:15:47,190
+The nerve to tensor
+tympani travels
+
+370
+00:15:47,190 --> 00:15:48,910
+to the tensor
+tympani muscle in the
+
+371
+00:15:48,910 --> 00:15:50,950
+ear. This is a
+small muscle that
+
+372
+00:15:50,950 --> 00:15:53,230
+attaches to the
+malleus, the ear ossicle
+
+373
+00:15:53,230 --> 00:15:54,830
+connected to the
+tympanic membrane.
+
+374
+00:15:54,970 --> 00:15:57,770
+When tensor tympani
+contracts, it stiffens
+
+375
+00:15:57,770 --> 00:15:59,810
+the tympanic membrane,
+making it harder
+
+376
+00:15:59,810 --> 00:16:02,250
+for sound waves to
+shake the ear ossicles,
+
+377
+00:16:02,250 --> 00:16:05,310
+resulting in dulled
+sounds. Tensor tympani
+
+378
+00:16:05,310 --> 00:16:07,290
+activates in
+response to very loud
+
+379
+00:16:07,290 --> 00:16:09,890
+sounds and functions
+to shield the inner ear
+
+380
+00:16:09,890 --> 00:16:12,170
+from damage in high
+-noise environments.
+
+381
+00:16:12,170 --> 00:16:13,910
+We will cover this
+in more detail
+
+382
+00:16:13,910 --> 00:16:15,730
+in this special
+afference lecture,
+
+383
+00:16:15,990 --> 00:16:17,010
+clinical correlate.
+
+384
+00:16:17,070 --> 00:16:19,350
+As the hub for somatic
+sensory innervation
+
+385
+00:16:19,350 --> 00:16:21,390
+to the face, the
+troubles with trigeminal
+
+386
+00:16:21,390 --> 00:16:24,170
+often present as pain
+or numbness to portions
+
+387
+00:16:24,170 --> 00:16:26,590
+of the face. A common
+clinical problem
+
+388
+00:16:26,590 --> 00:16:29,590
+associated with trigeminal
+is trigeminal neuralgia,
+
+389
+00:16:29,590 --> 00:16:32,190
+otherwise known as
+tic de la rue. This
+
+390
+00:16:32,190 --> 00:16:34,530
+is the result of
+misfiring from one or more
+
+391
+00:16:34,530 --> 00:16:37,150
+sensory branches of
+trigeminal on the face.
+
+392
+00:16:37,150 --> 00:16:39,530
+Patients come in
+complaining of short
+
+393
+00:16:39,530 --> 00:16:41,990
+-lived but intense
+stabbing pains on
+
+394
+00:16:41,990 --> 00:16:44,390
+their face in response
+to anything from
+
+395
+00:16:44,390 --> 00:16:46,690
+a gentle touch to
+a slight breeze.
+
+396
+00:16:47,010 --> 00:16:49,410
+Tic de la Rue has a
+large impact on patient
+
+397
+00:16:49,410 --> 00:16:51,390
+quality of life, with
+patients suffering
+
+398
+00:16:51,390 --> 00:16:53,570
+from it going to
+great lengths to avoid
+
+399
+00:16:53,570 --> 00:16:56,210
+stimulating the affected
+portion of their face.
+
+400
+00:16:56,350 --> 00:16:58,470
+The underlying
+causes of Tic de la
+
+401
+00:16:58,470 --> 00:17:00,970
+Rue are variable
+and mostly unknown.
+
+402
+00:17:01,270 --> 00:17:03,630
+Treatment varies from
+local anesthetic to
+
+403
+00:17:03,630 --> 00:17:06,190
+partial or even complete
+nerve resection.
+
+404
+00:17:06,880 --> 00:17:08,830
+Damage to the
+motor component of
+
+405
+00:17:08,830 --> 00:17:10,730
+trigeminal often
+manifests as
+
+406
+00:17:10,730 --> 00:17:13,810
+temporomandibular
+joint or TMJ problems.
+
+407
+00:17:13,810 --> 00:17:15,950
+The proximal cause of
+the patient's trouble
+
+408
+00:17:15,950 --> 00:17:18,170
+is usually the joint
+itself, but the
+
+409
+00:17:18,170 --> 00:17:20,730
+underlying issues that
+produce TMJ problems
+
+410
+00:17:20,730 --> 00:17:22,770
+in the first place
+can be attributed to
+
+411
+00:17:22,770 --> 00:17:25,090
+misfiring of the
+muscles of mastication,
+
+412
+00:17:25,090 --> 00:17:27,550
+which can misalign the
+teeth, producing jaw
+
+413
+00:17:27,550 --> 00:17:30,230
+tenderness, tooth
+damage, and headaches.
+
+414
+00:17:32,110 --> 00:17:33,030
+Wow,
+
+415
+00:17:33,170 --> 00:17:35,570
+okay. That will cover
+all the important
+
+416
+00:17:35,570 --> 00:17:37,990
+branches of the
+trigeminal nerve.
+
+417
+00:17:37,990 --> 00:17:40,230
+Awesome job making
+it this far in.
+
+418
+00:17:40,330 --> 00:17:42,010
+It's time to take
+a break. Get a good
+
+419
+00:17:42,010 --> 00:17:43,910
+stretch in, maybe
+make a sandwich.
+
+420
+00:17:44,230 --> 00:17:46,470
+But before heading
+off and preparing for
+
+421
+00:17:46,470 --> 00:17:50,050
+the facial nerve,
+I want to briefly
+
+422
+00:17:50,050 --> 00:17:51,910
+look at this part of
+the self-assessment.
+
+423
+00:17:52,450 --> 00:17:55,090
+See how you are asked
+to diagrammatically
+
+424
+00:17:55,090 --> 00:17:56,650
+draw out the
+branches of the
+
+425
+00:17:56,650 --> 00:17:58,950
+trigeminal nerve?
+I recommend keeping
+
+426
+00:17:58,950 --> 00:18:01,230
+this part simple.
+For instance,
+
+427
+00:18:01,390 --> 00:18:03,090
+let's draw the
+branches of
+
+428
+00:18:03,090 --> 00:18:04,950
+the ophthalmic
+real quick.
+
+429
+00:18:08,790 --> 00:18:09,970
+Here's the brain.
+
+430
+00:18:10,170 --> 00:18:13,450
+There's the trigeminal
+ganglion. Off we
+
+431
+00:18:13,450 --> 00:18:16,430
+go to the frontal,
+nasociliary and lacrimal
+
+432
+00:18:16,430 --> 00:18:18,790
+nerves. Off frontal
+we'll add the
+
+433
+00:18:18,790 --> 00:18:22,590
+supraorbital and supratrochlear.
+From nasociliary,
+
+434
+00:18:22,590 --> 00:18:24,490
+we'll toss in the
+ethmoidal nerves,
+
+435
+00:18:24,570 --> 00:18:27,490
+long ciliary nerves,
+and the infratrochlear
+
+436
+00:18:27,490 --> 00:18:29,930
+nerve. We can then
+put some simple
+
+437
+00:18:29,930 --> 00:18:32,810
+brackets in for the
+endocranium exits, some
+
+438
+00:18:32,810 --> 00:18:34,910
+nerve-specific notes
+along the side, and
+
+439
+00:18:34,910 --> 00:18:37,250
+finally a note that
+everything we just
+
+440
+00:18:37,250 --> 00:18:40,090
+did was for a nerve
+that is only afferent.
+
+441
+00:18:42,930 --> 00:18:44,870
+Of course, you
+don't have to do it
+
+442
+00:18:44,870 --> 00:18:47,190
+this way. Feel
+free to choose the
+
+443
+00:18:47,190 --> 00:18:49,190
+drawing method that
+works best for you.
+
+444
+00:18:49,710 --> 00:18:51,710
+Okay then,
+quick break and
+
+445
+00:18:51,710 --> 00:18:53,110
+on to our last
+cranial nerve.
+
+446
+00:19:04,930 --> 00:19:07,750
+Cranial nerve 7,
+the facial nerve.
+
+447
+00:19:08,630 --> 00:19:10,830
+If the trigeminal
+nerve is the main
+
+448
+00:19:10,830 --> 00:19:12,710
+afferent nerve
+for the face, the
+
+449
+00:19:12,710 --> 00:19:14,650
+facial nerve is the
+main motor nerve.
+
+450
+00:19:14,790 --> 00:19:17,110
+The facial nerve
+innervates all of the
+
+451
+00:19:17,110 --> 00:19:18,990
+muscles of facial
+expression, which are
+
+452
+00:19:18,990 --> 00:19:21,630
+about 20 or so. The
+facial nerve also
+
+453
+00:19:21,630 --> 00:19:24,010
+innervates most of the
+glands in your head.
+
+454
+00:19:24,730 --> 00:19:27,070
+Glandular innervation
+is all autonomic
+
+455
+00:19:27,070 --> 00:19:28,670
+and so will be
+covered in a separate
+
+456
+00:19:28,670 --> 00:19:31,850
+autonomics lecture. The
+facial nerve starts as
+
+457
+00:19:31,850 --> 00:19:33,630
+two routes that
+leave the junction of
+
+458
+00:19:33,630 --> 00:19:36,730
+the pons and medulla.
+The larger route is
+
+459
+00:19:36,730 --> 00:19:39,010
+called the primary
+route, or the facial
+
+460
+00:19:39,010 --> 00:19:41,670
+nerve proper. This
+route innervates all
+
+461
+00:19:41,670 --> 00:19:44,390
+of the muscles of
+facial expression. The
+
+462
+00:19:44,390 --> 00:19:46,330
+smaller route is
+called the intermediate
+
+463
+00:19:46,330 --> 00:19:48,870
+route, or intermediate
+nerve, as it is
+
+464
+00:19:48,870 --> 00:19:51,070
+the autonomic branch
+of the facial nerve.
+
+465
+00:19:51,370 --> 00:19:53,990
+Shortly after leaving
+the brain, both
+
+466
+00:19:53,990 --> 00:19:55,970
+routes quickly
+combine to form the
+
+467
+00:19:55,970 --> 00:19:58,470
+facial nerve. The
+newly formed nerve
+
+468
+00:19:58,470 --> 00:20:01,090
+travels laterally in
+the posterior cranial
+
+469
+00:20:01,090 --> 00:20:03,530
+fossa before exiting
+the endocranium
+
+470
+00:20:03,530 --> 00:20:06,450
+through the internal
+acoustic meatus.
+
+471
+00:20:06,510 --> 00:20:09,380
+The facial nerve shares
+this exit with the
+
+472
+00:20:09,380 --> 00:20:12,010
+vestibulocochlear
+nerve, cranial nerve 8.
+
+473
+00:20:12,250 --> 00:20:14,670
+However, the facial
+nerve is the only
+
+474
+00:20:14,670 --> 00:20:16,810
+nerve that will later
+leave the skull.
+
+475
+00:20:17,150 --> 00:20:19,430
+Shortly after
+entering the internal
+
+476
+00:20:19,430 --> 00:20:21,970
+acoustic meatus, the
+facial nerve travels
+
+477
+00:20:21,970 --> 00:20:24,050
+posteriorly through
+the walls of the middle
+
+478
+00:20:24,050 --> 00:20:26,510
+ear within the facial
+canal. Now, this
+
+479
+00:20:26,510 --> 00:20:28,330
+gives the facial
+nerve the longest
+
+480
+00:20:28,330 --> 00:20:31,350
+intraosseous course
+of any cranial nerve.
+
+481
+00:20:31,770 --> 00:20:33,430
+The area where
+the facial nerve
+
+482
+00:20:33,430 --> 00:20:35,310
+changes direction
+is called the
+
+483
+00:20:35,310 --> 00:20:37,150
+geniculum of the
+facial nerve.
+
+484
+00:20:37,430 --> 00:20:39,810
+Genu is Latin for
+knee, and it is
+
+485
+00:20:39,810 --> 00:20:41,510
+here where the
+facial nerve expands
+
+486
+00:20:41,510 --> 00:20:43,470
+into a ganglion
+of nerve fibers
+
+487
+00:20:43,470 --> 00:20:45,230
+called the
+geniculate ganglion.
+
+488
+00:20:45,270 --> 00:20:47,600
+The geniculate
+ganglion is another
+
+489
+00:20:47,600 --> 00:20:49,290
+ganglion that will
+be more important
+
+490
+00:20:49,290 --> 00:20:50,910
+to you later when
+discussing the
+
+491
+00:20:50,910 --> 00:20:53,150
+autonomic component
+of the facial nerve.
+
+492
+00:20:53,230 --> 00:20:56,130
+For the purposes of
+this video, the ganglion
+
+493
+00:20:56,130 --> 00:20:58,690
+serves as a helpful
+landmark to locate the
+
+494
+00:20:58,690 --> 00:21:01,230
+start of three
+branches of the facial
+
+495
+00:21:01,230 --> 00:21:04,850
+nerve. The greater petrosal
+nerve, a communicating
+
+496
+00:21:04,850 --> 00:21:07,210
+branch that will join
+the lesser petrosal
+
+497
+00:21:07,210 --> 00:21:10,170
+nerve, and the external
+petrosal nerve.
+
+498
+00:21:10,190 --> 00:21:12,480
+These three
+nerves will send
+
+499
+00:21:12,480 --> 00:21:14,270
+autonomics from
+the facial nerve to
+
+500
+00:21:14,270 --> 00:21:16,310
+various locations
+in the head.
+
+501
+00:21:16,550 --> 00:21:19,030
+Beyond the geniculate
+ganglion, the
+
+502
+00:21:19,030 --> 00:21:21,130
+facial nerve courses
+around the tympanum,
+
+503
+00:21:21,130 --> 00:21:23,530
+making a C-shaped
+curve around the
+
+504
+00:21:23,530 --> 00:21:25,410
+middle ear until
+the nerve eventually
+
+505
+00:21:25,410 --> 00:21:28,070
+courses anteriorly
+through the skull.
+
+506
+00:21:28,190 --> 00:21:30,910
+As the facial nerve
+passes by our middle
+
+507
+00:21:30,910 --> 00:21:33,390
+ear ossicle, the
+stapes, it will send
+
+508
+00:21:33,390 --> 00:21:35,590
+out a small branch
+into the middle ear
+
+509
+00:21:35,590 --> 00:21:38,150
+cavity to innervate
+the stapedius muscle.
+
+510
+00:21:38,150 --> 00:21:40,910
+As with tensor tympani,
+the stapedius muscle
+
+511
+00:21:40,910 --> 00:21:43,390
+functions as a sound
+dampener during times
+
+512
+00:21:43,390 --> 00:21:46,650
+of intense noise. We
+will revisit stapedius
+
+513
+00:21:46,650 --> 00:21:48,850
+as well in the special
+afference lecture.
+
+514
+00:21:49,130 --> 00:21:52,230
+Continuing antero
+-inferiorly around the
+
+515
+00:21:52,230 --> 00:21:54,030
+middle ear, the
+facial nerve sends out
+
+516
+00:21:54,030 --> 00:21:56,910
+another special branch
+called cordotympani.
+
+517
+00:21:56,950 --> 00:21:59,290
+This nerve briefly
+crosses through
+
+518
+00:21:59,290 --> 00:22:01,390
+the middle ear before
+exiting the skull
+
+519
+00:22:01,390 --> 00:22:03,770
+through the petro
+-tympanic fissure.
+
+520
+00:22:04,000 --> 00:22:06,140
+Cordotympani will
+enter the infratemporal
+
+521
+00:22:06,140 --> 00:22:08,130
+fossa where it joins
+with the lingual
+
+522
+00:22:08,130 --> 00:22:10,930
+nerve and rides that
+nerve into the tongue.
+
+523
+00:22:11,050 --> 00:22:13,170
+We will return to
+cordotympani in the
+
+524
+00:22:13,170 --> 00:22:14,990
+special afference
+lecture as well.
+
+525
+00:22:15,310 --> 00:22:16,690
+The remaining
+parts of the
+
+526
+00:22:16,690 --> 00:22:18,430
+facial nerve exit
+the skull through
+
+527
+00:22:18,430 --> 00:22:20,310
+the stylomastoid foramen.
+
+528
+00:22:20,790 --> 00:22:23,930
+Immediately after
+exiting the stylomastoid
+
+529
+00:22:23,930 --> 00:22:26,410
+foramen, the facial
+nerve sends a branch
+
+530
+00:22:26,410 --> 00:22:29,490
+posteriorly to wrap
+around the ear. This
+
+531
+00:22:29,490 --> 00:22:32,150
+is the posterior
+auricular nerve. It will
+
+532
+00:22:32,150 --> 00:22:34,050
+innervate a vestigial
+muscle of the ear
+
+533
+00:22:34,050 --> 00:22:36,610
+that pulls the ears
+back in other animals.
+
+534
+00:22:36,950 --> 00:22:39,330
+Continuing antero
+-inferiorly,
+
+535
+00:22:39,330 --> 00:22:40,830
+the facial nerve
+sends out a
+
+536
+00:22:40,830 --> 00:22:42,910
+branch to the
+digastric muscle.
+
+537
+00:22:43,130 --> 00:22:45,370
+This branch will
+innervate the posterior
+
+538
+00:22:45,370 --> 00:22:47,910
+belly of the
+digastric muscle. This
+
+539
+00:22:47,910 --> 00:22:50,850
+gives digastric dual
+innervation. The
+
+540
+00:22:50,850 --> 00:22:53,330
+anterior belly receives
+innervation from the
+
+541
+00:22:53,330 --> 00:22:56,110
+nerve to myelohyoid,
+a branch of 5-3,
+
+542
+00:22:56,390 --> 00:22:58,390
+whereas the posterior
+belly gets the
+
+543
+00:22:58,390 --> 00:23:01,170
+digastric branch of
+the facial nerve. The
+
+544
+00:23:01,170 --> 00:23:03,310
+rest of the facial
+nerve will continue
+
+545
+00:23:03,760 --> 00:23:05,910
+anteroinferiorly to
+enter the parotid
+
+546
+00:23:05,910 --> 00:23:08,490
+gland where it explodes
+out to form the
+
+547
+00:23:08,490 --> 00:23:10,850
+parotid plexus deep
+within the gland.
+
+548
+00:23:11,230 --> 00:23:13,350
+Here, the facial
+nerve splits out
+
+549
+00:23:13,350 --> 00:23:15,910
+into five different
+motor branches.
+
+550
+00:23:15,910 --> 00:23:18,990
+These five branches
+innervate all 20
+
+551
+00:23:18,990 --> 00:23:21,930
+or so facial muscles.
+The five branches
+
+552
+00:23:21,930 --> 00:23:24,030
+of the parotid plexus
+are named based
+
+553
+00:23:24,030 --> 00:23:26,190
+on where they are
+going, but in a
+
+554
+00:23:26,190 --> 00:23:29,170
+generally superior to
+inferior direction,
+
+555
+00:23:29,270 --> 00:23:32,690
+they are the
+temporal, zygomatic,
+
+556
+00:23:32,790 --> 00:23:35,770
+buccal, marginal
+mandibular, and
+
+557
+00:23:35,770 --> 00:23:38,070
+cervical branches
+of the facial nerve.
+
+558
+00:23:39,570 --> 00:23:42,030
+A popular mnemonic
+for remembering the
+
+559
+00:23:42,030 --> 00:23:44,210
+branches of the
+facial nerve is To
+
+560
+00:23:44,210 --> 00:23:47,290
+Zanzibar by Motor Car
+However, there are
+
+561
+00:23:47,290 --> 00:23:49,290
+dozens of alternative
+mnemonics as
+
+562
+00:23:49,290 --> 00:23:51,910
+well, such as Tiny
+Zebras Bit My Cheeks,
+
+563
+00:23:51,910 --> 00:23:54,390
+as well as several
+dirtier versions
+
+564
+00:23:54,710 --> 00:23:56,850
+Now, the distribution
+pattern of
+
+565
+00:23:56,850 --> 00:23:58,150
+the parotid plexus
+that I've shown
+
+566
+00:23:58,150 --> 00:24:00,310
+here is a very
+general pattern
+
+567
+00:24:00,610 --> 00:24:02,530
+Cadaveric studies
+have found that
+
+568
+00:24:02,530 --> 00:24:04,950
+branching, or
+arborization pattern, of
+
+569
+00:24:04,950 --> 00:24:07,530
+the parotid plexus
+is highly variable
+
+570
+00:24:07,940 --> 00:24:10,670
+You will be tested
+on this ideal version
+
+571
+00:24:10,670 --> 00:24:12,510
+I've shown here
+for the purpose of
+
+572
+00:24:12,510 --> 00:24:14,390
+learning the
+material, but don't be
+
+573
+00:24:14,390 --> 00:24:16,450
+surprised if the donors
+in lab don't show
+
+574
+00:24:16,450 --> 00:24:18,270
+this same pattern
+as few people will
+
+575
+00:24:18,270 --> 00:24:20,610
+have this exact
+pattern in real life.
+
+576
+00:24:20,630 --> 00:24:23,290
+Of all the branches
+of the parotid plexus,
+
+577
+00:24:23,290 --> 00:24:24,990
+the most important
+one to understand
+
+578
+00:24:24,990 --> 00:24:27,590
+is the buccal branch
+of the facial nerve.
+
+579
+00:24:27,590 --> 00:24:29,230
+This branch innervates
+
+580
+00:24:29,230 --> 00:24:30,450
+the buccinator muscle,
+
+581
+00:24:30,450 --> 00:24:32,730
+a facial muscle that
+tenses the cheeks,
+
+582
+00:24:32,730 --> 00:24:34,810
+allowing for
+suckling, *******,
+
+583
+00:24:34,810 --> 00:24:36,910
+whistling, brass
+instrument playing, etc.
+
+584
+00:24:37,130 --> 00:24:40,090
+Do not confuse the buccal
+branch of the facial
+
+585
+00:24:40,090 --> 00:24:42,850
+nerve with the buccal
+nerve of trigeminal.
+
+586
+00:24:42,850 --> 00:24:45,150
+The former is the
+motor innervation for
+
+587
+00:24:45,150 --> 00:24:48,130
+buccinator. The latter is
+the sensory innervation
+
+588
+00:24:48,130 --> 00:24:50,890
+of the cheek mucosa.
+When you suck your
+
+589
+00:24:50,890 --> 00:24:52,870
+cheeks into your mouth,
+you are using the
+
+590
+00:24:52,870 --> 00:24:55,410
+buccal branch of facial.
+When you feel the
+
+591
+00:24:55,410 --> 00:24:57,770
+pain of accidentally
+biting those cheeks, you
+
+592
+00:24:57,770 --> 00:25:00,270
+are using the buccal
+nerve from trigeminal.
+
+593
+00:25:01,070 --> 00:25:03,750
+Clinical correlate
+The most common
+
+594
+00:25:03,750 --> 00:25:05,190
+clinical correlate
+associated with
+
+595
+00:25:05,190 --> 00:25:07,150
+the facial nerve
+is Bell's palsy.
+
+596
+00:25:07,150 --> 00:25:09,650
+This is the result
+of a lesion to one or
+
+597
+00:25:09,650 --> 00:25:11,990
+more branches of the
+parotid plexus, resulting
+
+598
+00:25:11,990 --> 00:25:14,110
+in partial to complete
+paralysis of the
+
+599
+00:25:14,110 --> 00:25:16,370
+muscles of facial expression
+on the ipsilateral
+
+600
+00:25:16,370 --> 00:25:18,410
+side of the face
+where the lesion is.
+
+601
+00:25:19,270 --> 00:25:20,890
+Bell's palsy is often
+
+602
+00:25:20,890 --> 00:25:22,650
+idiopathic and temporary.
+
+603
+00:25:22,730 --> 00:25:25,650
+However, in some cases,
+such as with Sylvester
+
+604
+00:25:25,650 --> 00:25:28,290
+Stallone, Bell's palsy
+can be permanent.
+
+605
+00:25:28,370 --> 00:25:30,830
+In the case of Stallone,
+his was acquired
+
+606
+00:25:30,830 --> 00:25:32,650
+during birth, where
+labor complications
+
+607
+00:25:32,650 --> 00:25:35,110
+forced the doctor to
+use forceps. In the
+
+608
+00:25:35,110 --> 00:25:37,530
+process, the doctor
+accidentally damaged some
+
+609
+00:25:37,530 --> 00:25:39,910
+branches of his right
+parotid plexus, producing
+
+610
+00:25:39,910 --> 00:25:41,930
+his characteristic
+facial expression.
+
+611
+00:25:45,350 --> 00:25:47,730
+Congratulations on
+surviving our whirlwind
+
+612
+00:25:47,730 --> 00:25:49,850
+tour of the two most
+complicated cranial
+
+613
+00:25:49,850 --> 00:25:52,330
+nerves in the head.
+It's time for a break.
+
+614
+00:25:52,370 --> 00:25:55,550
+This brings us to
+the end of video two.
