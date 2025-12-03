@@ -953,7 +953,7 @@ function renderMarkdown(html) {
 }
 
 function updateWelcomeMessage() {
-    const msg = lectures.length > 0 ? lectures.length + ' lecture' + (lectures.length !== 1 ? 's' : '') + ' loaded. Select one to begin. Please note that OnePassOS can be inaccurate or miss details. Please double-check your notes.' : 'No lectures loaded. Ensure lectures_data.js exists.';
+    const msg = lectures.length > 0 ? lectures.length + ' lecture' + (lectures.length !== 1 ? 's' : '') + ' loaded. Select one to begin.' : 'No lectures loaded. Ensure lectures_data.js exists.';
     document.getElementById('welcomeMessage').textContent = msg;
 
     // Add Footer
