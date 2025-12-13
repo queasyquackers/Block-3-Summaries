@@ -786,13 +786,9 @@
     ]
   },
   "l133": {
-    "primarySource": "FirstAid",
-    "chapter": "03_Microbiology > 06_Systems > 13_Sexually_Transmitted_Infections",
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 01_Intro > 01_Cells_of_the_Nervous_System",
     "alternatives": [
-      {
-        "resource": "B&B",
-        "chapter": "15_Neuro > 01_Intro > 01_Cells_of_the_Nervous_System"
-      },
       {
         "resource": "Physeo",
         "chapter": "08_Immunology > 01_Immunology > 18_B_Cells"
