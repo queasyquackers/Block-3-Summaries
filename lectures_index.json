@@ -1,0 +1,41 @@
+[
+  {
+    "id": "l104",
+    "title": "L104 - Anatomy: Head & Neck Embryology",
+    "module": "Anatomy",
+    "tags": "Embryology, Pharyngeal Arches, Clefts, Pouches, Neural Crest, Thyroid, Tongue",
+    "createdAt": "2024-11-26"
+  },
+  {
+    "id": "l105",
+    "title": "L105 - Anatomy: Paths and Functions of Somatic Afferents and Efferents of the Head and Neck",
+    "module": "Anatomy",
+    "tags": "Cranial Nerves, CN III, CN IV, CN V, CN VI, CN VII, CN IX, CN X, CN XI, CN XII",
+    "createdAt": "2024-11-26"
+  },
+  {
+    "id": "l123",
+    "title": "L123 - Pharmacology: Cephalosporins & Other Cell Wall Inhibitors",
+    "module": "Pharmacology",
+    "tags": [
+      "Pharmacology",
+      "Antibiotics",
+      "Cephalosporins",
+      "Carbapenems",
+      "Vancomycin",
+      "Daptomycin"
+    ],
+    "createdAt": "2024-11-26"
+  },
+  {
+    "id": "l124",
+    "title": "L124 - Pharmacology: Aminoglycosides",
+    "module": "Pharmacology",
+    "tags": [
+      "Pharmacology",
+      "Antibiotics",
+      "Aminoglycosides"
+    ],
+    "createdAt": "2024-11-26"
+  }
+]

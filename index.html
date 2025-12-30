@@ -278,6 +278,11 @@
     class="bg-solarized-base3 dark:bg-dark-bg font-serif text-solarized-base00 dark:text-dark-muted transition-colors duration-300">
     <div id="readingProgress" style="width: 0%"></div>
     <div class="flex h-screen">
+        <!-- Reading Progress Bar -->
+        <div id="readingProgressBar"
+            class="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-500 to-cyan-400 z-50 transition-all duration-150 ease-out w-0">
+        </div>
+
         <!-- Sidebar -->
         <div id="sidebar"
             class="w-80 border-r border-solarized-base2 dark:border-dark-border bg-solarized-base2/95 dark:bg-dark-surface/95 flex flex-col shadow-2xl frosted transition-all duration-300 z-20">
@@ -366,6 +371,7 @@
                         <h2 id="lectureTitle"
                             class="text-3xl font-bold text-solarized-base01 dark:text-dark-text tracking-tight font-sans">
                         </h2>
+
                     </div>
                     <div class="px-8 pb-2 flex items-center gap-3">
                         <div class="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-solarized-blue/10 dark:bg-dark-accent/10 text-solarized-blue dark:text-dark-accent font-sans"
@@ -393,13 +399,16 @@
                         data-tab="questions">Questions</button>
                     <button
                         class="tab-btn px-6 py-4 font-semibold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-dark-text transition-all duration-300"
-                        data-tab="glossary">Glossary</button>
+                        data-tab="flashcards">Flashcards</button>
                     <button
                         class="tab-btn px-6 py-4 font-semibold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-dark-text transition-all duration-300"
-                        data-tab="high-yield">High Yield</button>
+                        data-tab="mindmap">Mind Map</button>
                     <button
                         class="tab-btn px-6 py-4 font-semibold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-dark-text transition-all duration-300"
                         data-tab="anking">Anking</button>
+                    <button
+                        class="tab-btn px-6 py-4 font-semibold text-sm border-b-2 border-transparent text-solarized-base1 dark:text-dark-muted hover:text-solarized-base00 dark:hover:text-dark-text transition-all duration-300"
+                        data-tab="high-yield">High Yield</button>
                 </div>
 
                 <div class="flex-1 overflow-y-auto" id="contentScroll">
@@ -424,13 +433,14 @@
         </div>
     </div>
 
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
     <script>
         // Initialize PDF.js worker
         window.addEventListener('load', () => {
-             if (window.pdfjsLib) {
+            if (window.pdfjsLib) {
                 window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-             }
+            }
         });
     </script>
     <script src="./lectures_data.js"></script>

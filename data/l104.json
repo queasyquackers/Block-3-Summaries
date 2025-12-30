@@ -1,0 +1,149 @@
+{
+  "id": "l104",
+  "title": "L104 - Anatomy: Head & Neck Embryology",
+  "module": "Anatomy",
+  "tags": "Embryology, Pharyngeal Arches, Clefts, Pouches, Neural Crest, Thyroid, Tongue",
+  "createdAt": "2024-11-26",
+  "ankingResource": {
+    "primarySource": "B&B",
+    "chapter": "09_GI > 01_Anatomy > 01_Gastrointestinal_Embryology",
+    "alternatives": [
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Visceral_Anatomy > Embryology"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "01_Embryology > 03_Pulmonology > 01_Respiratory_Embryology"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "01_Embryology > 07_Neuro > 01_Neurological_Development_&_Neural_Tube_Defects"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "01_Embryology > 04_Nephrology > 01_Normal_Renal_Development"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "01_Embryology > 04_Nephrology > 02_Renal_Embryo_Pathology"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "01_Embryology > 01_Repro > 08_1st_&_2nd_Pharyngeal_Arches"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Nephrology > Anatomy_&_Embryology > Developmental_Anomalies"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "15_Endocrine > 03_Thyroid_Gland"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Nephrology > Anatomy_&_Embryology > Anatomy"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 04_Thyroid_&_Parathyroid > 05_Parathyroid_Gland_Disorders"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "08_Endocrine > 04_Pathology > 06_Hypothyroidism"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "05_GI_&_Endocrine > 03_Thyroid,_Parathyroid_&_Adrenal > 01_Propylthiouracil,_methimazole,_levothyroxine"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Embryology > Embryonic_Period:_Weeks_3-8 > Amniotic_&_Chorionic_Development"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 01_Embryology > 04_Neural_Tube_Defects"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 04_Thyroid_&_Parathyroid > 01_Hypothyroidism:_Overview_&_Hashimotos_Thyroiditis"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 04_Thyroid_&_Parathyroid > 03_Hyperthyroidism:_Overview_&_Graves_Disease"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "07_Endocrine > 04_Thyroid_&_Parathyroid > 04_Thyroid_Nodules_&_Cancer"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 40_Spinal_Tract_Anatomy_&_Functions"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "11_Musculoskeletal_Skin_Connective_Tissue > 01_Anatomy_&_Physiology > 09_Lower_Extremity_Nerves"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "16_Respiratory > 01_Embryology > 05_Neonatal_Respiratory_Distress_Syndrome"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Neurology > Embryology > Embryologic_Cranial_Defects_and_Spinal_Defects"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 04_Congenital_&_Neurocutaneous > 01_Neural_Tube_Defects,_Holoprosencephaly,_Chiari_Malformation_&_Syringomyelia"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "05_GI_&_Endocrine > 03_Thyroid,_Parathyroid_&_Adrenal > 03_Teriparatide,_vitamin_D,_cinacalcet,_sevelamer"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "05_GI_&_Endocrine > 03_Thyroid,_Parathyroid_&_Adrenal > 04_Glucocorticoids"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "15_Endocrine > 08_Parathyroid_Gland"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "05_GI_&_Endocrine > 03_Thyroid,_Parathyroid_&_Adrenal > 02_Bisphosphonates,_raloxifene,_denosumab,_calcitonin"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 09_Tension_Headache"
+      }
+    ]
+  },
+  "summary": "\n\n**Lecturer:** Aki Watanabe, Ph.D.\n**Session:** Lecture #104\n\n-----\n\n## Part 1: Segmented Structures (Pharyngeal Apparatus)\n\nThe Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Clefts** (Ectoderm), **Pouches** (Endoderm), and **Membranes**.\n\n### Pharyngeal Arch Derivatives\n*   **Arch 1 (Mandibular):**\n    *   **Nerve:** CN V (Trigeminal).\n    *   **Muscles:** Mastication, Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.\n    *   **Bone/Cartilage:** Mandible, Malleus, Incus.\n    :::correlate\n    **Cleft Lip & Palate**\n    *   **Cleft Lip:** Failure of fusion between Maxillary and Medial Nasal prominences.\n    *   **Cleft Palate:** Failure of fusion between Palatine shelves.\n    *   Results in abnormal facial appearance and speech defects.\n    :::\n*   **Arch 2 (Hyoid):**\n    *   **Nerve:** CN VII (Facial).\n    *   **Muscles:** Facial Expression, Stapedius, Stylohyoid, Post. Digastric.\n    *   **Bone/Cartilage:** Stapes, Styloid process, Upper Hyoid.\n*   **Arch 3:**\n    *   **Nerve:** CN IX (Glossopharyngeal).\n    *   **Muscles:** Stylopharyngeus.\n    *   **Bone/Cartilage:** Lower Hyoid.\n*   **Arch 4 & 6:**\n    *   **Nerve:** CN X (Vagus) - Superior Laryngeal (Arch 4) & Recurrent Laryngeal (Arch 6).\n    *   **Muscles:** Pharyngeal constrictors, Cricothyroid, Levator Veli Palatini (Arch 4); Intrinsic Laryngeal muscles (Arch 6).\n    *   **Bone/Cartilage:** Laryngeal cartilages (Thyroid, Cricoid, Arytenoid).\n\n### Pharyngeal Pouches (Endoderm)\n*   **Pouch 1:** Auditory (Eustachian) tube, Tympanic cavity.\n*   **Pouch 2:** Palatine Tonsils.\n*   **Pouch 3:** Inferior Parathyroid, Thymus.\n*   **Pouch 4:** Superior Parathyroid, Ultimobranchial body (C-cells).\n\n:::correlate\n**Branchial Cyst / Fistula**\n*   **Cause:** Persistence of the **Cervical Sinus** (fusion of Clefts 2-4).\n*   **Presentation:** Cyst or fistula usually located **anterior to the SCM**.\n*   Internal fistula may open at the palatine tonsil (Pouch 2).\n:::\n\n-----\n\n## Part 2: Rebels (Tongue, Thyroid, Placodes)\n\n### Tongue Development\n*   **Anterior 2/3:** Arch 1 (Sensation: V3) & Arch 2 (Taste: VII).\n*   **Posterior 1/3:** Arch 3 (Sensation/Taste: IX).\n*   **Root/Epiglottis:** Arch 4 (Sensation/Taste: X).\n*   **Muscles:** Occipital Somites (CN XII).\n\n### Thyroid Development\n*   Originates from **Foramen Cecum** (between Arch 1 & 3).\n*   Descends via **Thyroglossal Duct**.\n\n:::correlate\n**Thyroglossal Duct Cyst**\n*   **Cyst:** Midline neck mass that **moves** with swallowing or tongue protrusion.\n*   **Ectopic Thyroid:** Thyroid tissue found along the descent path (e.g., Lingual Thyroid).\n*   **Pyramidal Lobe:** Common variant; extension of thyroid tissue up the duct path.\n:::\n\n### Placodes (Ectodermal Thickenings)\n*   **Nasal Placode:** Olfactory epithelium (CN I).\n*   **Lens Placode:** Lens of eye (CN II association).\n*   **Otic Placode:** Inner ear (Vestibule/Cochlea) (CN VIII).\n\n-----\n\n## Part 3: Germ Layers & Neural Crest\n\n### Neural Crest Cells (NCC)\n*   **\"Ectoderm that acts like Mesoderm\"** (Ectomesenchyme).\n*   **Derivatives:**\n    *   **Bone/Cartilage:** Facial bones (Viscerocranium), Middle ear ossicles, Hyoid.\n    *   **Teeth:** Dentine (Odontoblasts).\n    *   **Eye:** Choroid, Sclera, Iris stroma.\n    *   **Other:** Melanocytes, Ganglia (CN V, VII, IX, X), Meninges, Adrenal Medulla.\n\n:::correlate\n**Treacher Collins Syndrome**\n*   **Cause:** Genetic defect in **Neural Crest Cell** migration (Arches 1 & 2).\n*   **Symptoms:** Mandibulofacial dysostosis, micrognathia (small jaw), cleft palate, hearing loss.\n*   **Key:** Underdevelopment of facial bones (Zygoma, Mandible).\n:::\n\n:::correlate\n**Skull Malformations**\n*   **Craniosynostosis:** Premature closure of sutures/fontanelles -> Deformity.\n*   **Microcephaly:** Abnormal brain development -> Small head -> Mental deficiency.\n*   **Hydrocephalus:** CSF buildup -> Enlarged ventricles -> Head enlargement.\n:::\n\n### Germ Layer Summary\n*   **Ectoderm:** Epidermis, Brain, Spinal Cord, Placodes.\n*   **Mesoderm:** Muscles (somitomeres), Arteries, Laryngeal cartilages.\n*   **Endoderm:** Glandular tissues (Thyroid, Parathyroid, Thymus), Mucosa of GI/Respiratory tracts.",
+  "questions": "**1. A 4-year-old child presents with a midline neck mass that moves upward when the child sticks out their tongue. This mass is most likely a remnant of which embryological structure?**\n\nA. Second Branchial Cleft\nB. Thyroglossal Duct\nC. Thymus Gland\nD. Rathke's Pouch\nE. Foramen Cecum\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Thyroglossal Duct)**\n\n**Rationale**: A **Thyroglossal Duct Cyst** presents as a **midline** neck mass. It moves with tongue protrusion because the duct connects the thyroid to the **Foramen Cecum** at the base of the tongue. Branchial cleft cysts are lateral.\n</details>\n\n---\n\n**2. Which pharyngeal arch gives rise to the muscles of facial expression and the stapes bone?**\n\nA. Arch 1\nB. Arch 2\nC. Arch 3\nD. Arch 4\nE. Arch 6\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Arch 2)**\n\n**Rationale**: **Arch 2 (Hyoid Arch)** is innervated by **CN VII (Facial)**. It forms the muscles of facial expression, stapedius, stylohyoid, and posterior digastric, as well as the **Stapes** and styloid process.\n</details>\n\n---\n\n**3. A newborn is diagnosed with DiGeorge Syndrome (22q11 deletion). Which of the following structures are likely to be underdeveloped due to a defect in the 3rd and 4th Pharyngeal Pouches?**\n\nA. Thyroid and Parathyroid\nB. Thymus and Inferior Parathyroid\nC. Tonsils and Thymus\nD. Middle Ear and Eustachian Tube\nE. Superior and Inferior Parathyroid\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Thymus and Inferior Parathyroid)**\n\n**Rationale**: The **3rd Pouch** forms the **Thymus** and **Inferior Parathyroid** glands. The 4th pouch forms the Superior Parathyroid. DiGeorge syndrome affects these pouches, leading to thymic aplasia (immune deficiency) and hypocalcemia.\n</details>\n\n---\n\n**4. The anterior two-thirds of the tongue receives general somatic sensation (touch/pain) from which cranial nerve?**\n\nA. CN V (Trigeminal)\nB. CN VII (Facial)\nC. CN IX (Glossopharyngeal)\nD. CN X (Vagus)\nE. CN XII (Hypoglossal)\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: A (CN V (Trigeminal))**\n\n**Rationale**: The anterior 2/3 of the tongue comes from Arch 1. Sensation is via **CN V3 (Lingual nerve)**. Taste is via **CN VII (Chorda Tympani)** (Arch 2). Posterior 1/3 sensation/taste is CN IX (Arch 3). Motor is CN XII.\n</details>\n\n---\n\n**5. Treacher Collins syndrome involves craniofacial deformities such as micrognathia and malformed ears. This condition is primarily due to a defect in the migration of which cell type?**\n\nA. Sclerotome\nB. Neural Crest Cells\nC. Endoderm\nD. Surface Ectoderm\nE. Lateral Plate Mesoderm\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Neural Crest Cells)**\n\n**Rationale**: **Treacher Collins Syndrome** is a result of faulty migration/proliferation of **Neural Crest Cells** in the 1st and 2nd Pharyngeal Arches, leading to underdevelopment of facial bones (mandible, zygoma) and ears.\n</details>",
+  "glossary": [
+    {
+      "term": "Pharyngeal Arch",
+      "definition": "Mesodermal/Neural Crest core lined by ectoderm/endoderm; forms head/neck structures."
+    },
+    {
+      "term": "Pharyngeal Pouch",
+      "definition": "Endodermal outpocketing between arches."
+    },
+    {
+      "term": "Thyroglossal Duct",
+      "definition": "Temporary connection between developing thyroid and tongue base."
+    },
+    {
+      "term": "Neural Crest Cells",
+      "definition": "Migratory ectodermal cells forming facial bones, ganglia, melanocytes, etc."
+    },
+    {
+      "term": "Placode",
+      "definition": "Ectodermal thickening forming special sense organs (Lens, Otic, Nasal)."
+    },
+    {
+      "term": "Somitomeres",
+      "definition": "Segmented mesodermal units in the head region forming muscles."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "l105",
+  "title": "L105 - Anatomy: Paths and Functions of Somatic Afferents and Efferents of the Head and Neck",
+  "module": "Anatomy",
+  "tags": "Cranial Nerves, CN III, CN IV, CN V, CN VI, CN VII, CN IX, CN X, CN XI, CN XII",
+  "createdAt": "2024-11-26",
+  "ankingResource": {
+    "primarySource": "B&B",
+    "chapter": "15_Neuro > 02_Structures > 05_Cranial_Nerves",
+    "alternatives": [
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 04_Cranial_Nerves_-_Part_1"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "03_Physiology > 08_Neuro > 05_Cranial_Nerves_-_Part_2"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 40_Spinal_Tract_Anatomy_&_Functions"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "11_Musculoskeletal_Skin_Connective_Tissue > 01_Anatomy_&_Physiology > 09_Lower_Extremity_Nerves"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "02_Anatomy > 02_Pulmonology > 01_Overview_of_Respiratory_Anatomy"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "11_Musculoskeletal_Skin_Connective_Tissue > 01_Anatomy_&_Physiology > 03_Upper_Extremity_Nerves"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gross_Anatomy > External_Examination_of_the_Brain_+_Skull > Cranial_Nerve_Functions:_CN_V,_CN_VII,_&_CN_VIII"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 03_Adult_CNS_Tumors"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gastroenterology > Visceral_Anatomy > Embryology"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "12_Neuro_&_Special_Senses > 02_Anatomy_&_Physiology > 33_Cranial_Nerves > CN_03_Oculomotor_Nerve"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "02_Anatomy > 04_GI > 05_Layers_of_the_Intestinal_Wall"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Neurology > Cranial_Nerves_7-12 > Cranial_Nerve_VII"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Gross_Anatomy > Axilla > Clinical_-_Lesion_of_Upper_Limb_Nerves"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Neurology > Cranial_Nerves_1-6 > Cranial_Nerve_III"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "02_Anatomy > 08_MSK > 02_Lower_Trunk_&_the_Median_&_Ulnar_Nerves"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 01_Intracranial_Hypertension_(ICH)"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 04_Pediatric_CNS_Tumors"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "13_Neuro > 02_Intracranial_Hypertension_&_Tumors > 02_Hydrocephalus"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "02_Cardio_&_Renal > 04_Antiarrhythmics > 03_Class_III"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 08_Glycogen_Storage > 03_Cori_Disease_(Type_III)"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "02_Biochem > 13_Neurological_Disorders > 09_Tension_Headache"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 10_Heme > Glycoprotein_IIb/IIIa_Inhibitors"
+      }
+    ]
+  },
+  "summary": "\n\n**Lecturer:** J. Bourke, Ph.D.\n**Session:** Lecture #105\n\n-----\n\n## Part 1: The Eye Movers (CN III, IV, VI)\n\n### CN III: Oculomotor Nerve\n*   **Exit:** Superior Orbital Fissure (SOF).\n*   **Divisions:**\n    *   **Superior:** Superior Rectus, Levator Palpebrae Superioris (LPS).\n    *   **Inferior:** Medial Rectus, Inferior Rectus, Inferior Oblique + Parasympathetics to Ciliary Ganglion (Sphincter Pupillae, Ciliary Body).\n\n:::correlate\n**Oculomotor (CN III) Palsy**\n*   **\"Down and Out\":** Eye deviates down and out due to unopposed SO and LR.\n*   **Ptosis:** Drooping eyelid (Levator Palpebrae Superioris paralysis).\n*   **Anisocoria:** Dilated pupil (loss of parasympathetics to Sphincter Pupillae).\n:::\n\n### CN IV: Trochlear Nerve\n*   **Exit:** SOF. *Only CN to exit dorsal brainstem.*\n*   **Innervation:** **Superior Oblique** (SO).\n*   **Function:** Depresses and Abducts eye (Down & Out).\n\n:::correlate\n**Trochlear (CN IV) Palsy**\n*   **Presentation:** Eye deviates **Up and In** (hypertropia).\n*   **Compensation:** Patient tilts head **away** from the lesion to align the eyes.\n*   **Cause:** Trauma (long intracranial course) or ischemia.\n:::\n\n### CN VI: Abducens Nerve\n*   **Exit:** SOF. Travels inside Cavernous Sinus (most medial, near ICA).\n*   **Innervation:** **Lateral Rectus** (LR).\n*   **Function:** Abducts eye.\n\n:::correlate\n**Abducens (CN VI) Palsy**\n*   **Presentation:** Eye deviates **Medially** (Esotropia).\n*   **Cause:** High intracranial pressure (stretches nerve), Cavernous Sinus pathology (aneurysm).\n*   **Result:** Diplopia (double vision) on lateral gaze.\n:::\n\n-----\n\n## Part 2: The Big Two (CN V, VII)\n\n### CN V: Trigeminal Nerve (Sensory + Motor V3)\n*   **Ganglion:** Trigeminal (Semilunar) Ganglion.\n*   **V1 Ophthalmic (Sensory):** Exits SOF.\n    *   **Frontal:** Supraorbital (forehead), Supratrochlear (medial brow).\n    *   **Nasociliary:** Ethmoidal, Infratrochlear, Long Ciliary (Sensory to eye + Sympathetics).\n    *   **Lacrimal:** Sensory to lacrimal gland.\n*   **V2 Maxillary (Sensory):** Exits Foramen Rotundum -> Pterygopalatine Fossa.\n    *   **Infraorbital:** Lower eyelid, upper lip.\n    *   **Zygomatic:** Zygomaticofacial, Zygomaticotemporal.\n    *   **Palatine:** Greater/Lesser Palatine (Hard/Soft Palate).\n*   **V3 Mandibular (Mixed):** Exits Foramen Ovale.\n    *   **Sensory:** Auriculotemporal (Temple/Ear), Buccal (Cheek), Lingual (Ant 2/3 Tongue), Inferior Alveolar (Teeth/Chin).\n    *   **Motor:** Muscles of Mastication (Temporalis, Masseter, Pterygoids), Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.\n\n:::correlate\n**Trigeminal Neuralgia (Tic Douloureux)**\n*   **Symptoms:** Acute, intense, lancinating pain in V2/V3 distribution.\n*   **Trigger:** Light touch, breeze, chewing.\n*   **Cause:** Often vascular compression of CN V root.\n:::\n\n:::correlate\n**TMJ Disorders**\n*   **Symptoms:** Jaw tenderness, headaches, ear pain (Auriculotemporal n.), locking.\n*   **Cause:** Unbalanced muscle firing (Pterygoids), bruxism, disc displacement.\n:::\n\n### CN VII: Facial Nerve\n*   **Exit:** Internal Acoustic Meatus -> Facial Canal -> Stylomastoid Foramen.\n*   **Branches:**\n    *   **Greater Petrosal:** Parasympathetics to Lacrimal/Nasal glands.\n    *   **Stapedius:** Dampens sound.\n    *   **Chorda Tympani:** Taste (Ant 2/3 Tongue) + Submandibular/Sublingual glands.\n    *   **Motor Branch:** Muscles of Facial Expression (Temporal, Zygomatic, Buccal, Mandibular, Cervical), Post. Digastric, Stylohyoid.\n\n:::correlate\n**Bell's Palsy (CN VII Lesion)**\n*   **Presentation:** Unilateral facial paralysis (LMN lesion).\n*   **Symptoms:** Inability to close eye, loss of nasolabial fold, drooping mouth.\n*   **Associated:** Hyperacusis (Stapedius), loss of taste (Ant 2/3), dry eye.\n:::\n\n-----\n\n## Part 3: The Rest (CN IX, X, XI, XII)\n\n### CN IX: Glossopharyngeal Nerve\n*   **Exit:** Jugular Foramen.\n*   **Function:**\n    *   **Sensory:** Pharynx, Post 1/3 Tongue (Taste/Sensation), Middle Ear.\n    *   **Motor:** **Stylopharyngeus** (elevates pharynx).\n    *   **Parasympathetic:** Parotid Gland (via Otic Ganglion).\n\n### CN X: Vagus Nerve\n*   **Exit:** Jugular Foramen.\n*   **Branches:**\n    *   **Pharyngeal:** Motor to Pharynx/Soft Palate (except Tensor Veli Palatini).\n    *   **Superior Laryngeal:**\n        *   **Internal:** Sensory to Larynx *above* vocal folds.\n        *   **External:** Motor to **Cricothyroid**.\n    *   **Recurrent Laryngeal:** Motor to all intrinsic laryngeal muscles (except Cricothyroid); Sensory *below* vocal folds. Loops under Aortic Arch (Left) / Subclavian (Right).\n:::correlate\n**Recurrent Laryngeal Nerve (RLN) Injury**\n*   **Cause:** Thyroid surgery, aortic aneurysm (Left RLN), or tumor.\n*   **Unilateral:** Hoarseness (paralyzed vocal cord).\n*   **Bilateral:** Stridor, respiratory distress (vocal cords cannot abduct).\n:::\n\n### CN XI: Spinal Accessory Nerve\n*   **Exit:** Jugular Foramen.\n*   **Innervation:** **SCM** and **Trapezius**.\n\n:::correlate\n**Spinal Accessory (CN XI) Lesion**\n*   **Trapezius:** Shoulder droop, inability to shrug.\n*   **SCM:** Weakness in turning head to **opposite** side.\n*   **Torticollis:** Spasm of SCM causing head tilt.\n:::\n\n### CN XII: Hypoglossal Nerve\n*   **Exit:** Hypoglossal Canal.\n*   **Innervation:** All tongue muscles (Intrinsic/Extrinsic) *except* Palatoglossus (CN X).\n\n:::correlate\n**Hypoglossal (CN XII) Lesion**\n*   **Presentation:** Tongue deviates **towards** the side of the lesion.\n*   **Mnemonic:** \"Lick your wounds\".\n*   **Mechanism:** Unopposed Genioglossus on the healthy side pushes tongue to weak side.\n:::",
+  "questions": "**1. A patient presents with an inability to abduct their right eye. When asked to look right, the right eye remains midline. Which nerve is likely affected?**\n\nA. Oculomotor (CN III)\nB. Trochlear (CN IV)\nC. Abducens (CN VI)\nD. Optic (CN II)\nE. Ophthalmic (CN V1)\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: C (Abducens CN VI)**\n\n**Rationale**: The **Abducens Nerve (CN VI)** innervates the **Lateral Rectus** muscle, which is responsible for **abducting** the eye. A lesion leads to unopposed medial pull (esotropia) and inability to abduct.\n</details>\n\n---\n\n**2. A patient complains of numbness over their forehead and the bridge of their nose. Which branch of the Trigeminal nerve is responsible for sensation in this region?**\n\nA. Infraorbital Nerve (V2)\nB. Supraorbital Nerve (V1)\nC. Mental Nerve (V3)\nD. Zygomaticofacial Nerve (V2)\nE. Auriculotemporal Nerve (V3)\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Supraorbital Nerve (V1))**\n\n**Rationale**: The **Supraorbital Nerve** is a terminal branch of the **Frontal Nerve** (from **V1 Ophthalmic**). It supplies the skin of the forehead, scalp, and upper eyelid. The Infratrochlear (also V1) supplies the bridge of the nose.\n</details>\n\n---\n\n**3. During a thyroidectomy, a surgeon accidentally damages a nerve running in the tracheoesophageal groove. Post-operatively, the patient has a hoarse voice. Which muscle is most likely paralyzed?**\n\nA. Cricothyroid\nB. Posterior Cricoarytenoid\nC. Stylopharyngeus\nD. Palatoglossus\nE. Tensor Veli Palatini\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Posterior Cricoarytenoid)**\n\n**Rationale**: The nerve in the tracheoesophageal groove is the **Recurrent Laryngeal Nerve**. It innervates all intrinsic laryngeal muscles *except* the Cricothyroid. The **Posterior Cricoarytenoid** (the only abductor of vocal folds) would be paralyzed, causing hoarseness or airway obstruction. Cricothyroid is innervated by the External Laryngeal Nerve.\n</details>\n\n---\n\n**4. A patient presents with right-sided facial paralysis involving the forehead, eye closure, and mouth. They also report hyperacusis (sensitivity to loud sounds) in the right ear. Where is the lesion most likely located?**\n\nA. Stylomastoid Foramen\nB. Internal Acoustic Meatus\nC. Parotid Gland\nD. Trigeminal Ganglion\nE. Foramen Rotundum\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Internal Acoustic Meatus)**\n\n**Rationale**: The symptoms involve the **Facial Nerve (CN VII)**.\n*   **Facial Paralysis:** Motor branch.\n*   **Hyperacusis:** Paralysis of the **Stapedius** muscle (nerve to stapedius branches off *within* the facial canal).\n*   A lesion at the **Stylomastoid Foramen** would cause facial paralysis but *spare* the stapedius (nerve branches off before exit).\n*   A lesion in the **Internal Acoustic Meatus** or proximal facial canal would affect both.\n</details>\n\n---\n\n**5. When asking a patient to stick out their tongue, it deviates to the left. Which nerve is damaged?**\n\nA. Right CN XII\nB. Left CN XII\nC. Right CN X\nD. Left CN X\nE. Left CN IX\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Left CN XII)**\n\n**Rationale**: The **Hypoglossal Nerve (CN XII)** innervates the **Genioglossus** muscle, which protrudes the tongue. If one side is weak, the healthy side pushes the tongue *towards* the paralyzed side. Deviation to the **left** implies a **Left CN XII** lesion (\"Lick your wounds\").\n</details>",
+  "glossary": [
+    {
+      "term": "Anisocoria",
+      "definition": "Unequal pupil size; often a sign of CN III parasympathetic lesion."
+    },
+    {
+      "term": "Ptosis",
+      "definition": "Drooping of the upper eyelid (Levator Palpebrae Superioris weakness)."
+    },
+    {
+      "term": "Torticollis",
+      "definition": "Abnormal neck twisting; can be due to SCM spasm or CN XI lesion."
+    },
+    {
+      "term": "Genioglossus",
+      "definition": "Major tongue protruder muscle; innervated by CN XII."
+    },
+    {
+      "term": "Recurrent Laryngeal Nerve",
+      "definition": "Branch of Vagus; loops under aorta/subclavian; innervates laryngeal muscles."
+    },
+    {
+      "term": "Cavernous Sinus",
+      "definition": "Venous sinus containing CN III, IV, V1, V2, VI and Internal Carotid Artery."
+    }
+  ]
+}

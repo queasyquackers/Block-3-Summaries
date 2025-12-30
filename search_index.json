@@ -1,0 +1,142 @@
+[
+  {
+    "id": "l104",
+    "title": "L104 - Anatomy: Head & Neck Embryology",
+    "tags": "Embryology, Pharyngeal Arches, Clefts, Pouches, Neural Crest, Thyroid, Tongue",
+    "summary": "\n\n**Lecturer:** Aki Watanabe, Ph.D.\n**Session:** Lecture #104\n\n-----\n\n## Part 1: Segmented Structures (Pharyngeal Apparatus)\n\nThe Pharyngeal Apparatus consists of **Arches** (Mesoderm/Neural Crest), **Clefts** (Ectoderm), **Pouches** (Endoderm), and **Membranes**.\n\n### Pharyngeal Arch Derivatives\n*   **Arch 1 (Mandibular):**\n    *   **Nerve:** CN V (Trigeminal).\n    *   **Muscles:** Mastication, Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.\n    *   **Bone/Cartilage:** Mandible, Malleus, Incus.\n    :::correlate\n    **Cleft Lip & Palate**\n    *   **Cleft Lip:** Failure of fusion between Maxillary and Medial Nasal prominences.\n    *   **Cleft Palate:** Failure of fusion between Palatine shelves.\n    *   Results in abnormal facial appearance and speech defects.\n    :::\n*   **Arch 2 (Hyoid):**\n    *   **Nerve:** CN VII (Facial).\n    *   **Muscles:** Facial Expression, Stapedius, Stylohyoid, Post. Digastric.\n    *   **Bone/Cartilage:** Stapes, Styloid process, Upper Hyoid.\n*   **Arch 3:**\n    *   **Nerve:** CN IX (Glossopharyngeal).\n    *   **Muscles:** Stylopharyngeus.\n    *   **Bone/Cartilage:** Lower Hyoid.\n*   **Arch 4 & 6:**\n    *   **Nerve:** CN X (Vagus) - Superior Laryngeal (Arch 4) & Recurrent Laryngeal (Arch 6).\n    *   **Muscles:** Pharyngeal constrictors, Cricothyroid, Levator Veli Palatini (Arch 4); Intrinsic Laryngeal muscles (Arch 6).\n    *   **Bone/Cartilage:** Laryngeal cartilages (Thyroid, Cricoid, Arytenoid).\n\n### Pharyngeal Pouches (Endoderm)\n*   **Pouch 1:** Auditory (Eustachian) tube, Tympanic cavity.\n*   **Pouch 2:** Palatine Tonsils.\n*   **Pouch 3:** Inferior Parathyroid, Thymus.\n*   **Pouch 4:** Superior Parathyroid, Ultimobranchial body (C-cells).\n\n:::correlate\n**Branchial Cyst / Fistula**\n*   **Cause:** Persistence of the **Cervical Sinus** (fusion of Clefts 2-4).\n*   **Presentation:** Cyst or fistula usually located **anterior to the SCM**.\n*   Internal fistula may open at the palatine tonsil (Pouch 2).\n:::\n\n-----\n\n## Part 2: Rebels (Tongue, Thyroid, Placodes)\n\n### Tongue Development\n*   **Anterior 2/3:** Arch 1 (Sensation: V3) & Arch 2 (Taste: VII).\n*   **Posterior 1/3:** Arch 3 (Sensation/Taste: IX).\n*   **Root/Epiglottis:** Arch 4 (Sensation/Taste: X).\n*   **Muscles:** Occipital Somites (CN XII).\n\n### Thyroid Development\n*   Originates from **Foramen Cecum** (between Arch 1 & 3).\n*   Descends via **Thyroglossal Duct**.\n\n:::correlate\n**Thyroglossal Duct Cyst**\n*   **Cyst:** Midline neck mass that **moves** with swallowing or tongue protrusion.\n*   **Ectopic Thyroid:** Thyroid tissue found along the descent path (e.g., Lingual Thyroid).\n*   **Pyramidal Lobe:** Common variant; extension of thyroid tissue up the duct path.\n:::\n\n### Placodes (Ectodermal Thickenings)\n*   **Nasal Placode:** Olfactory epithelium (CN I).\n*   **Lens Placode:** Lens of eye (CN II association).\n*   **Otic Placode:** Inner ear (Vestibule/Cochlea) (CN VIII).\n\n-----\n\n## Part 3: Germ Layers & Neural Crest\n\n### Neural Crest Cells (NCC)\n*   **\"Ectoderm that acts like Mesoderm\"** (Ectomesenchyme).\n*   **Derivatives:**\n    *   **Bone/Cartilage:** Facial bones (Viscerocranium), Middle ear ossicles, Hyoid.\n    *   **Teeth:** Dentine (Odontoblasts).\n    *   **Eye:** Choroid, Sclera, Iris stroma.\n    *   **Other:** Melanocytes, Ganglia (CN V, VII, IX, X), Meninges, Adrenal Medulla.\n\n:::correlate\n**Treacher Collins Syndrome**\n*   **Cause:** Genetic defect in **Neural Crest Cell** migration (Arches 1 & 2).\n*   **Symptoms:** Mandibulofacial dysostosis, micrognathia (small jaw), cleft palate, hearing loss.\n*   **Key:** Underdevelopment of facial bones (Zygoma, Mandible).\n:::\n\n:::correlate\n**Skull Malformations**\n*   **Craniosynostosis:** Premature closure of sutures/fontanelles -> Deformity.\n*   **Microcephaly:** Abnormal brain development -> Small head -> Mental deficiency.\n*   **Hydrocephalus:** CSF buildup -> Enlarged ventricles -> Head enlargement.\n:::\n\n### Germ Layer Summary\n*   **Ectoderm:** Epidermis, Brain, Spinal Cord, Placodes.\n*   **Mesoderm:** Muscles (somitomeres), Arteries, Laryngeal cartilages.\n*   **Endoderm:** Glandular tissues (Thyroid, Parathyroid, Thymus), Mucosa of GI/Respiratory tracts.",
+    "questions": "**1. A 4-year-old child presents with a midline neck mass that moves upward when the child sticks out their tongue. This mass is most likely a remnant of which embryological structure?**\n\nA. Second Branchial Cleft\nB. Thyroglossal Duct\nC. Thymus Gland\nD. Rathke's Pouch\nE. Foramen Cecum\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Thyroglossal Duct)**\n\n**Rationale**: A **Thyroglossal Duct Cyst** presents as a **midline** neck mass. It moves with tongue protrusion because the duct connects the thyroid to the **Foramen Cecum** at the base of the tongue. Branchial cleft cysts are lateral.\n</details>\n\n---\n\n**2. Which pharyngeal arch gives rise to the muscles of facial expression and the stapes bone?**\n\nA. Arch 1\nB. Arch 2\nC. Arch 3\nD. Arch 4\nE. Arch 6\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Arch 2)**\n\n**Rationale**: **Arch 2 (Hyoid Arch)** is innervated by **CN VII (Facial)**. It forms the muscles of facial expression, stapedius, stylohyoid, and posterior digastric, as well as the **Stapes** and styloid process.\n</details>\n\n---\n\n**3. A newborn is diagnosed with DiGeorge Syndrome (22q11 deletion). Which of the following structures are likely to be underdeveloped due to a defect in the 3rd and 4th Pharyngeal Pouches?**\n\nA. Thyroid and Parathyroid\nB. Thymus and Inferior Parathyroid\nC. Tonsils and Thymus\nD. Middle Ear and Eustachian Tube\nE. Superior and Inferior Parathyroid\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Thymus and Inferior Parathyroid)**\n\n**Rationale**: The **3rd Pouch** forms the **Thymus** and **Inferior Parathyroid** glands. The 4th pouch forms the Superior Parathyroid. DiGeorge syndrome affects these pouches, leading to thymic aplasia (immune deficiency) and hypocalcemia.\n</details>\n\n---\n\n**4. The anterior two-thirds of the tongue receives general somatic sensation (touch/pain) from which cranial nerve?**\n\nA. CN V (Trigeminal)\nB. CN VII (Facial)\nC. CN IX (Glossopharyngeal)\nD. CN X (Vagus)\nE. CN XII (Hypoglossal)\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: A (CN V (Trigeminal))**\n\n**Rationale**: The anterior 2/3 of the tongue comes from Arch 1. Sensation is via **CN V3 (Lingual nerve)**. Taste is via **CN VII (Chorda Tympani)** (Arch 2). Posterior 1/3 sensation/taste is CN IX (Arch 3). Motor is CN XII.\n</details>\n\n---\n\n**5. Treacher Collins syndrome involves craniofacial deformities such as micrognathia and malformed ears. This condition is primarily due to a defect in the migration of which cell type?**\n\nA. Sclerotome\nB. Neural Crest Cells\nC. Endoderm\nD. Surface Ectoderm\nE. Lateral Plate Mesoderm\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Neural Crest Cells)**\n\n**Rationale**: **Treacher Collins Syndrome** is a result of faulty migration/proliferation of **Neural Crest Cells** in the 1st and 2nd Pharyngeal Arches, leading to underdevelopment of facial bones (mandible, zygoma) and ears.\n</details>"
+  },
+  {
+    "id": "l105",
+    "title": "L105 - Anatomy: Paths and Functions of Somatic Afferents and Efferents of the Head and Neck",
+    "tags": "Cranial Nerves, CN III, CN IV, CN V, CN VI, CN VII, CN IX, CN X, CN XI, CN XII",
+    "summary": "\n\n**Lecturer:** J. Bourke, Ph.D.\n**Session:** Lecture #105\n\n-----\n\n## Part 1: The Eye Movers (CN III, IV, VI)\n\n### CN III: Oculomotor Nerve\n*   **Exit:** Superior Orbital Fissure (SOF).\n*   **Divisions:**\n    *   **Superior:** Superior Rectus, Levator Palpebrae Superioris (LPS).\n    *   **Inferior:** Medial Rectus, Inferior Rectus, Inferior Oblique + Parasympathetics to Ciliary Ganglion (Sphincter Pupillae, Ciliary Body).\n\n:::correlate\n**Oculomotor (CN III) Palsy**\n*   **\"Down and Out\":** Eye deviates down and out due to unopposed SO and LR.\n*   **Ptosis:** Drooping eyelid (Levator Palpebrae Superioris paralysis).\n*   **Anisocoria:** Dilated pupil (loss of parasympathetics to Sphincter Pupillae).\n:::\n\n### CN IV: Trochlear Nerve\n*   **Exit:** SOF. *Only CN to exit dorsal brainstem.*\n*   **Innervation:** **Superior Oblique** (SO).\n*   **Function:** Depresses and Abducts eye (Down & Out).\n\n:::correlate\n**Trochlear (CN IV) Palsy**\n*   **Presentation:** Eye deviates **Up and In** (hypertropia).\n*   **Compensation:** Patient tilts head **away** from the lesion to align the eyes.\n*   **Cause:** Trauma (long intracranial course) or ischemia.\n:::\n\n### CN VI: Abducens Nerve\n*   **Exit:** SOF. Travels inside Cavernous Sinus (most medial, near ICA).\n*   **Innervation:** **Lateral Rectus** (LR).\n*   **Function:** Abducts eye.\n\n:::correlate\n**Abducens (CN VI) Palsy**\n*   **Presentation:** Eye deviates **Medially** (Esotropia).\n*   **Cause:** High intracranial pressure (stretches nerve), Cavernous Sinus pathology (aneurysm).\n*   **Result:** Diplopia (double vision) on lateral gaze.\n:::\n\n-----\n\n## Part 2: The Big Two (CN V, VII)\n\n### CN V: Trigeminal Nerve (Sensory + Motor V3)\n*   **Ganglion:** Trigeminal (Semilunar) Ganglion.\n*   **V1 Ophthalmic (Sensory):** Exits SOF.\n    *   **Frontal:** Supraorbital (forehead), Supratrochlear (medial brow).\n    *   **Nasociliary:** Ethmoidal, Infratrochlear, Long Ciliary (Sensory to eye + Sympathetics).\n    *   **Lacrimal:** Sensory to lacrimal gland.\n*   **V2 Maxillary (Sensory):** Exits Foramen Rotundum -> Pterygopalatine Fossa.\n    *   **Infraorbital:** Lower eyelid, upper lip.\n    *   **Zygomatic:** Zygomaticofacial, Zygomaticotemporal.\n    *   **Palatine:** Greater/Lesser Palatine (Hard/Soft Palate).\n*   **V3 Mandibular (Mixed):** Exits Foramen Ovale.\n    *   **Sensory:** Auriculotemporal (Temple/Ear), Buccal (Cheek), Lingual (Ant 2/3 Tongue), Inferior Alveolar (Teeth/Chin).\n    *   **Motor:** Muscles of Mastication (Temporalis, Masseter, Pterygoids), Mylohyoid, Ant. Digastric, Tensor Tympani, Tensor Veli Palatini.\n\n:::correlate\n**Trigeminal Neuralgia (Tic Douloureux)**\n*   **Symptoms:** Acute, intense, lancinating pain in V2/V3 distribution.\n*   **Trigger:** Light touch, breeze, chewing.\n*   **Cause:** Often vascular compression of CN V root.\n:::\n\n:::correlate\n**TMJ Disorders**\n*   **Symptoms:** Jaw tenderness, headaches, ear pain (Auriculotemporal n.), locking.\n*   **Cause:** Unbalanced muscle firing (Pterygoids), bruxism, disc displacement.\n:::\n\n### CN VII: Facial Nerve\n*   **Exit:** Internal Acoustic Meatus -> Facial Canal -> Stylomastoid Foramen.\n*   **Branches:**\n    *   **Greater Petrosal:** Parasympathetics to Lacrimal/Nasal glands.\n    *   **Stapedius:** Dampens sound.\n    *   **Chorda Tympani:** Taste (Ant 2/3 Tongue) + Submandibular/Sublingual glands.\n    *   **Motor Branch:** Muscles of Facial Expression (Temporal, Zygomatic, Buccal, Mandibular, Cervical), Post. Digastric, Stylohyoid.\n\n:::correlate\n**Bell's Palsy (CN VII Lesion)**\n*   **Presentation:** Unilateral facial paralysis (LMN lesion).\n*   **Symptoms:** Inability to close eye, loss of nasolabial fold, drooping mouth.\n*   **Associated:** Hyperacusis (Stapedius), loss of taste (Ant 2/3), dry eye.\n:::\n\n-----\n\n## Part 3: The Rest (CN IX, X, XI, XII)\n\n### CN IX: Glossopharyngeal Nerve\n*   **Exit:** Jugular Foramen.\n*   **Function:**\n    *   **Sensory:** Pharynx, Post 1/3 Tongue (Taste/Sensation), Middle Ear.\n    *   **Motor:** **Stylopharyngeus** (elevates pharynx).\n    *   **Parasympathetic:** Parotid Gland (via Otic Ganglion).\n\n### CN X: Vagus Nerve\n*   **Exit:** Jugular Foramen.\n*   **Branches:**\n    *   **Pharyngeal:** Motor to Pharynx/Soft Palate (except Tensor Veli Palatini).\n    *   **Superior Laryngeal:**\n        *   **Internal:** Sensory to Larynx *above* vocal folds.\n        *   **External:** Motor to **Cricothyroid**.\n    *   **Recurrent Laryngeal:** Motor to all intrinsic laryngeal muscles (except Cricothyroid); Sensory *below* vocal folds. Loops under Aortic Arch (Left) / Subclavian (Right).\n:::correlate\n**Recurrent Laryngeal Nerve (RLN) Injury**\n*   **Cause:** Thyroid surgery, aortic aneurysm (Left RLN), or tumor.\n*   **Unilateral:** Hoarseness (paralyzed vocal cord).\n*   **Bilateral:** Stridor, respiratory distress (vocal cords cannot abduct).\n:::\n\n### CN XI: Spinal Accessory Nerve\n*   **Exit:** Jugular Foramen.\n*   **Innervation:** **SCM** and **Trapezius**.\n\n:::correlate\n**Spinal Accessory (CN XI) Lesion**\n*   **Trapezius:** Shoulder droop, inability to shrug.\n*   **SCM:** Weakness in turning head to **opposite** side.\n*   **Torticollis:** Spasm of SCM causing head tilt.\n:::\n\n### CN XII: Hypoglossal Nerve\n*   **Exit:** Hypoglossal Canal.\n*   **Innervation:** All tongue muscles (Intrinsic/Extrinsic) *except* Palatoglossus (CN X).\n\n:::correlate\n**Hypoglossal (CN XII) Lesion**\n*   **Presentation:** Tongue deviates **towards** the side of the lesion.\n*   **Mnemonic:** \"Lick your wounds\".\n*   **Mechanism:** Unopposed Genioglossus on the healthy side pushes tongue to weak side.\n:::",
+    "questions": "**1. A patient presents with an inability to abduct their right eye. When asked to look right, the right eye remains midline. Which nerve is likely affected?**\n\nA. Oculomotor (CN III)\nB. Trochlear (CN IV)\nC. Abducens (CN VI)\nD. Optic (CN II)\nE. Ophthalmic (CN V1)\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: C (Abducens CN VI)**\n\n**Rationale**: The **Abducens Nerve (CN VI)** innervates the **Lateral Rectus** muscle, which is responsible for **abducting** the eye. A lesion leads to unopposed medial pull (esotropia) and inability to abduct.\n</details>\n\n---\n\n**2. A patient complains of numbness over their forehead and the bridge of their nose. Which branch of the Trigeminal nerve is responsible for sensation in this region?**\n\nA. Infraorbital Nerve (V2)\nB. Supraorbital Nerve (V1)\nC. Mental Nerve (V3)\nD. Zygomaticofacial Nerve (V2)\nE. Auriculotemporal Nerve (V3)\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Supraorbital Nerve (V1))**\n\n**Rationale**: The **Supraorbital Nerve** is a terminal branch of the **Frontal Nerve** (from **V1 Ophthalmic**). It supplies the skin of the forehead, scalp, and upper eyelid. The Infratrochlear (also V1) supplies the bridge of the nose.\n</details>\n\n---\n\n**3. During a thyroidectomy, a surgeon accidentally damages a nerve running in the tracheoesophageal groove. Post-operatively, the patient has a hoarse voice. Which muscle is most likely paralyzed?**\n\nA. Cricothyroid\nB. Posterior Cricoarytenoid\nC. Stylopharyngeus\nD. Palatoglossus\nE. Tensor Veli Palatini\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Posterior Cricoarytenoid)**\n\n**Rationale**: The nerve in the tracheoesophageal groove is the **Recurrent Laryngeal Nerve**. It innervates all intrinsic laryngeal muscles *except* the Cricothyroid. The **Posterior Cricoarytenoid** (the only abductor of vocal folds) would be paralyzed, causing hoarseness or airway obstruction. Cricothyroid is innervated by the External Laryngeal Nerve.\n</details>\n\n---\n\n**4. A patient presents with right-sided facial paralysis involving the forehead, eye closure, and mouth. They also report hyperacusis (sensitivity to loud sounds) in the right ear. Where is the lesion most likely located?**\n\nA. Stylomastoid Foramen\nB. Internal Acoustic Meatus\nC. Parotid Gland\nD. Trigeminal Ganglion\nE. Foramen Rotundum\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Internal Acoustic Meatus)**\n\n**Rationale**: The symptoms involve the **Facial Nerve (CN VII)**.\n*   **Facial Paralysis:** Motor branch.\n*   **Hyperacusis:** Paralysis of the **Stapedius** muscle (nerve to stapedius branches off *within* the facial canal).\n*   A lesion at the **Stylomastoid Foramen** would cause facial paralysis but *spare* the stapedius (nerve branches off before exit).\n*   A lesion in the **Internal Acoustic Meatus** or proximal facial canal would affect both.\n</details>\n\n---\n\n**5. When asking a patient to stick out their tongue, it deviates to the left. Which nerve is damaged?**\n\nA. Right CN XII\nB. Left CN XII\nC. Right CN X\nD. Left CN X\nE. Left CN IX\n\n<details>\n<summary><strong>Click to Reveal Answer</strong></summary>\n\n**Answer: B (Left CN XII)**\n\n**Rationale**: The **Hypoglossal Nerve (CN XII)** innervates the **Genioglossus** muscle, which protrudes the tongue. If one side is weak, the healthy side pushes the tongue *towards* the paralyzed side. Deviation to the **left** implies a **Left CN XII** lesion (\"Lick your wounds\").\n</details>"
+  },
+  {
+    "id": "l123",
+    "title": "L123 - Pharmacology: Cephalosporins & Other Cell Wall Inhibitors",
+    "tags": [
+      "Pharmacology",
+      "Antibiotics",
+      "Cephalosporins",
+      "Carbapenems",
+      "Vancomycin",
+      "Daptomycin"
+    ],
+    "summary": "\n\n**Lecturer:** Unknown Lecturer\n**Session:** Lecture #123\n\n-----\n\n## Cephalosporins\nBeta-lactam antibiotics with a 6-membered ring attached to the beta-lactam ring.\n**LAME:** Cephalosporins do NOT cover **L**isteria, **A**typicals (Chlamydia, Mycoplasma), **M**RSA (except 5th gen), **E**nterococci.\n\n| Generation | Drugs | Spectrum | Notes |\n| :--- | :--- | :--- | :--- |\n| **1st Gen** | **Cefazolin** (IV)<br>**Cephalexin** (PO) | Gram(+) cocci (Strep, Staph)<br>PEcK (Proteus, E. coli, Klebsiella) | Surgical prophylaxis (Cefazolin). Skin infections. |\n| **2nd Gen** | **Cefoxitin** (IV)<br>**Cefuroxime** (PO/IV) | Gram(+) + HENS PEcK (H. flu, Enterobacter, Neisseria, Serratia...) | Cefoxitin: Anaerobes (Bacteroides) - intra-abdominal infections. |\n| **3rd Gen** | **Ceftriaxone** (IV)<br>**Cefotaxime** (IV)<br>**Ceftazidime** (IV) | Serious Gram(-). Cross BBB (Meningitis). | Ceftriaxone: Gonorrhea, Meningitis, Lyme. Biliary sludge. Avoid in neonates. Ceftazidime: Pseudomonas. |\n| **4th Gen** | **Cefepime** (IV) | Broad spectrum. Gram(+) + Gram(-) (Pseudomonas). | Febrile neutropenia. Neurotoxicity risk. |\n| **5th Gen** | **Ceftaroline** (IV) | Broad spectrum + **MRSA**. | Binds PBP2a. No Pseudomonas coverage. |\n\n## Carbapenems\nBroadest spectrum beta-lactams. Resistant to most beta-lactamases (ESBLs).\n**Side Effects:** Seizures (Imipenem > others), especially in renal failure.\n\n| Drug | Spectrum | Notes |\n| :--- | :--- | :--- |\n| **Imipenem** | Broad: Gram(+), Gram(-), Anaerobes, Pseudomonas | Always given with **Cilastatin** (inhibits renal dehydropeptidase I). Seizure risk. |\n| **Meropenem** | Similar to Imipenem | Less seizure risk. Stable to dehydropeptidase I. |\n| **Ertapenem** | Broad but **NO** Pseudomonas, Acinetobacter, Enterococcus (APE) | Once daily dosing. |\n| **Doripenem** | Similar to Meropenem | - |\n\n## Monobactams\n\n<!-- spacer -->\n\n| Drug | Spectrum | Notes |\n| :--- | :--- | :--- |\n| **Aztreonam** | Gram(-) aerobes **ONLY** (including Pseudomonas) | No cross-allergenicity with Penicillins (safe in PCN allergy). No Gram(+) or Anaerobe coverage. |\n\n## Glycopeptides\nInhibits cell wall synthesis by binding to **D-Ala-D-Ala** terminus of peptidoglycan precursors.\n\n| Drug           | Spectrum                                                   | Notes                                                                                         |\n| :---           | :---                                                       | :---                                                                                          |\n| **Vancomycin** | Gram(+) **ONLY** (MRSA, Enterococcus, C. diff - PO only)   | **Red Man Syndrome** (histamine release). Nephrotoxicity, Ototoxicity. Monitor trough levels. |\n\n## Lipopeptides\nDisrupts cell membrane causing depolarization.\n\n| Drug | Spectrum | Notes |\n| :--- | :--- | :--- |\n| **Daptomycin** | VRE, MRSA, Gram(+) skin/blood infections | **Inactivated by pulmonary surfactant** (DO NOT use for pneumonia). Myopathy/Rhabdomyolysis (monitor CPK). |\n",
+    "questions": [
+      {
+        "question": "Why is Ceftriaxone contraindicated in neonates?",
+        "options": [
+          "It causes Gray Baby Syndrome",
+          "It displaces bilirubin from albumin causing Kernicterus",
+          "It causes severe ototoxicity",
+          "It is inactivated by pulmonary surfactant"
+        ],
+        "correctAnswer": 1,
+        "rationale": "Ceftriaxone is highly protein-bound and can displace bilirubin, leading to kernicterus in neonates. It can also precipitate with calcium. Cefotaxime is preferred."
+      },
+      {
+        "question": "A patient is being treated for a Gram-positive infection and develops muscle pain and elevated CPK levels. Which antibiotic is most likely responsible?",
+        "options": [
+          "Vancomycin",
+          "Daptomycin",
+          "Linezolid",
+          "Ceftriaxone"
+        ],
+        "correctAnswer": 1,
+        "rationale": "Daptomycin can cause myopathy and rhabdomyolysis. CPK levels must be monitored weekly during therapy."
+      },
+      {
+        "question": "Which antibiotic is always administered with Cilastatin?",
+        "options": [
+          "Meropenem",
+          "Ertapenem",
+          "Imipenem",
+          "Doripenem"
+        ],
+        "correctAnswer": 2,
+        "rationale": "Imipenem is rapidly inactivated by renal dehydropeptidase I. Cilastatin inhibits this enzyme, increasing the half-life and urinary concentration of Imipenem."
+      },
+      {
+        "question": "What is the mechanism of resistance of Vancomycin-Resistant Enterococci (VRE)?",
+        "options": [
+          "Production of beta-lactamase",
+          "Efflux pump",
+          "Methylation of the ribosome",
+          "Modification of D-Ala-D-Ala to D-Ala-D-Lactate"
+        ],
+        "correctAnswer": 3,
+        "rationale": "VRE resistance is mediated by the modification of the D-Ala-D-Ala binding site to D-Ala-D-Lactate, which prevents Vancomycin from binding."
+      },
+      {
+        "question": "Which cephalosporin has activity against MRSA?",
+        "options": [
+          "Ceftriaxone",
+          "Cefepime",
+          "Ceftaroline",
+          "Cefazolin"
+        ],
+        "correctAnswer": 2,
+        "rationale": "Ceftaroline (5th generation) is the only beta-lactam with activity against MRSA due to its ability to bind PBP2a."
+      }
+    ]
+  },
+  {
+    "id": "l124",
+    "title": "L124 - Pharmacology: Aminoglycosides",
+    "tags": [
+      "Pharmacology",
+      "Antibiotics",
+      "Aminoglycosides"
+    ],
+    "summary": "\n\n**Lecturer:** Unknown Lecturer\n**Session:** Lecture #124\n\n-----\n\n## Overview\nAminoglycosides are protein synthesis inhibitors (30S subunit). They are bactericidal and concentration-dependent.\n**Mechanism:** Bind to 30S ribosome -> misreading of mRNA -> non-functional proteins.\n**Synergy:** Often used with cell wall inhibitors (Beta-lactams, Vancomycin) to facilitate entry.\n\n## Spectrum\n**Aerobic Gram-Negative Bacilli** (Pseudomonas, Klebsiella, etc.).\n**NO Anaerobic coverage** (require O2 for uptake).\n\n## Adverse Effects\n1.  **Nephrotoxicity:** Acute Tubular Necrosis (ATN). Reversible.\n2.  **Ototoxicity:** Cochlear (hearing loss) and Vestibular (balance). Often irreversible.\n3.  **Neuromuscular Blockade:** Contraindicated in Myasthenia Gravis.\n",
+    "questions": [
+      {
+        "question": "Which aminoglycoside is most appropriate for a patient with a multidrug-resistant Gram-negative infection resistant to Gentamicin and Tobramycin?",
+        "options": [
+          "Streptomycin",
+          "Neomycin",
+          "Amikacin",
+          "Paromomycin"
+        ],
+        "correctAnswer": 2,
+        "rationale": "Amikacin is resistant to many of the bacterial transferase enzymes that inactivate Gentamicin and Tobramycin, making it effective against resistant strains."
+      },
+      {
+        "question": "What is the primary mechanism of neuromuscular blockade caused by aminoglycosides?",
+        "options": [
+          "Blockade of post-synaptic nicotinic receptors",
+          "Inhibition of acetylcholinesterase",
+          "Blockade of pre-synaptic calcium channels inhibiting ACh release",
+          "Depletion of synaptic vesicles"
+        ],
+        "correctAnswer": 2,
+        "rationale": "Aminoglycosides inhibit pre-synaptic voltage-gated calcium channels, preventing the influx of calcium required for the release of acetylcholine vesicles."
+      },
+      {
+        "question": "Why are aminoglycosides ineffective against anaerobic bacteria?",
+        "options": [
+          "Anaerobes lack the 30S ribosome",
+          "Anaerobes produce enzymes that degrade aminoglycosides",
+          "Aminoglycoside uptake requires an oxygen-dependent active transport system",
+          "Aminoglycosides cannot penetrate the anaerobic cell wall"
+        ],
+        "correctAnswer": 2,
+        "rationale": "The transport of aminoglycosides across the bacterial cell membrane is an energy-dependent process that requires oxygen. Therefore, strict anaerobes are intrinsically resistant."
+      },
+      {
+        "question": "A patient treated with Gentamicin develops tinnitus and high-frequency hearing loss. This toxicity is primarily due to damage to which structure?",
+        "options": [
+          "Tympanic membrane",
+          "Hair cells in the Organ of Corti",
+          "Auditory nerve myelin sheath",
+          "Ossicles"
+        ],
+        "correctAnswer": 1,
+        "rationale": "Aminoglycoside ototoxicity is caused by the destruction of hair cells in the Organ of Corti (cochlear toxicity) and hair cells in the ampullae (vestibular toxicity). This damage is often irreversible."
+      }
+    ]
+  }
+]

@@ -124,18 +124,18 @@ def get_page_score(page, page_num, dynamic_keywords=None, recurring_images=None)
     has_example = bool(re.search(CONFIG["patterns"]["example"], lower_text))
     has_clinical = bool(re.search(CONFIG["patterns"]["clinical"], lower_text))
     has_practice_q = any(pi in lower_text for pi in CONFIG["practice_indicators"])
-    has_url = bool(re.search(CONFIG["patterns"]["url"], lower_text))
+    has_practice_q = any(pi in lower_text for pi in CONFIG["practice_indicators"])
+    url_count = len(re.findall(CONFIG["patterns"]["url"], lower_text))
     
     # Check for PDF Link Annotations
-    has_link_annot = False
+    link_annot_count = 0
     if "/Annots" in page:
         try:
             annots = page["/Annots"]
             for annot in annots:
                 annot_obj = annot.get_object()
                 if annot_obj.get("/Subtype") == "/Link":
-                    has_link_annot = True
-                    break
+                    link_annot_count += 1
         except: pass
 
     words = re.findall(r'\b[a-zA-Z]{5,}\b', lower_text)
@@ -159,7 +159,10 @@ def get_page_score(page, page_num, dynamic_keywords=None, recurring_images=None)
     if has_example: score += w["example"]
     if has_clinical: score += w["clinical"]
     if has_practice_q: score += w["practice_q"]
-    if has_url or has_link_annot: score += w["url_penalty"]
+    
+    # Cumulative penalty for every link found
+    total_links = url_count + link_annot_count
+    score += total_links * w["url_penalty"]
     
     # Image Logic
     if num_images > 0:
@@ -178,7 +181,7 @@ def get_page_score(page, page_num, dynamic_keywords=None, recurring_images=None)
         "patterns": {
             "formula": has_formula, "threshold": has_threshold,
             "example": has_example, "clinical": has_clinical, "practice_q": has_practice_q,
-            "url": has_url, "link_annot": has_link_annot
+            "url_count": url_count, "link_annot_count": link_annot_count
         },
         "score": f"{score:.2f}"
     }

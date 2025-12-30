@@ -8,7 +8,15 @@ let sidebarVisible = true;
 let currentFontSize = 100; // Percentage
 
 document.addEventListener('DOMContentLoaded', function () {
-    if (isDark) document.documentElement.classList.add('dark');
+    // Load Theme
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        isDark = true;
+        document.documentElement.classList.add('dark');
+    } else {
+        isDark = false;
+        document.documentElement.classList.remove('dark');
+    }
     renderLectureList();
     setupEventListeners();
     updateWelcomeMessage();
@@ -36,9 +44,13 @@ function setupWelcomeAnimation() {
 }
 
 function setupEventListeners() {
-    document.getElementById('searchInput').addEventListener('input', e => {
-        renderLectureList(e.target.value);
+    const debouncedSearch = debounce((value) => {
+        renderLectureList(value);
         animateSearchIcon();
+    }, 300);
+
+    document.getElementById('searchInput').addEventListener('input', e => {
+        debouncedSearch(e.target.value);
     });
     document.getElementById('darkModeToggle').addEventListener('click', e => {
         createRipple(e);
@@ -99,17 +111,31 @@ function setupReadingProgress() {
         const scrollHeight = contentScroll.scrollHeight - contentScroll.clientHeight;
         const progress = (scrollTop / scrollHeight) * 100;
 
-        const progressBar = document.getElementById('readingProgress');
-        if (progressBar) progressBar.style.width = progress + '%';
+        // Update Progress Bar
+        const progressBar = document.getElementById('readingProgressBar');
+        if (progressBar) {
+            progressBar.style.width = `${progress}%`;
+        }
 
-        if (backToTop) {
-            if (scrollTop > 300) {
-                backToTop.classList.add('visible');
-            } else {
-                backToTop.classList.remove('visible');
-            }
+        // Show/Hide Back to Top Button
+        if (scrollTop > 300) {
+            backToTop.classList.remove('opacity-0', 'pointer-events-none');
+        } else {
+            backToTop.classList.add('opacity-0', 'pointer-events-none');
         }
     });
+}
+
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
 }
 
 function createRipple(e) {
@@ -154,7 +180,22 @@ function createConfetti() {
 
 function toggleDarkMode() {
     isDark = !isDark;
-    document.documentElement.classList.toggle('dark');
+    if (isDark) {
+        document.documentElement.classList.add('dark');
+        localStorage.setItem('theme', 'dark');
+    } else {
+        document.documentElement.classList.remove('dark');
+        localStorage.setItem('theme', 'light');
+    }
+
+    // Update Icon
+    const btn = document.getElementById('darkModeToggle');
+    if (btn) {
+        // Simple text/icon swap if strictly text, but usually it's SVG. 
+        // Assuming the button contains an SVG, we might want to rotate it or swap it.
+        // For now, just ensure the class is applied.
+    }
+
     if (selectedLecture) renderTabContent();
 }
 
@@ -218,6 +259,8 @@ function selectLecture(id) {
 
     const moduleEl = document.getElementById('lectureModule');
     if (moduleEl) moduleEl.textContent = selectedLecture.module;
+
+
 
     renderLectureList(document.getElementById('searchInput').value);
     renderTabContent();
@@ -532,35 +575,140 @@ function renderTabContent() {
                     }
                 }
             }
+
             tocDiv.classList.add('hidden');
             document.getElementById('tocToggle').classList.add('hidden');
-        } else if (activeTab === 'glossary') {
-            if (selectedLecture.glossary && selectedLecture.glossary.length > 0) {
-                let html = '<div class="grid gap-4">';
-                selectedLecture.glossary.forEach(item => {
-                    html += `<div class="p-4 rounded-lg border ${isDark ? 'border-dark-border bg-dark-surface/50' : 'border-solarized-base1/20 bg-solarized-base2/50'} glossary-hover">
-                    <dt class="font-bold ${isDark ? 'text-dark-accent' : 'text-solarized-blue'} mb-1">${item.term}</dt>
-                    <dd class="${isDark ? 'text-dark-muted' : 'text-solarized-base00'}">${item.definition}</dd>
-                </div>`;
+        } else if (activeTab === 'flashcards') {
+            const flashcards = selectedLecture.flashcards ||
+                (selectedLecture.glossary ? selectedLecture.glossary.map(g => ({
+                    front: g.term,
+                    back: g.definition,
+                    tag: 'Glossary'
+                })) : []);
+
+            if (flashcards.length > 0) {
+                let html = `
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto p-4">
+                `;
+
+                flashcards.forEach((card, index) => {
+                    const tagColors = {
+                        'Glossary': isDark ? 'bg-blue-900/30 text-blue-300' : 'bg-blue-100 text-blue-700',
+                        'Clinical': isDark ? 'bg-red-900/30 text-red-300' : 'bg-red-100 text-red-700',
+                        'Concept': isDark ? 'bg-yellow-900/30 text-yellow-300' : 'bg-yellow-100 text-yellow-700'
+                    };
+                    const tagClass = tagColors[card.tag] || (isDark ? 'bg-gray-800 text-gray-400' : 'bg-gray-200 text-gray-700');
+
+                    html += `
+                        <div class="h-64 perspective-1000 cursor-pointer group" onclick="this.classList.toggle('flipped')">
+                            <div class="relative w-full h-full transition-transform duration-500 transform-style-3d shadow-xl rounded-2xl group-[.flipped]:rotate-y-180">
+                                
+                                <!-- FRONT -->
+                                <div class="absolute w-full h-full backface-hidden rounded-2xl p-6 ${isDark ? 'bg-dark-surface border border-dark-border' : 'bg-white border border-solarized-base1/10'} flex flex-col items-center justify-center text-center">
+                                    <span class="absolute top-4 right-4 px-2 py-1 rounded text-xs font-bold uppercase tracking-wider ${tagClass}">${card.tag || 'Card'}</span>
+                                    <div class="text-xl font-bold font-sans ${isDark ? 'text-dark-text' : 'text-solarized-base00'}">${card.front}</div>
+                                    <div class="mt-4 text-xs font-bold uppercase tracking-widest opacity-40 ${isDark ? 'text-dark-muted' : 'text-solarized-base1'}">Click to Flip</div>
+                                </div>
+
+                                <!-- BACK -->
+                                <div class="absolute w-full h-full backface-hidden rotate-y-180 rounded-2xl p-6 ${isDark ? 'bg-dark-surface border border-dark-accent' : 'bg-solarized-base3 border border-solarized-blue/30'} flex flex-col items-center justify-center text-center overflow-y-auto custom-scrollbar">
+                                    <div class="text-lg font-serif leading-relaxed ${isDark ? 'text-dark-text' : 'text-solarized-base01'}">${card.back}</div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
                 });
+
                 html += '</div>';
+
+                // Add styles for 3D flip if not already present
+                if (!document.getElementById('flashcard-styles')) {
+                    const style = document.createElement('style');
+                    style.id = 'flashcard-styles';
+                    style.textContent = `
+                        .perspective-1000 { perspective: 1000px; -webkit-perspective: 1000px; }
+                        .transform-style-3d { transform-style: preserve-3d; -webkit-transform-style: preserve-3d; }
+                        .backface-hidden { -webkit-backface-visibility: hidden; backface-visibility: hidden; }
+                        .rotate-y-180 { transform: rotateY(180deg); -webkit-transform: rotateY(180deg); }
+                        .group.flipped .group-\\[\\.flipped\\]\\:rotate-y-180 { transform: rotateY(180deg); -webkit-transform: rotateY(180deg); }
+                    `;
+                    document.head.appendChild(style);
+                }
+
                 contentDiv.innerHTML = html;
             } else {
                 contentDiv.innerHTML = `
                 <div class="flex flex-col items-center justify-center py-20 text-center opacity-60">
-                    <svg class="w-16 h-16 mb-4 text-solarized-base1 dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                    <p class="text-xl font-sans font-medium text-solarized-base01 dark:text-dark-text">No glossary available</p>
+                    <svg class="w-16 h-16 mb-4 text-solarized-base1 dark:text-dark-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
+                    <p class="text-xl font-sans font-medium text-solarized-base01 dark:text-dark-text">No flashcards available</p>
                 </div>
             `;
             }
             tocDiv.classList.add('hidden');
             document.getElementById('tocToggle').classList.add('hidden');
+        } else if (activeTab === 'mindmap') {
+            contentDiv.innerHTML = `<div id="mindmap-container" class="w-full h-[600px] overflow-hidden bg-white/50 dark:bg-dark-surface/50 rounded-xl relative border ${isDark ? 'border-dark-border' : 'border-solarized-base1/20'}"></div>`;
+
+            // Hide Outline Button & TOC
+            const tocToggle = document.getElementById('tocToggle');
+            if (tocToggle) tocToggle.classList.add('hidden');
+            if (tocDiv) tocDiv.classList.add('hidden');
+
+            // Extract hierarchy from markdown
+            const root = { name: selectedLecture.title, children: [] };
+            let currentLevel1 = null;
+            let currentLevel2 = null;
+
+            const lines = (selectedLecture.summary || '').split('\n');
+            lines.forEach(line => {
+                if (line.startsWith('## ')) {
+                    currentLevel1 = { name: line.replace('## ', '').trim(), children: [] };
+                    root.children.push(currentLevel1);
+                    currentLevel2 = null;
+                } else if (line.startsWith('### ') && currentLevel1) {
+                    currentLevel2 = { name: line.replace('### ', '').trim(), children: [] };
+                    currentLevel1.children.push(currentLevel2);
+                } else if (line.trim().startsWith('*') && currentLevel2) {
+                    // Extract bold term if exists
+                    const match = line.match(/\*\*(.*?)\*\*(.*)/);
+                    let term, def;
+                    if (match) {
+                        term = match[1].trim().replace(':', '');
+                        def = match[2].trim().replace(/^:\s*/, '');
+                    } else {
+                        term = line.replace(/^\s*\*\s*/, '').trim();
+                    }
+
+                    const nodeData = def ? { name: term, definition: def } : { name: term };
+                    const isNested = line.startsWith('    ') || line.startsWith('\t');
+
+                    if (isNested && currentLevel2.children.length > 0) {
+                        const parent = currentLevel2.children[currentLevel2.children.length - 1];
+                        if (!parent.children) parent.children = [];
+                        parent.children.push(nodeData);
+                    } else {
+                        currentLevel2.children.push(nodeData);
+                    }
+                }
+            });
+
+            if (root.children.length === 0) {
+                contentDiv.innerHTML = `<div class="p-8 text-center opacity-50">No hierarchy found. Update summary format.</div>`;
+                return;
+            }
+
+            // D3 Visualization
+            renderMindMapTree(root);
+
+            tocDiv.classList.add('hidden');
+            document.getElementById('tocToggle').classList.add('hidden');
+
         } else if (activeTab === 'high-yield') {
             const pdfPath = selectedLecture.highYieldPdf || `L${selectedLecture.id.replace(/\D/g, '')}_HighYield_Render.pdf`;
 
             // Container for PDF pages
             contentDiv.innerHTML = `
-                <div id="pdfContainer" class="flex flex-col items-center gap-4 w-full">
+                <div id="pdfContainer" class="flex flex-col items-center gap-4 w-full" data-pdf-path="${pdfPath}">
                     <div id="pdfLoading" class="flex flex-col items-center justify-center py-20">
                         <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-solarized-blue dark:border-dark-accent mb-4"></div>
                         <p class="text-lg font-sans text-solarized-base1 dark:text-dark-muted">Loading High Yield PDF...</p>
@@ -756,6 +904,7 @@ function renderTabContent() {
 
             tocDiv.classList.add('hidden');
             document.getElementById('tocToggle').classList.add('hidden');
+
         }
     } catch (e) {
         console.error('Error rendering tab content:', e);
@@ -785,6 +934,27 @@ function generateTableOfContents() {
 
 function renderMarkdown(html) {
     if (!html) return '';
+
+    // Auto-Link Glossary Terms (Exclude Headings)
+    if (selectedLecture.glossary && selectedLecture.glossary.length > 0) {
+        // Split by lines to process headings separately
+        const lines = html.split('\n');
+        html = lines.map(line => {
+            // Skip headings
+            if (line.trim().startsWith('#')) return line;
+
+            let processedLine = line;
+            selectedLecture.glossary.forEach(g => {
+                // Match whole words, case insensitive, but avoid matching inside HTML tags
+                // Also verify we are not inside a link or existing tag
+                const regex = new RegExp(`\\b(${g.term})\\b(?![^<]*>)`, 'gi');
+                processedLine = processedLine.replace(regex, `<span class="border-b-2 border-dashed border-indigo-400 cursor-help relative group/tooltip">$1<span class="invisible group-hover/tooltip:visible absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-gray-900 text-white text-sm rounded shadow-lg z-50 pointer-events-none">${g.definition}</span></span>`);
+            });
+            return processedLine;
+        }).join('\n');
+    }
+
+
 
     // Table parsing
     html = html.replace(/(\n|^)(\|.*\|\r?\n)+/g, function (match) {
@@ -830,9 +1000,9 @@ function renderMarkdown(html) {
         return '<div class="my-8 p-6 rounded-xl border-l-8 ' + (isDark ? 'border-yellow-500 bg-yellow-500/10' : 'border-yellow-400 bg-yellow-50') + ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">⚡</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' + (isDark ? 'text-yellow-400' : 'text-yellow-700') + '">High Yield</h4></div><div class="text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '">' + content.trim().replace(/\n/g, '<br/>') + '</div></div>';
     });
 
-    // Clinical Pearls
+    // Clinical Pearls (Block Style to match Correlates)
     html = html.replace(/:::pearl\s*([\s\S]*?):::/g, function (match, content) {
-        return '<div class="my-8 p-6 rounded-xl border-l-8 ' + (isDark ? 'border-cyan-500 bg-cyan-500/10' : 'border-cyan-600 bg-cyan-50') + ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">💎</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' + (isDark ? 'text-cyan-400' : 'text-cyan-700') + '">Clinical Pearl</h4></div><div class="text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '">' + content.trim().replace(/\n/g, '<br/>') + '</div></div>';
+        return '<div class="my-8 p-6 rounded-xl border-l-8 ' + (isDark ? 'border-orange-500 bg-orange-500/10' : 'border-orange-400 bg-orange-50') + ' shadow-sm"><div class="flex items-center gap-3 mb-3"><span class="text-2xl">💡</span><h4 class="text-lg font-bold uppercase tracking-wide font-sans ' + (isDark ? 'text-orange-400' : 'text-orange-700') + '">Clinical Pearl</h4></div><div class="text-lg font-serif leading-relaxed ' + (isDark ? 'text-dark-text' : 'text-solarized-base00') + '">' + content.trim().replace(/\n/g, '<br/>') + '</div></div>';
     });
 
     // Clinical Correlates (Red Block with List Support)
@@ -945,9 +1115,21 @@ function renderMarkdown(html) {
         return '<span class="font-serif italic">' + processed + '</span>';
     });
 
+    // Images (Lazy Loading)
+    html = html.replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1" loading="lazy" class="rounded-xl shadow-lg my-6 max-w-full h-auto mx-auto border-4 ' + (isDark ? 'border-dark-surface' : 'border-white') + '">');
+
     // Paragraphs
     html = html.replace(/\n\n/g, '</div><div class="mb-8 leading-loose text-lg font-serif text-solarized-base00 dark:text-dark-muted text-justify hyphens-auto">');
     html = html.replace(/\n/g, ' ');
+
+    // Slide Citations: "(Slide X)" -> Badge
+    html = html.replace(/\(Slide\s+(\d+)\)/gi, '<span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-solarized-blue/10 dark:bg-dark-accent/10 text-solarized-blue dark:text-dark-accent mx-1 align-baseline cursor-default select-none" title="From Slide $1">Slide $1</span>');
+
+    // Cross-Links: "[[L102]]" -> Clickable Link
+    html = html.replace(/\[\[(L\d+)\]\]/gi, function (match, lectureId) {
+        const id = lectureId.toLowerCase(); // Ensure lowercase matching if your IDs are case-sensitive
+        return `<button onclick="selectLecture('${id}'); return false;" class="text-solarized-blue dark:text-dark-accent hover:underline font-bold transition-colors inline-flex items-center gap-0.5"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>${lectureId}</button>`;
+    });
 
     return '<div class="mb-8 leading-loose text-lg font-serif text-solarized-base00 dark:text-white text-justify hyphens-auto">' + html + '</div>';
 }
@@ -990,6 +1172,244 @@ function updateWelcomeMessage() {
                 card.style.transform = 'rotateX(0) rotateY(0) scale(1)';
                 card.style.transition = 'transform 0.5s ease-out';
             });
+        }
+    }
+}
+
+// New function renderMindMapTree added here (Global Scope)
+function renderMindMapTree(data) {
+    const container = document.getElementById("mindmap-container");
+    if (!container) return;
+
+    // Clear existing
+    container.innerHTML = '';
+
+    const width = container.clientWidth;
+    const height = container.clientHeight;
+
+    // Zoom behavior
+    const zoom = d3.zoom()
+        .scaleExtent([0.1, 3])
+        .on("zoom", (event) => {
+            g.attr("transform", event.transform);
+        });
+
+    const svg = d3.select("#mindmap-container").append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .call(zoom)
+        .on("dblclick.zoom", null); // Disable double click zoom
+
+    // Define Drop Shadow Filter
+    const defs = svg.append("defs");
+    const filter = defs.append("filter")
+        .attr("id", "drop-shadow")
+        .attr("height", "130%");
+
+    filter.append("feGaussianBlur")
+        .attr("in", "SourceAlpha")
+        .attr("stdDeviation", 3)
+        .attr("result", "blur");
+
+    filter.append("feOffset")
+        .attr("in", "blur")
+        .attr("dx", 2)
+        .attr("dy", 2)
+        .attr("result", "offsetBlur");
+
+    const feMerge = filter.append("feMerge");
+    feMerge.append("feMergeNode").attr("in", "offsetBlur");
+    feMerge.append("feMergeNode").attr("in", "SourceGraphic");
+
+    const g = svg.append("g")
+        .attr("transform", `translate(${100},${height / 2})`);
+
+    let i = 0,
+        duration = 500,
+        root;
+
+    // Increased spacing for clarity
+    const treemap = d3.tree().nodeSize([45, 250]);
+
+    root = d3.hierarchy(data, function (d) { return d.children; });
+    root.x0 = height / 2;
+    root.y0 = 0;
+
+    // Collapse after level 2 initially for cleaner view
+    root.children.forEach(collapse);
+
+    update(root);
+
+    // Initial Zoom to fit
+    // Transition to centered view
+    svg.call(zoom.transform, d3.zoomIdentity.translate(100, height / 2).scale(0.8));
+
+
+    function collapse(d) {
+        if (d.children) {
+            d._children = d.children;
+            d._children.forEach(collapse);
+            d.children = null;
+        }
+    }
+
+    function update(source) {
+        const treeData = treemap(root);
+        const nodes = treeData.descendants();
+        const links = treeData.descendants().slice(1);
+
+        // Normalize for fixed-depth.
+        nodes.forEach(function (d) { d.y = d.depth * 280 });
+
+        // ****************** Nodes section ******************
+
+        const node = g.selectAll('g.node')
+            .data(nodes, function (d) { return d.id || (d.id = ++i); });
+
+        const nodeEnter = node.enter().append('g')
+            .attr('class', 'node')
+            .attr("transform", function (d) {
+                return "translate(" + source.y0 + "," + source.x0 + ")";
+            })
+            .on('click', click);
+
+        // Styling functions
+        const getNodeColor = (d) => {
+            if (d._children) return isDark ? "#268bd2" : "#268bd2"; // Collapsed (Blue)
+            // Depth colors
+            if (d.depth === 0) return isDark ? "#6c71c4" : "#6c71c4"; // Root (Violet)
+            if (d.depth === 1) return isDark ? "#2aa198" : "#2aa198"; // L1 (Cyan)
+            if (d.depth === 2) return isDark ? "#859900" : "#859900"; // L2 (Green)
+            return isDark ? "#073642" : "#ffffff"; // Leaf (Surface)
+        };
+
+        const getNodeStroke = (d) => {
+            if (d.depth === 0) return "none";
+            return isDark ? "#586e75" : "#268bd2";
+        };
+
+        const getTextColor = (d) => {
+            // White text for colored nodes (Root, L1, L2, or Collapsed)
+            if (d.depth < 3 || d._children) return "#ffffff";
+            return isDark ? "#eee8d5" : "#586e75";
+        };
+
+        // Node Rects
+        nodeEnter.append('rect')
+            .attr('class', 'node-rect')
+            .attr('rx', 8) // Pill shape
+            .attr('ry', 8)
+            .attr('width', d => Math.max(120, d.data.name.length * 8 + 20))
+            .attr('height', 36)
+            .attr('y', -18)
+            .attr('x', -10)
+            .style("fill", d => getNodeColor(d))
+            .style("stroke", d => d.depth > 2 ? (isDark ? "#586e75" : "#e0e0e0") : "none") // Border only for leaves
+            .style("stroke-width", "1.5px")
+            .style("filter", "url(#drop-shadow)")
+            .style("cursor", "pointer")
+            .style("transition", "fill 0.3s");
+
+        // Add Tooltip (Title)
+        nodeEnter.append('title')
+            .text(d => d.data.definition ? `${d.data.name}\n\n${d.data.definition}` : d.data.name);
+
+        // Labels
+        nodeEnter.append('text')
+            .attr("dy", ".35em")
+            .attr("x", d => 10) // Padding left
+            .attr("text-anchor", "start")
+            .text(function (d) {
+                // Truncate long names
+                const maxLen = 40;
+                return d.data.name.length > maxLen ? d.data.name.substring(0, maxLen) + '...' : d.data.name;
+            })
+            .style("font-family", "'Inter', sans-serif")
+            .style("font-size", "13px")
+            .style("font-weight", d => d.depth < 3 ? "600" : "400")
+            .style("fill", d => getTextColor(d))
+            .style("pointer-events", "none"); // Let clicks pass to rect
+
+        // UPDATE
+        const nodeUpdate = node.merge(nodeEnter).transition()
+            .duration(duration)
+            .attr("transform", function (d) {
+                return "translate(" + d.y + "," + d.x + ")";
+            });
+
+        // Update styles on state change
+        nodeUpdate.select('rect')
+            .style("fill", d => getNodeColor(d))
+            .attr('width', d => Math.max(120, d.data.name.length * 8 + 20)); // Recalc width
+
+        nodeUpdate.select('text')
+            .style("fill", d => getTextColor(d));
+
+        // EXIT
+        const nodeExit = node.exit().transition()
+            .duration(duration)
+            .attr("transform", function (d) {
+                return "translate(" + source.y + "," + source.x + ")";
+            })
+            .remove();
+
+        nodeExit.select('rect')
+            .attr('r', 1e-6);
+
+        nodeExit.select('text')
+            .style('fill-opacity', 1e-6);
+
+        // ****************** Links section ******************
+
+        const link = g.selectAll('path.link')
+            .data(links, function (d) { return d.id; });
+
+        const linkEnter = link.enter().insert('path', "g")
+            .attr("class", "link")
+            .attr('d', function (d) {
+                const o = { x: source.x0, y: source.y0 }
+                return diagonal(o, o)
+            })
+            .style("fill", "none")
+            .style("stroke", isDark ? "#586e75" : "#93a1a1")
+            .style("stroke-width", "1.5px")
+            .style("stroke-opacity", "0.4");
+
+        const linkUpdate = link.merge(linkEnter).transition()
+            .duration(duration)
+            .attr('d', function (d) { return diagonal(d, d.parent) });
+
+        const linkExit = link.exit().transition()
+            .duration(duration)
+            .attr('d', function (d) {
+                const o = { x: source.x, y: source.y }
+                return diagonal(o, o)
+            })
+            .remove();
+
+        nodes.forEach(function (d) {
+            d.x0 = d.x;
+            d.y0 = d.y;
+        });
+
+        function diagonal(s, d) {
+            const path = `M ${s.y} ${s.x}
+                    C ${(s.y + d.y) / 2} ${s.x},
+                      ${(s.y + d.y) / 2} ${d.x},
+                      ${d.y} ${d.x}`;
+
+            return path;
+        }
+
+        function click(event, d) {
+            if (d.children) {
+                d._children = d.children;
+                d.children = null;
+            } else {
+                d.children = d._children;
+                d._children = null;
+            }
+            update(d);
         }
     }
 }

@@ -9,6 +9,11 @@ const LECTURES_DATA = [
     tags: 'Lumbar, Diagnosis, Soft Tissue, Fryette, Type I, Type II, Somatic Dysfunction, TART',
     createdAt: new Date('2024-11-26'),
     ankingResource: null,
+    flashcards: [
+      { "front": "What is the key differentiator between Type I and Type II mechanics?", "back": "Type I involves **groups** of segments and sidebending/rotation to **opposite** sides. Type II involves a **single** segment and sidebending/rotation to the **same** side.", "tag": "Clinical" },
+      { "front": "What structures maintain Type II dysfunctions?", "back": "Short restrictor muscles, specifically the **rotatores** and **intertransversarii**.", "tag": "Concept" },
+      { "front": "Hypertonicity", "back": "Increased muscle tone; the muscle feels tight, contracted, and has increased resistance to passive stretching.", "tag": "Glossary" }
+    ],
     summary: `
 **Lecturer:** J. Mancini, DO, Ph.D., FAWM
 **Session:** Lecture #102
@@ -27,20 +32,23 @@ const LECTURES_DATA = [
     *   **Sacral Sulci:** Just above the flatter surface of the sacrum.
     *   **Transverse Processes (TP):** About 1.5 inches lateral to the spinous process.
 
-### Fryette's Principles
-**Fryette's 1st Principle (Type I Mechanics):**
-*   **Neutral** spine.
-*   **Group** curves (3+ segments).
-*   Sidebending and Rotation are **Opposite** (e.g., N Sx Ry).
-*   Maintained by **Long Restrictors** (Erector Spinae).
-*   *Example:* L1-L4 N Sr Rl (Neutral, Sidebent Right, Rotated Left).
+### Fryette's 1st Principle (Type I Mechanics, Neutral)
+*   **Spine Position:** Neutral.
+*   **Segments:** Group (3+).
+*   **Motion:** Sidebending and Rotation are **Opposite** (N Sx Ry).
+*   **Maintainer:** **Long Restrictors** (Erector Spinae).
+*   **Example:** L1-L4 N Sr Rl (Neutral, Sidebent Right, Rotated Left).
 
-**Fryette's 2nd Principle (Type II Mechanics):**
-*   **Non-Neutral** spine (Flexion or Extension).
-*   **Single** segment.
-*   Sidebending and Rotation are **Same** (e.g., F/E Rx Sx).
-*   Maintained by **Short Restrictors** (Rotatores, Intertransversarii).
-*   *Example:* L3 F Rr Sr (Flexed, Rotated Right, Sidebent Right).
+### Fryette's 2nd Principle (Type II Mechanics, Non-Neutral)
+*   **Spine Position:** Non-Neutral (Flexion or Extension).
+*   **Segments:** Single.
+*   **Motion:** Sidebending and Rotation are **Same** (F/E Rx Sx).
+*   **Maintainer:** **Short Restrictors** (Rotatores, Intertransversarii).
+*   **Example:** L3 F Rr Sr (Flexed, Rotated Right, Sidebent Right).
+
+:::pearl
+Type II mechanics involve a single segment (non-neutral) rotating and sidebending to the SAME side, while Type I mechanics involve groups (neutral) sidebending and rotating OPPOSITE.
+:::
 
 :::correlate
 **Type II Dysfunction Characteristics**
@@ -198,15 +206,17 @@ E. Inhibition
 
 **Rationale**: **Prone Pressure with Counterleverage** involves pushing the paraspinal muscles medially/anteriorly while pulling up on the **ASIS** (Anterior Superior Iliac Spine) to create a twisting/stretching force through the lumbar region.
 </details>`,
-    glossary: [
-      { term: "TART", definition: "Diagnostic criteria for somatic dysfunction: Tissue texture change, Asymmetry, Restriction of motion, Tenderness." },
-      { term: "Plumb Line", definition: "Vertical line used as a reference for postural inspection." },
-      { term: "Spring Test", definition: "Test for lumbosacral compliance; Positive = Stiff (Extended/Posterior Base), Negative = Springy (Flexed/Anterior Base)." },
-      { term: "Hypertonicity", definition: "Increased muscle tone; tight, contracted." },
-      { term: "Hypotonicity", definition: "Decreased muscle tone; flaccid, pliable." },
-      { term: "Long Restrictors", definition: "Muscles crossing multiple segments (e.g., Erector Spinae) maintaining Type I dysfunctions." },
-      { term: "Short Restrictors", definition: "Muscles crossing 1-2 segments (e.g., Rotatores) maintaining Type II dysfunctions." }
-    ]
+    flashcards: [
+      { "front": "What is the key differentiator between Type I and Type II mechanics?", "back": "Type I involves groups of segments and sidebending/rotation to opposite sides. Type II involves a single segment and sidebending/rotation to the same side.", "tag": "Clinical" },
+      { "front": "What structures maintain Type II dysfunctions?", "back": "Short restrictor muscles, specifically the rotatores and intertransversarii.", "tag": "Concept" },
+      { "front": "Hypertonicity", "back": "Increased muscle tone; the muscle feels tight, contracted, and has increased resistance to passive stretching.", "tag": "Glossary" },
+      { "front": "TART", "back": "Diagnostic criteria for somatic dysfunction: Tissue texture change, Asymmetry, Restriction of motion, Tenderness.", "tag": "Glossary" },
+      { "front": "Plumb Line", "back": "Vertical line used as a reference for postural inspection.", "tag": "Glossary" },
+      { "front": "Spring Test", "back": "Test for lumbosacral compliance; Positive = Stiff (Extended/Posterior Base), Negative = Springy (Flexed/Anterior Base).", "tag": "Glossary" },
+      { "front": "Hypotonicity", "back": "Decreased muscle tone; flaccid, pliable.", "tag": "Glossary" },
+      { "front": "Long Restrictors", "back": "Muscles crossing multiple segments (e.g., Erector Spinae) maintaining Type I dysfunctions.", "tag": "Glossary" },
+      { "front": "Short Restrictors", "back": "Muscles crossing 1-2 segments (e.g., Rotatores) maintaining Type II dysfunctions.", "tag": "Glossary" }
+    ],
   },
   {
     id: 'l103',

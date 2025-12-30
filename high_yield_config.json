@@ -67,6 +67,6 @@
         "low_text_penalty": -5,
         "adjacency_next": 5,
         "adjacency_prev": 2,
-        "url_penalty": -50
+        "url_penalty": -10
     }
 }

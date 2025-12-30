@@ -1,0 +1,249 @@
+{
+  "id": "l123",
+  "title": "L123 - Pharmacology: Cephalosporins & Other Cell Wall Inhibitors",
+  "module": "Pharmacology",
+  "tags": [
+    "Pharmacology",
+    "Antibiotics",
+    "Cephalosporins",
+    "Carbapenems",
+    "Vancomycin",
+    "Daptomycin"
+  ],
+  "createdAt": "2024-11-26",
+  "ankingResource": {
+    "primarySource": "SketchyPharm",
+    "chapter": "07_Antimicrobials > 01_Cell_Wall_&_Membrane_Active_Antibiotics > 04_Cephalosporins",
+    "alternatives": [
+      {
+        "resource": "SketchyPharm",
+        "chapter": "07_Antimicrobials > 01_Cell_Wall_&_Membrane_Active_Antibiotics > 05_Monobactams_&_Carbapenems"
+      },
+      {
+        "resource": "SketchyPharm",
+        "chapter": "07_Antimicrobials > 01_Cell_Wall_&_Membrane_Active_Antibiotics > 06_Vancomycin"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 04_Misc > 01_Drug_names"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 05_Cephalosporins"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 02_Autonomic_Drugs > 15_Phosphodiesterase_Inhibitors"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 03_Toxicities_&_Side_Effects > 06_Drug_reactions_-_MSK/skin/connect_tissue"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 03_Toxicities_&_Side_Effects > 10_Drug_reactions_-_multiorgan"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "08_Immunology > 01_Immunology > 18_B_Cells"
+      },
+      {
+        "resource": "FirstAid",
+        "chapter": "05_Pharmacology > 03_Toxicities_&_Side_Effects > 04_Drug_reactions_-_gastrointestinal"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 08_Vancomycin"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "11_Pathology > 06_Gastrointestinal_Pathology > 14_Other_Liver_Conditions"
+      },
+      {
+        "resource": "Physeo",
+        "chapter": "09_Pharm > 05_Antibiotics > 18_Trimethoprim_&_Sulfonamides"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Carbapenems"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "10_Myeloid_&_Lymphoid > 02_Lymphoid_&_Plasma_Cell_Disorders > 01_Acute_Lymphoblastic_Leukemia_(ALL),_Chronic_Lymphocytic_Leukemia_(CLL),_Hairy_Cell_Leukemia_&_Adult_T-cell_Leukemia"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "01_Growth_Adaptations > 03_Cell_Death"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "10_Myeloid_&_Lymphoid > 02_Lymphoid_&_Plasma_Cell_Disorders > 03_Non-Hodgkin_Lymphoma"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "06_Hepatobiliary > 03_Pancreatic_Disease > 02_Pancreatic_Cancer_&_Islet_Cell_Tumors"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Metronidazole"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Hematology_and_Oncology > Normocytic_Anemia > Sickle_Cell_Anemia"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "09_Blood_&_Coagulation > 02_Normocytic_&_Macrocytic_Anemias > 04_Sickle_Cell_Disease"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "04_Micro > 01_Antibiotics_Antiparasitics > Daptomycin"
+      },
+      {
+        "resource": "SketchyPath",
+        "chapter": "04_Renal > 05_Renal_Cancer > 01_Renal_Cell_Carcinoma_&_Nephroblastoma"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Tricyclic_Antidepressants"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 17_Renal > ACE_Inhibitors"
+      },
+      {
+        "resource": "Pixorize",
+        "chapter": "03_Pharm > 15_Other_Neuro > Full_Opioid_Agonists"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > Typical_Antipsychotics"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "04_Hemostasis > 03_Other_Disorders_of_Hemostasis"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > MAOIs"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "03_Viruses > 03_DNA > 04_Varicella-zoster_virus_(Herpesviridae)"
+      },
+      {
+        "resource": "Bootcamp",
+        "chapter": "Psychiatry > Pharmacology > SSRIs"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "06_WBC > 08_Plasma_Cell_(Dyscrasias)"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "01_Growth_Adaptations > 02_Cellular_Injury"
+      },
+      {
+        "resource": "Pathoma",
+        "chapter": "06_WBC > 09_Langerhans_Cell_Histiocytosis"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "04_Parasites > 04_Protozoa_-_Other_Tissue > 01_Trichomonas_vaginalis"
+      },
+      {
+        "resource": "SketchyMicro",
+        "chapter": "01_Bacteria > 07_Gram_(-)_Bacilli_-_Zoonotics > 02_Brucella_spp."
+      }
+    ]
+  },
+  "summary": "\n\n**Lecturer:** Unknown Lecturer\n**Session:** Lecture #123\n\n-----\n\n## Cephalosporins\nBeta-lactam antibiotics with a 6-membered ring attached to the beta-lactam ring.\n**LAME:** Cephalosporins do NOT cover **L**isteria, **A**typicals (Chlamydia, Mycoplasma), **M**RSA (except 5th gen), **E**nterococci.\n\n| Generation | Drugs | Spectrum | Notes |\n| :--- | :--- | :--- | :--- |\n| **1st Gen** | **Cefazolin** (IV)<br>**Cephalexin** (PO) | Gram(+) cocci (Strep, Staph)<br>PEcK (Proteus, E. coli, Klebsiella) | Surgical prophylaxis (Cefazolin). Skin infections. |\n| **2nd Gen** | **Cefoxitin** (IV)<br>**Cefuroxime** (PO/IV) | Gram(+) + HENS PEcK (H. flu, Enterobacter, Neisseria, Serratia...) | Cefoxitin: Anaerobes (Bacteroides) - intra-abdominal infections. |\n| **3rd Gen** | **Ceftriaxone** (IV)<br>**Cefotaxime** (IV)<br>**Ceftazidime** (IV) | Serious Gram(-). Cross BBB (Meningitis). | Ceftriaxone: Gonorrhea, Meningitis, Lyme. Biliary sludge. Avoid in neonates. Ceftazidime: Pseudomonas. |\n| **4th Gen** | **Cefepime** (IV) | Broad spectrum. Gram(+) + Gram(-) (Pseudomonas). | Febrile neutropenia. Neurotoxicity risk. |\n| **5th Gen** | **Ceftaroline** (IV) | Broad spectrum + **MRSA**. | Binds PBP2a. No Pseudomonas coverage. |\n\n## Carbapenems\nBroadest spectrum beta-lactams. Resistant to most beta-lactamases (ESBLs).\n**Side Effects:** Seizures (Imipenem > others), especially in renal failure.\n\n| Drug | Spectrum | Notes |\n| :--- | :--- | :--- |\n| **Imipenem** | Broad: Gram(+), Gram(-), Anaerobes, Pseudomonas | Always given with **Cilastatin** (inhibits renal dehydropeptidase I). Seizure risk. |\n| **Meropenem** | Similar to Imipenem | Less seizure risk. Stable to dehydropeptidase I. |\n| **Ertapenem** | Broad but **NO** Pseudomonas, Acinetobacter, Enterococcus (APE) | Once daily dosing. |\n| **Doripenem** | Similar to Meropenem | - |\n\n## Monobactams\n\n<!-- spacer -->\n\n| Drug | Spectrum | Notes |\n| :--- | :--- | :--- |\n| **Aztreonam** | Gram(-) aerobes **ONLY** (including Pseudomonas) | No cross-allergenicity with Penicillins (safe in PCN allergy). No Gram(+) or Anaerobe coverage. |\n\n## Glycopeptides\nInhibits cell wall synthesis by binding to **D-Ala-D-Ala** terminus of peptidoglycan precursors.\n\n| Drug           | Spectrum                                                   | Notes                                                                                         |\n| :---           | :---                                                       | :---                                                                                          |\n| **Vancomycin** | Gram(+) **ONLY** (MRSA, Enterococcus, C. diff - PO only)   | **Red Man Syndrome** (histamine release). Nephrotoxicity, Ototoxicity. Monitor trough levels. |\n\n## Lipopeptides\nDisrupts cell membrane causing depolarization.\n\n| Drug | Spectrum | Notes |\n| :--- | :--- | :--- |\n| **Daptomycin** | VRE, MRSA, Gram(+) skin/blood infections | **Inactivated by pulmonary surfactant** (DO NOT use for pneumonia). Myopathy/Rhabdomyolysis (monitor CPK). |\n",
+  "drugData": [],
+  "questions": [
+    {
+      "question": "Why is Ceftriaxone contraindicated in neonates?",
+      "options": [
+        "It causes Gray Baby Syndrome",
+        "It displaces bilirubin from albumin causing Kernicterus",
+        "It causes severe ototoxicity",
+        "It is inactivated by pulmonary surfactant"
+      ],
+      "correctAnswer": 1,
+      "rationale": "Ceftriaxone is highly protein-bound and can displace bilirubin, leading to kernicterus in neonates. It can also precipitate with calcium. Cefotaxime is preferred."
+    },
+    {
+      "question": "A patient is being treated for a Gram-positive infection and develops muscle pain and elevated CPK levels. Which antibiotic is most likely responsible?",
+      "options": [
+        "Vancomycin",
+        "Daptomycin",
+        "Linezolid",
+        "Ceftriaxone"
+      ],
+      "correctAnswer": 1,
+      "rationale": "Daptomycin can cause myopathy and rhabdomyolysis. CPK levels must be monitored weekly during therapy."
+    },
+    {
+      "question": "Which antibiotic is always administered with Cilastatin?",
+      "options": [
+        "Meropenem",
+        "Ertapenem",
+        "Imipenem",
+        "Doripenem"
+      ],
+      "correctAnswer": 2,
+      "rationale": "Imipenem is rapidly inactivated by renal dehydropeptidase I. Cilastatin inhibits this enzyme, increasing the half-life and urinary concentration of Imipenem."
+    },
+    {
+      "question": "What is the mechanism of resistance of Vancomycin-Resistant Enterococci (VRE)?",
+      "options": [
+        "Production of beta-lactamase",
+        "Efflux pump",
+        "Methylation of the ribosome",
+        "Modification of D-Ala-D-Ala to D-Ala-D-Lactate"
+      ],
+      "correctAnswer": 3,
+      "rationale": "VRE resistance is mediated by the modification of the D-Ala-D-Ala binding site to D-Ala-D-Lactate, which prevents Vancomycin from binding."
+    },
+    {
+      "question": "Which cephalosporin has activity against MRSA?",
+      "options": [
+        "Ceftriaxone",
+        "Cefepime",
+        "Ceftaroline",
+        "Cefazolin"
+      ],
+      "correctAnswer": 2,
+      "rationale": "Ceftaroline (5th generation) is the only beta-lactam with activity against MRSA due to its ability to bind PBP2a."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Red Man Syndrome",
+      "definition": "An infusion-related reaction to Vancomycin caused by direct histamine release from mast cells; characterized by flushing and pruritus. Prevented by slower infusion."
+    },
+    {
+      "term": "ESBL",
+      "definition": "Extended Spectrum Beta-Lactamase; enzymes that confer resistance to most cephalosporins and monobactams. Carbapenems are the treatment of choice."
+    },
+    {
+      "term": "D-Ala-D-Ala",
+      "definition": "The terminal amino acid sequence of peptidoglycan precursors where Vancomycin binds to inhibit cell wall synthesis."
+    },
+    {
+      "term": "Cilastatin",
+      "definition": "A dehydropeptidase I inhibitor administered with Imipenem to prevent its renal degradation."
+    }
+  ],
+  "mnemonics": [
+    {
+      "heading": "Cephalosporin Coverage Gaps",
+      "mnemonic": "LAME",
+      "meaning": "Listeria, Atypicals, MRSA (except 5th), Enterococci"
+    },
+    {
+      "heading": "2nd Gen Cephalosporins",
+      "mnemonic": "HENS PEcK",
+      "meaning": "H. flu, Enterobacter, Neisseria, Serratia, Proteus, E. coli, Klebsiella"
+    }
+  ]
+}
